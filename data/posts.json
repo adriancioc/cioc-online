@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features",
+    "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
+    "title_ro": "iOS 27.3 Beta 2 aduce Siri AI avansat și funcții noi pentru iPhone Duo",
+    "title_en": "iOS 27.3 Beta 2 Adds Advanced Siri AI and iPhone Duo Features",
+    "summary": "Apple a lansat iOS 27.3 beta 2, introducând funcția Siri 'Ask About Page', deblocare facială pentru iPhone Duo și limite de utilizare pentru Apple Intelligence.",
+    "body_ro": "Cea mai recentă versiune beta a sistemului de operare iOS 27.3 aduce îmbunătățiri semnificative pentru utilizatorii de iPhone, concentrându-se pe inteligența artificială și pe optimizarea hardware-ului pliabil. Funcția „Ask About Page” permite acum asistentului Siri să acceseze și să analizeze conținutul complet al unei pagini web, oferind rezumate sau informații specifice fără a fi nevoie ca utilizatorul să parcurgă manual tot textul.\n\nPentru posesorii de iPhone Duo, Apple a introdus o soluție mult așteptată: deblocarea facială prin camera frontală atunci când telefonul este pliat. Această funcție, alături de opțiunea „Close to Lock”, îmbunătățește considerabil experiența de utilizare a ecranului exterior. Totuși, este important de menționat că aceste funcții de securitate sunt limitate la ecranul de blocare, păstrând Touch ID ca metodă principală pentru tranzacții.\n\nÎn ceea ce privește Apple Intelligence, Apple a implementat limite zilnice de utilizare pentru funcțiile care necesită procesare pe servere externe. Aceste limite sunt ajustabile în funcție de abonamentul iCloud+ deținut, oferind utilizatorilor cu planuri superioare un acces mai extins. Actualizarea include și mici ajustări de design în aplicația Calendar, pregătind terenul pentru lansarea publică programată în decembrie.",
+    "body_en": "The latest iOS 27.3 beta update brings significant enhancements to the iPhone experience, with a heavy focus on AI integration and foldable hardware optimizations. The new 'Ask About Page' feature empowers Siri to access and analyze the entire content of a webpage, allowing for quick summaries and data extraction without requiring the user to scroll through long-form content manually.\n\nFor iPhone Duo owners, Apple has introduced a highly requested feature: face unlock via the front-facing camera when the device is closed. This update, paired with the new 'Close to Lock' setting, streamlines the interaction with the outer display. It is worth noting that this authentication method is restricted to the Lock Screen, with Touch ID remaining the primary requirement for sensitive actions like Apple Pay.\n\nRegarding Apple Intelligence, Apple has officially implemented daily usage limits for features relying on server-side processing. These quotas are tied to iCloud+ subscription tiers, granting users with higher storage plans more extensive access to AI workflows. The update also introduces refined layout changes in the Calendar app, as Apple continues to polish the software experience ahead of the final public release scheduled for December.",
+    "story_type": "general_tech",
+    "published_at": "2026-11-16T19:30:51+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "sources": [
+      {
+        "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
+        "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
+        "source_name": "MacRumors",
+        "published_at": "2026-11-16T19:30:51+00:00"
+      },
+      {
+        "title": "Apple Says iCloud+ Plans Will Not Include Increased Siri AI Usage in UK",
+        "url": "https://www.macrumors.com/2026/11/17/icloud-plus-no-increased-siri-ai-access-in-uk/",
+        "source_name": "MacRumors",
+        "published_at": "2026-11-17T15:07:29+00:00"
+      },
+      {
+        "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
+        "url": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
+        "source_name": "MacRumors",
+        "published_at": "2026-11-17T11:16:24+00:00"
+      },
+      {
+        "title": "Everything New in iOS 27.3 Beta 2",
+        "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
+        "source_name": "MacRumors",
+        "published_at": "2026-11-17T00:15:18+00:00"
+      },
+      {
+        "title": "Hands-On With the iPhone Duo's New Face Unlock",
+        "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
+        "source_name": "MacRumors",
+        "published_at": "2026-11-16T23:27:28+00:00"
+      }
+    ],
+    "images": [
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_1.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_2.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_3.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_4.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_5.jpg"
+    ]
+  }
+]
