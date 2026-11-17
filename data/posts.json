@@ -255,5 +255,38 @@
     "images": [
       "assets/images/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026_1.jpg"
     ]
+  },
+  {
+    "slug": "2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+    "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+    "title_ro": "Apple lansează un studiu de cercetare privind utilizarea AI în sănătate",
+    "title_en": "Apple Launches Research Study to Explore the Use of AI for Health",
+    "summary": "Apple a lansat un studiu în colaborare cu OpenEvidence pentru a analiza modul în care AI-ul conversațional poate fi utilizat responsabil în domeniul sănătății.",
+    "body_ro": "Apple a anunțat oficial lansarea studiului „Apple Health AI Usage Study”, o inițiativă menită să exploreze interacțiunea umană cu inteligența artificială în contextul îngrijirii sănătății. Proiectul, desfășurat în colaborare cu platforma clinică OpenEvidence, își propune să evalueze modul în care utilizatorii înțeleg și au încredere în răspunsurile oferite de AI, folosind surse medicale verificate.\n\nParticipanții vor avea ocazia să adreseze întrebări despre sănătate și să primească informații susținute de citări din jurnale medicale de prestigiu, precum Journal of the American Medical Association. Studiul analizează, de asemenea, modul în care integrarea datelor din HealthKit, cum ar fi ritmul cardiac sau calitatea somnului, poate îmbunătăți relevanța răspunsurilor primite.\n\nUn aspect esențial al acestui proiect este accentul pus pe confidențialitate și siguranță. Apple a precizat că datele colectate în cadrul studiului nu vor fi utilizate pentru antrenarea modelelor AI. Mai mult, aplicația include mecanisme de siguranță care sugerează consultarea unui medic în cazul în care sunt detectate întrebări care necesită atenție clinică imediată.\n\nStudiul este disponibil pentru până la 200.000 de utilizatori din Statele Unite, cu vârsta de cel puțin 21 de ani. Pentru a participa, utilizatorii trebuie să dețină un iPhone 15 Pro sau un model mai recent, echipat cu Apple Intelligence și sistemul de operare iOS 26.\n\nAceastă inițiativă reflectă angajamentul Apple de a combina rigoarea științifică cu inovația tehnologică. Prin înțelegerea modului în care pacienții interacționează cu AI-ul, compania speră să construiască instrumente mai sigure și mai utile, care să faciliteze comunicarea dintre pacienți și medici în viitor.",
+    "body_en": "Apple has officially announced the launch of the Apple Health AI Usage Study, an initiative designed to explore human interaction with artificial intelligence in the context of healthcare. The project, conducted in collaboration with the clinical platform OpenEvidence, aims to evaluate how users understand and trust AI-generated responses using verified medical sources.\n\nParticipants will have the opportunity to ask health-related questions and receive information supported by citations from prestigious medical journals, such as the Journal of the American Medical Association. The study also examines how integrating HealthKit data, such as heart rate or sleep quality, can improve the relevance of the information provided.\n\nA key aspect of this project is the focus on privacy and safety. Apple has stated that data collected during the study will not be used to train AI models. Furthermore, the app includes safety guardrails that suggest consulting a healthcare provider if questions are detected that require immediate clinical attention.\n\nThe study is open to up to 200,000 users in the United States, aged 21 and older. To participate, users must own an iPhone 15 Pro or later model, equipped with Apple Intelligence and running the iOS 26 operating system.\n\nThis initiative reflects Apple's commitment to combining scientific rigor with technological innovation. By understanding how patients interact with AI, the company hopes to build safer and more useful tools that will facilitate better communication between patients and doctors in the future.",
+    "highlights_ro": [
+      "Colaborare cu OpenEvidence pentru răspunsuri bazate pe surse clinice.",
+      "Accent pe confidențialitate: datele nu sunt folosite pentru antrenarea AI.",
+      "Disponibil pentru 200.000 de utilizatori din SUA cu iPhone 15 Pro sau mai nou.",
+      "Integrare opțională cu datele din HealthKit pentru răspunsuri personalizate."
+    ],
+    "highlights_en": [
+      "Collaboration with OpenEvidence for clinically grounded AI responses.",
+      "Privacy-focused: data is not used to train AI models.",
+      "Open to 200,000 US users with iPhone 15 Pro or later.",
+      "Optional HealthKit integration for personalized health insights."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-16T01:18:33+00:00",
+    "source_names": [
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_1.jpg",
+      "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_2.jpg",
+      "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_3.jpg",
+      "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_4.jpg",
+      "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_5.jpg"
+    ]
   }
 ]

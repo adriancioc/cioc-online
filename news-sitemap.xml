@@ -89,4 +89,15 @@
       <news:title>Galaxy Innovation Redefines the Athlete Experience at Dakar 2026</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>cioc.online</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T01:18:33+00:00</news:publication_date>
+      <news:title>Apple Launches Research Study to Explore the Use of AI for Health</news:title>
+    </news:news>
+  </url>
 </urlset>
