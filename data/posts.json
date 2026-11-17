@@ -1,12 +1,12 @@
 [
   {
-    "slug": "2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more",
+    "slug": "2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features",
     "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-    "title_ro": "iOS 27.3 Beta 2: Siri AI primește funcția de analiză web",
-    "title_en": "iOS 27.3 Beta 2 Brings Siri AI Web Analysis and More",
-    "summary": "iOS 27.3 beta 2 introduces 'Ask About Page' for Siri, face unlock for iPhone Duo, and new usage limits for Apple Intelligence features.",
-    "body_ro": "Cea mai recentă versiune beta a sistemului de operare iOS 27.3 aduce schimbări importante pentru utilizatorii de iPhone, punând accent pe inteligența artificială și pe funcționalitatea dispozitivelor pliabile. Funcția 'Ask About Page' transformă modul în care interacționăm cu Safari, permițând asistentului Siri să analizeze conținutul complet al unei pagini web pentru a răspunde la întrebări complexe sau a crea liste de sarcini, depășind limitele ecranului vizibil.\n\nPentru posesorii de iPhone Duo, Apple a introdus o soluție mult așteptată: deblocarea facială prin camera frontală atunci când dispozitivul este pliat. Această funcție, disponibilă în setările de securitate, simplifică accesul rapid la telefon, deși necesită în continuare autentificare biometrică pentru tranzacții financiare sau acces la parole. Totodată, opțiunea 'Close to Lock' oferă un control mai bun asupra gestionării ecranelor.\n\nPe lângă aceste noutăți, Apple a implementat limite de utilizare pentru funcțiile Apple Intelligence care necesită procesare în cloud. Aceste limite sunt direct proporționale cu abonamentul iCloud+ al utilizatorului, oferind un acces mai generos pentru planurile de stocare superioare. Deși aceste modificări sunt momentan în faza de testare, ele marchează o schimbare strategică în modul în care resursele AI sunt distribuite către utilizatori la nivel global.",
-    "body_en": "The second beta of iOS 27.3 introduces significant updates, focusing on enhanced AI capabilities and improved usability for the iPhone Duo. The standout feature, 'Ask About Page,' allows Siri to parse entire webpages, enabling the assistant to summarize content or extract specific details from long articles, even if the information is not currently visible on the screen.\n\niPhone Duo users benefit from a new face unlock feature that utilizes the front-facing camera when the device is closed. While this adds convenience for quick access, Apple maintains strict security by requiring traditional authentication for sensitive tasks like Apple Pay or password management. Additionally, a new 'Close to Lock' feature provides users with more control over how their device behaves when folded.\n\nApple has also officially introduced daily usage limits for server-side Apple Intelligence features. These limits are tied to iCloud+ storage tiers, with higher-capacity plans granting significantly more requests per day. While these features are currently exclusive to the developer beta, they represent a major shift in how Apple manages the computational demands of its AI infrastructure, with a public release expected later this December.",
+    "title_ro": "iOS 27.3 Beta 2 aduce Siri AI avansat și funcții noi pentru iPhone Duo",
+    "title_en": "iOS 27.3 Beta 2 Adds Advanced Siri AI and iPhone Duo Features",
+    "summary": "Apple's latest iOS 27.3 beta introduces 'Ask About Page' for Siri, new iPhone Duo unlock features, and usage limits for Apple Intelligence.",
+    "body_ro": "Cea mai recentă versiune beta a iOS 27.3 aduce îmbunătățiri semnificative pentru ecosistemul Apple, concentrându-se în special pe inteligența artificială și pe optimizarea hardware-ului pliabil. Funcția vedetă, „Ask About Page”, transformă modul în care interacționăm cu Safari, permițând asistentului Siri să proceseze conținutul complet al paginilor web pentru a oferi rezumate sau informații specifice.\n\nPentru posesorii de iPhone Duo, Apple a introdus o funcție de deblocare facială utilizând camera frontală, activă exclusiv în modul închis. Această actualizare rezolvă o problemă comună de utilizare, facilitând accesul rapid fără a fi nevoie de senzorul Touch ID. De asemenea, a fost adăugată opțiunea „Close to Lock”, care blochează dispozitivul imediat la închidere.\n\nPe partea de infrastructură, Apple a implementat limite zilnice pentru funcțiile Apple Intelligence care necesită procesare în cloud. Aceste limite pot fi extinse prin abonamentele iCloud+, deși utilizatorii din Marea Britanie rămân momentan fără această opțiune de suplimentare. Actualizarea va fi disponibilă publicului larg în luna decembrie.",
+    "body_en": "The latest iOS 27.3 beta brings significant enhancements to the Apple ecosystem, focusing heavily on artificial intelligence and optimizations for the company's foldable hardware. The standout feature, \"Ask About Page,\" transforms how we interact with Safari by allowing Siri to process the full content of web pages to provide summaries or specific data points.\n\nFor iPhone Duo owners, Apple has introduced a face unlock feature using the front-facing camera, active exclusively when the device is closed. This update addresses a common usability complaint, facilitating quick access without needing to rely on Touch ID. Additionally, a new \"Close to Lock\" setting has been added, which secures the device immediately upon closing the hinge.\n\nRegarding infrastructure, Apple has implemented daily usage limits for Apple Intelligence features that require cloud-based processing. These limits can be increased via iCloud+ subscription tiers, although users in the UK currently remain without this expansion option. The update is scheduled for a public release this December.",
     "story_type": "general_tech",
     "published_at": "2026-11-16T19:30:51+00:00",
     "source_names": [
@@ -45,11 +45,11 @@
       }
     ],
     "images": [
-      "assets/images/2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more_1.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more_2.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more_3.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more_4.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-brings-siri-ai-web-analysis-and-more_5.jpg"
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_1.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_2.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_3.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_4.jpg",
+      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_5.jpg"
     ]
   }
 ]
