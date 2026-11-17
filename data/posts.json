@@ -32,6 +32,40 @@
     ]
   },
   {
+    "slug": "2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo",
+    "url": "https://www.macrumors.com/2026/11/17/apple-store-app-optimized-for-iphone-duo/",
+    "title_ro": "Aplicația Apple Store este acum optimizată pentru noul iPhone Duo",
+    "title_en": "Apple Store App Now Fully Optimized for iPhone Duo",
+    "summary": "Apple a actualizat aplicația Apple Store pentru iPhone Duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație DIY.",
+    "body_ro": "Apple a lansat o actualizare importantă pentru aplicația Apple Store, care este acum complet optimizată pentru iPhone Duo. Această modificare permite aplicației să utilizeze întregul spațiu al ecranului pliabil, oferind o experiență de navigare fluidă și controale verticale adaptate pentru noul format de afișare.\n\nAceastă actualizare se alătură unui ecosistem în creștere, cu peste 200.000 de aplicații care au fost deja adaptate pentru a profita de ecranul interior generos al dispozitivului. Dezvoltatorii au implementat funcții precum Split View, care permit utilizatorilor să profite la maximum de performanța cipului A20 Pro.\n\nPe lângă îmbunătățirile software, Apple a anunțat vești excelente pentru cei care doresc să achiziționeze dispozitivul. Termenele de livrare s-au îmbunătățit considerabil, comenzile noi fiind estimate să ajungă înainte de sărbători, o schimbare majoră față de estimările inițiale din ianuarie.\n\nÎn plus, posesorii de iPhone Duo au acum acces la piese de schimb originale prin magazinul de reparații DIY al Apple. Această inițiativă susține dreptul la reparație, permițând utilizatorilor să efectueze intervenții tehnice acasă, urmând manualele oficiale furnizate de companie.\n\nAceste mișcări strategice demonstrează eforturile Apple de a consolida poziția primului său telefon pliabil pe piață. Prin optimizarea software-ului, îmbunătățirea logisticii și oferirea de suport pentru reparații, Apple încearcă să asigure o experiență completă pentru utilizatorii timpurii.",
+    "body_en": "Apple has released a significant update for the Apple Store app, which is now fully optimized for the iPhone Duo. This change allows the app to utilize the full real estate of the foldable display, providing a seamless browsing experience and vertical controls tailored for the new form factor.\n\nThis update joins a growing ecosystem, with over 200,000 apps already adapted to take advantage of the device's expansive inner display. Developers have implemented features like Split View, allowing users to make the most of the A20 Pro chip's performance.\n\nBeyond software improvements, Apple has shared excellent news for those looking to purchase the device. Shipping times have improved significantly, with new orders now expected to arrive before the holidays, a major shift from the initial January estimates.\n\nAdditionally, iPhone Duo owners now have access to genuine replacement parts through Apple's self-service repair store. This initiative supports the right to repair, allowing users to perform technical maintenance at home by following official manuals provided by the company.\n\nThese strategic moves demonstrate Apple's efforts to solidify the position of its first foldable phone in the market. By optimizing software, improving logistics, and providing repair support, Apple is ensuring a comprehensive experience for early adopters.",
+    "highlights_ro": [
+      "Aplicația Apple Store este acum complet adaptată pentru ecranul pliabil.",
+      "Peste 200.000 de aplicații sunt optimizate pentru iPhone Duo.",
+      "Termenele de livrare s-au redus, permițând sosirea înainte de sărbători.",
+      "Piesele de schimb pentru reparații DIY sunt acum disponibile oficial."
+    ],
+    "highlights_en": [
+      "Apple Store app is now fully adapted for the foldable display.",
+      "Over 200,000 apps are optimized for the iPhone Duo.",
+      "Shipping times reduced, allowing for pre-holiday delivery.",
+      "Official DIY repair parts are now available for purchase."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T15:49:53+00:00",
+    "source_names": [
+      "MacRumors",
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_1.jpg",
+      "assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_2.jpg",
+      "assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_3.jpg",
+      "assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_4.jpg",
+      "assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc",
     "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
     "title_ro": "Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud",
