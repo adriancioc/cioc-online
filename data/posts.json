@@ -32,6 +32,38 @@
     ]
   },
   {
+    "slug": "2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder",
+    "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+    "title_ro": "Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă",
+    "title_en": "Flipper One: The Pocket Linux Computer Is Now Available for Preorder",
+    "summary": "Flipper Devices lansează Flipper One, un computer portabil cu Linux, procesor cu 8 nuclee și conectivitate avansată, disponibil acum pe Kickstarter.",
+    "body_ro": "Flipper Devices a făcut un pas important în evoluția gadgeturilor portabile prin lansarea campaniei de crowdfunding pentru Flipper One. Spre deosebire de predecesorul său, Flipper Zero, care se concentra pe frecvențe wireless, noul dispozitiv este un computer Linux complet, conceput pentru sarcini de calcul complexe și rețelistică avansată.\n\nLa baza dispozitivului se află un procesor ARM cu 8 nuclee, modelul RK3576, susținut de un GPU capabil să gestioneze ieșiri video externe prin HDMI sau USB-C. Această configurație transformă micul gadget într-o stație de lucru mobilă, capabilă să ruleze aplicații de diagnosticare a rețelelor sau chiar conținut media, totul rulând pe o versiune de Debian Linux numită Flipper OS.\n\nConectivitatea este punctul forte al acestui dispozitiv. Utilizatorii beneficiază de două porturi gigabit ethernet, Wi-Fi 6e și interfețe SATA și PCIe. Mai mult, slotul M.2 oferă o modularitate rară pentru acest format, permițând integrarea unui modem 5G sau a unui radio LoRa pentru comunicații de tip walkie-talkie.\n\nImpactul pe piață este semnificativ, deoarece Flipper One nu încearcă să înlocuiască Flipper Zero, ci să ofere o platformă deschisă pentru entuziaștii tech. Fiind un proiect open-source, firmware-ul permite dezvoltatorilor să creeze unelte personalizate, extinzând utilitatea dispozitivului mult dincolo de funcțiile standard.\n\nPrecomenzile sunt deschise pe Kickstarter la prețul de 399 dolari. Deși așteptarea până în iulie 2027 poate părea lungă, promisiunea unui computer de buzunar cu asemenea capabilități tehnice atrage deja atenția comunității de securitate și IT din întreaga lume.",
+    "body_en": "Flipper Devices has taken a major step in the evolution of portable gadgets by launching a crowdfunding campaign for the Flipper One. Unlike its predecessor, the Flipper Zero, which focused on wireless frequencies, this new device is a full-fledged Linux computer designed for complex computing tasks and advanced networking.\n\nAt the heart of the device lies an 8-core ARM processor, the RK3576, supported by a GPU capable of handling external video output via HDMI or USB-C. This configuration turns the small gadget into a mobile workstation capable of running network diagnostic apps or even media content, all running on a Debian-based version of Linux called Flipper OS.\n\nConnectivity is the device's greatest strength. Users benefit from dual gigabit ethernet ports, Wi-Fi 6e, and SATA and PCIe interfaces. Furthermore, the M.2 slot offers a level of modularity rarely seen in this form factor, allowing for the integration of a 5G modem or a LoRa radio for walkie-talkie style communications.\n\nThe market impact is significant, as the Flipper One does not attempt to replace the Flipper Zero, but rather to provide an open platform for tech enthusiasts. Being an open-source project, the firmware allows developers to create custom tools, extending the device's utility far beyond standard functions.\n\nPreorders are open on Kickstarter at a price of $399. While the wait until July 2027 may seem long, the promise of a pocket computer with such technical capabilities is already capturing the attention of the global security and IT community.",
+    "highlights_ro": [
+      "Procesor ARM cu 8 nuclee și GPU dedicat",
+      "Conectivitate extinsă: 2x Gigabit Ethernet, Wi-Fi 6e, PCIe",
+      "Slot M.2 pentru module 5G sau LoRa",
+      "Rulează Flipper OS bazat pe Debian Linux"
+    ],
+    "highlights_en": [
+      "8-core ARM processor with dedicated GPU",
+      "Extensive connectivity: 2x Gigabit Ethernet, Wi-Fi 6e, PCIe",
+      "M.2 slot for 5G or LoRa modules",
+      "Runs Flipper OS based on Debian Linux"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_1.jpg",
+      "assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_2.jpg",
+      "assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_3.jpg",
+      "assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo",
     "url": "https://www.macrumors.com/2026/11/17/apple-store-app-optimized-for-iphone-duo/",
     "title_ro": "Aplicația Apple Store este acum optimizată pentru noul iPhone Duo",
