@@ -32,6 +32,39 @@
     ]
   },
   {
+    "slug": "2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "title_ro": "Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud",
+    "title_en": "Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure",
+    "summary": "Ars Technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice.",
+    "body_ro": "Anul 2026 a marcat o schimbare dramatică în peisajul securității cibernetice, pe măsură ce centrele de date au devenit ținte militare directe. Atacurile cu drone și rachete în Europa de Est și Orientul Mijlociu nu au vizat doar infrastructura guvernamentală, ci au afectat direct giganți precum Amazon Web Services, ducând la întreruperi de serviciu și pierderi iremediabile de date pentru clienți.\n\nAceastă evoluție transformă modul în care privim reziliența digitală. În trecut, securitatea cloud se concentra pe protecția împotriva atacurilor informatice, însă realitatea actuală impune o abordare fizică. Experții subliniază că centrele de date sunt acum puncte critice în strategia de apărare națională, fiind esențiale pentru menținerea serviciilor moderne în timpul conflictelor.\n\nJoseph Jarnecki, cercetător la Royal United Services Institute, va explora aceste provocări în cadrul unei sesiuni live organizate de Ars Technica. Discuția se va concentra pe lecțiile învățate din conflictul dintre Rusia și Ucraina, unde atacurile reciproce asupra centrelor de date au demonstrat vulnerabilitatea infrastructurii digitale în fața forțelor cinetice.\n\nÎntrebarea centrală rămâne dacă este posibilă protejarea acestor facilități împotriva tehnologiilor moderne de atac. Hardening-ul centrelor de date implică costuri enorme și alegeri strategice dificile pentru guverne și furnizorii de cloud, care trebuie să echilibreze accesibilitatea serviciilor cu necesitatea de a le plasa în zone sigure.\n\nEvenimentul de astăzi reprezintă o oportunitate de a înțelege cum se va schimba arhitectura internetului în anii ce vor urma. Pe măsură ce riscurile geopolitice cresc, dependența noastră de cloud devine o sabie cu două tăișuri, necesitând o regândire fundamentală a modului în care protejăm datele la nivel global.",
+    "body_en": "The year 2026 has marked a dramatic shift in the cybersecurity landscape as data centers have become direct military targets. Drone and missile strikes in Eastern Europe and the Middle East have not only targeted government infrastructure but have directly impacted giants like Amazon Web Services, resulting in service outages and permanent data loss for customers.\n\nThis evolution is transforming how we view digital resilience. In the past, cloud security focused on protecting against cyberattacks, but the current reality mandates a physical approach. Experts emphasize that data centers are now critical points in national defense strategy, essential for maintaining modern services during active conflicts.\n\nJoseph Jarnecki, a senior research fellow at the Royal United Services Institute, will explore these challenges during a live session hosted by Ars Technica. The discussion will focus on lessons learned from the conflict between Russia and Ukraine, where reciprocal strikes on data centers demonstrated the vulnerability of digital infrastructure to kinetic forces.\n\nThe central question remains whether it is possible to harden these facilities against modern attack technologies. Hardening data centers involves massive costs and difficult strategic choices for governments and cloud providers, who must balance service accessibility with the need to deploy in secure zones.\n\nToday's event represents an opportunity to understand how internet architecture will change in the coming years. As geopolitical risks rise, our dependence on the cloud becomes a double-edged sword, requiring a fundamental rethink of how we protect data on a global scale.",
+    "highlights_ro": [
+      "Atacurile cu drone au cauzat pierderi permanente de date AWS",
+      "Centrele de date au devenit ținte militare strategice în 2026",
+      "Reziliența cloud-ului necesită acum protecție fizică împotriva atacurilor cinetice",
+      "Discuție live cu experți RUSI despre viitorul securității digitale"
+    ],
+    "highlights_en": [
+      "Drone strikes have caused permanent AWS data loss",
+      "Data centers have become strategic military targets in 2026",
+      "Cloud resilience now requires physical protection against kinetic attacks",
+      "Live expert discussion with RUSI on the future of digital security"
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-17T15:28:59+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_1.jpg",
+      "assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_2.jpg",
+      "assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_3.jpg",
+      "assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_4.jpg",
+      "assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-google-play-announces-the-best-apps-and-games-of-2026",
     "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
     "title_ro": "Google Play anunță cele mai bune aplicații și jocuri ale anului 2026",
