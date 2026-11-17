@@ -1,13 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
-    <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="dcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+      <stop offset="52%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
   </defs>
-  <rect width="64" height="64" rx="16" fill="#070b14"/>
-  <polygon points="32,6 56,19 56,45 32,58 8,45 8,19" fill="none" stroke="url(#cg)" stroke-width="3.5"/>
-  <path d="M40 23 A12 12 0 1 0 40 41" fill="none" stroke="url(#cg)" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="44" cy="32" r="3.5" fill="#38bdf8"/>
+  <rect width="64" height="64" rx="16" fill="#060913"/>
+  <rect x="2.5" y="2.5" width="59" height="59" rx="14" fill="none" stroke="url(#dcGrad)" stroke-opacity="0.45" stroke-width="2"/>
+  <!-- Stylized geometric D -->
+  <path d="M13 18 H23 C31 18 35 23.5 35 32 C35 40.5 31 46 23 46 H13 Z M18.5 23.2 V40.8 H22.5 C27 40.8 29.4 37.6 29.4 32 C29.4 26.4 27 23.2 22.5 23.2 Z" fill="#f8fafc"/>
+  <!-- Interlocking futuristic C + circuit node -->
+  <path d="M51 23.5 A12.5 12.5 0 1 0 51 40.5" fill="none" stroke="url(#dcGrad)" stroke-width="5.6" stroke-linecap="round"/>
+  <circle cx="51" cy="32" r="3.2" fill="#38bdf8"/>
 </svg>
