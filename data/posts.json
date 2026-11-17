@@ -1,55 +1,36 @@
 [
   {
-    "slug": "2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features",
-    "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-    "title_ro": "iOS 27.3 Beta 2 aduce Siri AI avansat și funcții noi pentru iPhone Duo",
-    "title_en": "iOS 27.3 Beta 2 Adds Advanced Siri AI and iPhone Duo Features",
-    "summary": "Apple's latest iOS 27.3 beta introduces 'Ask About Page' for Siri, new iPhone Duo unlock features, and usage limits for Apple Intelligence.",
-    "body_ro": "Cea mai recentă versiune beta a iOS 27.3 aduce îmbunătățiri semnificative pentru ecosistemul Apple, concentrându-se în special pe inteligența artificială și pe optimizarea hardware-ului pliabil. Funcția vedetă, „Ask About Page”, transformă modul în care interacționăm cu Safari, permițând asistentului Siri să proceseze conținutul complet al paginilor web pentru a oferi rezumate sau informații specifice.\n\nPentru posesorii de iPhone Duo, Apple a introdus o funcție de deblocare facială utilizând camera frontală, activă exclusiv în modul închis. Această actualizare rezolvă o problemă comună de utilizare, facilitând accesul rapid fără a fi nevoie de senzorul Touch ID. De asemenea, a fost adăugată opțiunea „Close to Lock”, care blochează dispozitivul imediat la închidere.\n\nPe partea de infrastructură, Apple a implementat limite zilnice pentru funcțiile Apple Intelligence care necesită procesare în cloud. Aceste limite pot fi extinse prin abonamentele iCloud+, deși utilizatorii din Marea Britanie rămân momentan fără această opțiune de suplimentare. Actualizarea va fi disponibilă publicului larg în luna decembrie.",
-    "body_en": "The latest iOS 27.3 beta brings significant enhancements to the Apple ecosystem, focusing heavily on artificial intelligence and optimizations for the company's foldable hardware. The standout feature, \"Ask About Page,\" transforms how we interact with Safari by allowing Siri to process the full content of web pages to provide summaries or specific data points.\n\nFor iPhone Duo owners, Apple has introduced a face unlock feature using the front-facing camera, active exclusively when the device is closed. This update addresses a common usability complaint, facilitating quick access without needing to rely on Touch ID. Additionally, a new \"Close to Lock\" setting has been added, which secures the device immediately upon closing the hinge.\n\nRegarding infrastructure, Apple has implemented daily usage limits for Apple Intelligence features that require cloud-based processing. These limits can be increased via iCloud+ subscription tiers, although users in the UK currently remain without this expansion option. The update is scheduled for a public release this December.",
-    "story_type": "general_tech",
-    "published_at": "2026-11-16T19:30:51+00:00",
-    "source_names": [
-      "MacRumors"
+    "slug": "2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china",
+    "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+    "title_ro": "macOS 27.3 aduce securitate sporită pentru AI și Apple Intelligence în China",
+    "title_en": "macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China",
+    "summary": "Apple introduce noi controale de securitate pentru agenții AI în macOS 27.3 și extinde Apple Intelligence pentru utilizatorii de Mac și iPad din China.",
+    "body_ro": "Apple a lansat cea mai recentă versiune beta a macOS 27.3, punând un accent major pe securitatea utilizatorilor în era inteligenței artificiale. Compania a anunțat modificări semnificative ale API-urilor de acces complet la disc și controlul dispozitivelor, menite să limiteze riscurile pe care agenții AI le pot reprezenta pentru datele personale. Aceste schimbări oferă utilizatorilor un control mai fin asupra permisiunilor, prevenind accesul neautorizat la fișiere sensibile, mesaje și istoricul de navigare.\n\nNoile setări împart controlul dispozitivelor în categorii distincte, cum ar fi protecția sistemului și accesibilitatea, pentru a clarifica exact ce permisiuni acordă utilizatorul. Această abordare vine în urma unor incidente raportate anterior, unde aplicații AI au accesat date fără consimțământul explicit al utilizatorilor. Apple încurajează acum dezvoltatorii să adopte metode mai transparente de gestionare a accesului, asigurându-se că aplicațiile funcționează corect fără a compromite securitatea sistemului de operare.\n\nPe lângă îmbunătățirile de securitate, actualizarea aduce Apple Intelligence pe computerele Mac și tabletele iPad din China. Această extindere, confirmată după înregistrarea oficială a Apple la autoritățile locale, permite utilizatorilor să acceseze funcții precum instrumentele de scriere și integrarea cu modelul Qwen de la Alibaba. Funcționalitatea este disponibilă pe dispozitivele echipate cu cipuri din seria M, precum și pe noile modele de iPad mini cu procesoare A17 și A20 Pro.\n\nAceastă mișcare strategică demonstrează angajamentul Apple de a echilibra inovația tehnologică cu protecția datelor. În timp ce utilizatorii pot beneficia de puterea agenților AI, compania se asigură că aceștia rămân în controlul total al ecosistemului lor digital. Integrarea AI în China reprezintă, de asemenea, un pas crucial pentru extinderea globală a serviciilor inteligente Apple, adaptate cerințelor specifice ale pieței locale.\n\nLansarea publică a versiunii finale pentru macOS 27.3, iPadOS 27.3 și iOS 27.3 este programată pentru luna decembrie. Utilizatorii sunt sfătuiți să urmărească actualizările oficiale pentru a beneficia de noile funcții de securitate și de capabilitățile AI îmbunătățite. Această actualizare reflectă direcția Apple de a prioritiza confidențialitatea utilizatorilor în fața avansului rapid al tehnologiilor bazate pe inteligență artificială.",
+    "body_en": "Apple has released the latest beta for macOS 27.3, placing a strong emphasis on user security in the age of artificial intelligence. The company announced significant changes to the Full Disk Access and Device Control APIs, designed to mitigate the risks that AI agents pose to personal data. These changes provide users with finer control over permissions, preventing unauthorized access to sensitive files, messages, and browsing history.\n\nThe new settings split device control into distinct categories, such as system protection and accessibility, to clarify exactly what permissions the user is granting. This approach follows previously reported incidents where AI applications accessed data without explicit user consent. Apple is now encouraging developers to adopt more transparent access management methods, ensuring that applications function correctly without compromising the security of the operating system.\n\nIn addition to security improvements, the update brings Apple Intelligence to Mac computers and iPad tablets in China. This expansion, confirmed after Apple’s official registration with local authorities, allows users to access features like writing tools and integration with Alibaba’s Qwen model. The functionality is available on devices equipped with M-series chips, as well as the latest iPad mini models with A17 and A20 Pro processors.\n\nThis strategic move demonstrates Apple’s commitment to balancing technological innovation with data protection. While users can benefit from the power of AI agents, the company ensures they remain in full control of their digital ecosystem. The integration of AI in China also represents a crucial step for the global expansion of Apple’s intelligent services, tailored to the specific requirements of the local market.\n\nThe public release of the final version for macOS 27.3, iPadOS 27.3, and iOS 27.3 is scheduled for December. Users are advised to keep an eye on official updates to benefit from the new security features and enhanced AI capabilities. This update reflects Apple’s direction of prioritizing user privacy in the face of the rapid advancement of artificial intelligence technologies.",
+    "highlights_ro": [
+      "Control sporit asupra accesului la disc pentru aplicațiile AI",
+      "Separarea permisiunilor pentru protecția sistemului și accesibilitate",
+      "Apple Intelligence disponibil pe Mac și iPad în China",
+      "Lansare publică programată pentru luna decembrie"
     ],
-    "sources": [
-      {
-        "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
-        "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-        "source_name": "MacRumors",
-        "published_at": "2026-11-16T19:30:51+00:00"
-      },
-      {
-        "title": "Apple Says iCloud+ Plans Will Not Include Increased Siri AI Usage in UK",
-        "url": "https://www.macrumors.com/2026/11/17/icloud-plus-no-increased-siri-ai-access-in-uk/",
-        "source_name": "MacRumors",
-        "published_at": "2026-11-17T15:07:29+00:00"
-      },
-      {
-        "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
-        "url": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
-        "source_name": "MacRumors",
-        "published_at": "2026-11-17T11:16:24+00:00"
-      },
-      {
-        "title": "Everything New in iOS 27.3 Beta 2",
-        "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
-        "source_name": "MacRumors",
-        "published_at": "2026-11-17T00:15:18+00:00"
-      },
-      {
-        "title": "Hands-On With the iPhone Duo's New Face Unlock",
-        "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
-        "source_name": "MacRumors",
-        "published_at": "2026-11-16T23:27:28+00:00"
-      }
+    "highlights_en": [
+      "Enhanced control over disk access for AI applications",
+      "Separation of permissions for system protection and accessibility",
+      "Apple Intelligence available on Mac and iPad in China",
+      "Public release scheduled for December"
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-16T21:08:20+00:00",
+    "source_names": [
+      "MacRumors",
+      "TechCrunch"
     ],
     "images": [
-      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_1.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_2.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_3.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_4.jpg",
-      "assets/images/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features_5.jpg"
+      "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg",
+      "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_2.jpg",
+      "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_3.jpg",
+      "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_4.jpg",
+      "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_5.jpg"
     ]
   }
 ]

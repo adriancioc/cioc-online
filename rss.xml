@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>cioc.online Tech Blog</title>
   <link>https://cioc.online/</link>
-  <description>Bilingual Romanian and English tech news</description>
+  <description>Bilingual Romanian and English tech news and AI briefings</description>
   <item>
-    <title>iOS 27.3 Beta 2 Adds Advanced Siri AI and iPhone Duo Features</title>
-    <link>https://cioc.online/posts/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features/</link>
-    <guid>https://cioc.online/posts/2026-11-16-ios-273-beta-2-adds-advanced-siri-ai-and-iphone-duo-features/</guid>
-    <description>Apple&#x27;s latest iOS 27.3 beta introduces &#x27;Ask About Page&#x27; for Siri, new iPhone Duo unlock features, and usage limits for Apple Intelligence.</description>
+    <title>macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China</title>
+    <link>https://cioc.online/posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/</link>
+    <guid>https://cioc.online/posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/</guid>
+    <description>Apple introduce noi controale de securitate pentru agenții AI în macOS 27.3 și extinde Apple Intelligence pentru utilizatorii de Mac și iPad din China.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
