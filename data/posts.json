@@ -129,5 +129,35 @@
       "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_4.jpg",
       "assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_5.jpg"
     ]
+  },
+  {
+    "slug": "2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
+    "title_ro": "NVIDIA, IBM și Fermilab accelerează era calculului cuantic modular",
+    "title_en": "NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era",
+    "summary": "NVIDIA, IBM și Fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori.",
+    "body_ro": "NVIDIA a anunțat o colaborare majoră cu IBM și Fermi National Accelerator Laboratory, vizând dezvoltarea unei platforme modulare de codesign pentru computerele cuantice. Această inițiativă combină puterea de calcul accelerat a NVIDIA cu procesoarele cuantice IBM Nighthawk, având ca scop principal integrarea eficientă a acestor tehnologii în supercomputerele actuale.\n\nPlatforma va permite cercetătorilor să exploreze arhitecturi interconectate, esențiale pentru fizica particulelor și alte domenii științifice complexe. Prin utilizarea sistemelor NVIDIA DGX B200, echipele pot simula și evalua coduri de corecție a erorilor, definind astfel cerințele pentru viitoarele sisteme cuantice tolerante la erori.\n\nUn punct culminant al anunțului este noul algoritm TCBP-JOBS, inclus în biblioteca CUDA-Q QEC 0.9.0. Acesta oferă o viteză de decodare de 13.000 de ori mai mare decât soluțiile anterioare, reducând timpul de cercetare de la 12 săptămâni la doar 45 de minute, facilitând astfel inovația rapidă.\n\nÎn paralel, integrarea cu managerul de sarcini Slurm simplifică fluxul de lucru pentru cercetători, permițând includerea procesoarelor cuantice în infrastructurile de supercomputing. Această abordare hibridă este susținută și de proiecte internaționale, precum colaborarea dintre IBM și RIKEN, nominalizată la premiul ACM Gordon Bell.\n\nAceastă evoluție marchează un pas decisiv către computerele cuantice practice, capabile să rezolve probleme fundamentale de știință care rămâneau până acum inaccesibile. Colaborarea dintre acești giganți tehnologici promite să redefinească arhitecturile de calcul pentru următorul deceniu.",
+    "body_en": "NVIDIA has announced a major collaboration with IBM and the Fermi National Accelerator Laboratory to develop a modular codesign platform for quantum computers. This initiative combines NVIDIA’s accelerated computing power with IBM’s Nighthawk quantum processors, aiming to integrate these advanced technologies into existing supercomputing environments.\n\nThe platform will enable researchers to explore interconnected architectures that are essential for high-energy physics and other complex scientific fields. By utilizing NVIDIA DGX B200 systems, teams can simulate and evaluate error-correction codes, helping to define the requirements for future fault-tolerant quantum systems.\n\nA highlight of the announcement is the new TCBP-JOBS algorithm, now available in the CUDA-Q QEC 0.9.0 library. It offers a decoding speed up to 13,000x faster than previous solutions, reducing research time from 12 weeks to just 45 minutes, thereby facilitating rapid innovation.\n\nIn parallel, the integration with the Slurm workload manager simplifies workflows for researchers, allowing quantum processors to be seamlessly included in supercomputing infrastructures. This hybrid approach is also supported by international projects, such as the collaboration between IBM and RIKEN, which was recently named a finalist for the 2026 ACM Gordon Bell Prize.\n\nThis evolution marks a decisive step toward practical quantum computers capable of solving fundamental scientific problems that were previously out of reach. The collaboration between these tech giants promises to redefine computing architectures for the coming decade.",
+    "highlights_ro": [
+      "Platformă modulară de codesign cu IBM și Fermilab",
+      "Algoritmul TCBP-JOBS accelerează decodarea de 13.000 de ori",
+      "Integrare simplificată prin noul interfață Slurm",
+      "Progres major în corecția erorilor cuantice"
+    ],
+    "highlights_en": [
+      "Modular codesign platform with IBM and Fermilab",
+      "TCBP-JOBS algorithm accelerates decoding by 13,000x",
+      "Simplified integration via new Slurm interface",
+      "Major progress in quantum error correction"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-16T16:00:00+00:00",
+    "source_names": [
+      "NVIDIA Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_1.jpg",
+      "assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_2.jpg"
+    ]
   }
 ]
