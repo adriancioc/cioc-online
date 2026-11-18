@@ -169,6 +169,41 @@
     ]
   },
   {
+    "slug": "2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "title_ro": "Google permite acum excluderea datelor din antrenarea AI în Gemini",
+    "title_en": "Google Now Lets You Opt Out of AI Training in Gemini",
+    "summary": "Google updates Gemini settings to allow users to opt out of AI training while retaining their chat history, enhancing privacy control.",
+    "summary_ro": "Google actualizează setările Gemini, permițând utilizatorilor să opteze pentru excluderea datelor din antrenarea AI fără a pierde istoricul conversațiilor.",
+    "summary_en": "Google updates Gemini settings to allow users to opt out of AI training while retaining their chat history, enhancing privacy control.",
+    "body_ro": "Google a început să implementeze o schimbare mult așteptată în setările Gemini, oferind utilizatorilor un control mai mare asupra modului în care datele lor sunt utilizate. Până în prezent, singura metodă de a împiedica Google să folosească conversațiile pentru antrenarea modelelor AI era dezactivarea completă a istoricului, ceea ce făcea imposibilă revizuirea chat-urilor anterioare.\n\nNoua actualizare introduce comutatoare separate pentru istoricul conversațiilor și pentru antrenarea modelelor. Această separare este esențială, deoarece permite utilizatorilor să păstreze funcționalitatea de bază a istoricului fără a contribui automat la seturile de date de antrenament ale Google. Utilizatorii vor putea găsi aceste opțiuni în meniul de activitate al aplicației Gemini.\n\nEste important de reținut că această setare se aplică exclusiv interacțiunilor viitoare. Datele furnizate anterior către Gemini au fost deja integrate în procesele de antrenament ale companiei. Google a menționat că poate păstra aceste informații timp de până la trei ani pentru a-și îmbunătăți modelele, chiar dacă utilizatorul alege să opteze pentru excluderea din antrenament.\n\nÎn ceea ce privește istoricul, Google a ajustat perioada de retenție pentru cei care aleg să dezactiveze salvarea chat-urilor. Aceasta va fi acum de două luni, față de 72 de ore anterior. Compania susține că această perioadă extinsă este necesară pentru a procesa feedback-ul și pentru a proteja siguranța utilizatorilor împotriva utilizării abuzive a inteligenței artificiale.\n\nAceastă modificare reprezintă un pas pozitiv spre transparență, deși nu elimină complet retenția datelor. Implementarea este în curs de desfășurare la nivel global, iar utilizatorii ar trebui să vadă noile opțiuni în conturile lor în următoarele săptămâni. Sursă: Ars Technica.",
+    "body_en": "Google has begun rolling out a long-awaited change to Gemini settings, providing users with greater control over how their data is utilized. Previously, the only way to prevent Google from using chat contents for AI model training was to disable history entirely, which made it impossible to revisit or continue past conversations.\n\nThe new update introduces separate toggles for chat history and model training. This separation is significant because it allows users to maintain the convenience of chat history without automatically contributing to Google's AI training sets. Users will be able to locate these toggles within the activity settings of the Gemini application or through their Google account dashboard.\n\nIt is important to note that this setting applies exclusively to future interactions. Any data previously fed into Google's AI has already been incorporated into the company's training processes. Google has stated it may retain this data for up to three years to improve its models, even if a user opts out of future training contributions.\n\nRegarding history, Google has adjusted the data retention period for those who choose to disable chat saving. This will now be two months, up from the previous 72-hour window. The company claims this extended duration is necessary to process feedback and protect users against nefarious AI usage, even when history is turned off.\n\nThis change marks a positive step toward transparency, although it does not eliminate data retention entirely. The rollout is currently underway globally, and users should see these new options appearing in their accounts over the coming weeks. Source: Ars Technica.",
+    "highlights_ro": [
+      "Comutatoare separate pentru istoric și antrenarea AI",
+      "Opțiunea de a păstra istoricul fără a contribui la antrenament",
+      "Retenția datelor pentru siguranță extinsă la două luni",
+      "Implementare globală în curs de desfășurare"
+    ],
+    "highlights_en": [
+      "Separate toggles for chat history and AI training",
+      "Option to keep history without contributing to training",
+      "Data retention for safety extended to two months",
+      "Global rollout currently in progress"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T16:50:10+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_1.jpg",
+      "assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_2.jpg",
+      "assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_3.jpg",
+      "assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_4.jpg",
+      "assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo",
     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
     "title_ro": "Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia",
