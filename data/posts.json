@@ -137,6 +137,40 @@
     ]
   },
   {
+    "slug": "2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements",
+    "url": "https://www.macrumors.com/2026/11/17/icloud-plus-no-increased-siri-ai-access-in-uk/",
+    "title_ro": "iOS 27.3 aduce limite pentru AI și modificări vizuale",
+    "title_en": "iOS 27.3 Beta Introduces AI Limits and UI Refinements",
+    "summary": "Apple is testing usage limits for AI features in iOS 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.",
+    "summary_ro": "Apple testează limite de utilizare pentru funcțiile AI în iOS 27.3 și explorează un design vizual mai fin pentru barele de navigare în cea mai recentă versiune beta.",
+    "summary_en": "Apple is testing usage limits for AI features in iOS 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.",
+    "body_ro": "Apple a anunțat recent implementarea unor limite zilnice de utilizare pentru funcțiile Apple Intelligence, începând cu actualizarea iOS 27.3. Aceste restricții vizează instrumente precum Siri AI, Image Playground și funcțiile avansate de editare din aplicația Photos, care se bazează pe modele complexe de server. Deși utilizatorii iCloud+ din majoritatea regiunilor vor beneficia de acces extins, compania a confirmat că acest avantaj nu va fi disponibil în Regatul Unit.\n\nAceastă decizie a generat incertitudine în rândul utilizatorilor britanici, nefiind clar dacă Apple va introduce o taxă separată sau dacă accesul va rămâne limitat. Limitele vor fi dinamice, fiind influențate de complexitatea cererilor și de cererea generală a sistemului. Actualizarea iOS 27.3 este în prezent în faza de testare beta, lansarea publică fiind așteptată în luna decembrie.\n\nPe lângă modificările legate de AI, Apple explorează și o schimbare de design pentru interfața sistemului de operare. Testele recente indică o revenire la un aspect mai fin pentru barele de navigare, eliminând marginea inferioară distinctă introdusă anterior. Această modificare, observată în versiunea beta, vizează o tranziție mai graduală a elementelor Liquid Glass.\n\nAceastă ajustare vizuală este momentan ascunsă în spatele unui flag intern, ceea ce sugerează că Apple încă analizează feedback-ul utilizatorilor înainte de o implementare oficială. Designul Liquid Glass a suferit deja numeroase iterații în iOS 27, cu scopul de a îmbunătăți lizibilitatea și controlul utilizatorilor asupra transparenței.\n\nÎn concluzie, iOS 27.3 se profilează ca o actualizare ce echilibrează resursele de calcul pentru AI cu rafinamente estetice. Rămâne de văzut cum va evolua strategia Apple în ceea ce privește disponibilitatea funcțiilor AI pe piețele internaționale și dacă designul Liquid Glass va primi modificările testate în prezent.",
+    "body_en": "Apple has announced the implementation of daily usage limits for Apple Intelligence features, starting with the upcoming iOS 27.3 update. These restrictions apply to tools such as Siri AI, Image Playground, and advanced photo editing features that rely on powerful server-side models. While iCloud+ subscribers in most regions will receive increased access to these features, Apple has confirmed that this benefit will not be available to users in the United Kingdom.\n\nThis announcement has left many questions regarding the future of AI access in the UK, as it remains unclear if Apple plans to offer a separate paid tier or if users will be strictly bound by the new limits. The restrictions are designed to be dynamic, adjusting based on request complexity and system demand. iOS 27.3 is currently in beta, with a full public release expected this December.\n\nIn addition to the AI-related changes, Apple is also testing a visual update for the system interface. Recent findings suggest the company is exploring a return to a softer look for navigation bars, moving away from the distinct lower edge currently present in iOS 27. This change aims to provide a more gradual transition for Liquid Glass elements.\n\nThis UI adjustment is currently hidden behind an internal feature flag, indicating that Apple is still evaluating the design before a potential wider rollout. The Liquid Glass aesthetic has seen several iterations throughout the iOS 27 cycle, with Apple focusing on improving readability and providing users with finer control over background transparency.\n\nUltimately, iOS 27.3 appears to be an update that balances the management of AI computational resources with subtle aesthetic refinements. It remains to be seen how Apple’s strategy regarding AI availability will evolve across international markets and whether the softer Liquid Glass design will make it into the final public release.",
+    "highlights_ro": [
+      "Introducerea limitelor zilnice pentru funcțiile Apple Intelligence",
+      "Excluderea beneficiilor iCloud+ pentru utilizatorii din Regatul Unit",
+      "Testarea unui design mai fin pentru barele de navigare Liquid Glass",
+      "Lansarea publică a iOS 27.3 este așteptată în decembrie"
+    ],
+    "highlights_en": [
+      "Introduction of daily usage limits for Apple Intelligence features",
+      "Exclusion of iCloud+ AI benefits for users in the UK",
+      "Testing of a softer visual design for Liquid Glass navigation bars",
+      "Public release of iOS 27.3 expected in December"
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-17T17:45:19+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_1.jpg",
+      "assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_2.jpg",
+      "assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_3.jpg",
+      "assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us",
     "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
     "title_ro": "Google Wallet este acum disponibil oficial pe iOS în SUA",
