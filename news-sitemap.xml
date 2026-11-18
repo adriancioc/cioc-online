@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC Tech</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T18:35:28+00:00</news:publication_date>
+      <news:title>Nomad Launches Black Friday Sale on Apple Accessories</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
     <news:news>
       <news:publication>
@@ -98,17 +109,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T08:00:00+00:00</news:publication_date>
       <news:title>Galaxy Innovation Redefines the Athlete Experience at Dakar 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC Tech</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T01:18:33+00:00</news:publication_date>
-      <news:title>Apple Launches Research Study to Explore the Use of AI for Health</news:title>
     </news:news>
   </url>
 </urlset>
