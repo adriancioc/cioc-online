@@ -35,6 +35,41 @@
     ]
   },
   {
+    "slug": "2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+    "title_ro": "NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală",
+    "title_en": "NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure",
+    "summary": "NVIDIA is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.",
+    "summary_ro": "NVIDIA colaborează cu producători cheie pentru a crește capacitatea de fabricare a substraturilor și ambalajelor, vizând o expansiune de 2,5 ori până în 2028.",
+    "summary_en": "NVIDIA is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.",
+    "body_ro": "NVIDIA a anunțat recent o serie de angajamente extinse cu partenerii săi din lanțul de aprovizionare, menite să susțină creșterea pe termen lung a infrastructurii de inteligență artificială. Prin colaborări strategice cu companii precum TSMC, Samsung Electro-Mechanics, Foxconn și Amkor Technology, NVIDIA își propune să alinieze capacitatea de producție cu cererea globală masivă pentru platformele sale de calcul accelerat.\n\nNucleul acestui plan vizează extinderea capacității de producție pentru substraturi, ambalaje avansate și fabricarea de plachete. Un aspect cheie al acestui acord este creșterea capacității de substraturi de 2,5 ori în următorii trei ani. De exemplu, Kinsus Interconnect Technology urmează să își extindă capacitatea de producție a substraturilor avansate ABF de 3,5 ori la campusul său din Taiwan, cu o rampă de producție estimată pentru a doua jumătate a anului 2027.\n\nParteneriatele includ, de asemenea, investiții semnificative în facilități din Coreea de Sud și Japonia. Samsung Electro-Mechanics a amendat acordurile existente pentru a sprijini producția de tehnologii de calcul și rețele de mare viteză, în timp ce IBIDEN beneficiază de o rezervare de capacitate multianuală pentru uzina sa din Ono, Japonia. Aceste măsuri sunt esențiale pentru a asigura redundanța și reziliența necesare într-un sector definit de o cerere extraordinară.\n\nJensen Huang, CEO-ul NVIDIA, a subliniat că ne aflăm în mijlocul celei mai mari dezvoltări de infrastructură din istoria umanității. Capacitatea de producție a devenit principala constrângere, iar aceste acorduri cu cei mai buni producători din lume sunt menite să elimine blocajele. Prin aceste investiții, NVIDIA nu doar că își asigură necesarul de componente, dar contribuie și la scalarea ecosistemului global de AI.\n\nPrivind spre viitor, majoritatea noilor capacități sunt programate să intre în funcțiune între 2027 și 2028. Această planificare riguroasă demonstrează o viziune pe termen lung, asigurând că NVIDIA rămâne în avangarda revoluției industriale digitale, oferind puterea de calcul necesară pentru următoarea generație de inovații tehnologice.",
+    "body_en": "NVIDIA has recently announced a series of expanded commitments with its supply chain partners, aimed at supporting the long-term growth of AI infrastructure. Through strategic collaborations with companies such as TSMC, Samsung Electro-Mechanics, Foxconn, and Amkor Technology, NVIDIA aims to align manufacturing capacity with the massive global demand for its accelerated computing platforms.\n\nThe core of this plan focuses on scaling production capacity for substrates, advanced packaging, and wafer manufacturing. A key aspect of this agreement is a 2.5x increase in substrate capacity over the next three years. For instance, Kinsus Interconnect Technology is set to expand its advanced ABF package substrate manufacturing capacity by 3.5x at its Taiwan campus, with production ramp-up expected in the second half of 2027.\n\nThe partnerships also include significant investments in facilities across South Korea and Japan. Samsung Electro-Mechanics has amended existing agreements to support the production of compute and high-speed networking technologies, while IBIDEN is benefiting from a multiyear capacity reservation for its Ono plant in Japan. These measures are essential to ensure the redundancy and resilience required in a sector defined by extraordinary demand.\n\nJensen Huang, CEO of NVIDIA, emphasized that we are in the midst of the largest infrastructure buildout in human history. Manufacturing capacity has become the primary constraint, and these agreements with the world's best manufacturers are designed to remove these bottlenecks. Through these investments, NVIDIA is not only securing its component needs but is also contributing to the scaling of the global AI ecosystem.\n\nLooking ahead, most of the new capacity is scheduled to come online between 2027 and 2028. This rigorous planning demonstrates a long-term vision, ensuring that NVIDIA remains at the forefront of the digital industrial revolution, providing the compute power necessary for the next generation of technological innovations.",
+    "highlights_ro": [
+      "Creșterea capacității de substraturi de 2,5 ori în următorii trei ani.",
+      "Parteneriate strategice cu TSMC, Samsung, Foxconn și alți lideri.",
+      "Extinderea facilităților de producție în Taiwan, Coreea de Sud și Japonia.",
+      "Noile capacități de producție vor fi operaționale între 2027 și 2028."
+    ],
+    "highlights_en": [
+      "2.5x increase in substrate production capacity over three years.",
+      "Strategic partnerships with TSMC, Samsung, Foxconn, and other leaders.",
+      "Expansion of manufacturing facilities in Taiwan, South Korea, and Japan.",
+      "New production capacity expected to come online between 2027 and 2028."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T22:18:00+00:00",
+    "source_names": [
+      "NVIDIA Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_1.jpg",
+      "assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_2.jpg",
+      "assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_3.jpg",
+      "assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_4.jpg",
+      "assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance",
     "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
     "title_ro": "Google extinde funcția Gemini Tasks pentru sarcini administrative complexe",
