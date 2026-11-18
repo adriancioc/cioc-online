@@ -207,6 +207,41 @@
     ]
   },
   {
+    "slug": "2026-11-17-google-launches-new-task-management-features-for-gemini",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "title_ro": "Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent",
+    "title_en": "Google Launches New Task Management Features for Gemini",
+    "summary": "Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.",
+    "summary_ro": "Gemini poate acum să gestioneze sarcini complexe, precum programări sau plăți, fiind disponibil pentru utilizatorii din mai multe regiuni globale.",
+    "summary_en": "Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.",
+    "body_ro": "Google a anunțat o actualizare majoră pentru aplicația Gemini, transformând asistentul AI într-un instrument capabil să preia sarcini administrative complexe. Utilizatorii pot acum să delegheze activități precum programarea vizitelor la service, gestionarea facturilor și organizarea listelor de cumpărături, totul printr-o simplă interacțiune cu aplicația.\n\nNoul model Gemini 4 Hydrogen este motorul din spatele acestor funcționalități, permițând asistentului să acceseze în mod securizat calendarul, e-mailul și metodele de plată. Această integrare profundă în ecosistemul Google permite asistentului să analizeze documente, să compare prețuri și să execute plăți, menținând în același timp datele utilizatorului în medii izolate și sigure.\n\nPrintre inovațiile tehnice se numără Agent Payments Protocol, care facilitează tranzacțiile securizate prin token-uri digitale, asigurând în același timp că utilizatorii beneficiază de punctele de loialitate ale cardurilor lor. De asemenea, Google Wallet se extinde pe iOS, oferind un spațiu centralizat pentru chitanțe și informații de urmărire a comenzilor.\n\nImpactul asupra productivității este semnificativ, Gemini fiind capabil să gestioneze sarcini care anterior necesitau zeci de minute de efort manual. De la compararea ofertelor de produse până la coordonarea programului familial, asistentul reduce povara administrativă a utilizatorilor, permițându-le să se concentreze pe activități mai importante.\n\nActualizarea este disponibilă începând de astăzi pentru sute de milioane de utilizatori din SUA, Japonia, Coreea, Canada, Australia și India. Pe măsură ce platforma evoluează, Google continuă să integreze noi protocoale, precum Universal Commerce Protocol, pentru a face experiența de cumpărături și gestionare a sarcinilor și mai rapidă și mai fiabilă.",
+    "body_en": "Google has announced a major update to the Gemini app, transforming the AI assistant into a tool capable of handling complex administrative tasks. Users can now delegate activities such as scheduling service appointments, managing utility bills, and organizing grocery lists through simple interactions with the app.\n\nThe new Gemini 4 Hydrogen model powers these capabilities, allowing the assistant to securely access your calendar, email, and payment methods. This deep integration into the Google ecosystem enables the assistant to analyze documents, compare prices, and execute payments, all while keeping user data within isolated and secure environments.\n\nKey technical innovations include the Agent Payments Protocol, which facilitates secure transactions via digital tokens while ensuring users still earn their card rewards. Additionally, Google Wallet is expanding to iOS, providing a centralized hub for receipts and order tracking information.\n\nThe impact on productivity is significant, as Gemini can handle tasks that previously required significant manual effort. From comparing product options to coordinating family schedules, the assistant reduces the administrative burden on users, allowing them to focus on higher-priority activities.\n\nThe update is rolling out starting today for hundreds of millions of users across the U.S., Japan, Korea, Canada, Australia, and India. As the platform evolves, Google continues to integrate new protocols, such as the Universal Commerce Protocol, to make the shopping and task management experience even faster and more reliable.",
+    "highlights_ro": [
+      "Gemini poate acum să gestioneze programări și plăți automat.",
+      "Noul model Gemini 4 Hydrogen oferă performanțe avansate.",
+      "Integrare securizată cu Google Wallet și metodele de plată.",
+      "Disponibil acum în SUA, Japonia, Coreea, Canada, Australia și India."
+    ],
+    "highlights_en": [
+      "Gemini can now manage appointments and bill payments automatically.",
+      "New Gemini 4 Hydrogen model provides advanced performance.",
+      "Secure integration with Google Wallet and payment methods.",
+      "Available now in the U.S., Japan, Korea, Canada, Australia, and India."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T17:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg",
+      "assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_2.jpg",
+      "assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_3.jpg",
+      "assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_4.jpg",
+      "assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us",
     "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
     "title_ro": "Google Wallet este acum disponibil oficial pe iOS în SUA",
