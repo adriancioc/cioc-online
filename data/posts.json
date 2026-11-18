@@ -61,6 +61,38 @@
     ]
   },
   {
+    "slug": "2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
+    "title_ro": "Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online",
+    "title_en": "Essential Guide: Google Tips and Tools for Your Online Safety",
+    "summary": "Google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.",
+    "summary_ro": "Google oferă sfaturi practice și instrumente esențiale pentru a-ți proteja datele personale și dispozitivele împotriva amenințărilor cibernetice actuale.",
+    "summary_en": "Google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.",
+    "body_ro": "Într-o eră digitală în care amenințările cibernetice devin tot mai sofisticate, Google a publicat un ghid cuprinzător menit să simplifice modul în care ne protejăm identitatea online. Siguranța nu trebuie să fie un proces complicat, iar noile recomandări pun accent pe utilizarea instrumentelor deja integrate în ecosistemul Google pentru a preveni accesul neautorizat.\n\nPrintre recomandările cheie se numără gestionarea atentă a setărilor de recuperare a contului și activarea autentificării cu mai mulți factori. Aceste măsuri, deși simple, reprezintă prima linie de apărare împotriva tentativelor de phishing care vizează utilizatorii neatenți. Google încurajează, de asemenea, verificarea riguroasă a mesajelor text și a linkurilor primite din surse necunoscute.\n\nTehnologia de navigare sigură joacă un rol crucial în acest peisaj. Instrumentele de protecție încorporate în browser ajută la identificarea site-urilor malițioase înainte ca acestea să poată descărca software periculos pe dispozitivele utilizatorilor. Este o abordare proactivă care transformă securitatea dintr-o sarcină tehnică într-un obicei zilnic.\n\nImpactul acestor măsuri este major, având în vedere că majoritatea breșelor de securitate pornesc de la erori umane sau setări de confidențialitate neglijate. Prin centralizarea acestor sfaturi, Google urmărește să democratizeze accesul la o securitate cibernetică robustă, indiferent de nivelul de cunoștințe tehnice al utilizatorului.\n\nÎn concluzie, menținerea siguranței online necesită o combinație între instrumentele software avansate și o igienă digitală corectă. Urmând aceste recomandări, utilizatorii pot naviga cu încredere, știind că au luat măsurile necesare pentru a-și proteja viața digitală împotriva riscurilor emergente.",
+    "body_en": "In a digital era where cyber threats are becoming increasingly sophisticated, Google has published a comprehensive guide designed to simplify how we protect our online identities. Security does not have to be a complicated process, and the new recommendations emphasize using tools already integrated into the Google ecosystem to prevent unauthorized access.\n\nKey recommendations include carefully managing account recovery settings and enabling multi-factor authentication. These measures, while simple, represent the first line of defense against phishing attempts that target inattentive users. Google also encourages the rigorous verification of text messages and links received from unknown sources.\n\nSafe browsing technology plays a crucial role in this landscape. Protection tools built into the browser help identify malicious sites before they can download dangerous software onto user devices. It is a proactive approach that turns security from a technical chore into a daily habit.\n\nThe impact of these measures is significant, considering that most security breaches stem from human error or neglected privacy settings. By centralizing these tips, Google aims to democratize access to robust cybersecurity, regardless of the user's level of technical expertise.\n\nIn conclusion, maintaining online safety requires a combination of advanced software tools and proper digital hygiene. By following these recommendations, users can browse with confidence, knowing they have taken the necessary steps to protect their digital lives against emerging risks.",
+    "highlights_ro": [
+      "Activarea autentificării cu mai mulți factori pentru conturi",
+      "Verificarea riguroasă a mesajelor și linkurilor suspecte",
+      "Utilizarea instrumentelor de navigare sigură încorporate",
+      "Actualizarea constantă a setărilor de recuperare a contului"
+    ],
+    "highlights_en": [
+      "Enable multi-factor authentication for all accounts",
+      "Rigorous verification of suspicious messages and links",
+      "Utilize built-in safe browsing protection tools",
+      "Regularly update account recovery settings"
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-18T14:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety_1.jpg",
+      "assets/images/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-apple-announces-finalists-for-2026-app-store-awards",
     "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
     "title_ro": "Apple a anunțat finaliștii pentru premiile App Store 2026",
