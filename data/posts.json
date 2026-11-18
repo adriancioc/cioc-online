@@ -30,6 +30,42 @@
     ]
   },
   {
+    "slug": "2026-11-18-apple-announces-finalists-for-2026-app-store-awards",
+    "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+    "title_ro": "Apple a anunțat finaliștii pentru premiile App Store 2026",
+    "title_en": "Apple Announces Finalists for 2026 App Store Awards",
+    "summary": "Apple has revealed the 45 finalists for the 2026 App Store Awards, celebrating innovation and exceptional design across its entire ecosystem.",
+    "summary_ro": "Apple a dezvăluit cei 45 de finaliști pentru premiile App Store 2026, celebrând inovația și designul excepțional în ecosistemul său de aplicații.",
+    "summary_en": "Apple has revealed the 45 finalists for the 2026 App Store Awards, celebrating innovation and exceptional design across its entire ecosystem.",
+    "body_ro": "Apple a făcut publică lista celor 45 de finaliști pentru premiile App Store 2026, o selecție riguroasă care celebrează dezvoltatorii ce au reușit să redefinească experiența utilizatorului prin inovație tehnică și design creativ. Nominalizările acoperă o gamă largă de dispozitive, de la iPhone și iPad până la Mac, Apple Vision Pro și Apple Arcade, reflectând diversitatea ecosistemului actual.\n\nPrintre aplicațiile nominalizate se află ElevenReader, apreciată pentru vocea sa AI naturală, și Paste, care optimizează gestionarea clipboard-ului pe Mac. În zona de gaming, titluri precum DAVE THE DIVER și Crimson Desert au atras atenția juriului prin calitatea lor grafică și mecanicile de joc captivante, demonstrând potențialul creativ al platformelor Apple.\n\nProcesul de selecție a fost realizat de echipa editorială globală a App Store, care a evaluat mii de aplicații pe baza impactului cultural și a utilității practice. Această recunoaștere nu doar că oferă vizibilitate dezvoltatorilor, dar subliniază și direcția în care se îndreaptă tehnologia mobilă și desktop în acest an.\n\nImpactul acestor aplicații este vizibil în modul în care utilizatorii interacționează cu dispozitivele lor zilnic, fie că este vorba de productivitate, educație sau divertisment. Finaliștii reprezintă standardul de aur pentru ceea ce înseamnă o experiență software bine optimizată și intuitivă.\n\nCâștigătorii finali urmează să fie anunțați în următoarele săptămâni. Până atunci, comunitatea tehnologică urmărește cu interes evoluția acestor proiecte, care continuă să împingă limitele a ceea ce este posibil pe dispozitivele Apple.",
+    "body_en": "Apple has officially released the list of 45 finalists for the 2026 App Store Awards, a rigorous selection that celebrates developers who have redefined the user experience through technical innovation and creative design. The nominations span a wide range of devices, from iPhone and iPad to Mac, Apple Vision Pro, and Apple Arcade, reflecting the diversity of the current ecosystem.\n\nAmong the nominated apps are ElevenReader, praised for its natural AI voice technology, and Paste, which optimizes clipboard management on the Mac. In the gaming category, titles such as DAVE THE DIVER and Crimson Desert have captured the jury's attention through their graphic quality and engaging gameplay mechanics, showcasing the creative potential of Apple's platforms.\n\nThe selection process was conducted by Apple's global App Store editorial team, which evaluated thousands of apps based on their cultural impact and practical utility. This recognition not only provides visibility for developers but also highlights the direction in which mobile and desktop technology is heading this year.\n\nThe impact of these apps is evident in how users interact with their devices daily, whether for productivity, education, or entertainment. The finalists represent the gold standard for what constitutes a well-optimized and intuitive software experience.\n\nThe final winners are set to be announced in the coming weeks. Until then, the tech community is watching with interest the evolution of these projects, which continue to push the boundaries of what is possible on Apple devices.",
+    "highlights_ro": [
+      "45 de finaliști selectați pentru inovație și design",
+      "Nominalizări pe toate platformele Apple, inclusiv Vision Pro",
+      "Câștigătorii vor fi anunțați în următoarele săptămâni",
+      "Recunoașterea impactului cultural și a utilității aplicațiilor"
+    ],
+    "highlights_en": [
+      "45 finalists selected for innovation and design",
+      "Nominations across all Apple platforms, including Vision Pro",
+      "Winners to be announced in the coming weeks",
+      "Recognition of cultural impact and app utility"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-18T13:59:20+00:00",
+    "source_names": [
+      "Apple Newsroom",
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_1.jpg",
+      "assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_2.jpg",
+      "assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_3.jpg",
+      "assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_4.jpg",
+      "assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair",
     "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
     "title_ro": "Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat",
