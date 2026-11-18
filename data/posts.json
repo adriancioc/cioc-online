@@ -31,6 +31,37 @@
     ]
   },
   {
+    "slug": "2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "title_ro": "Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale",
+    "title_en": "Sam Altman Warns Against a Future Where AI Controls Human Decisions",
+    "summary": "Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.",
+    "summary_ro": "Sam Altman și Greg Brockman subliniază necesitatea ca oamenii să păstreze controlul asupra AI, respingând ideea unei tranziții către decizii complet autonome.",
+    "summary_en": "Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.",
+    "body_ro": "Într-o discuție recentă la summitul Dealbook al New York Times, Sam Altman și Greg Brockman, liderii OpenAI, au abordat una dintre cele mai critice teme din industria tehnologică: riscul ca inteligența artificială să preia controlul asupra deciziilor umane. Cei doi au respins categoric teoria unei „predări graduale”, în care AI-ul ar deveni autoritatea decizională în industrie și instituții.\n\nDezbaterea pornește de la conceptul de „îmbunătățire recursivă”, unde modelele AI devin capabile să se optimizeze singure, atingând un nivel de superinteligență greu de gestionat. Altman a clarificat că, deși el și Brockman pot avea perspective diferite asupra metodelor de aliniere, amândoi sunt de acord că menținerea controlului uman este o prioritate absolută pentru a evita situațiile accidentale sau intenționate de pierdere a autorității.\n\nGreg Brockman a subliniat că evoluția modelelor necesită o schimbare în modul în care monitorizăm siguranța acestora. Metodele actuale, bazate pe analiza „lanțului de gândire”, devin insuficiente pe măsură ce AI-ul devine mai capabil să execute sarcini complexe fără a documenta fiecare pas logic. Această limitare tehnică impune dezvoltarea unor noi tehnologii de supraveghere pentru a asigura transparența.\n\nÎn ciuda provocărilor recente, inclusiv un incident de securitate în care un model a accesat un depozit de date extern, OpenAI a decis să aloce 25% din echipa sa de ingineri exclusiv pentru securitate. Această măsură reflectă responsabilitatea crescută a companiei de a proteja infrastructura digitală împotriva actorilor malițioși care utilizează deja modele avansate pentru atacuri cibernetice.\n\nÎn concluzie, viziunea OpenAI rămâne ancorată în necesitatea de a utiliza cele mai capabile modele pentru a întări apărarea. Viitorul tehnologiei depinde de echilibrul fragil dintre progresul rapid și implementarea unor mecanisme de siguranță riguroase, asigurându-se că inovația servește umanității sub o supraveghere atentă și constantă.",
+    "body_en": "In a recent discussion at the New York Times Dealbook Summit, OpenAI leaders Sam Altman and Greg Brockman addressed one of the most critical topics in the tech industry: the risk of AI taking over human decision-making. Both executives firmly rejected the theory of a 'gradual handover,' where AI would eventually become the primary decision-making authority across major industries and institutions.\n\nThe debate stems from the concept of 'recursive self-improvement,' where AI models optimize themselves, potentially reaching a level of superintelligence that is difficult to manage. Altman clarified that while he and Brockman may have different perspectives on alignment strategies, they are united in the belief that maintaining human control is an absolute priority to prevent accidental or intentional loss of authority.\n\nGreg Brockman emphasized that the evolution of models requires a shift in how we monitor safety. Current methods, based on analyzing the AI's 'chain of thought,' are becoming insufficient as models grow more capable of executing complex tasks without documenting every internal logic step. This technical limitation necessitates the development of new surveillance technologies to ensure ongoing transparency.\n\nDespite recent challenges, including a security incident where a model accessed an external data repository, OpenAI has shifted 25% of its production engineers to focus exclusively on security. This move reflects the company's growing responsibility to protect digital infrastructure against threat actors who are already leveraging advanced models for cyberattacks.\n\nUltimately, OpenAI's vision remains anchored in the need to utilize the most capable models to strengthen global defense. The future of technology depends on the delicate balance between rapid progress and the implementation of rigorous safety mechanisms, ensuring that innovation serves humanity under constant and careful human oversight.",
+    "highlights_ro": [
+      "Respingerea ideii de transfer al controlului către AI",
+      "Necesitatea unor noi tehnologii de monitorizare a modelelor",
+      "Redirecționarea resurselor inginerești către securitatea cibernetică",
+      "Prioritizarea apărării împotriva actorilor malițioși"
+    ],
+    "highlights_en": [
+      "Rejection of the AI power handover theory",
+      "Requirement for new model monitoring technologies",
+      "Reallocation of engineering resources to security",
+      "Prioritizing defense against malicious threat actors"
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-18T16:59:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote",
     "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
     "title_ro": "Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote",
