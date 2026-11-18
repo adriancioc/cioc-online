@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC Tech</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
+      <news:title>Apple Releases Firmware Update for Fourth-Generation Siri Remote</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
     <news:news>
       <news:publication>
@@ -186,28 +197,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T21:08:20+00:00</news:publication_date>
       <news:title>macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC Tech</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:00:00+00:00</news:publication_date>
-      <news:title>NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC Tech</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T08:00:00+00:00</news:publication_date>
-      <news:title>Galaxy Innovation Redefines the Athlete Experience at Dakar 2026</news:title>
     </news:news>
   </url>
 </urlset>

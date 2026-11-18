@@ -1,5 +1,35 @@
 [
   {
+    "slug": "2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote",
+    "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
+    "title_ro": "Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote",
+    "title_en": "Apple Releases Firmware Update for Fourth-Generation Siri Remote",
+    "summary": "Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.",
+    "summary_ro": "Apple a lansat versiunea de firmware 0001.0061.0000.0000 pentru generația a patra a telecomenzii Siri Remote.",
+    "summary_en": "Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.",
+    "body_ro": "Apple a lansat o nouă actualizare de firmware destinată utilizatorilor de Apple TV care folosesc generația a patra a telecomenzii Siri Remote. Noul pachet software aduce versiunea de firmware la numărul 0001.0061.0000.0000, înlocuind versiunea anterioară 0001.0057.0000.0000. Lansarea a fost detectată prin intermediul bazelor de date ale AppleDB.\n\nAșa cum se întâmplă frecvent cu actualizările destinate accesoriilor Apple, compania din Cupertino nu a furnizat detalii sau un jurnal de modificări oficial. Prin urmare, îmbunătățirile specifice, remedierile de erori sau eventualele optimizări ale autonomiei rămân necunoscute pentru publicul larg.\n\nProcesul de instalare al acestui firmware se desfășoară complet automatizat. Utilizatorii nu au la dispoziție un buton dedicat pentru a declanșa manual instalarea. Pentru ca actualizarea să fie aplicată, telecomanda trebuie să fie suficient de încărcată și poziționată în apropierea dispozitivului Apple TV conectat la rețea.\n\nPentru cei care doresc să verifice dacă accesoriul lor a primit deja noua versiune, procedura este simplă. Este necesară accesarea aplicației Setări de pe Apple TV, navigarea către secțiunea Telecomenzi și dispozitive, iar apoi selectarea opțiunii Telecomandă din listă.\n\nAceastă practică a actualizărilor silențioase de fundal este standard pentru ecosistemul Apple, fiind utilizată și în cazul căștilor AirPods sau al încărcătoarelor MagSafe. Deși absența noutăților vizibile poate părea nesemnificativă, aceste actualizări asigură de regulă stabilitatea conexiunii Bluetooth și eficientizarea consumului de energie.\n\nÎn concluzie, utilizatorii nu trebuie să parcurgă pași complecși pentru a beneficia de cele mai recente optimizări. Este suficient ca dispozitivul Apple TV să funcționeze normal, iar telecomanda va primi actualizarea de firmware în mod transparent.",
+    "body_en": "Apple has rolled out a new background firmware update specifically for the fourth-generation Siri Remote. According to data tracked via AppleDB, the updated software build elevates the firmware revision to 0001.0061.0000.0000, up from the previous 0001.0057.0000.0000 release.\n\nIn line with Apple's standard procedure for peripheral software releases, no public release notes or patch logs were provided. Consequently, the specific adjustments, underlying stability improvements, or potential connectivity fixes contained in this release remain unconfirmed.\n\nUnlike operating system updates for iPhone or Apple TV, there is no manual trigger or button to force the installation of Siri Remote firmware. The update installs seamlessly in the background over time, provided the remote has adequate battery charge and stays within close proximity of the active Apple TV console.\n\nUsers who wish to check whether their accessory has already received the new software build can do so directly from the set-top box interface. Navigating to the Settings app, selecting Remotes and Devices, and clicking on Remote will display the currently active firmware version.\n\nSilent accessory updates are a core component of Apple's device maintenance ecosystem, similar to how firmware updates are dispatched to AirPods or MagSafe accessories. These updates typically address minor Bluetooth communication bugs and ensure long-term energy efficiency.\n\nOverall, no action is required from end users. As long as your Apple TV remains connected and the Siri Remote is regularly used and charged, the system will apply the update automatically without disrupting daily use.",
+    "highlights_ro": [
+      "Versiunea de firmware a fost actualizată la build-ul 0001.0061.0000.0000.",
+      "Instalarea se efectuează automat atunci când telecomanda este încărcată și aproape de Apple TV.",
+      "Apple nu a oferit note oficiale de lansare sau detalii despre schimbări."
+    ],
+    "highlights_en": [
+      "Firmware build updated to version 0001.0061.0000.0000.",
+      "Automatic background installation occurs when remote is charged near Apple TV.",
+      "No official release notes or changelogs were provided by Apple."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-18T15:38:56+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg",
+      "assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair",
     "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
     "title_ro": "Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat",
