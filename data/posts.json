@@ -35,6 +35,41 @@
     ]
   },
   {
+    "slug": "2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "title_ro": "Google extinde funcția Gemini Tasks pentru sarcini administrative complexe",
+    "title_en": "Google Expands Gemini Tasks for Advanced Personal Assistance",
+    "summary": "Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.",
+    "summary_ro": "Google lansează funcția Gemini Tasks, permițând asistentului AI să efectueze apeluri, să programeze întâlniri și să gestioneze plăți pentru utilizatori.",
+    "summary_en": "Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.",
+    "body_ro": "Google a anunțat o extindere semnificativă a capabilităților pentru modelul Gemini 4 Hydrogen, introducând funcția Tasks pentru un public larg. Această actualizare transformă modul în care utilizatorii interacționează cu inteligența artificială, trecând de la simple interogări informaționale la execuția unor sarcini concrete în lumea reală.\n\nFuncționalitatea, cunoscută anterior sub numele de test Gemini Spark, permite acum asistentului să preia rolul unui secretar personal. Printre capabilitățile cheie se numără posibilitatea de a apela companii pentru programări, gestionarea achizițiilor prin Google Pay și autentificarea securizată pe diverse platforme web, totul printr-o simplă comutare în interfața aplicației.\n\nEvoluția de la un chatbot pasiv la un agent activ reprezintă o schimbare strategică pentru Google. Prin delegarea sarcinilor repetitive, utilizatorii pot economisi timp prețios, lăsând AI-ul să analizeze facturi sau să coordoneze logistica zilnică, așa cum a demonstrat recent Josh Woodword, vicepreședintele Gemini.\n\nImplementarea este extrem de simplă, fiind nevoie doar de activarea unui comutator în cadrul aplicației. Această funcție este acum disponibilă pentru sute de milioane de utilizatori, consolidând poziția Google în cursa pentru asistenți AI capabili să acționeze autonom în numele utilizatorului.\n\nPe măsură ce tehnologia continuă să evolueze, integrarea acestor funcții de tip „agent” va deveni probabil standardul pentru toate platformele de inteligență artificială. Această mișcare marchează un pas important către un viitor în care asistenții digitali nu doar oferă informații, ci devin parteneri activi în gestionarea vieții cotidiene.",
+    "body_en": "Google has announced a significant expansion of capabilities for its Gemini 4 Hydrogen model, introducing the Tasks feature to a broader audience. This update fundamentally shifts how users interact with artificial intelligence, moving from simple informational queries to the execution of concrete real-world tasks.\n\nThe functionality, previously known as the Gemini Spark test, now allows the assistant to take on the role of a personal secretary. Key capabilities include the ability to call businesses for appointments, manage purchases via Google Pay, and securely authenticate on various web platforms, all through a simple toggle in the app interface.\n\nThe evolution from a passive chatbot to an active agent represents a major strategic shift for Google. By delegating repetitive tasks, users can save valuable time, allowing the AI to analyze bills or coordinate daily logistics, as recently demonstrated by Gemini VP Josh Woodword.\n\nThe implementation is straightforward, requiring only the activation of a toggle within the app. This feature is now available to hundreds of millions of users, strengthening Google's position in the race for AI assistants capable of acting autonomously on behalf of the user.\n\nAs technology continues to evolve, the integration of these \"agentic\" features will likely become the standard for all artificial intelligence platforms. This move marks an important step toward a future where digital assistants do not just provide information, but become active partners in managing daily life.",
+    "highlights_ro": [
+      "Funcția Tasks permite AI-ului să efectueze apeluri și programări.",
+      "Integrare completă cu Google Pay pentru achiziții securizate.",
+      "Disponibil acum pentru utilizatorii modelului Gemini 4 Hydrogen.",
+      "Trecerea de la chatbot pasiv la asistent activ."
+    ],
+    "highlights_en": [
+      "Tasks feature allows AI to make calls and book appointments.",
+      "Full integration with Google Pay for secure purchases.",
+      "Available now for Gemini 4 Hydrogen model users.",
+      "Shift from passive chatbot to active personal assistant."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T19:02:20+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg",
+      "assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_2.jpg",
+      "assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_3.jpg",
+      "assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_4.jpg",
+      "assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories",
     "url": "https://www.macrumors.com/2026/11/17/nomad-black-friday-sale-2026/",
     "title_ro": "Nomad lansează reducerile de Black Friday pentru accesorii Apple",
