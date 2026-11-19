@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Anthropic Makes Historic NASDAQ Debut With Record-Breaking IPO</title>
+    <link>https://cioc.online/en/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</guid>
+    <description>Anthropic has officially listed on the NASDAQ, securing $81.3 billion in proceeds and achieving a $1.5 trillion valuation in a historic market debut.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Paramount Plus Launches Aggressive Black Friday Streaming Deal</title>
     <link>https://cioc.online/en/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/</guid>
     <description>Apple is testing usage limits for AI features in iOS 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Launches New Task Management Features for Gemini</title>
-    <link>https://cioc.online/en/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</guid>
-    <description>Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
