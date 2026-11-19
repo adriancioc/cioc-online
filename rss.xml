@@ -26,6 +26,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-first-software-update-for-homeview-device_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Adds Incognito-Style Temporary Threads to AI Search</title>
+    <link>https://cioc.online/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</link>
+    <guid>https://cioc.online/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</guid>
+    <description>Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Samsung Officially Launches the One UI 9.5 Beta Program</title>
     <link>https://cioc.online/posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/</link>
     <guid>https://cioc.online/posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/</guid>
     <description>Apple introduce noi controale de securitate pentru agenții AI în macOS 27.3 și extinde Apple Intelligence pentru utilizatorii de Mac și iPad din China.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era</title>
-    <link>https://cioc.online/posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/</link>
-    <guid>https://cioc.online/posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/</guid>
-    <description>NVIDIA, IBM și Fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

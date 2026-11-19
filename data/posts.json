@@ -95,6 +95,38 @@
     ]
   },
   {
+    "slug": "2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search",
+    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "title_ro": "Google introduce modul incognito pentru funcția AI din Search",
+    "title_en": "Google Adds Incognito-Style Temporary Threads to AI Search",
+    "summary": "Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.",
+    "summary_ro": "Google a lansat firele temporare pentru modul AI din Search, permițând conversații private care nu sunt salvate în istoricul contului.",
+    "summary_en": "Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.",
+    "body_ro": "Google a făcut un pas important către îmbunătățirea confidențialității utilizatorilor prin introducerea „firelor temporare” în modul AI din motorul de căutare. Această funcție permite utilizatorilor să poarte conversații cu inteligența artificială fără ca acestea să fie stocate în istoricul căutărilor sau utilizate pentru personalizarea ulterioară a rezultatelor.\n\nNoua opțiune este accesibilă printr-o pictogramă dedicată situată în colțul din dreapta sus al interfeței AI Mode. Odată activată, sesiunea devine complet independentă de contul utilizatorului. Această abordare elimină riscul ca interogările sensibile să influențeze recomandările viitoare sau să fie asociate cu profilul personal al utilizatorului.\n\nFuncționalitatea oglindește opțiunile de chat temporar deja prezente în chatbot-ul Gemini, oferind o experiență unitară în tot ecosistemul Google. Aceasta este o soluție ideală pentru momentele în care utilizatorii doresc să exploreze subiecte punctuale fără a altera algoritmul de personalizare al motorului de căutare.\n\nImplementarea are loc la nivel global, fiind disponibilă atât pe dispozitivele desktop, cât și pe cele mobile. Google a confirmat că funcția suportă toate limbile în care este disponibil AI Mode, asigurând accesibilitatea pentru o gamă largă de utilizatori din întreaga lume.\n\nAceastă actualizare subliniază eforturile Google de a oferi mai mult control asupra datelor colectate în timpul interacțiunilor cu AI-ul. Pe măsură ce căutarea conversațională devine tot mai populară, opțiunile de confidențialitate devin esențiale pentru menținerea încrederii utilizatorilor în instrumentele de inteligență artificială.",
+    "body_en": "Google has taken a significant step toward enhancing user privacy by introducing \"temporary threads\" to its AI Mode in Search. This feature allows users to engage in conversations with the AI without those interactions being logged in their search history or used to influence future personalized recommendations.\n\nThe new option is easily accessible via a dedicated icon located in the upper right corner of the AI Mode interface. Once a temporary thread is initiated, the session becomes entirely detached from the user's account. This approach eliminates the risk of sensitive queries affecting future search results or being permanently associated with the user's profile.\n\nThis functionality mirrors the temporary chat options already present in the standalone Gemini chatbot, providing a consistent experience across the Google ecosystem. It serves as an ideal solution for users who want to explore one-off topics or conduct research without altering their long-term search personalization settings.\n\nThe rollout is currently happening globally, covering both desktop and mobile platforms. Google has confirmed that the feature supports all languages currently available within AI Mode, ensuring that users worldwide can benefit from this added layer of privacy.\n\nThis update highlights Google's ongoing efforts to provide users with greater control over the data collected during AI interactions. As conversational search becomes increasingly integrated into daily workflows, privacy-focused features are becoming essential for maintaining user trust in AI-powered tools.",
+    "highlights_ro": [
+      "Firele temporare previn stocarea conversațiilor în istoricul căutărilor.",
+      "Sesiunile sunt deconectate de la contul utilizatorului pentru confidențialitate.",
+      "Funcția este disponibilă global pe desktop și mobil.",
+      "Nu sunt necesare setări complexe pentru activare."
+    ],
+    "highlights_en": [
+      "Temporary threads prevent conversations from being saved in search history.",
+      "Sessions are detached from user accounts to ensure privacy.",
+      "The feature is rolling out globally on desktop and mobile.",
+      "No complex settings are required to activate the mode."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-18T18:04:05+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg",
+      "assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program",
     "url": "https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program",
     "title_ro": "Samsung lansează programul beta pentru noua interfață One UI 9.5",
