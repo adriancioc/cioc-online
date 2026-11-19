@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Google Unveils New Creative Projects via Flow AI Platform</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</guid>
+    <description>Google showcases new artist-led projects and audio tools developed through its AI-powered Flow and Flow Music Sessions, now available for public remixing.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple TV Becomes the Official U.S. Home for F1 ACADEMY Starting 2027</title>
     <link>https://cioc.online/en/posts/2026-11-19-apple-tv-becomes-the-official-us-home-for-f1-academy-starting-2027/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-apple-tv-becomes-the-official-us-home-for-f1-academy-starting-2027/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</guid>
     <description>Apple TV brings the Las Vegas Grand Prix to fans with new Multiview support on smart TVs and immersive Dolby Atmos audio for a premium race-day experience.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Now Lets You Opt Out of AI Training in Gemini</title>
-    <link>https://cioc.online/en/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</guid>
-    <description>Google updates Gemini settings to allow users to opt out of AI training while retaining their chat history, enhancing privacy control.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
