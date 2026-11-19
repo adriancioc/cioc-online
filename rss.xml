@@ -40,6 +40,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-apple-black-friday-2026-guide_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Launches Genie 4: Interactive AI World Generation</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-launches-genie-4-gemini-api/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-launches-genie-4-gemini-api/</guid>
+    <description>Google brings Genie 4 to Gemini API. Create interactive 720p worlds with native audio and expand Gemini to low-memory Android devices.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-launches-genie-4-gemini-api_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Anthropic Makes Historic NASDAQ Debut With Record-Breaking IPO</title>
     <link>https://cioc.online/en/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</guid>
     <description>A new teardown from iFixit highlights that the Apple HomeView is surprisingly difficult to repair, marking a step back in design.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure</title>
-    <link>https://cioc.online/en/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</guid>
-    <description>NVIDIA is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
