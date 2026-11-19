@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-apple-tv-becomes-the-official-us-home-for-f1-academy-starting-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:59:07+00:00</news:publication_date>
+      <news:title>Apple TV Becomes the Official U.S. Home for F1 ACADEMY Starting 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-apple-tv-becomes-the-official-us-home-for-f1-academy-starting-2027/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:59:07+00:00</news:publication_date>
+      <news:title>Apple TV devine casa oficială F1 ACADEMY în Statele Unite din 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
     <news:news>
       <news:publication>
@@ -505,204 +527,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T17:45:19+00:00</news:publication_date>
       <news:title>iOS 27.3 aduce limite pentru AI și modificări vizuale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
-      <news:title>Google Launches New Task Management Features for Gemini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
-      <news:title>Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
-      <news:title>Google Wallet Is Now Officially Available on iOS in the U.S.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
-      <news:title>Google Wallet este acum disponibil oficial pe iOS în SUA</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:59:36+00:00</news:publication_date>
-      <news:title>Formula 1 Las Vegas Grand Prix Streams Live on Apple TV</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:59:36+00:00</news:publication_date>
-      <news:title>Marele Premiu de Formula 1 din Las Vegas vine pe Apple TV</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:50:10+00:00</news:publication_date>
-      <news:title>Google Now Lets You Opt Out of AI Training in Gemini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:50:10+00:00</news:publication_date>
-      <news:title>Google permite acum excluderea datelor din antrenarea AI în Gemini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:09:57+00:00</news:publication_date>
-      <news:title>Jensen Huang Expresses Willingness To Return As Nvidia CEO</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:09:57+00:00</news:publication_date>
-      <news:title>Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:00:00+00:00</news:publication_date>
-      <news:title>Flipper One: The Pocket Linux Computer Is Now Available for Preorder</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:00:00+00:00</news:publication_date>
-      <news:title>Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:49:53+00:00</news:publication_date>
-      <news:title>Apple Store App Now Fully Optimized for iPhone Duo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:49:53+00:00</news:publication_date>
-      <news:title>Aplicația Apple Store este acum optimizată pentru noul iPhone Duo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:28:59+00:00</news:publication_date>
-      <news:title>Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:28:59+00:00</news:publication_date>
-      <news:title>Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:00:00+00:00</news:publication_date>
-      <news:title>Google Play Announces The Best Apps And Games Of 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:00:00+00:00</news:publication_date>
-      <news:title>Google Play anunță cele mai bune aplicații și jocuri ale anului 2026</news:title>
     </news:news>
   </url>
 </urlset>
