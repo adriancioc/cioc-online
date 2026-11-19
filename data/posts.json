@@ -1,5 +1,42 @@
 [
   {
+    "slug": "2026-11-19-gemini-mac-computer-use-feature",
+    "slug_ro": "gemini-pe-mac-controleaza-computerul",
+    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "category": "AI",
+    "virality_score": 9,
+    "focus_keyword_ro": "Gemini pe Mac",
+    "focus_keyword_en": "Gemini computer use",
+    "title_ro": "Google Gemini pe Mac: AI-ul care îți preia controlul aplicațiilor",
+    "title_en": "Google Gemini on Mac: The AI Agent That Controls Your Apps",
+    "summary": "Google brings 'computer use' to Gemini for macOS. Discover how the AI agent navigates apps and files to automate your complex workflows.",
+    "summary_ro": "Google introduce funcția 'computer use' pentru Gemini pe macOS. Află cum AI-ul navighează aplicații și fișiere pentru a-ți automatiza sarcinile zilnice.",
+    "summary_en": "Google brings 'computer use' to Gemini for macOS. Discover how the AI agent navigates apps and files to automate your complex workflows.",
+    "body_ro": "<h2>Gemini pe Mac devine un agent activ</h2><p>Google a lansat oficial o actualizare majoră pentru aplicația Gemini de pe macOS, introducând funcția mult așteptată de <strong>'computer use'</strong>. Aceasta nu este doar o altă fereastră de chat, ci un agent capabil să interacționeze direct cu sistemul tău de operare, navigând prin aplicații, gestionând fișiere locale și completând formulare web în locul tău. Este un salt tehnologic care transformă AI-ul dintr-un simplu asistent conversațional într-un instrument de execuție.</p><h2>Cum funcționează controlul AI</h2><p>Spre deosebire de versiunile anterioare, Gemini poate acum să 'vadă' și să acționeze. Utilizatorii pot instrui AI-ul să realizeze sarcini multi-step, cum ar fi organizarea fișierelor în foldere specifice, crearea de prezentări sau completarea unor formulare repetitive. Totul se desfășoară într-o fereastră separată de fundal, oferind un preview live în chat. Astfel, tu poți continua să lucrezi în timp ce Gemini execută sarcinile plictisitoare în paralel.</p><p>Google a pus accent pe control: utilizatorul poate oricând să oprească, să întrerupă sau să aprobe acțiunile AI-ului înainte ca acestea să fie finalizate. De asemenea, poți decide exact ce aplicații au permisiunea de a fi accesate de către agent, un aspect critic având în vedere noile restricții pe care Apple le impune pentru accesul la disc.</p><h2>Limitări și disponibilitate</h2><p>În acest moment, funcția este disponibilă exclusiv în limba engleză pentru utilizatorii din SUA. Pentru a accesa această capacitate, este necesar un abonament Google AI Premium (Plus, Pro sau Ultra). Google nu a oferit încă un calendar clar pentru lansarea în Europa, însă având în vedere reglementările stricte privind AI-ul și protecția datelor, este posibil ca integrarea în România să fie întârziată.</p><p>Concurența este acerbă. OpenAI, Anthropic și Meta au deja soluții similare, iar Google pare să recupereze terenul pierdut. Totuși, integrarea nativă pe macOS oferă un avantaj competitiv pentru utilizatorii ecosistemului Apple care caută automatizarea fluxurilor de lucru.</p><h2>Verdictul Cioc.online</h2><p>Deși tehnologia este impresionantă, rămânem sceptici cu privire la integrarea completă în viața de zi cu zi. Riscurile de securitate asociate cu oferirea 'accesului total' către un agent AI sunt reale, mai ales într-un mediu de lucru cu date sensibile. Recomandăm prudență și testarea funcției doar în medii controlate până când Google va clarifica politicile de confidențialitate pentru utilizatorii din afara SUA. Rămâneți pe cioc.online pentru ghidul complet de configurare a permisiunilor odată ce funcția va fi disponibilă oficial în regiunea noastră.</p>",
+    "body_en": "<h2>Gemini on Mac Evolves into an Active Agent</h2><p>Google has officially rolled out a significant update for its Gemini app on macOS, introducing the highly anticipated <strong>'computer use'</strong> capability. This feature marks a shift from a conversational AI to an agentic one, capable of interacting directly with your operating system, navigating native Mac apps, managing local files, and browsing the web to complete multi-step tasks on your behalf.</p><h2>How the AI Agent Operates</h2><p>Unlike standard chatbots, Gemini can now 'see' and act. Users can instruct the AI to handle tedious workflows, such as organizing files based on specific criteria, creating slideshows from scattered data, or filling out repetitive forms. The agent operates in a background window, providing a live preview within the chat interface. This allows users to keep their cursor and screen free to continue working on other tasks while the AI handles the heavy lifting in the background.</p><p>Safety and control are central to this launch. Users retain the ability to pause, stop, or approve every action before it occurs. Furthermore, you can define exactly which applications Gemini has permission to access, a necessary precaution given the increasing scrutiny Apple is placing on 'full disk access' for AI agents in recent macOS beta versions.</p><h2>Availability and Market Context</h2><p>As of now, the feature is limited to English-language users in the United States and requires a Google AI Premium subscription (Plus, Pro, or Ultra). Google has not yet provided a timeline for international expansion, including the European market, where AI regulations remain a significant hurdle for such agentic features.</p><p>Google is playing catch-up here, as competitors like OpenAI, Anthropic, and Meta have already introduced similar agentic capabilities in their desktop applications. However, the deep integration with macOS could provide a unique edge for power users looking to streamline their daily digital tasks.</p><h2>The Cioc.online Verdict</h2><p>While the potential for productivity is immense, we advise a cautious approach. Granting an AI agent control over your local files and applications introduces new security vectors. We recommend testing these features in isolated environments until Google provides more transparency regarding data processing for these 'computer use' actions. Stay tuned to cioc.online for our upcoming deep-dive guide on how to safely configure these permissions once the feature reaches broader availability.</p>",
+    "highlights_ro": [
+      "Gemini pe macOS a primit funcția 'computer use', permițând AI-ului să execute sarcini complexe în aplicații și browser.",
+      "Disponibil momentan doar în SUA (engleză) pentru abonații Gemini Advanced; preț de la ~20 EUR/lună.",
+      "Un pas înainte pentru productivitate, dar ridică semne de întrebare privind securitatea și permisiunile de acces la fișiere."
+    ],
+    "highlights_en": [
+      "Gemini on macOS now features 'computer use', allowing the AI to execute tasks across local apps and the web.",
+      "Currently rolling out in English for US users with a Gemini Advanced subscription ($20/month).",
+      "A powerful productivity tool, but one that requires careful management of system permissions and privacy."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T18:21:13+00:00",
+    "source_names": [
+      "The Verge",
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-19-gemini-mac-computer-use-feature_1.jpg",
+      "assets/images/2026-11-19-gemini-mac-computer-use-feature_2.jpg",
+      "assets/images/2026-11-19-gemini-mac-computer-use-feature_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-apple-camera-vp-jon-mccormack-retires",
     "slug_ro": "schimbare-conducere-camera-foto-apple",
     "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",

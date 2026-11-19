@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Google Gemini on Mac: The AI Agent That Controls Your Apps</title>
+    <link>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use-feature/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use-feature/</guid>
+    <description>Google brings &#x27;computer use&#x27; to Gemini for macOS. Discover how the AI agent navigates apps and files to automate your complex workflows.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-gemini-mac-computer-use-feature_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Camera Software VP Jon McCormack Retires</title>
     <link>https://cioc.online/en/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</guid>
     <description>Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Nomad Launches Black Friday Sale on Apple Accessories</title>
-    <link>https://cioc.online/en/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</guid>
-    <description>Nomad has kicked off its Black Friday event featuring up to 30% off on iPhone 18 Pro cases, charging stations, and bands until December 1.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
