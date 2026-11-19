@@ -37,6 +37,42 @@
     ]
   },
   {
+    "slug": "2026-11-19-google-gemini-api-tool-retrieval",
+    "slug_ro": "google-gemini-api-tool-retrieval",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "category": "AI",
+    "virality_score": 6,
+    "focus_keyword_ro": "Google Gemini API Tool Retrieval",
+    "focus_keyword_en": "Google Gemini API Tool Retrieval",
+    "title_ro": "Google lansează Tool Retrieval pentru Gemini API",
+    "title_en": "Google Launches Tool Retrieval for Gemini API",
+    "summary": "Google introduces Tool Retrieval in the Gemini API to optimize AI agent performance and reduce token costs for developers.",
+    "summary_ro": "Google introduce Tool Retrieval în Gemini API pentru a optimiza performanța agenților AI și a reduce costurile cu token-urile.",
+    "summary_en": "Google introduces Tool Retrieval in the Gemini API to optimize AI agent performance and reduce token costs for developers.",
+    "body_ro": "<h2>O schimbare majoră pentru dezvoltatorii Gemini</h2><p>Google a anunțat oficial lansarea <strong>Tool Retrieval</strong> în cadrul Gemini API, o funcție care promite să schimbe modul în care agenții AI interacționează cu biblioteci extinse de instrumente software. Până acum, dezvoltatorii erau nevoiți să trimită întreaga schemă a tuturor instrumentelor disponibile în fiecare prompt, ceea ce ducea la costuri ridicate de token-uri și o latență crescută.</p><h2>Cum funcționează Tool Retrieval</h2><p>Noua funcționalitate permite agenților să păstreze o bibliotecă de instrumente în stand-by. În loc să încarce totul de la început, modelul Gemini accesează detaliile specifice doar atunci când sarcina curentă o cere. Această abordare inteligentă nu doar că accelerează timpul de răspuns, dar îmbunătățește și acuratețea selecției instrumentelor, deoarece modelul nu mai este „distras” de zeci de definiții irelevante pentru contextul imediat.</p><p>Pentru a implementa această funcție, dezvoltatorii trebuie doar să adauge un <code>tool_search</code> în cererea lor și să seteze parametrul <code>defer_loading</code> pe <code>true</code> pentru instrumentele care nu sunt necesare imediat. Modelul va vedea în continuare numele și descrierea instrumentului, dar schema completă va fi încărcată doar la cerere, în cadrul aceleiași interacțiuni.</p><h2>Avantaje pentru scalabilitate și costuri</h2><p>Unul dintre cele mai mari avantaje este compatibilitatea cu <strong>prefix caching</strong>. Deoarece schemele amânate rămân în afara începutului promptului, cache-ul rămâne stabil pe parcursul conversației. Mai mult, Tool Retrieval funcționează și cu servere MCP (Model Context Protocol) remote, facilitând conectarea unor servere masive fără a lista fiecare instrument în parte.</p><p>Din punct de vedere financiar, nu există costuri suplimentare pentru utilizarea Tool Retrieval. Se aplică tarifele standard pentru token-uri. Economia apare natural: dacă bibliotecile tale sunt mari, vei plăti doar pentru schemele pe care modelul le accesează efectiv, reducând semnificativ amprenta de date pentru sarcinile complexe.</p><h2>Concluzia cioc.online</h2><p>Această actualizare este un pas necesar pentru maturizarea ecosistemului Gemini. Pentru dezvoltatorii care construiesc agenți AI capabili să execute sute de acțiuni, Tool Retrieval nu este doar o opțiune, ci o necesitate pentru a menține aplicațiile rapide și eficiente. Implementarea este simplă și necesită modificări minime în cod, ceea ce o face o recomandare imediată pentru orice proiect care utilizează Gemini 3.6 sau versiuni ulterioare.</p>",
+    "body_en": "<h2>A Major Shift for Gemini Developers</h2><p>Google has officially launched <strong>Tool Retrieval</strong> within the Gemini API, a feature designed to fundamentally change how AI agents interact with extensive software tool libraries. Previously, developers were forced to send the full parameter schema of every available tool in every prompt, leading to inflated input token counts and increased latency.</p><h2>How Tool Retrieval Works</h2><p>The new functionality allows agents to keep a library of tools on standby. Instead of loading every tool at once, the Gemini model retrieves specific details only when the current task requires them. This intelligent approach not only speeds up response times but also improves tool-selection accuracy, as the model is no longer overwhelmed by dozens of definitions irrelevant to the immediate context.</p><p>To implement this, developers simply add a <code>tool_search</code> to their request and set the <code>defer_loading</code> parameter to <code>true</code> for tools that aren't needed upfront. The model still sees the name and description of the tool, but the full schema is only loaded on demand within the same interaction.</p><h2>Scalability and Cost Efficiency</h2><p>One of the most significant benefits is compatibility with <strong>prefix caching</strong>. Since deferred schemas stay out of the start of the prompt, the cached prefix remains stable across turns. Furthermore, Tool Retrieval works seamlessly with remote MCP (Model Context Protocol) servers, allowing you to connect large servers without listing tools one by one.</p><p>From a cost perspective, there are no separate charges for using Tool Retrieval. Standard token rates apply. The savings are realized when the schemas you never load outweigh those you do, which is typical for large libraries. By only paying for the schemas the model actually accesses, you significantly reduce the data footprint for complex tasks.</p><h2>The cioc.online Verdict</h2><p>This update is a necessary step for the maturation of the Gemini ecosystem. For developers building AI agents capable of executing hundreds of actions, Tool Retrieval is not just an option but a requirement to keep applications fast and responsive. The implementation is straightforward and requires minimal code changes, making it an immediate recommendation for any project utilizing Gemini 3.6 or later models.</p>",
+    "highlights_ro": [
+      "Google a lansat funcția Tool Retrieval pentru Gemini API, permițând încărcarea dinamică a schemelor de instrumente.",
+      "Funcția reduce consumul de token-uri și latența pentru agenții AI care gestionează biblioteci mari de funcții.",
+      "O soluție esențială pentru dezvoltatorii care vor să scaleze aplicații AI complexe fără a supraîncărca contextul."
+    ],
+    "highlights_en": [
+      "Google launched Tool Retrieval for the Gemini API, enabling dynamic loading of tool schemas.",
+      "The feature reduces token consumption and latency for AI agents managing large tool libraries.",
+      "A critical update for developers scaling complex AI agents without bloating the context window."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T18:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-19-google-gemini-api-tool-retrieval_1.jpg",
+      "assets/images/2026-11-19-google-gemini-api-tool-retrieval_2.jpg",
+      "assets/images/2026-11-19-google-gemini-api-tool-retrieval_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-apple-camera-vp-jon-mccormack-retires",
     "slug_ro": "schimbare-conducere-camera-foto-apple",
     "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",

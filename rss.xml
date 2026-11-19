@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-gemini-mac-computer-use-feature_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Launches Tool Retrieval for Gemini API</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-gemini-api-tool-retrieval/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-api-tool-retrieval/</guid>
+    <description>Google introduces Tool Retrieval in the Gemini API to optimize AI agent performance and reduce token costs for developers.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-gemini-api-tool-retrieval_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Camera Software VP Jon McCormack Retires</title>
     <link>https://cioc.online/en/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</guid>
     <description>NVIDIA and Samsung report historic financial results, driven by unprecedented demand for AI infrastructure and semiconductor technology.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Expands Gemini Tasks for Advanced Personal Assistance</title>
-    <link>https://cioc.online/en/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</guid>
-    <description>Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
