@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</title>
+    <link>https://cioc.online/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</link>
+    <guid>https://cioc.online/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</guid>
+    <description>Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</title>
     <link>https://cioc.online/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</link>
     <guid>https://cioc.online/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</guid>
     <description>Apple a actualizat aplicația Apple Store pentru iPhone Duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație DIY.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure</title>
-    <link>https://cioc.online/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</link>
-    <guid>https://cioc.online/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</guid>
-    <description>Ars Technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

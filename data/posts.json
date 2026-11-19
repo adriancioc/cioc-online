@@ -131,6 +131,41 @@
     ]
   },
   {
+    "slug": "2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "title_ro": "Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe",
+    "title_en": "Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks",
+    "summary": "Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.",
+    "summary_ro": "Google lansează Gemini 4 Neon, un model AI optimizat pentru inginerie complexă și cercetare științifică, cu o fereastră de context de 1 milion de tokenuri.",
+    "summary_en": "Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.",
+    "body_ro": "Google a anunțat oficial lansarea Gemini 4 Neon, un model de inteligență artificială de ultimă generație, creat special pentru a gestiona fluxuri de lucru complexe în inginerie software, știință și analiză de date. Neon se remarcă prin capacitatea sa de a procesa volume masive de informații, oferind o fereastră de context de 1 milion de tokenuri care permite sintetizarea simultană a documentelor, tabelelor și fișierelor media.\n\nDin punct de vedere tehnic, Neon ocupă poziții fruntașe în indici de referință precum Artificial Analysis Intelligence Index și Vals Index. Modelul este optimizat pentru a acționa ca un orchestrator de înaltă precizie, capabil să coordoneze subagenți în sarcini de lungă durată, reducând în același timp rata de fabricație a informațiilor, conform testelor interne Google Antigravity.\n\nUn aspect esențial al noii lansări este eficiența costurilor. Google a implementat o structură de prețuri competitivă, oferind reduceri semnificative pentru utilizarea tokenurilor cache, ceea ce face ca Neon să fie o opțiune viabilă pentru companiile care au nevoie de raționamente multi-pas complexe fără a compromite bugetul operațional.\n\nÎn mediul de dezvoltare, Neon demonstrează performanțe remarcabile în depanarea codului pe mai multe fișiere și în refactorizarea arhitecturilor software complexe. Capacitatea sa de a menține performanța în sarcini care necesită utilizarea intensivă a instrumentelor externe îl plasează în topul soluțiilor pentru cercetători și ingineri.\n\nModelul este disponibil începând de astăzi prin intermediul Google AI Studio, API-ul Gemini și pentru abonații Google AI Pro și Ultra. Această lansare marchează un pas important în evoluția modelelor Gemini, oferind echipelor un control mai fin asupra nivelurilor de raționament și a consumului de resurse.",
+    "body_en": "Google has officially introduced Gemini 4 Neon, a frontier-level AI model designed to handle complex software engineering, scientific research, and advanced knowledge work. The model is built to provide fast, end-to-end task completion, leveraging a massive 1-million token context window that allows it to synthesize data across spreadsheets, PDFs, audio, and video inputs into structured deliverables.\n\nTechnically, Neon ranks among the top models in industry benchmarks, including the Artificial Analysis Intelligence Index and the Vals Index. It is specifically engineered for long-running agent workflows, acting as a high-judgment orchestrator that can manage parallel subagents. Internal testing via Google Antigravity has also shown that Neon achieves the lowest fabrication rate to date, ensuring higher reliability for professional applications.\n\nCost-efficiency is a core component of the Gemini 4 Neon release. By offering significant discounts on cached input tokens and maintaining a lower cost-per-task compared to other frontier models, Google is positioning Neon as a scalable solution for enterprises that require deep, multi-step reasoning for their most demanding analytical workloads.\n\nFor developers, Neon offers state-of-the-art performance in coding tasks, including multi-file debugging and surgical refactoring across large repositories. Its ability to sustain performance through tool-heavy tasks makes it an ideal partner for complex developer and researcher workflows, significantly outperforming previous iterations in standardized coding harnesses.\n\nGemini 4 Neon is available starting today through Google AI Studio, the Gemini API, and for paid Google AI Pro and Ultra subscribers. With refined thinking levels, the model allows teams to scale intelligence and token spend according to the specific needs of their projects, marking a significant advancement in the Gemini ecosystem.",
+    "highlights_ro": [
+      "Fereastră de context de 1 milion de tokenuri pentru analiză complexă.",
+      "Performanță de top în inginerie software și raționament științific.",
+      "Costuri reduse pentru sarcini care necesită raționament multi-pas.",
+      "Disponibil imediat prin Google AI Studio și API-ul Gemini."
+    ],
+    "highlights_en": [
+      "1 million-token context window for comprehensive data synthesis.",
+      "Frontier-level performance in software engineering and scientific reasoning.",
+      "Lower cost-per-task for complex, high-judgment analytical workflows.",
+      "Available now via Google AI Studio and the Gemini API."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-18T21:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg",
+      "assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_2.jpg",
+      "assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_3.jpg",
+      "assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_4.jpg",
+      "assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday",
     "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
     "title_ro": "Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday",
