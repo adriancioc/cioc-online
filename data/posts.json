@@ -126,6 +126,38 @@
     ]
   },
   {
+    "slug": "2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "title_ro": "Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă",
+    "title_en": "Google Brings Gemini App to Lower-Memory Android Devices",
+    "summary": "Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.",
+    "summary_ro": "Google optimizează aplicația Gemini pentru dispozitivele Android (Go edition), oferind funcții AI avansate pentru milioane de utilizatori de telefoane accesibile.",
+    "summary_en": "Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.",
+    "body_ro": "Google a anunțat o actualizare majoră pentru ecosistemul său, extinzând disponibilitatea aplicației Gemini către dispozitivele Android (Go edition). Această mișcare strategică vizează sute de milioane de utilizatori la nivel global pentru care un telefon cu memorie limitată reprezintă principala metodă de acces la internet, educație și oportunități de afaceri.\n\nPentru a face acest lucru posibil, inginerii Google au re-arhitecturat aplicația, asigurându-se că experiența de bază Gemini rulează fluid pe hardware cu resurse reduse. Până acum, aceste dispozitive erau limitate la comenzi vocale de bază, însă noua actualizare schimbă complet regulile jocului prin integrarea inteligenței artificiale generative.\n\nUtilizatorii pot acum să interacționeze cu Gemini Live pentru a exersa interviuri sau pentru a discuta idei în peste 45 de limbi. În plus, funcțiile avansate ale camerei permit traducerea instantanee a formularelor și notițelor, în timp ce instrumentul Nano Banana facilitează crearea de imagini personalizate, cum ar fi afișe pentru mici afaceri locale.\n\nImpactul acestei lansări este semnificativ, deoarece elimină barierele hardware care împiedicau accesul la tehnologii de ultimă oră. Prin democratizarea accesului la asistența AI, Google își consolidează poziția de lider în integrarea inteligenței artificiale în viața de zi cu zi a tuturor utilizatorilor, indiferent de bugetul dispozitivului deținut.\n\nUtilizatorii pot descărca aplicația din Google Play sau pot accesa asistentul prin menținerea apăsată a butonului de pornire pe telefoanele compatibile. De asemenea, Gemini va fi preinstalat pe viitoarele dispozitive lansate de parteneri precum Transsion, facilitând o adopție rapidă și extinsă în piețele emergente.",
+    "body_en": "Google has announced a major update to its ecosystem, extending the availability of the Gemini app to Android (Go edition) devices. This strategic move targets hundreds of millions of users globally for whom a lower-memory smartphone is their primary gateway to the internet, education, and business opportunities.\n\nTo make this possible, Google engineers re-architected the app to ensure the core Gemini experience runs smoothly on hardware with limited resources. Previously, these devices were restricted to basic voice commands, but the new update fundamentally changes the landscape by integrating generative AI capabilities into the entry-level segment.\n\nUsers can now engage with Gemini Live to practice for interviews or discuss complex ideas in over 45 languages. Furthermore, advanced camera features allow for the instant translation of forms and notes, while the Nano Banana tool facilitates the creation of custom images, such as flyers for small local businesses or personal projects.\n\nThe impact of this launch is significant, as it removes the hardware barriers that previously hindered access to cutting-edge technology. By democratizing access to AI assistance, Google is cementing its position as a leader in integrating artificial intelligence into the daily lives of all users, regardless of the device's price point.\n\nUsers can download the app from the Google Play Store or access the assistant by long-pressing the power button on supported phones. Additionally, Gemini will come preloaded on upcoming devices from partners like Transsion, facilitating rapid and widespread adoption across emerging markets.",
+    "highlights_ro": [
+      "Aplicația Gemini este acum optimizată pentru dispozitive Android (Go edition).",
+      "Funcția Gemini Live permite conversații naturale în peste 45 de limbi.",
+      "Instrumentele camerei permit traducerea documentelor și crearea de imagini personalizate.",
+      "Disponibil prin Google Play sau preinstalat pe dispozitivele partenerilor precum Transsion."
+    ],
+    "highlights_en": [
+      "Gemini app is now optimized for Android (Go edition) devices.",
+      "Gemini Live enables natural voice conversations in over 45 languages.",
+      "Camera tools allow for document translation and custom image generation.",
+      "Available via Google Play or preloaded on partner devices like Transsion."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-18T17:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg",
+      "assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions",
     "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
     "title_ro": "Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale",
