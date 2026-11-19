@@ -99,6 +99,38 @@
     ]
   },
   {
+    "slug": "2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates",
+    "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
+    "title_ro": "Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore",
+    "title_en": "Apple Releases Safari Technology Preview 257 With Performance Updates",
+    "summary": "Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.",
+    "summary_ro": "Apple a lansat Safari Technology Preview 257, aducând optimizări tehnice și remedieri de erori pentru dezvoltatorii care utilizează macOS Tahoe și Golden Gate.",
+    "summary_en": "Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.",
+    "body_ro": "Apple a lansat oficial Safari Technology Preview 257, continuându-și angajamentul de a oferi dezvoltatorilor și utilizatorilor avansați un mediu de testare pentru viitoarele funcționalități ale browserului. Această versiune experimentală, disponibilă acum pentru descărcare, aduce o listă extinsă de optimizări menite să rafineze experiența de navigare pe platformele macOS.\n\nActualizarea include remedieri tehnice și îmbunătățiri de performanță pentru o gamă largă de componente esențiale. Printre acestea se numără CSS, Canvas, JavaScript, WebGPU, WebRTC și Web Inspector. Aceste modificări sunt cruciale pentru dezvoltatorii web care doresc să asigure compatibilitatea site-urilor lor cu noile standarde pe care Apple le implementează în motorul său de randare.\n\nCompatibilitatea este un aspect cheie al acestei lansări, browserul fiind optimizat pentru sistemele de operare macOS Tahoe și cea mai recentă versiune, macOS Golden Gate. Utilizatorii pot instala această versiune experimentală alături de browserul Safari standard, oferind flexibilitate maximă în procesul de dezvoltare și testare, fără a fi necesar un cont de dezvoltator plătit.\n\nScopul principal al acestui proiect rămâne colectarea feedback-ului de la comunitatea de dezvoltatori pentru a rafina procesul de dezvoltare al browserului. Prin intermediul mecanismului Software Update din System Settings, Apple facilitează accesul rapid la aceste instrumente de testare, asigurând o tranziție fluidă către noile tehnologii web.\n\nÎn concluzie, Safari Technology Preview 257 reprezintă un pas important în evoluția ecosistemului web Apple. Prin oferirea accesului timpuriu la aceste funcționalități, compania reușește să mențină un standard ridicat de performanță și securitate, pregătind terenul pentru viitoarele actualizări majore ale browserului Safari.",
+    "body_en": "Apple has officially released Safari Technology Preview 257, continuing its commitment to providing developers and power users with a sandbox environment for upcoming browser features. This experimental release, available for download now, brings an extensive list of optimizations aimed at refining the browsing experience across macOS platforms.\n\nThe update includes technical fixes and performance enhancements for a wide range of essential components. These include CSS, Canvas, JavaScript, WebGPU, WebRTC, and the Web Inspector. Such changes are critical for web developers looking to ensure their sites are compatible with the new standards that Apple is implementing within its rendering engine.\n\nCompatibility is a key aspect of this release, with the browser optimized for macOS Tahoe and the latest version, macOS Golden Gate. Users can install this experimental version alongside the standard Safari browser, providing maximum flexibility in the development and testing process without requiring a paid developer account.\n\nThe primary goal of this project remains gathering feedback from the developer community to refine the browser development process. Through the Software Update mechanism in System Settings, Apple facilitates quick access to these testing tools, ensuring a smooth transition toward new web technologies.\n\nIn conclusion, Safari Technology Preview 257 represents an important step in the evolution of Apple's web ecosystem. By providing early access to these features, the company manages to maintain a high standard of performance and security, setting the stage for future major updates to the Safari browser.",
+    "highlights_ro": [
+      "Actualizare majoră pentru mediul experimental de testare Safari",
+      "Optimizări extinse pentru CSS, JavaScript, WebGPU și WebRTC",
+      "Compatibilitate completă cu macOS Tahoe și macOS Golden Gate",
+      "Accesibil tuturor utilizatorilor fără a necesita un cont de dezvoltator"
+    ],
+    "highlights_en": [
+      "Major update for the Safari experimental testing environment",
+      "Extensive optimizations for CSS, JavaScript, WebGPU, and WebRTC",
+      "Full compatibility with macOS Tahoe and macOS Golden Gate",
+      "Accessible to all users without requiring a developer account"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-18T23:15:24+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg",
+      "assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-apple-releases-first-software-update-for-homeview-device",
     "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
     "title_ro": "Apple lansează prima actualizare software pentru dispozitivul HomeView",
