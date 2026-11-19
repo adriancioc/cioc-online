@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DC — Daniel Cioc | Tech News &amp; AI</title>
+  <meta name="description" content="Technology news, AI, Apple, Android, cybersecurity, and hardware launches by Daniel Cioc.">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="canonical" href="https://cioc.online/en/">
+  <link rel="alternate" hreflang="ro" href="https://cioc.online/">
+  <link rel="alternate" hreflang="en" href="https://cioc.online/en/">
+  <link rel="alternate" hreflang="x-default" href="https://cioc.online/">
+  <link rel="alternate" type="application/rss+xml" title="DC Tech RSS" href="https://cioc.online/rss.xml">
+  <meta property="og:site_name" content="DC — Daniel Cioc">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="DC — Daniel Cioc | Tech News &amp; AI">
+  <meta property="og:description" content="Technology news, AI, Apple, Android, cybersecurity, and hardware launches by Daniel Cioc.">
+  <meta property="og:url" content="https://cioc.online/en/">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "DC — Daniel Cioc", "url": "https://cioc.online/en/", "inLanguage": "en", "description": "Technology news, AI, Apple, Android, cybersecurity, and hardware launches by Daniel Cioc."}</script>
+  <script>
+(function () {
+  var saved = localStorage.getItem('dc_theme');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.setAttribute('data-theme', saved || (prefersDark ? 'dark' : 'light'));
+})();
+</script>
+  <script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'analytics_storage': 'denied',
+  'wait_for_update': 500
+});
+if (localStorage.getItem('cioc_eu_consent') === 'accepted') {
+  gtag('consent', 'update', {
+    'ad_storage': 'granted',
+    'ad_user_data': 'granted',
+    'ad_personalization': 'granted',
+    'analytics_storage': 'granted'
+  });
+}
+</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RSQNBWYNBF"></script>
+  <script>gtag('js', new Date()); gtag('config', 'G-RSQNBWYNBF');</script>
+  <meta name="google-adsense-account" content="ca-pub-3315047530491104">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3315047530491104" crossorigin="anonymous"></script>
+  <style>
+:root, [data-theme="light"] {
+  --bg: #f5f5f7;
+  --bg-elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-muted: #f0f0f3;
+  --glass: rgba(251, 251, 253, 0.82);
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.14);
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --accent: #0071e3;
+  --accent-hover: #0077ed;
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.04);
+  --shadow-hover: 0 20px 44px rgba(0, 0, 0, 0.09);
+  --glow-a: rgba(0, 113, 227, 0.06);
+  --glow-b: rgba(191, 90, 242, 0.05);
+  --radius: 22px;
+}
+[data-theme="dark"] {
+  --bg: #000000;
+  --bg-elevated: #161617;
+  --surface: #161617;
+  --surface-muted: #1d1d1f;
+  --glass: rgba(22, 22, 23, 0.78);
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.2);
+  --text: #f5f5f7;
+  --muted: #a1a1a6;
+  --accent: #2997ff;
+  --accent-hover: #47a6ff;
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.35);
+  --shadow-hover: 0 24px 50px rgba(0, 0, 0, 0.65);
+  --glow-a: rgba(41, 151, 255, 0.1);
+  --glow-b: rgba(191, 90, 242, 0.08);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Inter", "Helvetica Neue", Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.35s ease, color 0.35s ease;
+  position: relative;
+}
+body::before {
+  content: "";
+  position: fixed; inset: -25%; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(circle at 18% 10%, var(--glow-a), transparent 42%),
+    radial-gradient(circle at 84% 14%, var(--glow-b), transparent 44%);
+  animation: gentleDrift 26s ease-in-out infinite alternate;
+}
+@keyframes gentleDrift {
+  0% { transform: translate3d(0, 0, 0) scale(1); }
+  100% { transform: translate3d(-2%, 2%, 0) scale(1.04); }
+}
+@keyframes tickerSlide {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  body::before, .ticker-track { animation: none !important; }
+  .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+}
+a { color: inherit; text-decoration: none; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
+.read-progress {
+  position: fixed; top: 0; left: 0; height: 2.5px; width: 0%; z-index: 70;
+  background: linear-gradient(90deg, #0071e3, #5e5ce6, #bf5af2);
+  transition: width 0.08s linear;
+}
+/* Minimal Apple-style news ticker */
+.ticker-bar {
+  background: var(--surface-muted);
+  border-bottom: 1px solid var(--border);
+  overflow: hidden; white-space: nowrap; font-size: 0.76rem;
+  display: flex; align-items: center;
+}
+.ticker-label {
+  display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px;
+  font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
+  color: var(--accent); border-right: 1px solid var(--border); z-index: 2;
+  background: var(--surface-muted);
+}
+.ticker-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); }
+.ticker-viewport { overflow: hidden; flex: 1; }
+.ticker-track { display: inline-flex; gap: 36px; padding: 6px 0 6px 24px; animation: tickerSlide 44s linear infinite; }
+.ticker-track:hover { animation-play-state: paused; }
+.ticker-item { color: var(--muted); font-weight: 500; transition: color 0.18s; }
+.ticker-item:hover { color: var(--text); }
+/* Frosted Apple navbar */
+header.site-header {
+  position: sticky; top: 0; z-index: 50;
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  background: var(--glass);
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.header-inner {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 14px; padding: 10px 0; flex-wrap: wrap;
+}
+.brand { display: inline-flex; align-items: center; gap: 10px; }
+.brand-logo { width: 34px; height: 34px; transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1); }
+.brand:hover .brand-logo { transform: scale(1.06); }
+.brand-text { display: flex; flex-direction: column; line-height: 1.05; }
+.brand-name { font-weight: 700; font-size: 1.04rem; letter-spacing: -0.02em; color: var(--text); }
+.brand-sub { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; margin-top: 1px; }
+.nav-links { display: flex; align-items: center; gap: 20px; font-size: 0.84rem; font-weight: 500; color: var(--muted); flex-wrap: wrap; }
+.nav-links a { transition: color 0.18s; }
+.nav-links a:hover { color: var(--text); }
+.nav-controls { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.icon-pill {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  height: 32px; padding: 0 11px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+  font-size: 0.76rem; font-weight: 600; cursor: pointer;
+  transition: transform 0.22s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.2s, box-shadow 0.2s;
+}
+.icon-pill:hover { transform: translateY(-1px); border-color: var(--border-strong); box-shadow: var(--shadow-card); }
+.icon-pill.ig:hover { border-color: #e1306c; }
+.icon-pill.tt:hover { border-color: var(--accent); }
+[data-theme="light"] .icon-sun { display: none; }
+[data-theme="dark"] .icon-moon { display: none; }
+.lang-toggle {
+  display: inline-flex; background: var(--surface-muted); border: 1px solid var(--border);
+  border-radius: 999px; padding: 2px;
+}
+.lang-link {
+  padding: 4px 10px; border-radius: 999px; font-weight: 600; font-size: 0.74rem;
+  color: var(--muted); transition: all 0.2s;
+}
+.lang-link.active { background: var(--text); color: var(--bg); }
+/* Spotlight Search & Filter Toolbar */
+.toolbar { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin: 28px 0 22px; }
+.search-input {
+  flex: 1 1 250px; min-width: 220px;
+  background: var(--surface); border: 1px solid var(--border);
+  color: var(--text); border-radius: 14px; padding: 10px 16px; font-size: 0.92rem;
+  box-shadow: var(--shadow-card);
+  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.3s;
+}
+.search-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.16); }
+.filter-pills { display: flex; gap: 8px; flex-wrap: wrap; }
+.pill {
+  border: 1px solid var(--border); background: var(--surface); color: var(--muted);
+  padding: 7px 14px; border-radius: 999px; cursor: pointer; font-size: 0.81rem; font-weight: 600;
+  transition: all 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.pill:hover { border-color: var(--border-strong); color: var(--text); }
+.pill.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+/* Lead Featured Story (Apple Newsroom style) */
+.featured-card {
+  display: grid; grid-template-columns: 1.25fr 1fr; gap: 0;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 26px;
+  overflow: hidden; margin-bottom: 26px; box-shadow: var(--shadow-card);
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease, border-color 0.25s;
+}
+@media (max-width: 860px) { .featured-card { grid-template-columns: 1fr; } }
+.featured-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); border-color: var(--border-strong); }
+.featured-img-wrap { position: relative; min-height: 290px; max-height: 430px; overflow: hidden; background: var(--surface-muted); }
+.featured-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.65s cubic-bezier(0.22, 1, 0.36, 1); }
+.featured-card:hover .featured-img { transform: scale(1.03); }
+.featured-body { padding: 34px; display: flex; flex-direction: column; justify-content: center; gap: 14px; }
+.featured-body h1 { font-size: clamp(1.48rem, 2.5vw, 2.15rem); line-height: 1.15; letter-spacing: -0.03em; font-weight: 700; }
+.featured-body p.excerpt { color: var(--muted); font-size: 0.98rem; line-height: 1.55; }
+/* Editorial Grid Cards */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(315px, 1fr)); gap: 22px; padding-bottom: 42px; }
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.32s ease, border-color 0.25s;
+}
+.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); border-color: var(--border-strong); }
+.card-img-wrap { overflow: hidden; aspect-ratio: 16/9; background: var(--surface-muted); }
+.card-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.card:hover .card-img { transform: scale(1.035); }
+.card-body { padding: 22px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.meta-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 0.76rem; color: var(--muted); font-weight: 500; }
+.tag-badge {
+  font-weight: 700; font-size: 0.68rem; padding: 3px 9px; border-radius: 999px;
+  text-transform: uppercase; letter-spacing: 0.04em; color: #fff;
+}
+.card h2 { font-size: 1.14rem; line-height: 1.3; letter-spacing: -0.02em; font-weight: 700; }
+.card p.excerpt { color: var(--muted); font-size: 0.9rem; flex: 1; line-height: 1.55; }
+.read-more { color: var(--accent); font-weight: 600; font-size: 0.85rem; margin-top: 4px; display: inline-flex; align-items: center; gap: 4px; }
+.ad-infeed { grid-column: 1 / -1; }
+/* Subtle clean Ad container */
+.ad-slot {
+  margin: 18px 0; padding: 10px 14px 14px;
+  border-radius: 16px; border: 1px solid var(--border);
+  background: var(--surface-muted); text-align: center;
+}
+.ad-slot-label {
+  display: block; font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted); opacity: 0.7; margin-bottom: 6px;
+}
+/* Article View */
+.article-layout {
+  display: grid; grid-template-columns: minmax(0, 1fr) 295px; gap: 30px;
+  margin: 28px auto 60px; align-items: start;
+}
+@media (max-width: 960px) { .article-layout { grid-template-columns: 1fr; } }
+article.post-shell { min-width: 0; }
+aside.article-sidebar { position: sticky; top: 78px; display: flex; flex-direction: column; gap: 18px; }
+.sidebar-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 20px; box-shadow: var(--shadow-card);
+}
+.sidebar-card h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 10px; font-weight: 700; }
+.sidebar-card p { font-size: 0.86rem; color: var(--muted); }
+.back-link { display: inline-flex; align-items: center; gap: 5px; color: var(--accent); font-weight: 600; margin-bottom: 14px; font-size: 0.88rem; }
+.post-header h1 { font-size: clamp(1.85rem, 3.4vw, 2.6rem); line-height: 1.12; letter-spacing: -0.032em; font-weight: 700; margin: 12px 0; }
+.post-meta { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); font-size: 0.84rem; margin-bottom: 20px; align-items: center; }
+.hero-media-wrap { margin-bottom: 24px; }
+.post-hero { width: 100%; max-height: 510px; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--border); display: block; box-shadow: var(--shadow-card); }
+.photo-credit { font-size: 0.68rem; color: var(--muted); opacity: 0.62; text-align: right; margin-top: 6px; }
+.highlights-box {
+  background: var(--surface); border: 1px solid var(--border); border-left: 3.5px solid var(--accent);
+  border-radius: 16px; padding: 20px 22px; margin-bottom: 22px; box-shadow: var(--shadow-card);
+}
+.highlights-box h3 { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); margin-bottom: 10px; }
+.highlights-box ul { padding-left: 18px; display: flex; flex-direction: column; gap: 7px; font-size: 0.95rem; }
+.post-content {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 34px; font-size: 1.05rem; line-height: 1.78;
+  box-shadow: var(--shadow-card);
+}
+.post-content h2 { font-size: 1.32rem; letter-spacing: -0.02em; margin: 26px 0 10px; color: var(--text); }
+.post-content h2:first-child { margin-top: 0; }
+.post-content p + p { margin-top: 16px; }
+.author-card {
+  margin-top: 22px; background: var(--surface); border: 1px solid var(--border); border-radius: 18px;
+  padding: 18px 22px; display: flex; align-items: center; gap: 16px; box-shadow: var(--shadow-card);
+}
+.author-avatar { width: 44px; height: 44px; flex-shrink: 0; }
+.author-info h4 { font-size: 0.95rem; font-weight: 700; }
+.author-info p { font-size: 0.84rem; color: var(--muted); margin-top: 2px; }
+.share-bar { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 20px; align-items: center; }
+.share-btn {
+  display: inline-flex; align-items: center; gap: 6px; padding: 8px 15px;
+  border-radius: 999px; border: 1px solid var(--border); background: var(--surface);
+  color: var(--text); font-size: 0.81rem; font-weight: 600; cursor: pointer;
+  transition: transform 0.2s, border-color 0.2s;
+}
+.share-btn:hover { transform: translateY(-1px); border-color: var(--accent); }
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 24px; }
+.gallery img { width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 14px; border: 1px solid var(--border); }
+.legal-shell {
+  max-width: 820px; margin: 36px auto 64px; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 36px; box-shadow: var(--shadow-card);
+}
+.legal-shell h1 { font-size: 2rem; letter-spacing: -0.03em; margin-bottom: 14px; }
+.legal-shell h2 { font-size: 1.18rem; margin: 24px 0 8px; color: var(--accent); }
+.legal-shell p, .legal-shell li { color: var(--muted); margin-bottom: 10px; }
+.legal-shell ul { padding-left: 20px; }
+/* Scroll Reveal */
+.reveal { opacity: 0; transform: translateY(16px); transition: opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+/* Footer */
+footer.site-footer {
+  border-top: 1px solid var(--border); padding: 34px 0 42px;
+  color: var(--muted); font-size: 0.82rem; background: var(--surface);
+}
+.footer-grid { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 24px; margin-bottom: 22px; }
+@media (max-width: 780px) { .footer-grid { grid-template-columns: 1fr; } }
+.footer-col h4 { color: var(--text); font-size: 0.8rem; margin-bottom: 9px; text-transform: uppercase; letter-spacing: 0.05em; }
+.footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 7px; }
+.footer-col a { display: inline-flex; align-items: center; gap: 6px; transition: color 0.18s; }
+.footer-col a:hover, .cookie-link:hover { color: var(--accent); }
+.footer-bottom { border-top: 1px solid var(--border); padding-top: 16px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+.cookie-link { background: none; border: 0; color: var(--muted); cursor: pointer; font: inherit; text-decoration: underline; }
+/* EU GDPR Cookie Banner */
+.gdpr-banner {
+  position: fixed; bottom: 18px; right: 18px; left: 18px; max-width: 450px; margin-left: auto;
+  z-index: 80; background: var(--surface); border: 1px solid var(--border-strong);
+  border-radius: 20px; padding: 20px; box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+  display: none;
+}
+.gdpr-banner.show { display: block; animation: fadeUp 0.35s ease; }
+.gdpr-banner h4 { font-size: 0.95rem; margin-bottom: 6px; color: var(--text); }
+.gdpr-banner p { font-size: 0.82rem; color: var(--muted); line-height: 1.5; margin-bottom: 14px; }
+.gdpr-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn-accept {
+  background: var(--accent); color: #ffffff; border: 0; border-radius: 999px;
+  padding: 8px 16px; font-weight: 600; cursor: pointer; font-size: 0.8rem;
+}
+.btn-accept:hover { background: var(--accent-hover); }
+.btn-essential {
+  background: var(--surface-muted); color: var(--text); border: 1px solid var(--border);
+  border-radius: 999px; padding: 8px 16px; font-weight: 600; cursor: pointer; font-size: 0.8rem;
+}
+</style>
+</head>
+<body>
+  <div class="ticker-bar"><span class="ticker-label"><span class="ticker-dot"></span> LIVE</span><div class="ticker-viewport"><div class="ticker-track"><a class="ticker-item" href="../en/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</a><a class="ticker-item" href="../en/posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">Elon Musk Clarifies the Distinction Between Starlink and Starshield</a><a class="ticker-item" href="../en/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">Senate Committee Approves FCC Nominee Amidst Democratic Boycott</a><a class="ticker-item" href="../en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">Apple Releases Safari Technology Preview 257 With Performance Updates</a><a class="ticker-item" href="../en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</a><a class="ticker-item" href="../en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</a><a class="ticker-item" href="../en/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">Apple Releases First Software Update for HomeView Device</a><a class="ticker-item" href="../en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">Google Adds Incognito-Style Temporary Threads to AI Search</a><a class="ticker-item" href="../en/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</a><a class="ticker-item" href="../en/posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">Elon Musk Clarifies the Distinction Between Starlink and Starshield</a><a class="ticker-item" href="../en/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">Senate Committee Approves FCC Nominee Amidst Democratic Boycott</a><a class="ticker-item" href="../en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">Apple Releases Safari Technology Preview 257 With Performance Updates</a><a class="ticker-item" href="../en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</a><a class="ticker-item" href="../en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</a><a class="ticker-item" href="../en/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">Apple Releases First Software Update for HomeView Device</a><a class="ticker-item" href="../en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">Google Adds Incognito-Style Temporary Threads to AI Search</a></div></div></div>
+  
+<div id="read-progress" class="read-progress"></div>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="../en/" aria-label="Daniel Cioc">
+      <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0071e3"/><stop offset="55%" stop-color="#5e5ce6"/><stop offset="100%" stop-color="#bf5af2"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#111113"/><path d="M14 19 H23.5 C31 19 35 24 35 32 C35 40 31 45 23.5 45 H14 Z M19 23.8 V40.2 H23 C27.2 40.2 29.6 37.2 29.6 32 C29.6 26.8 27.2 23.8 23 23.8 Z" fill="#f5f5f7"/><path d="M50 23.8 A12 12 0 1 0 50 40.2" fill="none" stroke="url(#dcGradNav)" stroke-width="5.2" stroke-linecap="round"/><circle cx="50" cy="32" r="3" fill="#0071e3"/></svg>
+      <span class="brand-text">
+        <span class="brand-name">DC</span>
+        <span class="brand-sub">Daniel Cioc</span>
+      </span>
+    </a>
+    <nav class="nav-links" aria-label="Main">
+      <a href="../en/">Home</a>
+      <a href="../en/about/">About</a>
+      <a href="../en/privacy/">Privacy</a>
+      <a href="../en/contact/">Contact</a>
+    </nav>
+    <div class="nav-controls">
+      <a class="icon-pill ig" href="https://instagram.com/danielcioc" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg> @danielcioc</a>
+      <a class="icon-pill tt" href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg> @adriandanielcioc</a>
+      <button type="button" class="icon-pill" data-theme-toggle aria-label="Toggle Light/Dark Mode"><svg class="icon-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg><svg class="icon-moon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <a class="lang-link" href="../">RO</a>
+        <a class="lang-link active" href="./">EN</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <main class="wrap">
+    
+
+    <div class="toolbar">
+      <input id="blog-search" class="search-input" type="search" placeholder="Search stories (iOS, AI, Apple, Android, NVIDIA...)">
+      <div class="filter-pills">
+        <button type="button" class="pill active" data-filter-type="all">All</button>
+        <button type="button" class="pill" data-filter-type="official_launch">Official Launches</button>
+        <button type="button" class="pill" data-filter-type="rumor_leak">Rumors & Leaks</button>
+        <button type="button" class="pill" data-filter-type="general_tech">Tech News</button>
+      </div>
+    </div>
+
+    
+<a class="featured-card card reveal" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/" data-type="official_launch" data-search="samsung tv plus to livestream 2026 mama awards globally samsung tv plus will livestream the 2026 mama awards globally, featuring two days of performances on november 20 and 21.">
+  <div class="featured-img-wrap"><img class="featured-img" src="../assets/images/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally_1.jpg" alt="Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally"></div>
+  <div class="featured-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-19</span>
+    </div>
+    <h1>Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</h1>
+    <p class="excerpt">Samsung TV Plus will livestream the 2026 MAMA AWARDS globally, featuring two days of performances on November 20 and 21.</p>
+    <span class="read-more">Read article &rarr;</span>
+  </div>
+</a>
+
+
+    <section class="grid">
+      
+<a class="card reveal" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/" data-type="general_tech" data-search="elon musk clarifies the distinction between starlink and starshield elon musk clarifies the role of starlink in ukraine, highlighting the difference between the civilian network and the government-controlled starshield system.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield_1.jpg" alt="Elon Musk Clarifies the Distinction Between Starlink and Starshield" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-19</span>
+    </div>
+    <h2>Elon Musk Clarifies the Distinction Between Starlink and Starshield</h2>
+    <p class="excerpt">Elon Musk clarifies the role of Starlink in Ukraine, highlighting the difference between the civilian network and the government-controlled Starshield system.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/" data-type="general_tech" data-search="senate committee approves fcc nominee amidst democratic boycott the senate commerce committee advanced fcc nominee danielle thumann 15-0 as democrats boycotted, citing procedural concerns and alleged false testimony.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_1.jpg" alt="Senate Committee Approves FCC Nominee Amidst Democratic Boycott" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Senate Committee Approves FCC Nominee Amidst Democratic Boycott</h2>
+    <p class="excerpt">The Senate Commerce Committee advanced FCC nominee Danielle Thumann 15-0 as Democrats boycotted, citing procedural concerns and alleged false testimony.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/" data-type="official_launch" data-search="apple releases safari technology preview 257 with performance updates apple has launched safari technology preview 257, bringing technical optimizations and bug fixes for developers using macos tahoe and golden gate.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" alt="Apple Releases Safari Technology Preview 257 With Performance Updates" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Apple Releases Safari Technology Preview 257 With Performance Updates</h2>
+    <p class="excerpt">Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/" data-type="official_launch" data-search="google introduces gemini 4 neon for advanced reasoning tasks google launches gemini 4 neon, an ai model optimized for complex engineering and scientific workflows with a 1 million token context window.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" alt="Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</h2>
+    <p class="excerpt">Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/" data-type="general_tech" data-search="sony bravia 8 ii oled sees major price drop before black friday the sony bravia 8 ii oled hits a record low price, delivering top-tier 4k 120hz performance and advanced features ahead of black friday.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday_1.jpg" alt="Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</h2>
+    <p class="excerpt">The Sony Bravia 8 II OLED hits a record low price, delivering top-tier 4K 120Hz performance and advanced features ahead of Black Friday.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/" data-type="official_launch" data-search="apple releases first software update for homeview device apple has released the 27.2.1 software update for the homeview device, marking its very first post-release update.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-apple-releases-first-software-update-for-homeview-device_1.jpg" alt="Apple Releases First Software Update for HomeView Device" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Apple Releases First Software Update for HomeView Device</h2>
+    <p class="excerpt">Apple has released the 27.2.1 software update for the HomeView device, marking its very first post-release update.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/" data-type="official_launch" data-search="google adds incognito-style temporary threads to ai search google has launched temporary threads for ai mode in search, allowing users to conduct private, unlogged ai conversations that do not impact personalization.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" alt="Google Adds Incognito-Style Temporary Threads to AI Search" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Google Adds Incognito-Style Temporary Threads to AI Search</h2>
+    <p class="excerpt">Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/" data-type="official_launch" data-search="samsung officially launches the one ui 9.5 beta program samsung has officially opened the one ui 9.5 beta program, bringing advanced camera controls and new privacy features to galaxy devices.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program_1.jpg" alt="Samsung Officially Launches the One UI 9.5 Beta Program" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Samsung Officially Launches the One UI 9.5 Beta Program</h2>
+    <p class="excerpt">Samsung has officially opened the One UI 9.5 beta program, bringing advanced camera controls and new privacy features to Galaxy devices.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/" data-type="official_launch" data-search="google brings gemini app to lower-memory android devices google optimizes the gemini app for android (go edition) devices, bringing advanced ai features to millions of entry-level smartphone users worldwide.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg" alt="Google Brings Gemini App to Lower-Memory Android Devices" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Google Brings Gemini App to Lower-Memory Android Devices</h2>
+    <p class="excerpt">Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/" data-type="general_tech" data-search="sam altman warns against a future where ai controls human decisions sam altman and greg brockman emphasize the necessity of maintaining human oversight as ai models become increasingly powerful and complex.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg" alt="Sam Altman Warns Against a Future Where AI Controls Human Decisions" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Sam Altman Warns Against a Future Where AI Controls Human Decisions</h2>
+    <p class="excerpt">Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/" data-type="general_tech" data-search="apple releases firmware update for fourth-generation siri remote apple has updated the fourth-generation siri remote firmware to build 0001.0061.0000.0000 with background updates.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg" alt="Apple Releases Firmware Update for Fourth-Generation Siri Remote" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Apple Releases Firmware Update for Fourth-Generation Siri Remote</h2>
+    <p class="excerpt">Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-google-launches-november-update-for-marketing-platform/" data-type="official_launch" data-search="google launches november update for marketing platform google has released the november marketing platform update, providing new tools to help advertisers maximize roi during the holiday shopping season.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-google-launches-november-update-for-marketing-platform_1.jpg" alt="Google Launches November Update for Marketing Platform" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Google Launches November Update for Marketing Platform</h2>
+    <p class="excerpt">Google has released the November Marketing Platform update, providing new tools to help advertisers maximize ROI during the holiday shopping season.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-how-to-spot-real-black-friday-deals/" data-type="general_tech" data-search="how to spot real black friday deals learn how to navigate black friday sales by using price tracking tools and avoiding common retailer pricing traps.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-how-to-spot-real-black-friday-deals_1.jpg" alt="How to Spot Real Black Friday Deals" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>How to Spot Real Black Friday Deals</h2>
+    <p class="excerpt">Learn how to navigate Black Friday sales by using price tracking tools and avoiding common retailer pricing traps.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/" data-type="general_tech" data-search="essential guide: google tips and tools for your online safety google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety_1.jpg" alt="Essential Guide: Google Tips and Tools for Your Online Safety" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Essential Guide: Google Tips and Tools for Your Online Safety</h2>
+    <p class="excerpt">Google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/" data-type="official_launch" data-search="apple announces finalists for 2026 app store awards apple has revealed the 45 finalists for the 2026 app store awards, celebrating innovation and exceptional design across its entire ecosystem.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_1.jpg" alt="Apple Announces Finalists for 2026 App Store Awards" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-18</span>
+    </div>
+    <h2>Apple Announces Finalists for 2026 App Store Awards</h2>
+    <p class="excerpt">Apple has revealed the 45 finalists for the 2026 App Store Awards, celebrating innovation and exceptional design across its entire ecosystem.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/" data-type="general_tech" data-search="apple homeview teardown: why the new smart hub is hard to repair a new teardown from ifixit highlights that the apple homeview is surprisingly difficult to repair, marking a step back in design.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair_1.jpg" alt="Apple HomeView Teardown: Why the New Smart Hub Is Hard to Repair" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Apple HomeView Teardown: Why the New Smart Hub Is Hard to Repair</h2>
+    <p class="excerpt">A new teardown from iFixit highlights that the Apple HomeView is surprisingly difficult to repair, marking a step back in design.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/" data-type="official_launch" data-search="nvidia expands supply chain commitments to support global ai infrastructure nvidia is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_1.jpg" alt="NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure</h2>
+    <p class="excerpt">NVIDIA is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/" data-type="general_tech" data-search="apple macbook neo drops to $649 in rare early black friday deal the entry-level macbook neo is now discounted by $50 ahead of black friday, starting at $649 across major retailers.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal_1.jpg" alt="Apple MacBook Neo Drops to $649 in Rare Early Black Friday Deal" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Apple MacBook Neo Drops to $649 in Rare Early Black Friday Deal</h2>
+    <p class="excerpt">The entry-level MacBook Neo is now discounted by $50 ahead of Black Friday, starting at $649 across major retailers.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/" data-type="general_tech" data-search="nvidia and samsung report record breaking financial results for 2026 nvidia and samsung report historic financial results, driven by unprecedented demand for ai infrastructure and semiconductor technology.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026_1.jpg" alt="NVIDIA and Samsung Report Record Breaking Financial Results for 2026" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>NVIDIA and Samsung Report Record Breaking Financial Results for 2026</h2>
+    <p class="excerpt">NVIDIA and Samsung report historic financial results, driven by unprecedented demand for AI infrastructure and semiconductor technology.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/" data-type="official_launch" data-search="google expands gemini tasks for advanced personal assistance google is rolling out gemini tasks to its gemini 4 hydrogen model, allowing the ai to make calls, book appointments, and handle payments for users.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg" alt="Google Expands Gemini Tasks for Advanced Personal Assistance" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Google Expands Gemini Tasks for Advanced Personal Assistance</h2>
+    <p class="excerpt">Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/" data-type="general_tech" data-search="nomad launches black friday sale on apple accessories nomad has kicked off its black friday event featuring up to 30% off on iphone 18 pro cases, charging stations, and bands until december 1.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories_1.jpg" alt="Nomad Launches Black Friday Sale on Apple Accessories" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Nomad Launches Black Friday Sale on Apple Accessories</h2>
+    <p class="excerpt">Nomad has kicked off its Black Friday event featuring up to 30% off on iPhone 18 Pro cases, charging stations, and bands until December 1.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/" data-type="general_tech" data-search="ios 27.3 beta introduces ai limits and ui refinements apple is testing usage limits for ai features in ios 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_1.jpg" alt="iOS 27.3 Beta Introduces AI Limits and UI Refinements" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>iOS 27.3 Beta Introduces AI Limits and UI Refinements</h2>
+    <p class="excerpt">Apple is testing usage limits for AI features in iOS 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-google-launches-new-task-management-features-for-gemini/" data-type="official_launch" data-search="google launches new task management features for gemini gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new gemini 4 hydrogen model.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg" alt="Google Launches New Task Management Features for Gemini" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Google Launches New Task Management Features for Gemini</h2>
+    <p class="excerpt">Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/" data-type="official_launch" data-search="google wallet is now officially available on ios in the u.s. google wallet is now available on ios in the u.s., allowing users to organize tickets, passes, and receipts by syncing with google apps.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us_1.jpg" alt="Google Wallet Is Now Officially Available on iOS in the U.S." loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Google Wallet Is Now Officially Available on iOS in the U.S.</h2>
+    <p class="excerpt">Google Wallet is now available on iOS in the U.S., allowing users to organize tickets, passes, and receipts by syncing with Google apps.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/" data-type="official_launch" data-search="formula 1 las vegas grand prix streams live on apple tv apple tv brings the las vegas grand prix to fans with new multiview support on smart tvs and immersive dolby atmos audio for a premium race-day experience.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv_1.jpg" alt="Formula 1 Las Vegas Grand Prix Streams Live on Apple TV" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Formula 1 Las Vegas Grand Prix Streams Live on Apple TV</h2>
+    <p class="excerpt">Apple TV brings the Las Vegas Grand Prix to fans with new Multiview support on smart TVs and immersive Dolby Atmos audio for a premium race-day experience.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/" data-type="official_launch" data-search="google now lets you opt out of ai training in gemini google updates gemini settings to allow users to opt out of ai training while retaining their chat history, enhancing privacy control.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_1.jpg" alt="Google Now Lets You Opt Out of AI Training in Gemini" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Google Now Lets You Opt Out of AI Training in Gemini</h2>
+    <p class="excerpt">Google updates Gemini settings to allow users to opt out of AI training while retaining their chat history, enhancing privacy control.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/" data-type="general_tech" data-search="jensen huang expresses willingness to return as nvidia ceo jensen huang, who recently stepped down as nvidia ceo after 33 years, has issued a surprising statement confirming his willingness to return to the role if the board of directors deems it…">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo_1.jpg" alt="Jensen Huang Expresses Willingness To Return As Nvidia CEO" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Jensen Huang Expresses Willingness To Return As Nvidia CEO</h2>
+    <p class="excerpt">Jensen Huang, who recently stepped down as Nvidia CEO after 33 years, has issued a surprising statement confirming his willingness to return to the role if the board of directors deems it…</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/" data-type="official_launch" data-search="flipper one: the pocket linux computer is now available for preorder flipper devices has taken a major step in the evolution of portable gadgets by launching a crowdfunding campaign for the flipper one.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_1.jpg" alt="Flipper One: The Pocket Linux Computer Is Now Available for Preorder" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Flipper One: The Pocket Linux Computer Is Now Available for Preorder</h2>
+    <p class="excerpt">Flipper Devices has taken a major step in the evolution of portable gadgets by launching a crowdfunding campaign for the Flipper One.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/" data-type="official_launch" data-search="apple store app now fully optimized for iphone duo apple has released a significant update for the apple store app, which is now fully optimized for the iphone duo.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_1.jpg" alt="Apple Store App Now Fully Optimized for iPhone Duo" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Apple Store App Now Fully Optimized for iPhone Duo</h2>
+    <p class="excerpt">Apple has released a significant update for the Apple Store app, which is now fully optimized for the iPhone Duo.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/" data-type="general_tech" data-search="data centers under siege: the risks of modern warfare on cloud infrastructure the year 2026 has marked a dramatic shift in the cybersecurity landscape as data centers have become direct military targets.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_1.jpg" alt="Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure</h2>
+    <p class="excerpt">The year 2026 has marked a dramatic shift in the cybersecurity landscape as data centers have become direct military targets.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/" data-type="official_launch" data-search="google play announces the best apps and games of 2026 google play has officially released the list of winners for the best of 2026 awards, an annual celebration of creativity and innovation within the android ecosystem.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026_1.jpg" alt="Google Play Announces The Best Apps And Games Of 2026" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Google Play Announces The Best Apps And Games Of 2026</h2>
+    <p class="excerpt">Google Play has officially released the list of winners for the Best of 2026 awards, an annual celebration of creativity and innovation within the Android ecosystem.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year/" data-type="official_launch" data-search="apple podcasts names baby, this is keke palmer 2026 show of the year apple podcasts has officially announced that &#x27;baby, this is keke palmer&#x27; has been named the 2026 show of the year.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year_1.jpg" alt="Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year</h2>
+    <p class="excerpt">Apple Podcasts has officially announced that &#x27;Baby, this is Keke Palmer&#x27; has been named the 2026 Show of the Year.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit/" data-type="official_launch" data-search="nvidia establishes national security and export control oversight committee nvidia has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit_1.jpg" alt="NVIDIA Establishes National Security and Export Control Oversight Committee" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-17</span>
+    </div>
+    <h2>NVIDIA Establishes National Security and Export Control Oversight Committee</h2>
+    <p class="excerpt">NVIDIA has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/" data-type="general_tech" data-search="macos 27.3 brings enhanced ai security and apple intelligence to china apple has released the latest beta for macos 27.3, placing a strong emphasis on user security in the age of artificial intelligence.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg" alt="macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-16</span>
+    </div>
+    <h2>macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China</h2>
+    <p class="excerpt">Apple has released the latest beta for macOS 27.3, placing a strong emphasis on user security in the age of artificial intelligence.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/" data-type="official_launch" data-search="nvidia, ibm, and fermilab accelerate the modular quantum computing era nvidia has announced a major collaboration with ibm and the fermi national accelerator laboratory to develop a modular codesign platform for quantum computers.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_1.jpg" alt="NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-16</span>
+    </div>
+    <h2>NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era</h2>
+    <p class="excerpt">NVIDIA has announced a major collaboration with IBM and the Fermi National Accelerator Laboratory to develop a modular codesign platform for quantum computers.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026/" data-type="general_tech" data-search="galaxy innovation redefines the athlete experience at dakar 2026 the youth olympic games dakar 2026 have officially commenced in senegal, highlighting a new generation of talent.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026_1.jpg" alt="Galaxy Innovation Redefines the Athlete Experience at Dakar 2026" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#30b0c7">Tech News</span>
+      <span>2026-11-16</span>
+    </div>
+    <h2>Galaxy Innovation Redefines the Athlete Experience at Dakar 2026</h2>
+    <p class="excerpt">The Youth Olympic Games Dakar 2026 have officially commenced in Senegal, highlighting a new generation of talent.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+<a class="card reveal" href="posts/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health/" data-type="official_launch" data-search="apple launches research study to explore the use of ai for health apple has officially announced the launch of the apple health ai usage study, an initiative designed to explore human interaction with artificial intelligence in the context of healthcare.">
+  <div class="card-img-wrap"><img class="card-img" src="../assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_1.jpg" alt="Apple Launches Research Study to Explore the Use of AI for Health" loading="lazy"></div>
+  <div class="card-body">
+    <div class="meta-row">
+      <span class="tag-badge" style="background:#0071e3">Official Launch</span>
+      <span>2026-11-16</span>
+    </div>
+    <h2>Apple Launches Research Study to Explore the Use of AI for Health</h2>
+    <p class="excerpt">Apple has officially announced the launch of the Apple Health AI Usage Study, an initiative designed to explore human interaction with artificial intelligence in the context of healthcare.</p>
+    <span class="read-more">Read analysis &rarr;</span>
+  </div>
+</a>
+
+    </section>
+
+    
+  </main>
+  
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <a class="brand" href="../en/" style="margin-bottom:10px;">
+          <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0071e3"/><stop offset="55%" stop-color="#5e5ce6"/><stop offset="100%" stop-color="#bf5af2"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#111113"/><path d="M14 19 H23.5 C31 19 35 24 35 32 C35 40 31 45 23.5 45 H14 Z M19 23.8 V40.2 H23 C27.2 40.2 29.6 37.2 29.6 32 C29.6 26.8 27.2 23.8 23 23.8 Z" fill="#f5f5f7"/><path d="M50 23.8 A12 12 0 1 0 50 40.2" fill="none" stroke="url(#dcGradNav)" stroke-width="5.2" stroke-linecap="round"/><circle cx="50" cy="32" r="3" fill="#0071e3"/></svg>
+          <span class="brand-text">
+            <span class="brand-name">DC</span>
+            <span class="brand-sub">Daniel Cioc</span>
+          </span>
+        </a>
+        <p>Technology news, AI analysis, mobile ecosystems, and hardware releases.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Editorial & EU Legal</h4>
+        <ul>
+          <li><a href="../en/about/">About & Editorial Policy</a></li>
+          <li><a href="../en/privacy/">Privacy Policy (GDPR)</a></li>
+          <li><a href="../en/terms/">Terms of Service</a></li>
+          <li><a href="../en/contact/">Contact &amp; Imprint</a></li>
+          <li><button type="button" class="cookie-link" data-open-consent>Cookie Settings</button></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Social &amp; Feeds</h4>
+        <ul>
+          <li><a href="https://instagram.com/danielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg> Instagram (@danielcioc)</a></li>
+          <li><a href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg> TikTok (@adriandanielcioc)</a></li>
+          <li><a href="../rss.xml">RSS Feed</a></li>
+          <li><a href="../news-sitemap.xml">Google News Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 DC &mdash; Daniel Cioc &bull; EU GDPR Compliant</span>
+      <span>contact@cioc.online</span>
+    </div>
+  </div>
+</footer>
+
+<aside id="gdpr-banner" class="gdpr-banner" role="dialog" aria-live="polite" aria-label="Cookie & Privacy Consent">
+  <h4>Privacy & Cookies (EU / GDPR)</h4>
+  <p>We use essential storage, Google Analytics, and Google AdSense (with your consent). <a href="../en/privacy/" style="color:var(--accent);text-decoration:underline;">Privacy Policy</a>.</p>
+  <div class="gdpr-actions">
+    <button type="button" id="gdpr-accept" class="btn-accept">Accept All</button>
+    <button type="button" id="gdpr-essential" class="btn-essential">Essential Only</button>
+  </div>
+</aside>
+
+
+  
+<script>
+(function () {
+  var themeBtn = document.querySelector('[data-theme-toggle]');
+  if (themeBtn) {
+    themeBtn.addEventListener('click', function () {
+      var cur = document.documentElement.getAttribute('data-theme') || 'light';
+      var next = cur === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('dc_theme', next);
+    });
+  }
+
+  var bar = document.getElementById('read-progress');
+  if (bar) {
+    window.addEventListener('scroll', function () {
+      var h = document.documentElement;
+      var max = (h.scrollHeight - h.clientHeight) || 1;
+      bar.style.width = Math.min(100, Math.max(0, (window.scrollY / max) * 100)) + '%';
+    }, { passive: true });
+  }
+
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.05 });
+    document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
+  } else {
+    document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('visible'); });
+  }
+
+  document.querySelectorAll('[data-copy-url]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var u = btn.getAttribute('data-copy-url') || window.location.href;
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(u);
+        var orig = btn.textContent;
+        btn.textContent = 'Copied!';
+        setTimeout(function () { btn.textContent = orig; }, 1600);
+      }
+    });
+  });
+
+  var banner = document.getElementById('gdpr-banner');
+  function updateConsent(granted) {
+    if (typeof gtag === 'function') {
+      var val = granted ? 'granted' : 'denied';
+      gtag('consent', 'update', {
+        ad_storage: val, ad_user_data: val, ad_personalization: val, analytics_storage: val
+      });
+    }
+    localStorage.setItem('cioc_eu_consent', granted ? 'accepted' : 'essential');
+    if (banner) banner.classList.remove('show');
+  }
+  if (banner && !localStorage.getItem('cioc_eu_consent')) {
+    banner.classList.add('show');
+  }
+  var acc = document.getElementById('gdpr-accept');
+  var ess = document.getElementById('gdpr-essential');
+  if (acc) acc.addEventListener('click', function () { updateConsent(true); });
+  if (ess) ess.addEventListener('click', function () { updateConsent(false); });
+  document.querySelectorAll('[data-open-consent]').forEach(function (el) {
+    el.addEventListener('click', function () { if (banner) banner.classList.add('show'); });
+  });
+})();
+</script>
+
+  
+<script>
+(function () {
+  var searchEl = document.getElementById('blog-search');
+  var activeType = 'all';
+  function updateGrid() {
+    var q = (searchEl.value || '').trim().toLowerCase();
+    document.querySelectorAll('.card').forEach(function (card) {
+      var matchesType = activeType === 'all' || card.getAttribute('data-type') === activeType;
+      var matchesQuery = !q || (card.getAttribute('data-search') || '').indexOf(q) !== -1;
+      card.style.display = (matchesType && matchesQuery) ? '' : 'none';
+    });
+  }
+  document.querySelectorAll('[data-filter-type]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      activeType = btn.getAttribute('data-filter-type');
+      document.querySelectorAll('[data-filter-type]').forEach(function (b) {
+        b.classList.toggle('active', b === btn);
+      });
+      updateGrid();
+    });
+  });
+  searchEl.addEventListener('input', updateGrid);
+})();
+</script>
+
+</body>
+</html>

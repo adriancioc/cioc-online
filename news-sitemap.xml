@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://cioc.online/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
+    <loc>https://cioc.online/en/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-19T08:00:00+00:00</news:publication_date>
@@ -13,10 +13,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/</loc>
+    <loc>https://cioc.online/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T08:00:00+00:00</news:publication_date>
+      <news:title>Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-19T01:39:45+00:00</news:publication_date>
@@ -24,10 +35,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</loc>
+    <loc>https://cioc.online/posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T01:39:45+00:00</news:publication_date>
+      <news:title>Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T23:25:04+00:00</news:publication_date>
@@ -35,10 +57,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:25:04+00:00</news:publication_date>
+      <news:title>Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T23:15:24+00:00</news:publication_date>
@@ -46,10 +79,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:15:24+00:00</news:publication_date>
+      <news:title>Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T21:00:00+00:00</news:publication_date>
@@ -57,10 +101,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T21:00:00+00:00</news:publication_date>
+      <news:title>Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T19:30:00+00:00</news:publication_date>
@@ -68,10 +123,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:30:00+00:00</news:publication_date>
+      <news:title>Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T18:53:53+00:00</news:publication_date>
@@ -79,10 +145,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T18:53:53+00:00</news:publication_date>
+      <news:title>Apple lansează prima actualizare software pentru dispozitivul HomeView</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T18:04:05+00:00</news:publication_date>
@@ -90,10 +167,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T18:04:05+00:00</news:publication_date>
+      <news:title>Google introduce modul incognito pentru funcția AI din Search</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T18:00:00+00:00</news:publication_date>
@@ -101,10 +189,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T18:00:00+00:00</news:publication_date>
+      <news:title>Samsung lansează programul beta pentru noua interfață One UI 9.5</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T17:00:00+00:00</news:publication_date>
@@ -112,10 +211,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T17:00:00+00:00</news:publication_date>
+      <news:title>Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T16:59:00+00:00</news:publication_date>
@@ -123,10 +233,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:59:00+00:00</news:publication_date>
+      <news:title>Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
@@ -134,10 +255,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
+      <news:title>Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
@@ -145,10 +277,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-how-to-spot-real-black-friday-deals/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
+      <news:title>Google lansează actualizarea de noiembrie pentru Marketing Platform</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-how-to-spot-real-black-friday-deals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
@@ -156,10 +299,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-how-to-spot-real-black-friday-deals/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
+      <news:title>Cum să identifici reducerile reale de Black Friday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
@@ -167,10 +321,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
+      <news:title>Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-18T13:59:20+00:00</news:publication_date>
@@ -178,10 +343,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
+    <loc>https://cioc.online/posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:59:20+00:00</news:publication_date>
+      <news:title>Apple a anunțat finaliștii pentru premiile App Store 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T22:25:41+00:00</news:publication_date>
@@ -189,10 +365,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:25:41+00:00</news:publication_date>
+      <news:title>Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T22:18:00+00:00</news:publication_date>
@@ -200,10 +387,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:18:00+00:00</news:publication_date>
+      <news:title>NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T21:46:20+00:00</news:publication_date>
@@ -211,10 +409,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T21:46:20+00:00</news:publication_date>
+      <news:title>Apple MacBook Neo Primește o Reducere Rară de Black Friday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T21:20:00+00:00</news:publication_date>
@@ -222,10 +431,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T21:20:00+00:00</news:publication_date>
+      <news:title>NVIDIA și Samsung raportează rezultate financiare record în 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T19:02:20+00:00</news:publication_date>
@@ -233,10 +453,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T19:02:20+00:00</news:publication_date>
+      <news:title>Google extinde funcția Gemini Tasks pentru sarcini administrative complexe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T18:35:28+00:00</news:publication_date>
@@ -244,10 +475,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T18:35:28+00:00</news:publication_date>
+      <news:title>Nomad lansează reducerile de Black Friday pentru accesorii Apple</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T17:45:19+00:00</news:publication_date>
@@ -255,10 +497,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T17:45:19+00:00</news:publication_date>
+      <news:title>iOS 27.3 aduce limite pentru AI și modificări vizuale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
@@ -266,10 +519,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
+      <news:title>Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
@@ -277,10 +541,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T17:00:00+00:00</news:publication_date>
+      <news:title>Google Wallet este acum disponibil oficial pe iOS în SUA</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T16:59:36+00:00</news:publication_date>
@@ -288,10 +563,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:59:36+00:00</news:publication_date>
+      <news:title>Marele Premiu de Formula 1 din Las Vegas vine pe Apple TV</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T16:50:10+00:00</news:publication_date>
@@ -299,10 +585,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:50:10+00:00</news:publication_date>
+      <news:title>Google permite acum excluderea datelor din antrenarea AI în Gemini</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T16:09:57+00:00</news:publication_date>
@@ -310,10 +607,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:09:57+00:00</news:publication_date>
+      <news:title>Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T16:00:00+00:00</news:publication_date>
@@ -321,10 +629,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:00:00+00:00</news:publication_date>
+      <news:title>Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T15:49:53+00:00</news:publication_date>
@@ -332,10 +651,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T15:49:53+00:00</news:publication_date>
+      <news:title>Aplicația Apple Store este acum optimizată pentru noul iPhone Duo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T15:28:59+00:00</news:publication_date>
@@ -343,10 +673,21 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T15:28:59+00:00</news:publication_date>
+      <news:title>Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/en/posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-17T15:00:00+00:00</news:publication_date>
@@ -354,25 +695,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year/</loc>
+    <loc>https://cioc.online/posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/</loc>
     <news:news>
       <news:publication>
-        <news:name>DC Tech</news:name>
-        <news:language>en</news:language>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T10:59:28+00:00</news:publication_date>
-      <news:title>Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC Tech</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T10:00:00+00:00</news:publication_date>
-      <news:title>NVIDIA Establishes National Security and Export Control Oversight Committee</news:title>
+      <news:publication_date>2026-11-17T15:00:00+00:00</news:publication_date>
+      <news:title>Google Play anunță cele mai bune aplicații și jocuri ale anului 2026</news:title>
     </news:news>
   </url>
 </urlset>

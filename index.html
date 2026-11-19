@@ -3,18 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DC — Daniel Cioc | Tech News &amp; AI</title>
-  <meta name="description" content="Technology news, AI, Apple, Android, cybersecurity, and hardware launches by Daniel Cioc.">
+  <title>DC — Daniel Cioc | Știri Tech &amp; AI</title>
+  <meta name="description" content="Știri din tehnologie, AI, Apple, Android, securitate cibernetică și lansări hardware de Daniel Cioc.">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="https://cioc.online/">
+  <link rel="alternate" hreflang="ro" href="https://cioc.online/">
+  <link rel="alternate" hreflang="en" href="https://cioc.online/en/">
+  <link rel="alternate" hreflang="x-default" href="https://cioc.online/">
   <link rel="alternate" type="application/rss+xml" title="DC Tech RSS" href="https://cioc.online/rss.xml">
   <meta property="og:site_name" content="DC — Daniel Cioc">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="DC — Daniel Cioc | Tech News &amp; AI">
-  <meta property="og:description" content="Technology news, AI, smartphones, and hardware launches.">
+  <meta property="og:title" content="DC — Daniel Cioc | Știri Tech &amp; AI">
+  <meta property="og:description" content="Știri din tehnologie, AI, Apple, Android, securitate cibernetică și lansări hardware de Daniel Cioc.">
   <meta property="og:url" content="https://cioc.online/">
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "DC — Daniel Cioc", "url": "https://cioc.online/", "inLanguage": ["ro", "en"], "description": "Technology news, AI, mobile devices, and hardware launches by Daniel Cioc."}</script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "DC — Daniel Cioc", "url": "https://cioc.online/", "inLanguage": "ro", "description": "Știri din tehnologie, AI, Apple, Android, securitate cibernetică și lansări hardware de Daniel Cioc."}</script>
+  <script>
+(function () {
+  var saved = localStorage.getItem('dc_theme');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.setAttribute('data-theme', saved || (prefersDark ? 'dark' : 'light'));
+})();
+</script>
   <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
@@ -39,330 +49,336 @@ if (localStorage.getItem('cioc_eu_consent') === 'accepted') {
   <meta name="google-adsense-account" content="ca-pub-3315047530491104">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3315047530491104" crossorigin="anonymous"></script>
   <style>
-:root {
-  --bg: #04060d;
-  --surface: rgba(13, 18, 32, 0.78);
-  --surface-hover: rgba(19, 27, 48, 0.92);
-  --surface-2: rgba(21, 30, 54, 0.9);
-  --border: rgba(255, 255, 255, 0.08);
-  --border-glow: rgba(56, 189, 248, 0.5);
-  --text: #f8fafc;
-  --muted: #94a3b8;
-  --accent: #38bdf8;
-  --accent-2: #6366f1;
-  --accent-3: #a855f7;
-  --radius: 20px;
+:root, [data-theme="light"] {
+  --bg: #f5f5f7;
+  --bg-elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-muted: #f0f0f3;
+  --glass: rgba(251, 251, 253, 0.82);
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.14);
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --accent: #0071e3;
+  --accent-hover: #0077ed;
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.04);
+  --shadow-hover: 0 20px 44px rgba(0, 0, 0, 0.09);
+  --glow-a: rgba(0, 113, 227, 0.06);
+  --glow-b: rgba(191, 90, 242, 0.05);
+  --radius: 22px;
+}
+[data-theme="dark"] {
+  --bg: #000000;
+  --bg-elevated: #161617;
+  --surface: #161617;
+  --surface-muted: #1d1d1f;
+  --glass: rgba(22, 22, 23, 0.78);
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.2);
+  --text: #f5f5f7;
+  --muted: #a1a1a6;
+  --accent: #2997ff;
+  --accent-hover: #47a6ff;
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.35);
+  --shadow-hover: 0 24px 50px rgba(0, 0, 0, 0.65);
+  --glow-a: rgba(41, 151, 255, 0.1);
+  --glow-b: rgba(191, 90, 242, 0.08);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
 body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Inter", "Helvetica Neue", Arial, sans-serif;
   background: var(--bg);
   color: var(--text);
-  line-height: 1.72;
+  line-height: 1.65;
   min-height: 100vh;
   overflow-x: hidden;
-  position: relative;
   -webkit-font-smoothing: antialiased;
+  transition: background-color 0.35s ease, color 0.35s ease;
+  position: relative;
 }
-/* Sleek subtle ambient glow + micro tech grid */
 body::before {
   content: "";
-  position: fixed; inset: -35%; z-index: -2; pointer-events: none;
+  position: fixed; inset: -25%; z-index: -1; pointer-events: none;
   background:
-    radial-gradient(circle at 18% 12%, rgba(56,189,248,0.14), transparent 36%),
-    radial-gradient(circle at 82% 18%, rgba(99,102,241,0.15), transparent 38%),
-    radial-gradient(circle at 50% 85%, rgba(168,85,247,0.1), transparent 44%);
-  animation: ambientFlow 22s ease-in-out infinite alternate;
+    radial-gradient(circle at 18% 10%, var(--glow-a), transparent 42%),
+    radial-gradient(circle at 84% 14%, var(--glow-b), transparent 44%);
+  animation: gentleDrift 26s ease-in-out infinite alternate;
 }
-body::after {
-  content: "";
-  position: fixed; inset: 0; z-index: -1; pointer-events: none;
-  background-image:
-    linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
-  background-size: 56px 56px;
-  mask-image: radial-gradient(ellipse at top center, rgba(0,0,0,0.85), transparent 80%);
-}
-@keyframes ambientFlow {
+@keyframes gentleDrift {
   0% { transform: translate3d(0, 0, 0) scale(1); }
-  100% { transform: translate3d(-2.5%, 2.5%, 0) scale(1.05); }
+  100% { transform: translate3d(-2%, 2%, 0) scale(1.04); }
 }
-@keyframes pulseDot {
-  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(56,189,248,0.75); }
-  50% { opacity: 0.7; box-shadow: 0 0 10px 4px rgba(56,189,248,0.22); }
-}
-@keyframes tickerMove {
+@keyframes tickerSlide {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 @media (prefers-reduced-motion: reduce) {
-  body::before, .ticker-track, .pulse-dot { animation: none !important; }
+  body::before, .ticker-track { animation: none !important; }
   .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
 }
 a { color: inherit; text-decoration: none; }
-.wrap { max-width: 1200px; margin: 0 auto; padding: 0 22px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
 .read-progress {
-  position: fixed; top: 0; left: 0; height: 2.5px; width: 0%; z-index: 60;
-  background: linear-gradient(90deg, var(--accent), var(--accent-2), var(--accent-3));
-  box-shadow: 0 0 10px rgba(56,189,248,0.65);
+  position: fixed; top: 0; left: 0; height: 2.5px; width: 0%; z-index: 70;
+  background: linear-gradient(90deg, #0071e3, #5e5ce6, #bf5af2);
   transition: width 0.08s linear;
 }
-/* Live news ticker */
+/* Minimal Apple-style news ticker */
 .ticker-bar {
-  background: rgba(6, 9, 19, 0.94);
+  background: var(--surface-muted);
   border-bottom: 1px solid var(--border);
-  overflow: hidden; white-space: nowrap; font-size: 0.77rem;
+  overflow: hidden; white-space: nowrap; font-size: 0.76rem;
   display: flex; align-items: center;
 }
 .ticker-label {
-  display: inline-flex; align-items: center; gap: 7px; padding: 6px 14px;
-  font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase;
-  background: linear-gradient(90deg, rgba(56,189,248,0.14), transparent);
+  display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px;
+  font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
   color: var(--accent); border-right: 1px solid var(--border); z-index: 2;
+  background: var(--surface-muted);
 }
-.pulse-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); animation: pulseDot 2s infinite; }
+.ticker-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); }
 .ticker-viewport { overflow: hidden; flex: 1; }
-.ticker-track { display: inline-flex; gap: 38px; padding: 6px 0 6px 24px; animation: tickerMove 42s linear infinite; }
+.ticker-track { display: inline-flex; gap: 36px; padding: 6px 0 6px 24px; animation: tickerSlide 44s linear infinite; }
 .ticker-track:hover { animation-play-state: paused; }
-.ticker-item { color: var(--muted); transition: color 0.15s; }
+.ticker-item { color: var(--muted); font-weight: 500; transition: color 0.18s; }
 .ticker-item:hover { color: var(--text); }
-/* Sticky glass header */
+/* Frosted Apple navbar */
 header.site-header {
-  position: sticky; top: 0; z-index: 40;
-  backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
-  background: rgba(4, 6, 13, 0.78);
+  position: sticky; top: 0; z-index: 50;
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  background: var(--glass);
   border-bottom: 1px solid var(--border);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 .header-inner {
   display: flex; align-items: center; justify-content: space-between;
-  gap: 16px; padding: 12px 0; flex-wrap: wrap;
+  gap: 14px; padding: 10px 0; flex-wrap: wrap;
 }
-.brand { display: inline-flex; align-items: center; gap: 11px; }
-.brand-logo { width: 38px; height: 38px; filter: drop-shadow(0 0 14px rgba(56,189,248,0.32)); transition: transform 0.25s ease; }
+.brand { display: inline-flex; align-items: center; gap: 10px; }
+.brand-logo { width: 34px; height: 34px; transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1); }
 .brand:hover .brand-logo { transform: scale(1.06); }
 .brand-text { display: flex; flex-direction: column; line-height: 1.05; }
-.brand-name {
-  font-weight: 800; font-size: 1.12rem; letter-spacing: 0.04em; text-transform: uppercase;
-  background: linear-gradient(120deg, #ffffff 30%, #bae6fd 80%, #c084fc 100%);
-  -webkit-background-clip: text; background-clip: text; color: transparent;
-}
-.brand-sub { font-size: 0.65rem; font-weight: 600; letter-spacing: 0.16em; color: var(--muted); text-transform: uppercase; margin-top: 2px; }
-.nav-links { display: flex; align-items: center; gap: 20px; font-size: 0.87rem; font-weight: 500; color: var(--muted); flex-wrap: wrap; }
+.brand-name { font-weight: 700; font-size: 1.04rem; letter-spacing: -0.02em; color: var(--text); }
+.brand-sub { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; margin-top: 1px; }
+.nav-links { display: flex; align-items: center; gap: 20px; font-size: 0.84rem; font-weight: 500; color: var(--muted); flex-wrap: wrap; }
 .nav-links a { transition: color 0.18s; }
 .nav-links a:hover { color: var(--text); }
-.nav-controls { display: flex; align-items: center; gap: 9px; flex-wrap: wrap; }
-.social-icon-btn {
+.nav-controls { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.icon-pill {
   display: inline-flex; align-items: center; justify-content: center; gap: 6px;
-  height: 34px; padding: 0 11px; border-radius: 999px;
+  height: 32px; padding: 0 11px; border-radius: 999px;
   border: 1px solid var(--border); background: var(--surface); color: var(--text);
-  font-size: 0.77rem; font-weight: 600;
-  transition: border-color 0.2s, transform 0.2s, background 0.2s, box-shadow 0.2s;
+  font-size: 0.76rem; font-weight: 600; cursor: pointer;
+  transition: transform 0.22s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.2s, box-shadow 0.2s;
 }
-.social-icon-btn.ig:hover { border-color: #e1306c; box-shadow: 0 0 14px rgba(225,48,108,0.28); transform: translateY(-1px); }
-.social-icon-btn.tt:hover { border-color: #25f4ee; box-shadow: 0 0 14px rgba(37,244,238,0.25); transform: translateY(-1px); }
+.icon-pill:hover { transform: translateY(-1px); border-color: var(--border-strong); box-shadow: var(--shadow-card); }
+.icon-pill.ig:hover { border-color: #e1306c; }
+.icon-pill.tt:hover { border-color: var(--accent); }
+[data-theme="light"] .icon-sun { display: none; }
+[data-theme="dark"] .icon-moon { display: none; }
 .lang-toggle {
-  display: inline-flex; background: rgba(15,23,42,0.9); border: 1px solid var(--border);
-  border-radius: 999px; padding: 3px;
+  display: inline-flex; background: var(--surface-muted); border: 1px solid var(--border);
+  border-radius: 999px; padding: 2px;
 }
-.lang-btn {
-  border: 0; background: transparent; color: var(--muted); cursor: pointer;
-  padding: 4px 11px; border-radius: 999px; font-weight: 700; font-size: 0.77rem;
-  transition: background 0.2s, color 0.2s;
+.lang-link {
+  padding: 4px 10px; border-radius: 999px; font-weight: 600; font-size: 0.74rem;
+  color: var(--muted); transition: all 0.2s;
 }
-.lang-btn.active { background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #04060d; }
-/* Search & Filters bar */
-.toolbar { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin: 26px 0 22px; }
+.lang-link.active { background: var(--text); color: var(--bg); }
+/* Spotlight Search & Filter Toolbar */
+.toolbar { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin: 28px 0 22px; }
 .search-input {
   flex: 1 1 250px; min-width: 220px;
   background: var(--surface); border: 1px solid var(--border);
   color: var(--text); border-radius: 14px; padding: 10px 16px; font-size: 0.92rem;
-  backdrop-filter: blur(12px); transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow-card);
+  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.3s;
 }
-.search-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(56,189,248,0.15); }
+.search-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.16); }
 .filter-pills { display: flex; gap: 8px; flex-wrap: wrap; }
 .pill {
   border: 1px solid var(--border); background: var(--surface); color: var(--muted);
-  padding: 7px 14px; border-radius: 999px; cursor: pointer; font-size: 0.82rem; font-weight: 600;
-  transition: all 0.2s;
+  padding: 7px 14px; border-radius: 999px; cursor: pointer; font-size: 0.81rem; font-weight: 600;
+  transition: all 0.2s cubic-bezier(0.22, 1, 0.36, 1);
 }
-.pill:hover { border-color: rgba(56,189,248,0.4); color: var(--text); }
-.pill.active {
-  background: linear-gradient(135deg, rgba(56,189,248,0.18), rgba(99,102,241,0.22));
-  color: var(--text); border-color: var(--accent);
-}
-/* Featured Lead Story Card */
+.pill:hover { border-color: var(--border-strong); color: var(--text); }
+.pill.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+/* Lead Featured Story (Apple Newsroom style) */
 .featured-card {
   display: grid; grid-template-columns: 1.25fr 1fr; gap: 0;
-  background: var(--surface); border: 1px solid var(--border); border-radius: 22px;
-  overflow: hidden; margin-bottom: 24px; backdrop-filter: blur(16px);
-  transition: transform 0.28s cubic-bezier(.2,.8,.2,1), border-color 0.28s, box-shadow 0.28s;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 26px;
+  overflow: hidden; margin-bottom: 26px; box-shadow: var(--shadow-card);
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease, border-color 0.25s;
 }
 @media (max-width: 860px) { .featured-card { grid-template-columns: 1fr; } }
-.featured-card:hover {
-  transform: translateY(-4px); border-color: var(--border-glow);
-  box-shadow: 0 24px 54px rgba(56,189,248,0.12), 0 10px 28px rgba(0,0,0,0.5);
-}
-.featured-img-wrap { position: relative; min-height: 290px; max-height: 410px; overflow: hidden; background: #080d1c; }
-.featured-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.55s ease; }
-.featured-card:hover .featured-img { transform: scale(1.04); }
-.featured-body { padding: 30px; display: flex; flex-direction: column; justify-content: center; gap: 13px; }
-.featured-body h1 { font-size: clamp(1.45rem, 2.4vw, 2.05rem); line-height: 1.2; letter-spacing: -0.025em; }
-.featured-body p.excerpt { color: var(--muted); font-size: 0.97rem; }
-/* Cards Grid */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 22px; padding-bottom: 42px; }
+.featured-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); border-color: var(--border-strong); }
+.featured-img-wrap { position: relative; min-height: 290px; max-height: 430px; overflow: hidden; background: var(--surface-muted); }
+.featured-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.65s cubic-bezier(0.22, 1, 0.36, 1); }
+.featured-card:hover .featured-img { transform: scale(1.03); }
+.featured-body { padding: 34px; display: flex; flex-direction: column; justify-content: center; gap: 14px; }
+.featured-body h1 { font-size: clamp(1.48rem, 2.5vw, 2.15rem); line-height: 1.15; letter-spacing: -0.03em; font-weight: 700; }
+.featured-body p.excerpt { color: var(--muted); font-size: 0.98rem; line-height: 1.55; }
+/* Editorial Grid Cards */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(315px, 1fr)); gap: 22px; padding-bottom: 42px; }
 .card {
-  position: relative; background: var(--surface); border: 1px solid var(--border);
+  background: var(--surface); border: 1px solid var(--border);
   border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column;
-  backdrop-filter: blur(14px);
-  transition: transform 0.26s cubic-bezier(.2,.8,.2,1), border-color 0.26s, box-shadow 0.26s;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.32s ease, border-color 0.25s;
 }
-.card::after {
-  content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px; opacity: 0;
-  background: linear-gradient(90deg, var(--accent), var(--accent-2), var(--accent-3));
-  transition: opacity 0.25s;
-}
-.card:hover {
-  transform: translateY(-5px); border-color: var(--border-glow);
-  background: var(--surface-hover);
-  box-shadow: 0 18px 44px rgba(56,189,248,0.1), 0 8px 20px rgba(0,0,0,0.45);
-}
-.card:hover::after { opacity: 1; }
-.card-img-wrap { overflow: hidden; position: relative; aspect-ratio: 16/9; background: #080d1c; }
-.card-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
-.card:hover .card-img { transform: scale(1.05); }
-.card-body { padding: 20px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
-.meta-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 0.76rem; color: var(--muted); }
+.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); border-color: var(--border-strong); }
+.card-img-wrap { overflow: hidden; aspect-ratio: 16/9; background: var(--surface-muted); }
+.card-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.card:hover .card-img { transform: scale(1.035); }
+.card-body { padding: 22px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.meta-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 0.76rem; color: var(--muted); font-weight: 500; }
 .tag-badge {
-  color: #fff; font-weight: 700; font-size: 0.69rem;
-  padding: 3px 9px; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.05em;
+  font-weight: 700; font-size: 0.68rem; padding: 3px 9px; border-radius: 999px;
+  text-transform: uppercase; letter-spacing: 0.04em; color: #fff;
 }
-.card h2 { font-size: 1.12rem; line-height: 1.34; letter-spacing: -0.015em; }
-.card p.excerpt { color: var(--muted); font-size: 0.9rem; flex: 1; }
-.read-more { color: var(--accent); font-weight: 700; font-size: 0.85rem; margin-top: 4px; display: inline-flex; align-items: center; gap: 5px; }
+.card h2 { font-size: 1.14rem; line-height: 1.3; letter-spacing: -0.02em; font-weight: 700; }
+.card p.excerpt { color: var(--muted); font-size: 0.9rem; flex: 1; line-height: 1.55; }
+.read-more { color: var(--accent); font-weight: 600; font-size: 0.85rem; margin-top: 4px; display: inline-flex; align-items: center; gap: 4px; }
 .ad-infeed { grid-column: 1 / -1; }
-/* Clean subtle non-distracting ad frame */
+/* Subtle clean Ad container */
 .ad-slot {
   margin: 18px 0; padding: 10px 14px 14px;
-  border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.05);
-  background: rgba(255, 255, 255, 0.018);
-  text-align: center;
+  border-radius: 16px; border: 1px solid var(--border);
+  background: var(--surface-muted); text-align: center;
 }
 .ad-slot-label {
-  display: block; font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase;
-  color: rgba(148, 163, 184, 0.45); margin-bottom: 6px;
+  display: block; font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted); opacity: 0.7; margin-bottom: 6px;
 }
-/* Article layout */
+/* Article View */
 .article-layout {
-  display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 28px;
-  margin: 26px auto 56px; align-items: start;
+  display: grid; grid-template-columns: minmax(0, 1fr) 295px; gap: 30px;
+  margin: 28px auto 60px; align-items: start;
 }
 @media (max-width: 960px) { .article-layout { grid-template-columns: 1fr; } }
 article.post-shell { min-width: 0; }
-aside.article-sidebar { position: sticky; top: 82px; display: flex; flex-direction: column; gap: 18px; }
+aside.article-sidebar { position: sticky; top: 78px; display: flex; flex-direction: column; gap: 18px; }
 .sidebar-card {
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 18px; backdrop-filter: blur(14px);
+  padding: 20px; box-shadow: var(--shadow-card);
 }
-.sidebar-card h3 { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--accent); margin-bottom: 10px; }
+.sidebar-card h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 10px; font-weight: 700; }
 .sidebar-card p { font-size: 0.86rem; color: var(--muted); }
-.back-link { display: inline-flex; align-items: center; gap: 6px; color: var(--accent); font-weight: 600; margin-bottom: 14px; font-size: 0.9rem; }
-.post-header h1 { font-size: clamp(1.75rem, 3.2vw, 2.48rem); line-height: 1.16; letter-spacing: -0.028em; margin: 12px 0; }
-.post-meta { display: flex; flex-wrap: wrap; gap: 12px; color: var(--muted); font-size: 0.85rem; margin-bottom: 18px; align-items: center; }
-.hero-media-wrap { margin-bottom: 22px; }
-.post-hero { width: 100%; max-height: 500px; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--border); display: block; }
-.photo-credit { font-size: 0.68rem; color: rgba(148, 163, 184, 0.48); text-align: right; margin-top: 5px; letter-spacing: 0.02em; }
+.back-link { display: inline-flex; align-items: center; gap: 5px; color: var(--accent); font-weight: 600; margin-bottom: 14px; font-size: 0.88rem; }
+.post-header h1 { font-size: clamp(1.85rem, 3.4vw, 2.6rem); line-height: 1.12; letter-spacing: -0.032em; font-weight: 700; margin: 12px 0; }
+.post-meta { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); font-size: 0.84rem; margin-bottom: 20px; align-items: center; }
+.hero-media-wrap { margin-bottom: 24px; }
+.post-hero { width: 100%; max-height: 510px; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--border); display: block; box-shadow: var(--shadow-card); }
+.photo-credit { font-size: 0.68rem; color: var(--muted); opacity: 0.62; text-align: right; margin-top: 6px; }
 .highlights-box {
-  background: linear-gradient(145deg, rgba(56,189,248,0.07), rgba(99,102,241,0.07));
-  border: 1px solid rgba(56,189,248,0.24); border-radius: 16px; padding: 18px 20px; margin-bottom: 22px;
+  background: var(--surface); border: 1px solid var(--border); border-left: 3.5px solid var(--accent);
+  border-radius: 16px; padding: 20px 22px; margin-bottom: 22px; box-shadow: var(--shadow-card);
 }
-.highlights-box h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--accent); margin-bottom: 9px; }
-.highlights-box ul { padding-left: 18px; display: flex; flex-direction: column; gap: 6px; font-size: 0.95rem; }
+.highlights-box h3 { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); margin-bottom: 10px; }
+.highlights-box ul { padding-left: 18px; display: flex; flex-direction: column; gap: 7px; font-size: 0.95rem; }
 .post-content {
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: var(--radius); padding: 30px; font-size: 1.04rem; backdrop-filter: blur(14px);
+  border-radius: var(--radius); padding: 34px; font-size: 1.05rem; line-height: 1.78;
+  box-shadow: var(--shadow-card);
 }
-.post-content p + p { margin-top: 17px; }
-.share-bar { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; align-items: center; }
+.post-content h2 { font-size: 1.32rem; letter-spacing: -0.02em; margin: 26px 0 10px; color: var(--text); }
+.post-content h2:first-child { margin-top: 0; }
+.post-content p + p { margin-top: 16px; }
+.author-card {
+  margin-top: 22px; background: var(--surface); border: 1px solid var(--border); border-radius: 18px;
+  padding: 18px 22px; display: flex; align-items: center; gap: 16px; box-shadow: var(--shadow-card);
+}
+.author-avatar { width: 44px; height: 44px; flex-shrink: 0; }
+.author-info h4 { font-size: 0.95rem; font-weight: 700; }
+.author-info p { font-size: 0.84rem; color: var(--muted); margin-top: 2px; }
+.share-bar { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 20px; align-items: center; }
 .share-btn {
-  display: inline-flex; align-items: center; gap: 7px; padding: 8px 15px;
-  border-radius: 999px; border: 1px solid var(--border); background: var(--surface-2);
-  color: var(--text); font-size: 0.82rem; font-weight: 600; cursor: pointer;
-  transition: border-color 0.2s, transform 0.2s;
+  display: inline-flex; align-items: center; gap: 6px; padding: 8px 15px;
+  border-radius: 999px; border: 1px solid var(--border); background: var(--surface);
+  color: var(--text); font-size: 0.81rem; font-weight: 600; cursor: pointer;
+  transition: transform 0.2s, border-color 0.2s;
 }
-.share-btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+.share-btn:hover { transform: translateY(-1px); border-color: var(--accent); }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 24px; }
-.gallery img { width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 13px; border: 1px solid var(--border); }
-.legal-shell { max-width: 840px; margin: 36px auto 64px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 32px; }
-.legal-shell h1 { font-size: 2rem; margin-bottom: 14px; }
-.legal-shell h2 { font-size: 1.18rem; margin: 22px 0 8px; color: var(--accent); }
+.gallery img { width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 14px; border: 1px solid var(--border); }
+.legal-shell {
+  max-width: 820px; margin: 36px auto 64px; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 36px; box-shadow: var(--shadow-card);
+}
+.legal-shell h1 { font-size: 2rem; letter-spacing: -0.03em; margin-bottom: 14px; }
+.legal-shell h2 { font-size: 1.18rem; margin: 24px 0 8px; color: var(--accent); }
 .legal-shell p, .legal-shell li { color: var(--muted); margin-bottom: 10px; }
 .legal-shell ul { padding-left: 20px; }
-.reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.52s ease, transform 0.52s ease; }
+/* Scroll Reveal */
+.reveal { opacity: 0; transform: translateY(16px); transition: opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
 .reveal.visible { opacity: 1; transform: translateY(0); }
 /* Footer */
 footer.site-footer {
-  border-top: 1px solid var(--border); padding: 30px 0 40px;
-  color: var(--muted); font-size: 0.84rem; background: rgba(4, 6, 13, 0.8);
+  border-top: 1px solid var(--border); padding: 34px 0 42px;
+  color: var(--muted); font-size: 0.82rem; background: var(--surface);
 }
-.footer-grid { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 24px; margin-bottom: 20px; }
+.footer-grid { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 24px; margin-bottom: 22px; }
 @media (max-width: 780px) { .footer-grid { grid-template-columns: 1fr; } }
-.footer-col h4 { color: var(--text); font-size: 0.84rem; margin-bottom: 9px; text-transform: uppercase; letter-spacing: 0.06em; }
+.footer-col h4 { color: var(--text); font-size: 0.8rem; margin-bottom: 9px; text-transform: uppercase; letter-spacing: 0.05em; }
 .footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 7px; }
-.footer-col a { display: inline-flex; align-items: center; gap: 7px; }
+.footer-col a { display: inline-flex; align-items: center; gap: 6px; transition: color 0.18s; }
 .footer-col a:hover, .cookie-link:hover { color: var(--accent); }
 .footer-bottom { border-top: 1px solid var(--border); padding-top: 16px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
 .cookie-link { background: none; border: 0; color: var(--muted); cursor: pointer; font: inherit; text-decoration: underline; }
-/* EU GDPR Cookie & Consent Banner */
+/* EU GDPR Cookie Banner */
 .gdpr-banner {
-  position: fixed; bottom: 18px; right: 18px; left: 18px; max-width: 470px; margin-left: auto;
-  z-index: 80; background: rgba(9, 13, 26, 0.96); backdrop-filter: blur(18px);
-  border: 1px solid rgba(56,189,248,0.4); border-radius: 18px; padding: 20px;
-  box-shadow: 0 24px 60px rgba(0,0,0,0.65); display: none;
+  position: fixed; bottom: 18px; right: 18px; left: 18px; max-width: 450px; margin-left: auto;
+  z-index: 80; background: var(--surface); border: 1px solid var(--border-strong);
+  border-radius: 20px; padding: 20px; box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+  display: none;
 }
-.gdpr-banner.show { display: block; }
-.gdpr-banner h4 { font-size: 0.98rem; margin-bottom: 6px; color: var(--text); }
-.gdpr-banner p { font-size: 0.83rem; color: var(--muted); line-height: 1.5; margin-bottom: 14px; }
+.gdpr-banner.show { display: block; animation: fadeUp 0.35s ease; }
+.gdpr-banner h4 { font-size: 0.95rem; margin-bottom: 6px; color: var(--text); }
+.gdpr-banner p { font-size: 0.82rem; color: var(--muted); line-height: 1.5; margin-bottom: 14px; }
 .gdpr-actions { display: flex; flex-wrap: wrap; gap: 8px; }
 .btn-accept {
-  background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #04060d;
-  border: 0; border-radius: 10px; padding: 8px 14px; font-weight: 700; cursor: pointer; font-size: 0.82rem;
+  background: var(--accent); color: #ffffff; border: 0; border-radius: 999px;
+  padding: 8px 16px; font-weight: 600; cursor: pointer; font-size: 0.8rem;
 }
+.btn-accept:hover { background: var(--accent-hover); }
 .btn-essential {
-  background: var(--surface-2); color: var(--text); border: 1px solid var(--border);
-  border-radius: 10px; padding: 8px 14px; font-weight: 600; cursor: pointer; font-size: 0.82rem;
+  background: var(--surface-muted); color: var(--text); border: 1px solid var(--border);
+  border-radius: 999px; padding: 8px 16px; font-weight: 600; cursor: pointer; font-size: 0.8rem;
 }
-[data-lang-section="en"].hidden, [data-lang-section="ro"].hidden { display: none; }
 </style>
 </head>
 <body>
-  <div class="ticker-bar"><span class="ticker-label"><span class="pulse-dot"></span> LIVE</span><div class="ticker-viewport"><div class="ticker-track"><a class="ticker-item" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">&#9889; <span data-lang-section="ro">Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</span><span data-lang-section="en">Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</span></a><a class="ticker-item" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">&#9889; <span data-lang-section="ro">Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</span><span data-lang-section="en">Elon Musk Clarifies the Distinction Between Starlink and Starshield</span></a><a class="ticker-item" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">&#9889; <span data-lang-section="ro">Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</span><span data-lang-section="en">Senate Committee Approves FCC Nominee Amidst Democratic Boycott</span></a><a class="ticker-item" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">&#9889; <span data-lang-section="ro">Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</span><span data-lang-section="en">Apple Releases Safari Technology Preview 257 With Performance Updates</span></a><a class="ticker-item" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">&#9889; <span data-lang-section="ro">Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</span><span data-lang-section="en">Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</span></a><a class="ticker-item" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">&#9889; <span data-lang-section="ro">Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</span><span data-lang-section="en">Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</span></a><a class="ticker-item" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">&#9889; <span data-lang-section="ro">Apple lansează prima actualizare software pentru dispozitivul HomeView</span><span data-lang-section="en">Apple Releases First Software Update for HomeView Device</span></a><a class="ticker-item" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">&#9889; <span data-lang-section="ro">Google introduce modul incognito pentru funcția AI din Search</span><span data-lang-section="en">Google Adds Incognito-Style Temporary Threads to AI Search</span></a><a class="ticker-item" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">&#9889; <span data-lang-section="ro">Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</span><span data-lang-section="en">Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</span></a><a class="ticker-item" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">&#9889; <span data-lang-section="ro">Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</span><span data-lang-section="en">Elon Musk Clarifies the Distinction Between Starlink and Starshield</span></a><a class="ticker-item" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">&#9889; <span data-lang-section="ro">Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</span><span data-lang-section="en">Senate Committee Approves FCC Nominee Amidst Democratic Boycott</span></a><a class="ticker-item" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">&#9889; <span data-lang-section="ro">Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</span><span data-lang-section="en">Apple Releases Safari Technology Preview 257 With Performance Updates</span></a><a class="ticker-item" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">&#9889; <span data-lang-section="ro">Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</span><span data-lang-section="en">Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</span></a><a class="ticker-item" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">&#9889; <span data-lang-section="ro">Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</span><span data-lang-section="en">Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</span></a><a class="ticker-item" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">&#9889; <span data-lang-section="ro">Apple lansează prima actualizare software pentru dispozitivul HomeView</span><span data-lang-section="en">Apple Releases First Software Update for HomeView Device</span></a><a class="ticker-item" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">&#9889; <span data-lang-section="ro">Google introduce modul incognito pentru funcția AI din Search</span><span data-lang-section="en">Google Adds Incognito-Style Temporary Threads to AI Search</span></a></div></div></div>
+  <div class="ticker-bar"><span class="ticker-label"><span class="ticker-dot"></span> LIVE</span><div class="ticker-viewport"><div class="ticker-track"><a class="ticker-item" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</a><a class="ticker-item" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</a><a class="ticker-item" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</a><a class="ticker-item" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</a><a class="ticker-item" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</a><a class="ticker-item" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</a><a class="ticker-item" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">Apple lansează prima actualizare software pentru dispozitivul HomeView</a><a class="ticker-item" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">Google introduce modul incognito pentru funcția AI din Search</a><a class="ticker-item" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/">Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</a><a class="ticker-item" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/">Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</a><a class="ticker-item" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/">Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</a><a class="ticker-item" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/">Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</a><a class="ticker-item" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/">Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</a><a class="ticker-item" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/">Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</a><a class="ticker-item" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/">Apple lansează prima actualizare software pentru dispozitivul HomeView</a><a class="ticker-item" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/">Google introduce modul incognito pentru funcția AI din Search</a></div></div></div>
   
 <div id="read-progress" class="read-progress"></div>
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="brand" href="./" aria-label="Daniel Cioc Tech Home">
-      <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38bdf8"/><stop offset="52%" stop-color="#6366f1"/><stop offset="100%" stop-color="#a855f7"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#070c18"/><rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="url(#dcGradNav)" stroke-opacity="0.5" stroke-width="2"/><path d="M13 18 H23 C31 18 35 23.5 35 32 C35 40.5 31 46 23 46 H13 Z M18.5 23.2 V40.8 H22.5 C27 40.8 29.4 37.6 29.4 32 C29.4 26.4 27 23.2 22.5 23.2 Z" fill="#f8fafc"/><path d="M51 23.5 A12.5 12.5 0 1 0 51 40.5" fill="none" stroke="url(#dcGradNav)" stroke-width="5.6" stroke-linecap="round"/><circle cx="51" cy="32" r="3.2" fill="#38bdf8"/></svg>
+    <a class="brand" href="./" aria-label="Daniel Cioc">
+      <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0071e3"/><stop offset="55%" stop-color="#5e5ce6"/><stop offset="100%" stop-color="#bf5af2"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#111113"/><path d="M14 19 H23.5 C31 19 35 24 35 32 C35 40 31 45 23.5 45 H14 Z M19 23.8 V40.2 H23 C27.2 40.2 29.6 37.2 29.6 32 C29.6 26.8 27.2 23.8 23 23.8 Z" fill="#f5f5f7"/><path d="M50 23.8 A12 12 0 1 0 50 40.2" fill="none" stroke="url(#dcGradNav)" stroke-width="5.2" stroke-linecap="round"/><circle cx="50" cy="32" r="3" fill="#0071e3"/></svg>
       <span class="brand-text">
         <span class="brand-name">DC</span>
         <span class="brand-sub">Daniel Cioc</span>
       </span>
     </a>
     <nav class="nav-links" aria-label="Main">
-      <a href="./" data-lang-section="ro">Acasă</a>
-      <a href="./" data-lang-section="en">Home</a>
-      <a href="about/" data-lang-section="ro">Despre</a>
-      <a href="about/" data-lang-section="en">About</a>
-      <a href="privacy/" data-lang-section="ro">Confidențialitate</a>
-      <a href="privacy/" data-lang-section="en">Privacy</a>
+      <a href="./">Acasă</a>
+      <a href="about/">Despre</a>
+      <a href="privacy/">Confidențialitate</a>
       <a href="contact/">Contact</a>
     </nav>
     <div class="nav-controls">
-      <a class="social-icon-btn ig" href="https://instagram.com/danielcioc" target="_blank" rel="noopener" aria-label="Instagram">@danielcioc <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
-      <a class="social-icon-btn tt" href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener" aria-label="TikTok">@adriandanielcioc <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg></a>
+      <a class="icon-pill ig" href="https://instagram.com/danielcioc" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg> @danielcioc</a>
+      <a class="icon-pill tt" href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg> @adriandanielcioc</a>
+      <button type="button" class="icon-pill" data-theme-toggle aria-label="Toggle Light/Dark Mode"><svg class="icon-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg><svg class="icon-moon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
       <div class="lang-toggle" role="group" aria-label="Language">
-        <button type="button" class="lang-btn" data-lang-btn="ro">RO</button>
-        <button type="button" class="lang-btn" data-lang-btn="en">EN</button>
+        <a class="lang-link active" href="./">RO</a>
+        <a class="lang-link" href="en/">EN</a>
       </div>
     </div>
   </div>
@@ -372,662 +388,510 @@ footer.site-footer {
     
 
     <div class="toolbar">
-      <input id="blog-search" class="search-input" type="search" placeholder="Search / Caută știri (iOS, AI, Apple, Android, NVIDIA...)">
+      <input id="blog-search" class="search-input" type="search" placeholder="Caută știri (iOS, AI, Apple, Android, NVIDIA...)">
       <div class="filter-pills">
-        <button type="button" class="pill active" data-filter-type="all">All</button>
-        <button type="button" class="pill" data-filter-type="official_launch">Official Launches</button>
-        <button type="button" class="pill" data-filter-type="rumor_leak">Rumors &amp; Leaks</button>
-        <button type="button" class="pill" data-filter-type="general_tech">Tech News</button>
+        <button type="button" class="pill active" data-filter-type="all">Toate</button>
+        <button type="button" class="pill" data-filter-type="official_launch">Lansări Oficiale</button>
+        <button type="button" class="pill" data-filter-type="rumor_leak">Zvonuri</button>
+        <button type="button" class="pill" data-filter-type="general_tech">Știri Tech</button>
       </div>
     </div>
 
     
-<a class="featured-card card reveal" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/" data-type="official_launch" data-search="samsung tv plus transmite live ediția 2026 a premiilor mama awards samsung tv plus to livestream 2026 mama awards globally samsung tv plus va transmite în direct premiile mama awards 2026, oferind fanilor k-pop acces global pe 20 și 21 noiembrie. samsung tv plus will livestream the 2026 mama awards globally, featuring two days of performances on november 20 and 21.">
-  <div class="featured-img-wrap"><img class="featured-img" src="assets/images/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally_1.jpg" alt="Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally"></div>
+<a class="featured-card card reveal" href="posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/" data-type="official_launch" data-search="samsung tv plus transmite live ediția 2026 a premiilor mama awards samsung tv plus va transmite în direct premiile mama awards 2026, oferind fanilor k-pop acces global pe 20 și 21 noiembrie.">
+  <div class="featured-img-wrap"><img class="featured-img" src="assets/images/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally_1.jpg" alt="Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS"></div>
   <div class="featured-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-19</span>
     </div>
-    <h1 data-lang-section="ro">Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</h1>
-    <h1 data-lang-section="en">Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</h1>
-    <p class="excerpt" data-lang-section="ro">Samsung TV Plus va transmite în direct premiile MAMA AWARDS 2026, oferind fanilor K-pop acces global pe 20 și 21 noiembrie.</p>
-    <p class="excerpt" data-lang-section="en">Samsung TV Plus will livestream the 2026 MAMA AWARDS globally, featuring two days of performances on November 20 and 21.</p>
-    <span class="read-more" data-lang-section="ro">Citește articolul &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read article &rarr;</span>
+    <h1>Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</h1>
+    <p class="excerpt">Samsung TV Plus va transmite în direct premiile MAMA AWARDS 2026, oferind fanilor K-pop acces global pe 20 și 21 noiembrie.</p>
+    <span class="read-more">Citește articolul &rarr;</span>
   </div>
 </a>
 
 
     <section class="grid">
       
-<a class="card reveal" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/" data-type="general_tech" data-search="elon musk clarifică distincția dintre starlink și sistemul militar starshield elon musk clarifies the distinction between starlink and starshield elon musk clarifică rolul starlink în ucraina, subliniind diferența dintre rețeaua civilă și sistemul militar starshield controlat de guvernul sua. elon musk clarifies the role of starlink in ukraine, highlighting the difference between the civilian network and the government-controlled starshield system.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield_1.jpg" alt="Elon Musk Clarifies the Distinction Between Starlink and Starshield" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield/" data-type="general_tech" data-search="elon musk clarifică distincția dintre starlink și sistemul militar starshield elon musk clarifică rolul starlink în ucraina, subliniind diferența dintre rețeaua civilă și sistemul militar starshield controlat de guvernul sua.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-19-elon-musk-clarifies-the-distinction-between-starlink-and-starshield_1.jpg" alt="Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-19</span>
     </div>
-    <h2 data-lang-section="ro">Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</h2>
-    <h2 data-lang-section="en">Elon Musk Clarifies the Distinction Between Starlink and Starshield</h2>
-    <p class="excerpt" data-lang-section="ro">Elon Musk clarifică rolul Starlink în Ucraina, subliniind diferența dintre rețeaua civilă și sistemul militar Starshield controlat de guvernul SUA.</p>
-    <p class="excerpt" data-lang-section="en">Elon Musk clarifies the role of Starlink in Ukraine, highlighting the difference between the civilian network and the government-controlled Starshield system.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</h2>
+    <p class="excerpt">Elon Musk clarifică rolul Starlink în Ucraina, subliniind diferența dintre rețeaua civilă și sistemul militar Starshield controlat de guvernul SUA.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/" data-type="general_tech" data-search="comisia senatului aprobă nominalizarea fcc în ciuda boicotului democrat senate committee approves fcc nominee amidst democratic boycott comisia pentru comerț a senatului a avansat nominalizarea lui danielle thumann pentru fcc, în ciuda boicotului democraților și a acuzațiilor de mărturie falsă. the senate commerce committee advanced fcc nominee danielle thumann 15-0 as democrats boycotted, citing procedural concerns and alleged false testimony.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_1.jpg" alt="Senate Committee Approves FCC Nominee Amidst Democratic Boycott" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/" data-type="general_tech" data-search="comisia senatului aprobă nominalizarea fcc în ciuda boicotului democrat comisia pentru comerț a senatului a avansat nominalizarea lui danielle thumann pentru fcc, în ciuda boicotului democraților și a acuzațiilor de mărturie falsă.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_1.jpg" alt="Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</h2>
-    <h2 data-lang-section="en">Senate Committee Approves FCC Nominee Amidst Democratic Boycott</h2>
-    <p class="excerpt" data-lang-section="ro">Comisia pentru Comerț a Senatului a avansat nominalizarea lui Danielle Thumann pentru FCC, în ciuda boicotului democraților și a acuzațiilor de mărturie falsă.</p>
-    <p class="excerpt" data-lang-section="en">The Senate Commerce Committee advanced FCC nominee Danielle Thumann 15-0 as Democrats boycotted, citing procedural concerns and alleged false testimony.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</h2>
+    <p class="excerpt">Comisia pentru Comerț a Senatului a avansat nominalizarea lui Danielle Thumann pentru FCC, în ciuda boicotului democraților și a acuzațiilor de mărturie falsă.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/" data-type="official_launch" data-search="apple lansează safari technology preview 257 cu îmbunătățiri majore apple releases safari technology preview 257 with performance updates apple a lansat safari technology preview 257, aducând optimizări tehnice și remedieri de erori pentru dezvoltatorii care utilizează macos tahoe și golden gate. apple has launched safari technology preview 257, bringing technical optimizations and bug fixes for developers using macos tahoe and golden gate.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" alt="Apple Releases Safari Technology Preview 257 With Performance Updates" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/" data-type="official_launch" data-search="apple lansează safari technology preview 257 cu îmbunătățiri majore apple a lansat safari technology preview 257, aducând optimizări tehnice și remedieri de erori pentru dezvoltatorii care utilizează macos tahoe și golden gate.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" alt="Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</h2>
-    <h2 data-lang-section="en">Apple Releases Safari Technology Preview 257 With Performance Updates</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a lansat Safari Technology Preview 257, aducând optimizări tehnice și remedieri de erori pentru dezvoltatorii care utilizează macOS Tahoe și Golden Gate.</p>
-    <p class="excerpt" data-lang-section="en">Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</h2>
+    <p class="excerpt">Apple a lansat Safari Technology Preview 257, aducând optimizări tehnice și remedieri de erori pentru dezvoltatorii care utilizează macOS Tahoe și Golden Gate.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/" data-type="official_launch" data-search="google lansează gemini 4 neon: inteligență avansată pentru sarcini complexe google introduces gemini 4 neon for advanced reasoning tasks google lansează gemini 4 neon, un model ai optimizat pentru inginerie complexă și cercetare științifică, cu o fereastră de context de 1 milion de tokenuri. google launches gemini 4 neon, an ai model optimized for complex engineering and scientific workflows with a 1 million token context window.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" alt="Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/" data-type="official_launch" data-search="google lansează gemini 4 neon: inteligență avansată pentru sarcini complexe google lansează gemini 4 neon, un model ai optimizat pentru inginerie complexă și cercetare științifică, cu o fereastră de context de 1 milion de tokenuri.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" alt="Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</h2>
-    <h2 data-lang-section="en">Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</h2>
-    <p class="excerpt" data-lang-section="ro">Google lansează Gemini 4 Neon, un model AI optimizat pentru inginerie complexă și cercetare științifică, cu o fereastră de context de 1 milion de tokenuri.</p>
-    <p class="excerpt" data-lang-section="en">Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</h2>
+    <p class="excerpt">Google lansează Gemini 4 Neon, un model AI optimizat pentru inginerie complexă și cercetare științifică, cu o fereastră de context de 1 milion de tokenuri.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/" data-type="general_tech" data-search="sony bravia 8 ii oled: reduceri masive înainte de black friday sony bravia 8 ii oled sees major price drop before black friday televizorul sony bravia 8 ii oled atinge un preț minim istoric, oferind performanțe de top și funcții avansate pentru gaming înainte de black friday. the sony bravia 8 ii oled hits a record low price, delivering top-tier 4k 120hz performance and advanced features ahead of black friday.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday_1.jpg" alt="Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/" data-type="general_tech" data-search="sony bravia 8 ii oled: reduceri masive înainte de black friday televizorul sony bravia 8 ii oled atinge un preț minim istoric, oferind performanțe de top și funcții avansate pentru gaming înainte de black friday.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday_1.jpg" alt="Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</h2>
-    <h2 data-lang-section="en">Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</h2>
-    <p class="excerpt" data-lang-section="ro">Televizorul Sony Bravia 8 II OLED atinge un preț minim istoric, oferind performanțe de top și funcții avansate pentru gaming înainte de Black Friday.</p>
-    <p class="excerpt" data-lang-section="en">The Sony Bravia 8 II OLED hits a record low price, delivering top-tier 4K 120Hz performance and advanced features ahead of Black Friday.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</h2>
+    <p class="excerpt">Televizorul Sony Bravia 8 II OLED atinge un preț minim istoric, oferind performanțe de top și funcții avansate pentru gaming înainte de Black Friday.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/" data-type="official_launch" data-search="apple lansează prima actualizare software pentru dispozitivul homeview apple releases first software update for homeview device apple a lansat actualizarea software 27.2.1 pentru dispozitivul homeview, reprezentând primul update de la debutul produsului. apple has released the 27.2.1 software update for the homeview device, marking its very first post-release update.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-first-software-update-for-homeview-device_1.jpg" alt="Apple Releases First Software Update for HomeView Device" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/" data-type="official_launch" data-search="apple lansează prima actualizare software pentru dispozitivul homeview apple a lansat actualizarea software 27.2.1 pentru dispozitivul homeview, reprezentând primul update de la debutul produsului.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-first-software-update-for-homeview-device_1.jpg" alt="Apple lansează prima actualizare software pentru dispozitivul HomeView" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Apple lansează prima actualizare software pentru dispozitivul HomeView</h2>
-    <h2 data-lang-section="en">Apple Releases First Software Update for HomeView Device</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a lansat actualizarea software 27.2.1 pentru dispozitivul HomeView, reprezentând primul update de la debutul produsului.</p>
-    <p class="excerpt" data-lang-section="en">Apple has released the 27.2.1 software update for the HomeView device, marking its very first post-release update.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple lansează prima actualizare software pentru dispozitivul HomeView</h2>
+    <p class="excerpt">Apple a lansat actualizarea software 27.2.1 pentru dispozitivul HomeView, reprezentând primul update de la debutul produsului.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/" data-type="official_launch" data-search="google introduce modul incognito pentru funcția ai din search google adds incognito-style temporary threads to ai search google a lansat firele temporare pentru modul ai din search, permițând conversații private care nu sunt salvate în istoricul contului. google has launched temporary threads for ai mode in search, allowing users to conduct private, unlogged ai conversations that do not impact personalization.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" alt="Google Adds Incognito-Style Temporary Threads to AI Search" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/" data-type="official_launch" data-search="google introduce modul incognito pentru funcția ai din search google a lansat firele temporare pentru modul ai din search, permițând conversații private care nu sunt salvate în istoricul contului.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" alt="Google introduce modul incognito pentru funcția AI din Search" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Google introduce modul incognito pentru funcția AI din Search</h2>
-    <h2 data-lang-section="en">Google Adds Incognito-Style Temporary Threads to AI Search</h2>
-    <p class="excerpt" data-lang-section="ro">Google a lansat firele temporare pentru modul AI din Search, permițând conversații private care nu sunt salvate în istoricul contului.</p>
-    <p class="excerpt" data-lang-section="en">Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google introduce modul incognito pentru funcția AI din Search</h2>
+    <p class="excerpt">Google a lansat firele temporare pentru modul AI din Search, permițând conversații private care nu sunt salvate în istoricul contului.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/" data-type="official_launch" data-search="samsung lansează programul beta pentru noua interfață one ui 9.5 samsung officially launches the one ui 9.5 beta program samsung a deschis oficial programul beta pentru one ui 9.5, aducând controale foto avansate și funcții noi de confidențialitate pentru utilizatorii galaxy. samsung has officially opened the one ui 9.5 beta program, bringing advanced camera controls and new privacy features to galaxy devices.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program_1.jpg" alt="Samsung Officially Launches the One UI 9.5 Beta Program" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program/" data-type="official_launch" data-search="samsung lansează programul beta pentru noua interfață one ui 9.5 samsung a deschis oficial programul beta pentru one ui 9.5, aducând controale foto avansate și funcții noi de confidențialitate pentru utilizatorii galaxy.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-samsung-officially-launches-the-one-ui-95-beta-program_1.jpg" alt="Samsung lansează programul beta pentru noua interfață One UI 9.5" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Samsung lansează programul beta pentru noua interfață One UI 9.5</h2>
-    <h2 data-lang-section="en">Samsung Officially Launches the One UI 9.5 Beta Program</h2>
-    <p class="excerpt" data-lang-section="ro">Samsung a deschis oficial programul beta pentru One UI 9.5, aducând controale foto avansate și funcții noi de confidențialitate pentru utilizatorii Galaxy.</p>
-    <p class="excerpt" data-lang-section="en">Samsung has officially opened the One UI 9.5 beta program, bringing advanced camera controls and new privacy features to Galaxy devices.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Samsung lansează programul beta pentru noua interfață One UI 9.5</h2>
+    <p class="excerpt">Samsung a deschis oficial programul beta pentru One UI 9.5, aducând controale foto avansate și funcții noi de confidențialitate pentru utilizatorii Galaxy.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/" data-type="official_launch" data-search="google aduce aplicația gemini pe dispozitivele android cu memorie redusă google brings gemini app to lower-memory android devices google optimizează aplicația gemini pentru dispozitivele android (go edition), oferind funcții ai avansate pentru milioane de utilizatori de telefoane accesibile. google optimizes the gemini app for android (go edition) devices, bringing advanced ai features to millions of entry-level smartphone users worldwide.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg" alt="Google Brings Gemini App to Lower-Memory Android Devices" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/" data-type="official_launch" data-search="google aduce aplicația gemini pe dispozitivele android cu memorie redusă google optimizează aplicația gemini pentru dispozitivele android (go edition), oferind funcții ai avansate pentru milioane de utilizatori de telefoane accesibile.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg" alt="Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă</h2>
-    <h2 data-lang-section="en">Google Brings Gemini App to Lower-Memory Android Devices</h2>
-    <p class="excerpt" data-lang-section="ro">Google optimizează aplicația Gemini pentru dispozitivele Android (Go edition), oferind funcții AI avansate pentru milioane de utilizatori de telefoane accesibile.</p>
-    <p class="excerpt" data-lang-section="en">Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă</h2>
+    <p class="excerpt">Google optimizează aplicația Gemini pentru dispozitivele Android (Go edition), oferind funcții AI avansate pentru milioane de utilizatori de telefoane accesibile.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/" data-type="general_tech" data-search="sam altman avertizează: oamenii trebuie să controleze viitorul inteligenței artificiale sam altman warns against a future where ai controls human decisions sam altman și greg brockman subliniază necesitatea ca oamenii să păstreze controlul asupra ai, respingând ideea unei tranziții către decizii complet autonome. sam altman and greg brockman emphasize the necessity of maintaining human oversight as ai models become increasingly powerful and complex.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg" alt="Sam Altman Warns Against a Future Where AI Controls Human Decisions" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/" data-type="general_tech" data-search="sam altman avertizează: oamenii trebuie să controleze viitorul inteligenței artificiale sam altman și greg brockman subliniază necesitatea ca oamenii să păstreze controlul asupra ai, respingând ideea unei tranziții către decizii complet autonome.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg" alt="Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale</h2>
-    <h2 data-lang-section="en">Sam Altman Warns Against a Future Where AI Controls Human Decisions</h2>
-    <p class="excerpt" data-lang-section="ro">Sam Altman și Greg Brockman subliniază necesitatea ca oamenii să păstreze controlul asupra AI, respingând ideea unei tranziții către decizii complet autonome.</p>
-    <p class="excerpt" data-lang-section="en">Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale</h2>
+    <p class="excerpt">Sam Altman și Greg Brockman subliniază necesitatea ca oamenii să păstreze controlul asupra AI, respingând ideea unei tranziții către decizii complet autonome.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/" data-type="general_tech" data-search="apple a lansat o nouă actualizare de firmware pentru telecomanda siri remote apple releases firmware update for fourth-generation siri remote apple a lansat versiunea de firmware 0001.0061.0000.0000 pentru generația a patra a telecomenzii siri remote. apple has updated the fourth-generation siri remote firmware to build 0001.0061.0000.0000 with background updates.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg" alt="Apple Releases Firmware Update for Fourth-Generation Siri Remote" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/" data-type="general_tech" data-search="apple a lansat o nouă actualizare de firmware pentru telecomanda siri remote apple a lansat versiunea de firmware 0001.0061.0000.0000 pentru generația a patra a telecomenzii siri remote.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg" alt="Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote</h2>
-    <h2 data-lang-section="en">Apple Releases Firmware Update for Fourth-Generation Siri Remote</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a lansat versiunea de firmware 0001.0061.0000.0000 pentru generația a patra a telecomenzii Siri Remote.</p>
-    <p class="excerpt" data-lang-section="en">Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote</h2>
+    <p class="excerpt">Apple a lansat versiunea de firmware 0001.0061.0000.0000 pentru generația a patra a telecomenzii Siri Remote.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-google-launches-november-update-for-marketing-platform/" data-type="official_launch" data-search="google lansează actualizarea de noiembrie pentru marketing platform google launches november update for marketing platform google a lansat actualizarea din noiembrie pentru marketing platform, oferind noi instrumente pentru optimizarea roi-ului în campaniile de sărbători. google has released the november marketing platform update, providing new tools to help advertisers maximize roi during the holiday shopping season.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-launches-november-update-for-marketing-platform_1.jpg" alt="Google Launches November Update for Marketing Platform" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-google-launches-november-update-for-marketing-platform/" data-type="official_launch" data-search="google lansează actualizarea de noiembrie pentru marketing platform google a lansat actualizarea din noiembrie pentru marketing platform, oferind noi instrumente pentru optimizarea roi-ului în campaniile de sărbători.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-google-launches-november-update-for-marketing-platform_1.jpg" alt="Google lansează actualizarea de noiembrie pentru Marketing Platform" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Google lansează actualizarea de noiembrie pentru Marketing Platform</h2>
-    <h2 data-lang-section="en">Google Launches November Update for Marketing Platform</h2>
-    <p class="excerpt" data-lang-section="ro">Google a lansat actualizarea din noiembrie pentru Marketing Platform, oferind noi instrumente pentru optimizarea ROI-ului în campaniile de sărbători.</p>
-    <p class="excerpt" data-lang-section="en">Google has released the November Marketing Platform update, providing new tools to help advertisers maximize ROI during the holiday shopping season.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google lansează actualizarea de noiembrie pentru Marketing Platform</h2>
+    <p class="excerpt">Google a lansat actualizarea din noiembrie pentru Marketing Platform, oferind noi instrumente pentru optimizarea ROI-ului în campaniile de sărbători.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-how-to-spot-real-black-friday-deals/" data-type="general_tech" data-search="cum să identifici reducerile reale de black friday how to spot real black friday deals află cum să eviți capcanele de preț de black friday folosind instrumente de monitorizare și o abordare critică a ofertelor. learn how to navigate black friday sales by using price tracking tools and avoiding common retailer pricing traps.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-how-to-spot-real-black-friday-deals_1.jpg" alt="How to Spot Real Black Friday Deals" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-how-to-spot-real-black-friday-deals/" data-type="general_tech" data-search="cum să identifici reducerile reale de black friday află cum să eviți capcanele de preț de black friday folosind instrumente de monitorizare și o abordare critică a ofertelor.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-how-to-spot-real-black-friday-deals_1.jpg" alt="Cum să identifici reducerile reale de Black Friday" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Cum să identifici reducerile reale de Black Friday</h2>
-    <h2 data-lang-section="en">How to Spot Real Black Friday Deals</h2>
-    <p class="excerpt" data-lang-section="ro">Află cum să eviți capcanele de preț de Black Friday folosind instrumente de monitorizare și o abordare critică a ofertelor.</p>
-    <p class="excerpt" data-lang-section="en">Learn how to navigate Black Friday sales by using price tracking tools and avoiding common retailer pricing traps.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Cum să identifici reducerile reale de Black Friday</h2>
+    <p class="excerpt">Află cum să eviți capcanele de preț de Black Friday folosind instrumente de monitorizare și o abordare critică a ofertelor.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/" data-type="general_tech" data-search="ghid esențial: sfaturi și instrumente google pentru siguranța ta online essential guide: google tips and tools for your online safety google oferă sfaturi practice și instrumente esențiale pentru a-ți proteja datele personale și dispozitivele împotriva amenințărilor cibernetice actuale. google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety_1.jpg" alt="Essential Guide: Google Tips and Tools for Your Online Safety" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/" data-type="general_tech" data-search="ghid esențial: sfaturi și instrumente google pentru siguranța ta online google oferă sfaturi practice și instrumente esențiale pentru a-ți proteja datele personale și dispozitivele împotriva amenințărilor cibernetice actuale.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety_1.jpg" alt="Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online</h2>
-    <h2 data-lang-section="en">Essential Guide: Google Tips and Tools for Your Online Safety</h2>
-    <p class="excerpt" data-lang-section="ro">Google oferă sfaturi practice și instrumente esențiale pentru a-ți proteja datele personale și dispozitivele împotriva amenințărilor cibernetice actuale.</p>
-    <p class="excerpt" data-lang-section="en">Google provides practical tips and tools to help users enhance their cybersecurity and protect personal data across all devices.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online</h2>
+    <p class="excerpt">Google oferă sfaturi practice și instrumente esențiale pentru a-ți proteja datele personale și dispozitivele împotriva amenințărilor cibernetice actuale.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/" data-type="official_launch" data-search="apple a anunțat finaliștii pentru premiile app store 2026 apple announces finalists for 2026 app store awards apple a dezvăluit cei 45 de finaliști pentru premiile app store 2026, celebrând inovația și designul excepțional în ecosistemul său de aplicații. apple has revealed the 45 finalists for the 2026 app store awards, celebrating innovation and exceptional design across its entire ecosystem.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_1.jpg" alt="Apple Announces Finalists for 2026 App Store Awards" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/" data-type="official_launch" data-search="apple a anunțat finaliștii pentru premiile app store 2026 apple a dezvăluit cei 45 de finaliști pentru premiile app store 2026, celebrând inovația și designul excepțional în ecosistemul său de aplicații.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-18-apple-announces-finalists-for-2026-app-store-awards_1.jpg" alt="Apple a anunțat finaliștii pentru premiile App Store 2026" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-18</span>
     </div>
-    <h2 data-lang-section="ro">Apple a anunțat finaliștii pentru premiile App Store 2026</h2>
-    <h2 data-lang-section="en">Apple Announces Finalists for 2026 App Store Awards</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a dezvăluit cei 45 de finaliști pentru premiile App Store 2026, celebrând inovația și designul excepțional în ecosistemul său de aplicații.</p>
-    <p class="excerpt" data-lang-section="en">Apple has revealed the 45 finalists for the 2026 App Store Awards, celebrating innovation and exceptional design across its entire ecosystem.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple a anunțat finaliștii pentru premiile App Store 2026</h2>
+    <p class="excerpt">Apple a dezvăluit cei 45 de finaliști pentru premiile App Store 2026, celebrând inovația și designul excepțional în ecosistemul său de aplicații.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/" data-type="general_tech" data-search="teardown-ul apple homeview: de ce este noul hub atât de greu de reparat apple homeview teardown: why the new smart hub is hard to repair analiza ifixit arată că noul apple homeview este extrem de dificil de reparat din cauza adezivului puternic și a designului termic complex. a new teardown from ifixit highlights that the apple homeview is surprisingly difficult to repair, marking a step back in design.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair_1.jpg" alt="Apple HomeView Teardown: Why the New Smart Hub Is Hard to Repair" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/" data-type="general_tech" data-search="teardown-ul apple homeview: de ce este noul hub atât de greu de reparat analiza ifixit arată că noul apple homeview este extrem de dificil de reparat din cauza adezivului puternic și a designului termic complex.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair_1.jpg" alt="Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat</h2>
-    <h2 data-lang-section="en">Apple HomeView Teardown: Why the New Smart Hub Is Hard to Repair</h2>
-    <p class="excerpt" data-lang-section="ro">Analiza iFixit arată că noul Apple HomeView este extrem de dificil de reparat din cauza adezivului puternic și a designului termic complex.</p>
-    <p class="excerpt" data-lang-section="en">A new teardown from iFixit highlights that the Apple HomeView is surprisingly difficult to repair, marking a step back in design.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat</h2>
+    <p class="excerpt">Analiza iFixit arată că noul Apple HomeView este extrem de dificil de reparat din cauza adezivului puternic și a designului termic complex.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/" data-type="official_launch" data-search="nvidia își extinde lanțul de aprovizionare pentru a susține infrastructura ai globală nvidia expands supply chain commitments to support global ai infrastructure nvidia colaborează cu producători cheie pentru a crește capacitatea de fabricare a substraturilor și ambalajelor, vizând o expansiune de 2,5 ori până în 2028. nvidia is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_1.jpg" alt="NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/" data-type="official_launch" data-search="nvidia își extinde lanțul de aprovizionare pentru a susține infrastructura ai globală nvidia colaborează cu producători cheie pentru a crește capacitatea de fabricare a substraturilor și ambalajelor, vizând o expansiune de 2,5 ori până în 2028.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct_1.jpg" alt="NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală</h2>
-    <h2 data-lang-section="en">NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure</h2>
-    <p class="excerpt" data-lang-section="ro">NVIDIA colaborează cu producători cheie pentru a crește capacitatea de fabricare a substraturilor și ambalajelor, vizând o expansiune de 2,5 ori până în 2028.</p>
-    <p class="excerpt" data-lang-section="en">NVIDIA is collaborating with key manufacturers to scale substrate and packaging production, targeting a 2.5x capacity increase by 2028.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală</h2>
+    <p class="excerpt">NVIDIA colaborează cu producători cheie pentru a crește capacitatea de fabricare a substraturilor și ambalajelor, vizând o expansiune de 2,5 ori până în 2028.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/" data-type="general_tech" data-search="apple macbook neo primește o reducere rară de black friday apple macbook neo drops to $649 in rare early black friday deal macbook neo beneficiază de o reducere rară de 50 de dolari înainte de black friday, pornind de la 649 usd. the entry-level macbook neo is now discounted by $50 ahead of black friday, starting at $649 across major retailers.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal_1.jpg" alt="Apple MacBook Neo Drops to $649 in Rare Early Black Friday Deal" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/" data-type="general_tech" data-search="apple macbook neo primește o reducere rară de black friday macbook neo beneficiază de o reducere rară de 50 de dolari înainte de black friday, pornind de la 649 usd.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal_1.jpg" alt="Apple MacBook Neo Primește o Reducere Rară de Black Friday" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Apple MacBook Neo Primește o Reducere Rară de Black Friday</h2>
-    <h2 data-lang-section="en">Apple MacBook Neo Drops to $649 in Rare Early Black Friday Deal</h2>
-    <p class="excerpt" data-lang-section="ro">MacBook Neo beneficiază de o reducere rară de 50 de dolari înainte de Black Friday, pornind de la 649 USD.</p>
-    <p class="excerpt" data-lang-section="en">The entry-level MacBook Neo is now discounted by $50 ahead of Black Friday, starting at $649 across major retailers.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple MacBook Neo Primește o Reducere Rară de Black Friday</h2>
+    <p class="excerpt">MacBook Neo beneficiază de o reducere rară de 50 de dolari înainte de Black Friday, pornind de la 649 USD.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/" data-type="general_tech" data-search="nvidia și samsung raportează rezultate financiare record în 2026 nvidia and samsung report record breaking financial results for 2026 nvidia și samsung raportează rezultate financiare istorice, susținute de o cerere masivă pentru tehnologii ai și semiconductori la nivel global. nvidia and samsung report historic financial results, driven by unprecedented demand for ai infrastructure and semiconductor technology.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026_1.jpg" alt="NVIDIA and Samsung Report Record Breaking Financial Results for 2026" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/" data-type="general_tech" data-search="nvidia și samsung raportează rezultate financiare record în 2026 nvidia și samsung raportează rezultate financiare istorice, susținute de o cerere masivă pentru tehnologii ai și semiconductori la nivel global.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026_1.jpg" alt="NVIDIA și Samsung raportează rezultate financiare record în 2026" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">NVIDIA și Samsung raportează rezultate financiare record în 2026</h2>
-    <h2 data-lang-section="en">NVIDIA and Samsung Report Record Breaking Financial Results for 2026</h2>
-    <p class="excerpt" data-lang-section="ro">NVIDIA și Samsung raportează rezultate financiare istorice, susținute de o cerere masivă pentru tehnologii AI și semiconductori la nivel global.</p>
-    <p class="excerpt" data-lang-section="en">NVIDIA and Samsung report historic financial results, driven by unprecedented demand for AI infrastructure and semiconductor technology.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>NVIDIA și Samsung raportează rezultate financiare record în 2026</h2>
+    <p class="excerpt">NVIDIA și Samsung raportează rezultate financiare istorice, susținute de o cerere masivă pentru tehnologii AI și semiconductori la nivel global.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/" data-type="official_launch" data-search="google extinde funcția gemini tasks pentru sarcini administrative complexe google expands gemini tasks for advanced personal assistance google lansează funcția gemini tasks, permițând asistentului ai să efectueze apeluri, să programeze întâlniri și să gestioneze plăți pentru utilizatori. google is rolling out gemini tasks to its gemini 4 hydrogen model, allowing the ai to make calls, book appointments, and handle payments for users.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg" alt="Google Expands Gemini Tasks for Advanced Personal Assistance" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/" data-type="official_launch" data-search="google extinde funcția gemini tasks pentru sarcini administrative complexe google lansează funcția gemini tasks, permițând asistentului ai să efectueze apeluri, să programeze întâlniri și să gestioneze plăți pentru utilizatori.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance_1.jpg" alt="Google extinde funcția Gemini Tasks pentru sarcini administrative complexe" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Google extinde funcția Gemini Tasks pentru sarcini administrative complexe</h2>
-    <h2 data-lang-section="en">Google Expands Gemini Tasks for Advanced Personal Assistance</h2>
-    <p class="excerpt" data-lang-section="ro">Google lansează funcția Gemini Tasks, permițând asistentului AI să efectueze apeluri, să programeze întâlniri și să gestioneze plăți pentru utilizatori.</p>
-    <p class="excerpt" data-lang-section="en">Google is rolling out Gemini Tasks to its Gemini 4 Hydrogen model, allowing the AI to make calls, book appointments, and handle payments for users.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google extinde funcția Gemini Tasks pentru sarcini administrative complexe</h2>
+    <p class="excerpt">Google lansează funcția Gemini Tasks, permițând asistentului AI să efectueze apeluri, să programeze întâlniri și să gestioneze plăți pentru utilizatori.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/" data-type="general_tech" data-search="nomad lansează reducerile de black friday pentru accesorii apple nomad launches black friday sale on apple accessories nomad a început campania de black friday cu reduceri de până la 30% la accesorii pentru iphone 18 pro și stații de încărcare, valabile până pe 1 decembrie. nomad has kicked off its black friday event featuring up to 30% off on iphone 18 pro cases, charging stations, and bands until december 1.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories_1.jpg" alt="Nomad Launches Black Friday Sale on Apple Accessories" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories/" data-type="general_tech" data-search="nomad lansează reducerile de black friday pentru accesorii apple nomad a început campania de black friday cu reduceri de până la 30% la accesorii pentru iphone 18 pro și stații de încărcare, valabile până pe 1 decembrie.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nomad-launches-black-friday-sale-on-apple-accessories_1.jpg" alt="Nomad lansează reducerile de Black Friday pentru accesorii Apple" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Nomad lansează reducerile de Black Friday pentru accesorii Apple</h2>
-    <h2 data-lang-section="en">Nomad Launches Black Friday Sale on Apple Accessories</h2>
-    <p class="excerpt" data-lang-section="ro">Nomad a început campania de Black Friday cu reduceri de până la 30% la accesorii pentru iPhone 18 Pro și stații de încărcare, valabile până pe 1 decembrie.</p>
-    <p class="excerpt" data-lang-section="en">Nomad has kicked off its Black Friday event featuring up to 30% off on iPhone 18 Pro cases, charging stations, and bands until December 1.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Nomad lansează reducerile de Black Friday pentru accesorii Apple</h2>
+    <p class="excerpt">Nomad a început campania de Black Friday cu reduceri de până la 30% la accesorii pentru iPhone 18 Pro și stații de încărcare, valabile până pe 1 decembrie.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/" data-type="general_tech" data-search="ios 27.3 aduce limite pentru ai și modificări vizuale ios 27.3 beta introduces ai limits and ui refinements apple testează limite de utilizare pentru funcțiile ai în ios 27.3 și explorează un design vizual mai fin pentru barele de navigare în cea mai recentă versiune beta. apple is testing usage limits for ai features in ios 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_1.jpg" alt="iOS 27.3 Beta Introduces AI Limits and UI Refinements" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements/" data-type="general_tech" data-search="ios 27.3 aduce limite pentru ai și modificări vizuale apple testează limite de utilizare pentru funcțiile ai în ios 27.3 și explorează un design vizual mai fin pentru barele de navigare în cea mai recentă versiune beta.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-ios-273-beta-introduces-ai-limits-and-ui-refinements_1.jpg" alt="iOS 27.3 aduce limite pentru AI și modificări vizuale" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">iOS 27.3 aduce limite pentru AI și modificări vizuale</h2>
-    <h2 data-lang-section="en">iOS 27.3 Beta Introduces AI Limits and UI Refinements</h2>
-    <p class="excerpt" data-lang-section="ro">Apple testează limite de utilizare pentru funcțiile AI în iOS 27.3 și explorează un design vizual mai fin pentru barele de navigare în cea mai recentă versiune beta.</p>
-    <p class="excerpt" data-lang-section="en">Apple is testing usage limits for AI features in iOS 27.3 and exploring a softer visual design for navigation bars in the latest developer beta.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>iOS 27.3 aduce limite pentru AI și modificări vizuale</h2>
+    <p class="excerpt">Apple testează limite de utilizare pentru funcțiile AI în iOS 27.3 și explorează un design vizual mai fin pentru barele de navigare în cea mai recentă versiune beta.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-google-launches-new-task-management-features-for-gemini/" data-type="official_launch" data-search="google lansează funcții noi pentru gemini: asistentul tău personal inteligent google launches new task management features for gemini gemini poate acum să gestioneze sarcini complexe, precum programări sau plăți, fiind disponibil pentru utilizatorii din mai multe regiuni globale. gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new gemini 4 hydrogen model.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg" alt="Google Launches New Task Management Features for Gemini" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-google-launches-new-task-management-features-for-gemini/" data-type="official_launch" data-search="google lansează funcții noi pentru gemini: asistentul tău personal inteligent gemini poate acum să gestioneze sarcini complexe, precum programări sau plăți, fiind disponibil pentru utilizatorii din mai multe regiuni globale.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg" alt="Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent</h2>
-    <h2 data-lang-section="en">Google Launches New Task Management Features for Gemini</h2>
-    <p class="excerpt" data-lang-section="ro">Gemini poate acum să gestioneze sarcini complexe, precum programări sau plăți, fiind disponibil pentru utilizatorii din mai multe regiuni globale.</p>
-    <p class="excerpt" data-lang-section="en">Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google lansează funcții noi pentru Gemini: Asistentul tău personal inteligent</h2>
+    <p class="excerpt">Gemini poate acum să gestioneze sarcini complexe, precum programări sau plăți, fiind disponibil pentru utilizatorii din mai multe regiuni globale.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/" data-type="official_launch" data-search="google wallet este acum disponibil oficial pe ios în sua google wallet is now officially available on ios in the u.s. google wallet este acum disponibil pe ios în sua, permițând utilizatorilor să își organizeze biletele și tichetele prin sincronizarea cu aplicațiile google. google wallet is now available on ios in the u.s., allowing users to organize tickets, passes, and receipts by syncing with google apps.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us_1.jpg" alt="Google Wallet Is Now Officially Available on iOS in the U.S." loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/" data-type="official_launch" data-search="google wallet este acum disponibil oficial pe ios în sua google wallet este acum disponibil pe ios în sua, permițând utilizatorilor să își organizeze biletele și tichetele prin sincronizarea cu aplicațiile google.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us_1.jpg" alt="Google Wallet este acum disponibil oficial pe iOS în SUA" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Google Wallet este acum disponibil oficial pe iOS în SUA</h2>
-    <h2 data-lang-section="en">Google Wallet Is Now Officially Available on iOS in the U.S.</h2>
-    <p class="excerpt" data-lang-section="ro">Google Wallet este acum disponibil pe iOS în SUA, permițând utilizatorilor să își organizeze biletele și tichetele prin sincronizarea cu aplicațiile Google.</p>
-    <p class="excerpt" data-lang-section="en">Google Wallet is now available on iOS in the U.S., allowing users to organize tickets, passes, and receipts by syncing with Google apps.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google Wallet este acum disponibil oficial pe iOS în SUA</h2>
+    <p class="excerpt">Google Wallet este acum disponibil pe iOS în SUA, permițând utilizatorilor să își organizeze biletele și tichetele prin sincronizarea cu aplicațiile Google.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/" data-type="official_launch" data-search="marele premiu de formula 1 din las vegas vine pe apple tv formula 1 las vegas grand prix streams live on apple tv apple tv aduce marele premiu de formula 1 din las vegas cu funcții noi precum multiview pe televizoare și sunet imersiv dolby atmos. apple tv brings the las vegas grand prix to fans with new multiview support on smart tvs and immersive dolby atmos audio for a premium race-day experience.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv_1.jpg" alt="Formula 1 Las Vegas Grand Prix Streams Live on Apple TV" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv/" data-type="official_launch" data-search="marele premiu de formula 1 din las vegas vine pe apple tv apple tv aduce marele premiu de formula 1 din las vegas cu funcții noi precum multiview pe televizoare și sunet imersiv dolby atmos.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-formula-1-las-vegas-grand-prix-streams-live-on-apple-tv_1.jpg" alt="Marele Premiu de Formula 1 din Las Vegas vine pe Apple TV" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Marele Premiu de Formula 1 din Las Vegas vine pe Apple TV</h2>
-    <h2 data-lang-section="en">Formula 1 Las Vegas Grand Prix Streams Live on Apple TV</h2>
-    <p class="excerpt" data-lang-section="ro">Apple TV aduce Marele Premiu de Formula 1 din Las Vegas cu funcții noi precum Multiview pe televizoare și sunet imersiv Dolby Atmos.</p>
-    <p class="excerpt" data-lang-section="en">Apple TV brings the Las Vegas Grand Prix to fans with new Multiview support on smart TVs and immersive Dolby Atmos audio for a premium race-day experience.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Marele Premiu de Formula 1 din Las Vegas vine pe Apple TV</h2>
+    <p class="excerpt">Apple TV aduce Marele Premiu de Formula 1 din Las Vegas cu funcții noi precum Multiview pe televizoare și sunet imersiv Dolby Atmos.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/" data-type="official_launch" data-search="google permite acum excluderea datelor din antrenarea ai în gemini google now lets you opt out of ai training in gemini google actualizează setările gemini, permițând utilizatorilor să opteze pentru excluderea datelor din antrenarea ai fără a pierde istoricul conversațiilor. google updates gemini settings to allow users to opt out of ai training while retaining their chat history, enhancing privacy control.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_1.jpg" alt="Google Now Lets You Opt Out of AI Training in Gemini" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini/" data-type="official_launch" data-search="google permite acum excluderea datelor din antrenarea ai în gemini google actualizează setările gemini, permițând utilizatorilor să opteze pentru excluderea datelor din antrenarea ai fără a pierde istoricul conversațiilor.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-now-lets-you-opt-out-of-ai-training-in-gemini_1.jpg" alt="Google permite acum excluderea datelor din antrenarea AI în Gemini" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Google permite acum excluderea datelor din antrenarea AI în Gemini</h2>
-    <h2 data-lang-section="en">Google Now Lets You Opt Out of AI Training in Gemini</h2>
-    <p class="excerpt" data-lang-section="ro">Google actualizează setările Gemini, permițând utilizatorilor să opteze pentru excluderea datelor din antrenarea AI fără a pierde istoricul conversațiilor.</p>
-    <p class="excerpt" data-lang-section="en">Google updates Gemini settings to allow users to opt out of AI training while retaining their chat history, enhancing privacy control.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google permite acum excluderea datelor din antrenarea AI în Gemini</h2>
+    <p class="excerpt">Google actualizează setările Gemini, permițând utilizatorilor să opteze pentru excluderea datelor din antrenarea AI fără a pierde istoricul conversațiilor.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/" data-type="general_tech" data-search="jensen huang își exprimă disponibilitatea de a reveni la conducerea nvidia jensen huang expresses willingness to return as nvidia ceo fostul ceo nvidia, jensen huang, declară că ar accepta o revenire la conducerea companiei dacă board-ul solicită acest lucru, pe fondul unui sprijin public masiv. jensen huang, who recently stepped down as nvidia ceo after 33 years, has issued a surprising statement confirming his willingness to return to the role if the board of directors deems it…">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo_1.jpg" alt="Jensen Huang Expresses Willingness To Return As Nvidia CEO" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo/" data-type="general_tech" data-search="jensen huang își exprimă disponibilitatea de a reveni la conducerea nvidia fostul ceo nvidia, jensen huang, declară că ar accepta o revenire la conducerea companiei dacă board-ul solicită acest lucru, pe fondul unui sprijin public masiv.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-jensen-huang-expresses-willingness-to-return-as-nvidia-ceo_1.jpg" alt="Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia</h2>
-    <h2 data-lang-section="en">Jensen Huang Expresses Willingness To Return As Nvidia CEO</h2>
-    <p class="excerpt" data-lang-section="ro">Fostul CEO Nvidia, Jensen Huang, declară că ar accepta o revenire la conducerea companiei dacă board-ul solicită acest lucru, pe fondul unui sprijin public masiv.</p>
-    <p class="excerpt" data-lang-section="en">Jensen Huang, who recently stepped down as Nvidia CEO after 33 years, has issued a surprising statement confirming his willingness to return to the role if the board of directors deems it…</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Jensen Huang își exprimă disponibilitatea de a reveni la conducerea Nvidia</h2>
+    <p class="excerpt">Fostul CEO Nvidia, Jensen Huang, declară că ar accepta o revenire la conducerea companiei dacă board-ul solicită acest lucru, pe fondul unui sprijin public masiv.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/" data-type="official_launch" data-search="flipper one: computerul linux de buzunar este disponibil pentru precomandă flipper one: the pocket linux computer is now available for preorder flipper devices lansează flipper one, un computer portabil cu linux, procesor cu 8 nuclee și conectivitate avansată, disponibil acum pe kickstarter. flipper devices has taken a major step in the evolution of portable gadgets by launching a crowdfunding campaign for the flipper one.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_1.jpg" alt="Flipper One: The Pocket Linux Computer Is Now Available for Preorder" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder/" data-type="official_launch" data-search="flipper one: computerul linux de buzunar este disponibil pentru precomandă flipper devices lansează flipper one, un computer portabil cu linux, procesor cu 8 nuclee și conectivitate avansată, disponibil acum pe kickstarter.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-flipper-one-the-pocket-linux-computer-is-now-available-for-preorder_1.jpg" alt="Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă</h2>
-    <h2 data-lang-section="en">Flipper One: The Pocket Linux Computer Is Now Available for Preorder</h2>
-    <p class="excerpt" data-lang-section="ro">Flipper Devices lansează Flipper One, un computer portabil cu Linux, procesor cu 8 nuclee și conectivitate avansată, disponibil acum pe Kickstarter.</p>
-    <p class="excerpt" data-lang-section="en">Flipper Devices has taken a major step in the evolution of portable gadgets by launching a crowdfunding campaign for the Flipper One.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Flipper One: Computerul Linux de buzunar este disponibil pentru precomandă</h2>
+    <p class="excerpt">Flipper Devices lansează Flipper One, un computer portabil cu Linux, procesor cu 8 nuclee și conectivitate avansată, disponibil acum pe Kickstarter.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/" data-type="official_launch" data-search="aplicația apple store este acum optimizată pentru noul iphone duo apple store app now fully optimized for iphone duo apple a actualizat aplicația apple store pentru iphone duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație diy. apple has released a significant update for the apple store app, which is now fully optimized for the iphone duo.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_1.jpg" alt="Apple Store App Now Fully Optimized for iPhone Duo" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo/" data-type="official_launch" data-search="aplicația apple store este acum optimizată pentru noul iphone duo apple a actualizat aplicația apple store pentru iphone duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație diy.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-store-app-now-fully-optimized-for-iphone-duo_1.jpg" alt="Aplicația Apple Store este acum optimizată pentru noul iPhone Duo" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Aplicația Apple Store este acum optimizată pentru noul iPhone Duo</h2>
-    <h2 data-lang-section="en">Apple Store App Now Fully Optimized for iPhone Duo</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a actualizat aplicația Apple Store pentru iPhone Duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație DIY.</p>
-    <p class="excerpt" data-lang-section="en">Apple has released a significant update for the Apple Store app, which is now fully optimized for the iPhone Duo.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Aplicația Apple Store este acum optimizată pentru noul iPhone Duo</h2>
+    <p class="excerpt">Apple a actualizat aplicația Apple Store pentru iPhone Duo, îmbunătățind în același timp disponibilitatea stocurilor și oferind piese de reparație DIY.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/" data-type="general_tech" data-search="centrele de date sub asediu: riscurile războiului modern asupra infrastructurii cloud data centers under siege: the risks of modern warfare on cloud infrastructure ars technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice. the year 2026 has marked a dramatic shift in the cybersecurity landscape as data centers have become direct military targets.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_1.jpg" alt="Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc/" data-type="general_tech" data-search="centrele de date sub asediu: riscurile războiului modern asupra infrastructurii cloud ars technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-data-centers-under-siege-the-risks-of-modern-warfare-on-cloud-infrastruc_1.jpg" alt="Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud</h2>
-    <h2 data-lang-section="en">Data Centers Under Siege: The Risks of Modern Warfare on Cloud Infrastructure</h2>
-    <p class="excerpt" data-lang-section="ro">Ars Technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice.</p>
-    <p class="excerpt" data-lang-section="en">The year 2026 has marked a dramatic shift in the cybersecurity landscape as data centers have become direct military targets.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Centrele de date sub asediu: Riscurile războiului modern asupra infrastructurii cloud</h2>
+    <p class="excerpt">Ars Technica analizează impactul atacurilor cu drone asupra centrelor de date și viitorul rezilienței cloud într-o lume marcată de conflicte geopolitice.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/" data-type="official_launch" data-search="google play anunță cele mai bune aplicații și jocuri ale anului 2026 google play announces the best apps and games of 2026 google play a dezvăluit câștigătorii premiilor best of 2026, evidențiind inovația în productivitate, jocuri cross-platform și experiențe digitale remarcabile. google play has officially released the list of winners for the best of 2026 awards, an annual celebration of creativity and innovation within the android ecosystem.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026_1.jpg" alt="Google Play Announces The Best Apps And Games Of 2026" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026/" data-type="official_launch" data-search="google play anunță cele mai bune aplicații și jocuri ale anului 2026 google play a dezvăluit câștigătorii premiilor best of 2026, evidențiind inovația în productivitate, jocuri cross-platform și experiențe digitale remarcabile.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-google-play-announces-the-best-apps-and-games-of-2026_1.jpg" alt="Google Play anunță cele mai bune aplicații și jocuri ale anului 2026" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Google Play anunță cele mai bune aplicații și jocuri ale anului 2026</h2>
-    <h2 data-lang-section="en">Google Play Announces The Best Apps And Games Of 2026</h2>
-    <p class="excerpt" data-lang-section="ro">Google Play a dezvăluit câștigătorii premiilor Best of 2026, evidențiind inovația în productivitate, jocuri cross-platform și experiențe digitale remarcabile.</p>
-    <p class="excerpt" data-lang-section="en">Google Play has officially released the list of winners for the Best of 2026 awards, an annual celebration of creativity and innovation within the Android ecosystem.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Google Play anunță cele mai bune aplicații și jocuri ale anului 2026</h2>
+    <p class="excerpt">Google Play a dezvăluit câștigătorii premiilor Best of 2026, evidențiind inovația în productivitate, jocuri cross-platform și experiențe digitale remarcabile.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year/" data-type="official_launch" data-search="apple podcasts desemnează baby, this is keke palmer show-ul anului 2026 apple podcasts names baby, this is keke palmer 2026 show of the year apple podcasts a anunțat oficial că podcastul &#x27;baby, this is keke palmer&#x27; a câștigat titlul de show-ul anului 2026 datorită impactului său cultural. apple podcasts has officially announced that &#x27;baby, this is keke palmer&#x27; has been named the 2026 show of the year.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year_1.jpg" alt="Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year/" data-type="official_launch" data-search="apple podcasts desemnează baby, this is keke palmer show-ul anului 2026 apple podcasts a anunțat oficial că podcastul &#x27;baby, this is keke palmer&#x27; a câștigat titlul de show-ul anului 2026 datorită impactului său cultural.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-apple-podcasts-names-baby-this-is-keke-palmer-2026-show-of-the-year_1.jpg" alt="Apple Podcasts desemnează Baby, this is Keke Palmer Show-ul Anului 2026" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">Apple Podcasts desemnează Baby, this is Keke Palmer Show-ul Anului 2026</h2>
-    <h2 data-lang-section="en">Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year</h2>
-    <p class="excerpt" data-lang-section="ro">Apple Podcasts a anunțat oficial că podcastul &#x27;Baby, this is Keke Palmer&#x27; a câștigat titlul de Show-ul Anului 2026 datorită impactului său cultural.</p>
-    <p class="excerpt" data-lang-section="en">Apple Podcasts has officially announced that &#x27;Baby, this is Keke Palmer&#x27; has been named the 2026 Show of the Year.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple Podcasts desemnează Baby, this is Keke Palmer Show-ul Anului 2026</h2>
+    <p class="excerpt">Apple Podcasts a anunțat oficial că podcastul &#x27;Baby, this is Keke Palmer&#x27; a câștigat titlul de Show-ul Anului 2026 datorită impactului său cultural.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit/" data-type="official_launch" data-search="nvidia înființează un comitet pentru securitate națională și controlul exporturilor nvidia establishes national security and export control oversight committee nvidia a creat un nou comitet la nivel de consiliu pentru a supraveghea politicile de securitate națională și conformitatea exporturilor de tehnologie avansată. nvidia has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit_1.jpg" alt="NVIDIA Establishes National Security and Export Control Oversight Committee" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit/" data-type="official_launch" data-search="nvidia înființează un comitet pentru securitate națională și controlul exporturilor nvidia a creat un nou comitet la nivel de consiliu pentru a supraveghea politicile de securitate națională și conformitatea exporturilor de tehnologie avansată.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit_1.jpg" alt="NVIDIA înființează un comitet pentru securitate națională și controlul exporturilor" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-17</span>
     </div>
-    <h2 data-lang-section="ro">NVIDIA înființează un comitet pentru securitate națională și controlul exporturilor</h2>
-    <h2 data-lang-section="en">NVIDIA Establishes National Security and Export Control Oversight Committee</h2>
-    <p class="excerpt" data-lang-section="ro">NVIDIA a creat un nou comitet la nivel de consiliu pentru a supraveghea politicile de securitate națională și conformitatea exporturilor de tehnologie avansată.</p>
-    <p class="excerpt" data-lang-section="en">NVIDIA has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>NVIDIA înființează un comitet pentru securitate națională și controlul exporturilor</h2>
+    <p class="excerpt">NVIDIA a creat un nou comitet la nivel de consiliu pentru a supraveghea politicile de securitate națională și conformitatea exporturilor de tehnologie avansată.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/" data-type="general_tech" data-search="macos 27.3 aduce securitate sporită pentru ai și apple intelligence în china macos 27.3 brings enhanced ai security and apple intelligence to china apple introduce noi controale de securitate pentru agenții ai în macos 27.3 și extinde apple intelligence pentru utilizatorii de mac și ipad din china. apple has released the latest beta for macos 27.3, placing a strong emphasis on user security in the age of artificial intelligence.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg" alt="macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china/" data-type="general_tech" data-search="macos 27.3 aduce securitate sporită pentru ai și apple intelligence în china apple introduce noi controale de securitate pentru agenții ai în macos 27.3 și extinde apple intelligence pentru utilizatorii de mac și ipad din china.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china_1.jpg" alt="macOS 27.3 aduce securitate sporită pentru AI și Apple Intelligence în China" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-16</span>
     </div>
-    <h2 data-lang-section="ro">macOS 27.3 aduce securitate sporită pentru AI și Apple Intelligence în China</h2>
-    <h2 data-lang-section="en">macOS 27.3 Brings Enhanced AI Security and Apple Intelligence to China</h2>
-    <p class="excerpt" data-lang-section="ro">Apple introduce noi controale de securitate pentru agenții AI în macOS 27.3 și extinde Apple Intelligence pentru utilizatorii de Mac și iPad din China.</p>
-    <p class="excerpt" data-lang-section="en">Apple has released the latest beta for macOS 27.3, placing a strong emphasis on user security in the age of artificial intelligence.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>macOS 27.3 aduce securitate sporită pentru AI și Apple Intelligence în China</h2>
+    <p class="excerpt">Apple introduce noi controale de securitate pentru agenții AI în macOS 27.3 și extinde Apple Intelligence pentru utilizatorii de Mac și iPad din China.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/" data-type="official_launch" data-search="nvidia, ibm și fermilab accelerează era calculului cuantic modular nvidia, ibm, and fermilab accelerate the modular quantum computing era nvidia, ibm și fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori. nvidia has announced a major collaboration with ibm and the fermi national accelerator laboratory to develop a modular codesign platform for quantum computers.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_1.jpg" alt="NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era/" data-type="official_launch" data-search="nvidia, ibm și fermilab accelerează era calculului cuantic modular nvidia, ibm și fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-nvidia-ibm-and-fermilab-accelerate-the-modular-quantum-computing-era_1.jpg" alt="NVIDIA, IBM și Fermilab accelerează era calculului cuantic modular" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-16</span>
     </div>
-    <h2 data-lang-section="ro">NVIDIA, IBM și Fermilab accelerează era calculului cuantic modular</h2>
-    <h2 data-lang-section="en">NVIDIA, IBM, and Fermilab Accelerate the Modular Quantum Computing Era</h2>
-    <p class="excerpt" data-lang-section="ro">NVIDIA, IBM și Fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori.</p>
-    <p class="excerpt" data-lang-section="en">NVIDIA has announced a major collaboration with IBM and the Fermi National Accelerator Laboratory to develop a modular codesign platform for quantum computers.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>NVIDIA, IBM și Fermilab accelerează era calculului cuantic modular</h2>
+    <p class="excerpt">NVIDIA, IBM și Fermilab lansează o platformă de codesign cuantic și un algoritm de decodare care accelerează cercetarea erorilor de 13.000 de ori.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026/" data-type="general_tech" data-search="inovația galaxy redefinește experiența sportivilor la jocurile olimpice dakar 2026 galaxy innovation redefines the athlete experience at dakar 2026 samsung electronics integrează tehnologia galaxy în cadrul jocurilor olimpice de tineret dakar 2026 pentru a sprijini performanța și conectivitatea sportivilor. the youth olympic games dakar 2026 have officially commenced in senegal, highlighting a new generation of talent.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026_1.jpg" alt="Galaxy Innovation Redefines the Athlete Experience at Dakar 2026" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026/" data-type="general_tech" data-search="inovația galaxy redefinește experiența sportivilor la jocurile olimpice dakar 2026 samsung electronics integrează tehnologia galaxy în cadrul jocurilor olimpice de tineret dakar 2026 pentru a sprijini performanța și conectivitatea sportivilor.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-galaxy-innovation-redefines-the-athlete-experience-at-dakar-2026_1.jpg" alt="Inovația Galaxy redefinește experiența sportivilor la Jocurile Olimpice Dakar 2026" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="ro">Știri Tech</span>
-      <span class="tag-badge" style="background:#06b6d4" data-lang-section="en">Tech News</span>
+      <span class="tag-badge" style="background:#30b0c7">Știri Tech</span>
       <span>2026-11-16</span>
     </div>
-    <h2 data-lang-section="ro">Inovația Galaxy redefinește experiența sportivilor la Jocurile Olimpice Dakar 2026</h2>
-    <h2 data-lang-section="en">Galaxy Innovation Redefines the Athlete Experience at Dakar 2026</h2>
-    <p class="excerpt" data-lang-section="ro">Samsung Electronics integrează tehnologia Galaxy în cadrul Jocurilor Olimpice de Tineret Dakar 2026 pentru a sprijini performanța și conectivitatea sportivilor.</p>
-    <p class="excerpt" data-lang-section="en">The Youth Olympic Games Dakar 2026 have officially commenced in Senegal, highlighting a new generation of talent.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Inovația Galaxy redefinește experiența sportivilor la Jocurile Olimpice Dakar 2026</h2>
+    <p class="excerpt">Samsung Electronics integrează tehnologia Galaxy în cadrul Jocurilor Olimpice de Tineret Dakar 2026 pentru a sprijini performanța și conectivitatea sportivilor.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
-<a class="card reveal" href="posts/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health/" data-type="official_launch" data-search="apple lansează un studiu de cercetare privind utilizarea ai în sănătate apple launches research study to explore the use of ai for health apple a lansat un studiu în colaborare cu openevidence pentru a analiza modul în care ai-ul conversațional poate fi utilizat responsabil în domeniul sănătății. apple has officially announced the launch of the apple health ai usage study, an initiative designed to explore human interaction with artificial intelligence in the context of healthcare.">
-  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_1.jpg" alt="Apple Launches Research Study to Explore the Use of AI for Health" loading="lazy"></div>
+<a class="card reveal" href="posts/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health/" data-type="official_launch" data-search="apple lansează un studiu de cercetare privind utilizarea ai în sănătate apple a lansat un studiu în colaborare cu openevidence pentru a analiza modul în care ai-ul conversațional poate fi utilizat responsabil în domeniul sănătății.">
+  <div class="card-img-wrap"><img class="card-img" src="assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_1.jpg" alt="Apple lansează un studiu de cercetare privind utilizarea AI în sănătate" loading="lazy"></div>
   <div class="card-body">
     <div class="meta-row">
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="ro">Lansare Oficială</span>
-      <span class="tag-badge" style="background:#3b82f6" data-lang-section="en">Official Launch</span>
+      <span class="tag-badge" style="background:#0071e3">Lansare Oficială</span>
       <span>2026-11-16</span>
     </div>
-    <h2 data-lang-section="ro">Apple lansează un studiu de cercetare privind utilizarea AI în sănătate</h2>
-    <h2 data-lang-section="en">Apple Launches Research Study to Explore the Use of AI for Health</h2>
-    <p class="excerpt" data-lang-section="ro">Apple a lansat un studiu în colaborare cu OpenEvidence pentru a analiza modul în care AI-ul conversațional poate fi utilizat responsabil în domeniul sănătății.</p>
-    <p class="excerpt" data-lang-section="en">Apple has officially announced the launch of the Apple Health AI Usage Study, an initiative designed to explore human interaction with artificial intelligence in the context of healthcare.</p>
-    <span class="read-more" data-lang-section="ro">Citește analiza &rarr;</span>
-    <span class="read-more" data-lang-section="en">Read analysis &rarr;</span>
+    <h2>Apple lansează un studiu de cercetare privind utilizarea AI în sănătate</h2>
+    <p class="excerpt">Apple a lansat un studiu în colaborare cu OpenEvidence pentru a analiza modul în care AI-ul conversațional poate fi utilizat responsabil în domeniul sănătății.</p>
+    <span class="read-more">Citește analiza &rarr;</span>
   </div>
 </a>
 
@@ -1041,31 +905,29 @@ footer.site-footer {
     <div class="footer-grid">
       <div class="footer-col">
         <a class="brand" href="./" style="margin-bottom:10px;">
-          <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38bdf8"/><stop offset="52%" stop-color="#6366f1"/><stop offset="100%" stop-color="#a855f7"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#070c18"/><rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="url(#dcGradNav)" stroke-opacity="0.5" stroke-width="2"/><path d="M13 18 H23 C31 18 35 23.5 35 32 C35 40.5 31 46 23 46 H13 Z M18.5 23.2 V40.8 H22.5 C27 40.8 29.4 37.6 29.4 32 C29.4 26.4 27 23.2 22.5 23.2 Z" fill="#f8fafc"/><path d="M51 23.5 A12.5 12.5 0 1 0 51 40.5" fill="none" stroke="url(#dcGradNav)" stroke-width="5.6" stroke-linecap="round"/><circle cx="51" cy="32" r="3.2" fill="#38bdf8"/></svg>
+          <svg class="brand-logo" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="dcGradNav" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0071e3"/><stop offset="55%" stop-color="#5e5ce6"/><stop offset="100%" stop-color="#bf5af2"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#111113"/><path d="M14 19 H23.5 C31 19 35 24 35 32 C35 40 31 45 23.5 45 H14 Z M19 23.8 V40.2 H23 C27.2 40.2 29.6 37.2 29.6 32 C29.6 26.8 27.2 23.8 23 23.8 Z" fill="#f5f5f7"/><path d="M50 23.8 A12 12 0 1 0 50 40.2" fill="none" stroke="url(#dcGradNav)" stroke-width="5.2" stroke-linecap="round"/><circle cx="50" cy="32" r="3" fill="#0071e3"/></svg>
           <span class="brand-text">
             <span class="brand-name">DC</span>
             <span class="brand-sub">Daniel Cioc</span>
           </span>
         </a>
-        <p data-lang-section="ro">Știri din tehnologie, AI, dispozitive mobile și lansări hardware.</p>
-        <p data-lang-section="en">Technology news, AI, mobile devices, and hardware launches.</p>
+        <p>Știri din tehnologie, analize AI, ecosisteme mobile și lansări hardware.</p>
       </div>
       <div class="footer-col">
-        <h4 data-lang-section="ro">Informații &amp; Legal (UE)</h4>
-        <h4 data-lang-section="en">Editorial &amp; EU Legal</h4>
+        <h4>Informații & Legal (UE)</h4>
         <ul>
-          <li><a href="about/" data-lang-section="ro">Despre &amp; Politică Editorială</a><a href="about/" data-lang-section="en">About &amp; Editorial Policy</a></li>
-          <li><a href="privacy/" data-lang-section="ro">Politica de Confidențialitate (GDPR)</a><a href="privacy/" data-lang-section="en">Privacy Policy (GDPR)</a></li>
-          <li><a href="terms/" data-lang-section="ro">Termeni și Condiții</a><a href="terms/" data-lang-section="en">Terms of Service</a></li>
+          <li><a href="about/">Despre & Politică Editorială</a></li>
+          <li><a href="privacy/">Politica de Confidențialitate (GDPR)</a></li>
+          <li><a href="terms/">Termeni și Condiții</a></li>
           <li><a href="contact/">Contact &amp; Imprint</a></li>
-          <li><button type="button" class="cookie-link" data-open-consent>Cookie Settings / Setări Cookie</button></li>
+          <li><button type="button" class="cookie-link" data-open-consent>Setări Cookie</button></li>
         </ul>
       </div>
       <div class="footer-col">
         <h4>Social &amp; Feeds</h4>
         <ul>
-          <li><a href="https://instagram.com/danielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg> Instagram (@danielcioc)</a></li>
-          <li><a href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg> TikTok (@adriandanielcioc)</a></li>
+          <li><a href="https://instagram.com/danielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg> Instagram (@danielcioc)</a></li>
+          <li><a href="https://tiktok.com/@adriandanielcioc" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05 A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.73a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg> TikTok (@adriandanielcioc)</a></li>
           <li><a href="rss.xml">RSS Feed</a></li>
           <li><a href="news-sitemap.xml">Google News Sitemap</a></li>
         </ul>
@@ -1079,17 +941,11 @@ footer.site-footer {
 </footer>
 
 <aside id="gdpr-banner" class="gdpr-banner" role="dialog" aria-live="polite" aria-label="Cookie & Privacy Consent">
-  <div data-lang-section="ro">
-    <h4>Confidențialitate &amp; Cookie-uri (UE / GDPR)</h4>
-    <p>Acest site folosește stocare locală esențială și cookie-uri Google AdSense (cu acordul tău). Vezi <a href="privacy/" style="color:var(--accent);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
-  </div>
-  <div data-lang-section="en">
-    <h4>Privacy &amp; Cookies (EU / GDPR)</h4>
-    <p>This site uses essential local storage and Google AdSense cookies (with your consent). Read our <a href="privacy/" style="color:var(--accent);text-decoration:underline;">Privacy Policy</a>.</p>
-  </div>
+  <h4>Confidențialitate & Cookie-uri (UE / GDPR)</h4>
+  <p>Folosim stocare esențială, Google Analytics și Google AdSense (cu acordul tău). <a href="privacy/" style="color:var(--accent);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
   <div class="gdpr-actions">
-    <button type="button" id="gdpr-accept" class="btn-accept">Accept All / Acceptă tot</button>
-    <button type="button" id="gdpr-essential" class="btn-essential">Essential Only / Doar esențiale</button>
+    <button type="button" id="gdpr-accept" class="btn-accept">Acceptă tot</button>
+    <button type="button" id="gdpr-essential" class="btn-essential">Doar esențiale</button>
   </div>
 </aside>
 
@@ -1097,21 +953,15 @@ footer.site-footer {
   
 <script>
 (function () {
-  var saved = localStorage.getItem('cioc_lang') || 'ro';
-  function applyLang(lang) {
-    document.querySelectorAll('[data-lang-btn]').forEach(function (btn) {
-      btn.classList.toggle('active', btn.getAttribute('data-lang-btn') === lang);
+  var themeBtn = document.querySelector('[data-theme-toggle]');
+  if (themeBtn) {
+    themeBtn.addEventListener('click', function () {
+      var cur = document.documentElement.getAttribute('data-theme') || 'light';
+      var next = cur === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('dc_theme', next);
     });
-    document.querySelectorAll('[data-lang-section]').forEach(function (el) {
-      el.classList.toggle('hidden', el.getAttribute('data-lang-section') !== lang);
-    });
-    document.documentElement.lang = lang;
-    localStorage.setItem('cioc_lang', lang);
   }
-  document.querySelectorAll('[data-lang-btn]').forEach(function (btn) {
-    btn.addEventListener('click', function () { applyLang(btn.getAttribute('data-lang-btn')); });
-  });
-  applyLang(saved);
 
   var bar = document.getElementById('read-progress');
   if (bar) {
@@ -1127,7 +977,7 @@ footer.site-footer {
       entries.forEach(function (e) {
         if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
       });
-    }, { threshold: 0.06 });
+    }, { threshold: 0.05 });
     document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
   } else {
     document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('visible'); });
@@ -1138,8 +988,9 @@ footer.site-footer {
       var u = btn.getAttribute('data-copy-url') || window.location.href;
       if (navigator.clipboard) {
         navigator.clipboard.writeText(u);
+        var orig = btn.textContent;
         btn.textContent = 'Copied!';
-        setTimeout(function () { btn.textContent = 'Copy Link'; }, 1800);
+        setTimeout(function () { btn.textContent = orig; }, 1600);
       }
     });
   });
