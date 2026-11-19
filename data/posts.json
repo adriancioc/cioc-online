@@ -63,6 +63,42 @@
     ]
   },
   {
+    "slug": "2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+    "title_ro": "Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat",
+    "title_en": "Senate Committee Approves FCC Nominee Amidst Democratic Boycott",
+    "summary": "The Senate Commerce Committee advanced FCC nominee Danielle Thumann 15-0 as Democrats boycotted, citing procedural concerns and alleged false testimony.",
+    "summary_ro": "Comisia pentru Comerț a Senatului a avansat nominalizarea lui Danielle Thumann pentru FCC, în ciuda boicotului democraților și a acuzațiilor de mărturie falsă.",
+    "summary_en": "The Senate Commerce Committee advanced FCC nominee Danielle Thumann 15-0 as Democrats boycotted, citing procedural concerns and alleged false testimony.",
+    "body_ro": "Comisia pentru Comerț a Senatului, sub conducerea președintelui Ted Cruz, a votat miercuri pentru a avansa candidatura lui Danielle Thumann pentru un post de comisar în cadrul Comisiei Federale de Comunicații (FCC). Votul de 15-0 a fost susținut exclusiv de membrii republicani, în timp ce toți cei 13 membri democrați au ales să absenteze, încercând astfel să blocheze atingerea cvorumului necesar pentru o acțiune oficială.\n\nControversele din jurul acestei nominalizări sunt multiple. Democrații susțin că procesul a încălcat normele parlamentare care, din 2005, impun prezența cel puțin a unui membru al minorității pentru validarea nominalizărilor. Mai mult, Thumann a fost acuzată că a oferit mărturii false în timpul audierilor, negând implicarea sa în probleme legate de mass-media în perioada în care a fost consilier juridic al președintelui FCC, Brendan Carr.\n\nContextul politic este unul extrem de tensionat, având în vedere dorința administrației de a consolida controlul republican asupra agențiilor federale înainte de schimbarea majorității în Senat, programată pentru luna ianuarie. Confirmarea lui Thumann ar aduce numărul comisarilor republicani la trei, ceea ce ar putea permite înlăturarea comisarului democrat Anna Gomez, schimbând radical echilibrul de putere în cadrul FCC.\n\nAceastă situație nu este izolată. În ultimele 24 de ore, administrația a fost nevoită să retragă alte nominalizări importante, inclusiv cea pentru conducerea FDA, din cauza lipsei de susținere politică și a refuzului candidaților de a oferi răspunsuri clare în fața senatorilor. Aceste evenimente subliniază dificultățile întâmpinate în procesul de confirmare a oficialilor în acest final de mandat.\n\nPrivind spre viitor, rămâne de văzut dacă votul comisiei va fi validat în plenul Senatului și ce impact va avea această manevră asupra independenței agențiilor federale. Boicotul democraților semnalează o opoziție fermă față de tacticile utilizate de conducerea republicană a comisiei, transformând procesul de numire într-un punct central al disputelor politice curente.",
+    "body_en": "The Senate Commerce Committee, led by Chairman Ted Cruz, voted on Wednesday to advance the nomination of Danielle Thumann for a commissioner seat at the Federal Communications Commission (FCC). The 15-0 vote was carried out entirely by Republican members, while all 13 Democratic members chose to boycott the session, attempting to prevent the quorum necessary for official committee action.\n\nThe controversy surrounding this nomination is multifaceted. Democrats argue that the process violated long-standing committee rules which, since 2005, have required the presence of at least one minority member to validate nominations. Furthermore, Thumann has been accused of providing false testimony during her confirmation hearings, specifically regarding her denial of involvement in media-related issues during her tenure as legal advisor to FCC Chair Brendan Carr.\n\nThe political context is highly charged, given the administration's push to solidify Republican control over federal agencies before the shift in Senate majority scheduled for January. Confirming Thumann would bring the number of Republican commissioners to three, which could potentially lead to the removal of the current Democratic commissioner, Anna Gomez, thereby fundamentally altering the power balance within the FCC.\n\nThis situation is not isolated. Within the last 24 hours, the administration was forced to withdraw other high-profile nominations, including its pick for the FDA, due to a lack of legislative support and the candidates' refusal to provide clear answers during hearings. These events highlight the significant hurdles the administration faces in confirming appointees during the final weeks of the current session.\n\nLooking ahead, it remains to be seen whether the committee's vote will be upheld in the full Senate and what impact this maneuver will have on the perceived independence of federal agencies. The Democratic boycott signals firm opposition to the tactics employed by the committee's Republican leadership, turning the nomination process into a central flashpoint of current political disputes.",
+    "highlights_ro": [
+      "Comisia a votat 15-0 pentru avansarea lui Danielle Thumann.",
+      "Democrații au boicotat votul din cauza procedurilor și a lipsei bipartidismului.",
+      "Există acuzații că Thumann a oferit mărturii false despre activitatea sa.",
+      "Confirmarea ar putea duce la schimbarea echilibrului politic în cadrul FCC."
+    ],
+    "highlights_en": [
+      "Committee voted 15-0 to advance Danielle Thumann's nomination.",
+      "Democrats boycotted the vote citing procedural rules and lack of bipartisanship.",
+      "Thumann faces accusations of providing false testimony regarding her past work.",
+      "Confirmation could shift the political balance of power within the FCC."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-18T23:25:04+00:00",
+    "source_names": [
+      "Ars Technica",
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_1.jpg",
+      "assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_2.jpg",
+      "assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_3.jpg",
+      "assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_4.jpg",
+      "assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-18-apple-releases-first-software-update-for-homeview-device",
     "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
     "title_ro": "Apple lansează prima actualizare software pentru dispozitivul HomeView",
