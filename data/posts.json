@@ -1001,6 +1001,38 @@
     ]
   },
   {
+    "slug": "2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+    "title_ro": "NVIDIA înființează un comitet pentru securitate națională și controlul exporturilor",
+    "title_en": "NVIDIA Establishes National Security and Export Control Oversight Committee",
+    "summary": "NVIDIA has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.",
+    "summary_ro": "NVIDIA a creat un nou comitet la nivel de consiliu pentru a supraveghea politicile de securitate națională și conformitatea exporturilor de tehnologie avansată.",
+    "summary_en": "NVIDIA has created a new board-level committee to oversee national security policies and export compliance for its advanced computing technologies.",
+    "body_ro": "NVIDIA a anunțat oficial crearea Comitetului de Supraveghere a Securității Naționale și a Controlului Exporturilor. Această nouă structură permanentă la nivelul consiliului de administrație va prelua responsabilitatea directă pentru politicile de securitate ale companiei, conformitatea cu reglementările privind exporturile și gestionarea riscurilor comerciale la nivel global. \n\nDecizia vine într-un moment în care tehnologiile de siliciu avansat și inteligența artificială prezintă provocări fără precedent pentru securitatea națională. În calitate de lider mondial în calculul avansat, NVIDIA își propune să stabilească un cadru robust care să protejeze interesele naționale, susținând în același timp inovația tehnologică continuă. \n\nComitetul va fi condus de directorul Suzanne Nora Johnson, avându-i ca membri pe Stephen C. Neal și John O. Dabiri. Aceștia vor colabora îndeaproape cu echipele interne de Securitate Națională și Conformitate Comercială Globală, care vor raporta direct către acest organism și către CEO-ul interimar, Colette Kress. \n\nPe lângă supravegherea internă, comitetul va lucra cu experți independenți din domeniul juridic și al securității pentru a asigura o guvernanță riguroasă. Întâlnirile vor avea loc cel puțin trimestrial, incluzând sesiuni executive cu managementul pentru a evalua constant riscurile și politicile comerciale. \n\nAceastă inițiativă demonstrează angajamentul NVIDIA față de transparență și responsabilitate în fața autorităților guvernamentale. Prin această structură, compania dorește să demonstreze cele mai înalte standarde de guvernanță în industria semiconductorilor, adaptându-se rapid la cerințele geopolitice actuale.",
+    "body_en": "NVIDIA has officially announced the establishment of the National Security and Export Control Oversight Committee. This new standing committee at the board level will take direct responsibility for the company's national security policies, export control compliance, and global trade risk management. \n\nThe decision comes at a time when advanced silicon technologies and artificial intelligence present unprecedented challenges for national security. As the world's leading advanced computing company, NVIDIA aims to establish a robust framework that safeguards national interests while supporting continued technological innovation. \n\nThe committee will be chaired by director Suzanne Nora Johnson, with directors Stephen C. Neal and John O. Dabiri serving as members. They will work closely with the company's existing National Security and Global Trade Compliance teams, which will report directly to this committee and interim CEO Colette Kress. \n\nBeyond internal oversight, the committee will consult with independent third-party experts in law and national security to ensure rigorous compliance. Meetings will be held at least quarterly, including executive sessions with management to continuously assess risks and trade policies. \n\nThis initiative reflects NVIDIA's commitment to transparency and accountability with government stakeholders. Through this structure, the company aims to demonstrate the highest standards of governance in the semiconductor industry, adapting effectively to current geopolitical requirements.",
+    "highlights_ro": [
+      "Crearea unui comitet permanent pentru securitate și controlul exporturilor",
+      "Supraveghere directă de către membrii consiliului de administrație",
+      "Colaborare cu experți independenți pentru conformitate riguroasă",
+      "Integrarea echipelor de securitate sub o nouă guvernanță centralizată"
+    ],
+    "highlights_en": [
+      "Establishment of a permanent security and export control committee",
+      "Direct oversight by board of directors members",
+      "Collaboration with independent experts for rigorous compliance",
+      "Integration of security teams under new centralized governance"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-17T10:00:00+00:00",
+    "source_names": [
+      "NVIDIA Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit_1.jpg",
+      "assets/images/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-16-macos-273-brings-enhanced-ai-security-and-apple-intelligence-to-china",
     "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
     "title_ro": "macOS 27.3 aduce securitate sporită pentru AI și Apple Intelligence în China",

@@ -331,4 +331,15 @@
       <news:title>Apple Podcasts Names Baby, this is Keke Palmer 2026 Show of the Year</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-17-nvidia-establishes-national-security-and-export-control-oversight-commit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC Tech</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T10:00:00+00:00</news:publication_date>
+      <news:title>NVIDIA Establishes National Security and Export Control Oversight Committee</news:title>
+    </news:news>
+  </url>
 </urlset>
