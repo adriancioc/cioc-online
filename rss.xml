@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Paramount Plus Launches Aggressive Black Friday Streaming Deal</title>
+    <link>https://cioc.online/en/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</guid>
+    <description>Paramount Plus is offering two months of access for just $2.99, a deal available to all users until November 30th.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Unveils New Creative Projects via Flow AI Platform</title>
     <link>https://cioc.online/en/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-17-google-launches-new-task-management-features-for-gemini/</guid>
     <description>Gemini now handles complex tasks like scheduling and bill payments, available today for users in select regions using the new Gemini 4 Hydrogen model.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-17-google-launches-new-task-management-features-for-gemini_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Wallet Is Now Officially Available on iOS in the U.S.</title>
-    <link>https://cioc.online/en/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</link>
-    <guid>https://cioc.online/en/posts/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us/</guid>
-    <description>Google Wallet is now available on iOS in the U.S., allowing users to organize tickets, passes, and receipts by syncing with Google apps.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-17-google-wallet-is-now-officially-available-on-ios-in-the-us_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
