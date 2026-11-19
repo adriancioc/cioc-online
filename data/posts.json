@@ -71,6 +71,38 @@
     ]
   },
   {
+    "slug": "2026-11-19-analogue-3d-console-gains-wi-fi-support-for-automatic-updates",
+    "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+    "title_ro": "Consola Analogue 3D primește actualizări wireless prin noua funcție Wi-Fi",
+    "title_en": "Analogue 3D Console Gains Wi-Fi Support for Automatic Updates",
+    "summary": "The Analogue 3D console has received a firmware update that activates its Wi-Fi hardware, enabling automatic updates and time synchronization.",
+    "summary_ro": "Consola Analogue 3D a primit o actualizare firmware ce activează Wi-Fi-ul, permițând actualizări automate și sincronizarea orei.",
+    "summary_en": "The Analogue 3D console has received a firmware update that activates its Wi-Fi hardware, enabling automatic updates and time synchronization.",
+    "body_ro": "## O nouă eră pentru Analogue 3D\n\nAnalogue a făcut un pas important în evoluția consolei sale 3D, un dispozitiv care aduce experiența Nintendo 64 în era modernă. Până în prezent, procesul de actualizare a firmware-ului pentru acest dispozitiv a fost unul destul de anevoios, necesitând descărcarea fișierelor pe un card de memorie și transferul lor fizic către consolă. Această metodă, deși fiabilă, era departe de confortul oferit de dispozitivele moderne. Odată cu lansarea versiunii 1.6.0, Analogue a activat în sfârșit hardware-ul Wi-Fi care a fost prezent în interiorul consolei încă de la lansare.\n\n## Ce aduce nou actualizarea 1.6.0\n\nNoua versiune de firmware nu se limitează doar la activarea conexiunii wireless. Utilizatorii pot acum să se conecteze la rețele de 2,4 GHz și 5 GHz, inclusiv la cele ascunse, direct din meniul de setări al consolei. Odată ce această primă actualizare – care trebuie încă instalată manual prin cardul de memorie – este finalizată, consola devine capabilă să gestioneze singură viitoarele pachete de software. Această schimbare elimină nevoia de a mai manipula carduri SD pentru fiecare îmbunătățire minoră sau corecție de erori.\n\n## Funcții suplimentare și confidențialitate\n\nPe lângă actualizările automate, conectivitatea Wi-Fi aduce și alte beneficii. Consola poate acum să își sincronizeze automat data și ora în funcție de fusul orar al utilizatorului, o funcție simplă, dar extrem de utilă pentru organizarea bibliotecii de jocuri. Mai mult, Analogue a introdus o secțiune de confidențialitate în meniul de setări. Aici, utilizatorii au opțiunea de a partaja date anonime de utilizare și analize hardware. Această inițiativă este menită să ajute echipa de dezvoltare să înțeleagă mai bine cum este utilizat hardware-ul în condiții reale, permițând optimizări viitoare mai precise.\n\n## Impactul asupra comunității retro\n\nAceastă mișcare subliniază angajamentul Analogue de a menține relevanța produselor sale pe termen lung. Deși mulți entuziaști ai jocurilor retro preferă experiența „offline” și puristă, integrarea Wi-Fi-ului aduce un nivel de comoditate care atrage și jucătorii obișnuiți cu standardele actuale de utilizare. Prin simplificarea mentenanței, Analogue 3D devine un produs mult mai accesibil, demonstrând că nostalgia și tehnologia modernă pot coexista armonios fără a sacrifica esența originală a jocurilor.",
+    "body_en": "## A New Era for the Analogue 3D\n\nAnalogue has taken a significant step in the evolution of its 3D console, a device designed to bring the Nintendo 64 experience into the modern era. Until now, the firmware update process for this device was somewhat cumbersome, requiring users to download files onto a memory card and physically transfer them to the console. While reliable, this method was far from the convenience offered by modern consumer electronics. With the release of firmware version 1.6.0, Analogue has finally activated the Wi-Fi hardware that has been present inside the console since day one.\n\n## What the 1.6.0 Update Brings\n\nThis new firmware version is not limited to just enabling wireless connectivity. Users can now connect to 2.4GHz and 5GHz networks, including hidden ones, directly through the console's settings menu. Once this initial update—which still requires a manual installation via a memory card—is complete, the console becomes capable of managing future software packages on its own. This shift eliminates the need to constantly handle SD cards for every minor improvement or bug fix, significantly streamlining the maintenance process.\n\n## Additional Features and Privacy\n\nBeyond automatic updates, the new Wi-Fi capabilities bring other practical benefits. The console can now automatically sync its date and time settings based on the user's local time zone, a simple yet highly useful feature for organizing game libraries. Furthermore, Analogue has introduced a dedicated privacy section within the settings menu. Here, users have the option to share anonymous usage data and hardware analytics. This initiative is intended to help the development team better understand how the hardware is used in real-world scenarios, allowing for more precise future optimizations.\n\n## Impact on the Retro Community\n\nThis move underscores Analogue's commitment to maintaining the long-term relevance of its products. While many retro gaming enthusiasts prefer an \"offline\" and purist experience, the integration of Wi-Fi brings a level of convenience that appeals to players accustomed to modern usability standards. By simplifying maintenance, the Analogue 3D becomes a much more accessible product, demonstrating that nostalgia and modern technology can coexist harmoniously without sacrificing the original essence of the games.",
+    "highlights_ro": [
+      "Actualizarea 1.6.0 activează hardware-ul Wi-Fi integrat",
+      "Permite descărcarea automată a firmware-ului viitor",
+      "Sincronizare automată a datei și orei prin rețea",
+      "Opțiune nouă pentru partajarea datelor anonime de utilizare"
+    ],
+    "highlights_en": [
+      "Firmware 1.6.0 activates the built-in Wi-Fi hardware",
+      "Enables automatic downloads for future firmware updates",
+      "Automatic date and time synchronization via network",
+      "New privacy setting for sharing anonymous usage analytics"
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T14:32:33+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-19-analogue-3d-console-gains-wi-fi-support-for-automatic-updates_1.jpg",
+      "assets/images/2026-11-19-analogue-3d-console-gains-wi-fi-support-for-automatic-updates_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally",
     "url": "https://news.samsung.com/global/samsung-tv-plus-brings-2026-mama-awards-to-k-pop-fans-around-the-world",
     "title_ro": "Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS",
