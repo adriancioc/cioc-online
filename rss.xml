@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-20-samsung-announces-semiconductor-leadership-changes_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Apple is Developing an AI Agent to Control Your Mac</title>
+    <link>https://cioc.online/en/posts/2026-11-20-apple-developing-ai-mac-agent/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-apple-developing-ai-mac-agent/</guid>
+    <description>Apple is working on an AI agent capable of operating apps, coding, and web browsing on macOS. Here is what we know about the future of Mac automation.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-apple-developing-ai-mac-agent_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple is Building an Autonomous AI Agent to Supercharge Siri</title>
     <link>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</guid>
     <description>Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Launches November Update for Marketing Platform</title>
-    <link>https://cioc.online/en/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</guid>
-    <description>Google has released the November Marketing Platform update, providing new tools to help advertisers maximize ROI during the holiday shopping season.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-google-launches-november-update-for-marketing-platform_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
