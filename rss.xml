@@ -40,6 +40,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-ios-27-3-public-beta-2_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Meta Muse Charm: The $300 AI Wearable Challenge</title>
+    <link>https://cioc.online/en/posts/2026-11-19-meta-muse-charm-price-leak/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-meta-muse-charm-price-leak/</guid>
+    <description>Meta&#x27;s Muse Charm is rumored to cost $300. We analyze the specs, the 5G bundle, and whether this AI wearable can succeed where others failed.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-meta-muse-charm-price-leak_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Gemini Can Now Control Apps on Your Mac</title>
     <link>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-samsung-launches-one-ui-9-5/</guid>
     <description>Samsung has officially started the One UI 9.5 beta program. Get an early look at new camera controls, health insights, and privacy features.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-samsung-launches-one-ui-9-5_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Brings Gemini App to Lower-Memory Android Devices</title>
-    <link>https://cioc.online/en/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</guid>
-    <description>Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
