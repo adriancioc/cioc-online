@@ -376,6 +376,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-google-genie-4-interactive-ai-worlds/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
+      <news:title>Google Genie 4: Interactive AI Worlds with Native Audio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-google-genie-4-interactive-ai-worlds/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
+      <news:title>Google Genie 4: Lumea ta virtuală generată prin AI și sunet</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use/</loc>
     <news:news>
       <news:publication>
@@ -395,28 +417,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
       <news:title>Gemini pe Mac: Acum poate controla aplicații și browserul pentru tine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-launches-genie-4-gemini-api/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Google Launches Genie 4: Interactive AI World Generation</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-launches-genie-4-gemini-api/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Google lansează Genie 4: Lumi interactive generate prin AI</news:title>
     </news:news>
   </url>
   <url>

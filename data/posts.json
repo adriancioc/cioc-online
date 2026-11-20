@@ -615,6 +615,43 @@
     ]
   },
   {
+    "slug": "2026-11-19-google-genie-4-interactive-ai-worlds",
+    "slug_ro": "google-genie-4-lume-ai-interactiva",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "Google Genie 4",
+    "focus_keyword_en": "Google Genie 4",
+    "title_ro": "Google Genie 4: Lumea ta virtuală generată prin AI și sunet",
+    "title_en": "Google Genie 4: Interactive AI Worlds with Native Audio",
+    "summary": "Google releases Genie 4 for Gemini API and AI Ultra. Create interactive 720p worlds with real-time audio and text-based environment editing.",
+    "summary_ro": "Google lansează Genie 4 pentru Gemini API și AI Ultra. Creează lumi interactive 720p cu audio nativ și control în timp real prin simple comenzi text.",
+    "summary_en": "Google releases Genie 4 for Gemini API and AI Ultra. Create interactive 720p worlds with real-time audio and text-based environment editing.",
+    "body_ro": "<h2>O nouă eră pentru generarea de lumi virtuale</h2><p>Google a făcut un pas uriaș în domeniul inteligenței artificiale generative prin lansarea oficială a modelului <strong>Genie 4</strong>. Disponibil acum atât pentru dezvoltatori prin Gemini API, cât și pentru utilizatorii abonați la serviciul Google AI Ultra, acest model promite să transforme modul în care interacționăm cu mediile digitale.</p><h2>Ce aduce nou Genie 4?</h2><p>Spre deosebire de predecesorul său, Genie 4 nu se limitează doar la generarea de imagini statice sau video-uri scurte. Acesta creează lumi interactive la rezoluție 720p, rulând la 24 de cadre pe secundă. Ceea ce diferențiază cu adevărat acest model este integrarea <strong>sunetului nativ sincronizat</strong>. De la ambianțe sonore complexe până la dialoguri între personaje, totul este generat în timp real pe baza prompturilor tale.</p><p>Utilizatorii pot acum să modifice mediul înconjurător în timpul sesiunii de explorare. Vrei să schimbi vremea, să adaugi un personaj nou sau să modifici iluminarea? Este suficient să introduci o comandă text sau să folosești controalele de la tastatură, iar Genie 4 va actualiza starea lumii instantaneu, menținând coerența logică prin raționamentul avansat al modelelor Gemini.</p><h2>Utilitate practică și creativitate</h2><p>Pentru dezvoltatori, Genie 4 reprezintă o pânză albă ideală pentru prototiparea experiențelor interactive. Fie că lucrezi la design pentru concepte spațiale sau antrenezi agenți de robotică, acest model oferă controlul necesar pentru a testa idei complexe. Abonații Google AI Ultra beneficiază în plus de un agent dedicat care ajută la construcția mediilor prin conversație simplă și acces la o galerie comunitară unde creațiile pot fi partajate și remixate.</p><p>Fiecare output generat include marcajul invizibil <strong>SynthID</strong>, asigurând trasabilitatea conținutului creat prin AI. Această tehnologie nu este doar un instrument de divertisment, ci o platformă robustă pentru viitorul simulărilor digitale.</p><h2>Verdictul cioc.online</h2><p>Genie 4 demonstrează că Google pune accent pe interactivitate reală, nu doar pe generare pasivă. Dacă ești dezvoltator sau creator de experiențe imersive, accesul prin Gemini API este un punct de plecare obligatoriu. Pentru utilizatorii obișnuiți, integrarea în AI Ultra deschide o poartă către creativitate fără bariere tehnice. Rămâne de văzut cât de rapid va fi adoptat acest standard în industria jocurilor video și a aplicațiilor de simulare.</p>",
+    "body_en": "<h2>A New Era for Generative Virtual Worlds</h2><p>Google has taken a massive leap in generative AI with the official release of <strong>Genie 4</strong>. Now available both for developers via the Gemini API and for subscribers of the Google AI Ultra service, this model promises to transform how we interact with digital environments.</p><h2>What makes Genie 4 special?</h2><p>Unlike its predecessor, Genie 4 goes beyond static images or short video clips. It generates interactive 720p worlds running at 24 frames per second. What truly sets this model apart is the integration of <strong>synchronized native audio</strong>. From complex ambient soundscapes to character dialogue, everything is generated in real-time based on your prompts.</p><p>Users can now modify the environment during an exploration session. Want to change the weather, add a new character, or alter the lighting? Simply input a text prompt or use keyboard controls, and Genie 4 will update the world state instantly, maintaining logical consistency through advanced Gemini reasoning.</p><h2>Practical Utility and Creativity</h2><p>For developers, Genie 4 represents an ideal blank canvas for prototyping interactive experiences. Whether you are working on spatial design concepts or training robotics agents, this model provides the necessary control to test complex ideas. Google AI Ultra subscribers also benefit from a dedicated agent that helps build environments through simple conversation and access to a community gallery where creations can be shared and remixed.</p><p>Every output generated includes the invisible <strong>SynthID</strong> watermark, ensuring the traceability of AI-generated content. This technology is not just a tool for entertainment, but a robust platform for the future of digital simulations.</p><h2>The cioc.online Verdict</h2><p>Genie 4 proves that Google is focusing on true interactivity rather than passive generation. If you are a developer or an immersive experience creator, access via the Gemini API is a must-try. For general users, the integration into AI Ultra opens a gateway to creativity without technical barriers. It remains to be seen how quickly this standard will be adopted across the gaming and simulation industries.</p>",
+    "highlights_ro": [
+      "Google a lansat oficial modelul Genie 4, capabil să genereze lumi interactive 720p la 24fps cu sunet sincronizat.",
+      "Disponibil acum pentru dezvoltatori via Gemini API și pentru abonații Google AI Ultra.",
+      "O unealtă revoluționară pentru prototipare, design spațial și antrenarea agenților AI în medii controlate."
+    ],
+    "highlights_en": [
+      "Google officially launched Genie 4, capable of generating 720p interactive worlds at 24fps with synchronized audio.",
+      "Now available for developers via Gemini API and for Google AI Ultra subscribers.",
+      "A revolutionary tool for prototyping, spatial design, and training AI agents in controlled environments."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T17:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-19-google-genie-4-interactive-ai-worlds_1.jpg",
+      "assets/images/2026-11-19-google-genie-4-interactive-ai-worlds_2.jpg",
+      "assets/images/2026-11-19-google-genie-4-interactive-ai-worlds_3.jpg",
+      "assets/images/2026-11-19-google-genie-4-interactive-ai-worlds_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-gemini-mac-computer-use",
     "slug_ro": "gemini-pe-mac-controleaza-aplicatii",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
@@ -648,44 +685,6 @@
       "assets/images/2026-11-19-gemini-mac-computer-use_1.jpg",
       "assets/images/2026-11-19-gemini-mac-computer-use_2.jpg",
       "assets/images/2026-11-19-gemini-mac-computer-use_3.jpg"
-    ]
-  },
-  {
-    "slug": "2026-11-19-google-launches-genie-4-gemini-api",
-    "slug_ro": "google-lanseaza-genie-4-gemini-api",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-    "category": "AI",
-    "virality_score": 9,
-    "focus_keyword_ro": "Google Genie 4",
-    "focus_keyword_en": "Google Genie 4",
-    "title_ro": "Google lansează Genie 4: Lumi interactive generate prin AI",
-    "title_en": "Google Launches Genie 4: Interactive AI World Generation",
-    "summary": "Google brings Genie 4 to Gemini API. Create interactive 720p worlds with native audio and expand Gemini to low-memory Android devices.",
-    "summary_ro": "Google aduce Genie 4 în Gemini API. Creează lumi 720p interactive cu audio nativ și extinde Gemini pe telefoane Android cu memorie redusă.",
-    "summary_en": "Google brings Genie 4 to Gemini API. Create interactive 720p worlds with native audio and expand Gemini to low-memory Android devices.",
-    "body_ro": "<h2>Revoluția lumilor generate de AI</h2><p>Google a făcut un pas major în evoluția inteligenței artificiale generative prin lansarea oficială a modelului <strong>Genie 4</strong>. Disponibil acum pentru dezvoltatori prin Gemini API și Google AI Studio, acest model nu se limitează doar la generarea de text sau imagini, ci creează medii interactive complexe. Utilizatorii pot genera lumi 720p la 24fps, însoțite de un sistem audio nativ care se adaptează dinamic la acțiunile din scenă.</p><h2>Control total în timp real</h2><p>Ceea ce diferențiază Genie 4 de iterațiile anterioare este capacitatea de editare în timp real. Dezvoltatorii pot naviga prin mediile create și pot modifica vremea, iluminarea sau obiectele prezente folosind simple comenzi text sau tastatură. Această coerență este menținută de raționamentul avansat al modelelor Gemini, asigurând că starea lumii rămâne logică pe tot parcursul sesiunii. Mai mult, fiecare output este marcat cu tehnologia <strong>SynthID</strong>, asigurând trasabilitatea conținutului generat.</p><h2>Gemini pentru toată lumea</h2><p>Pe lângă inovațiile pentru dezvoltatori, Google a anunțat o actualizare crucială pentru utilizatorii de rând: aplicația Gemini este acum disponibilă pe dispozitivele Android cu memorie redusă (inclusiv edițiile Go). Această re-arhitectură permite accesul la <strong>Gemini Live</strong> și funcții avansate de procesare vizuală pentru sute de milioane de utilizatori care până acum erau limitați la comenzi vocale de bază. Este o democratizare necesară a accesului la AI.</p><h2>Verdictul Cioc.online</h2><p>Genie 4 nu este doar un instrument de joacă, ci un motor de prototipare pentru viitorul realității virtuale și al antrenamentului pentru agenți AI. În timp ce abonații Google AI Ultra beneficiază de o galerie comunitară pentru a partaja și remixa lumi, dezvoltatorii au acum o pânză albă pentru a testa idei care, până ieri, necesitau bugete de producție masive. Rămâne de văzut cum va fi integrat acest sistem în motoare grafice consacrate precum Unity sau Unreal Engine, dar premisele sunt extrem de solide.</p>",
-    "body_en": "<h2>The Evolution of AI-Generated Worlds</h2><p>Google has taken a significant step in generative AI with the official launch of <strong>Genie 4</strong>. Now available for developers through the Gemini API and Google AI Studio, this model goes beyond text or image generation to create complex interactive environments. Users can generate 720p worlds at 24fps, accompanied by a native audio system that adapts dynamically to scene actions.</p><h2>Real-Time Control and Consistency</h2><p>What sets Genie 4 apart is its real-time editing capability. Developers can navigate through created environments and modify weather, lighting, or objects using simple text prompts or keyboard inputs. This consistency is maintained by Gemini's advanced reasoning, ensuring the world state remains coherent throughout the session. Furthermore, every output is embedded with <strong>SynthID</strong> watermarking for content traceability.</p><h2>Gemini for Everyone</h2><p>Beyond developer innovations, Google announced a crucial update for everyday users: the Gemini app is now available on low-memory Android devices, including Android (Go edition). This re-architecture allows access to <strong>Gemini Live</strong> and advanced visual processing features for hundreds of millions of users who were previously limited to basic voice commands. It is a necessary democratization of AI access.</p><h2>The Cioc.online Verdict</h2><p>Genie 4 is not just a toy; it is a prototyping engine for the future of virtual reality and AI agent training. While Google AI Ultra subscribers benefit from a community gallery to share and remix worlds, developers now have a blank canvas to test ideas that previously required massive production budgets. It remains to be seen how this system will be integrated into established engines like Unity or Unreal, but the foundation is incredibly strong.</p>",
-    "highlights_ro": [
-      "Google a lansat oficial modelul Genie 4 pentru dezvoltatori prin Gemini API și Google AI Studio.",
-      "Genie 4 permite generarea de lumi 720p la 24fps cu audio nativ, editabile în timp real prin prompturi text.",
-      "Cioc.online consideră că acesta este un pas uriaș pentru prototiparea rapidă în gaming și design spațial."
-    ],
-    "highlights_en": [
-      "Google officially launched the Genie 4 model for developers via Gemini API and Google AI Studio.",
-      "Genie 4 enables the generation of 720p interactive worlds at 24fps with real-time audio and text-based editing.",
-      "Cioc.online believes this is a massive leap for rapid prototyping in gaming and spatial design."
-    ],
-    "story_type": "official_launch",
-    "published_at": "2026-11-19T17:00:00+00:00",
-    "source_names": [
-      "Google The Keyword"
-    ],
-    "images": [
-      "assets/images/2026-11-19-google-launches-genie-4-gemini-api_1.jpg",
-      "assets/images/2026-11-19-google-launches-genie-4-gemini-api_2.jpg",
-      "assets/images/2026-11-19-google-launches-genie-4-gemini-api_3.jpg",
-      "assets/images/2026-11-19-google-launches-genie-4-gemini-api_4.jpg",
-      "assets/images/2026-11-19-google-launches-genie-4-gemini-api_5.jpg"
     ]
   },
   {
