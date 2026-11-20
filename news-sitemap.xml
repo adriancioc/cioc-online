@@ -200,6 +200,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T18:09:11+00:00</news:publication_date>
+      <news:title>Google Gemini Gains Computer Use on Mac: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-google-gemini-mac-computer-use-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T18:09:11+00:00</news:publication_date>
+      <news:title>Google Gemini poate controla Mac-ul: Ce oferă noul agent AI</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-google-android-verification-2027/</loc>
     <news:news>
       <news:publication>

@@ -68,6 +68,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-gemini-mac-computer-use-feature_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Gemini Gains Computer Use on Mac: What You Need to Know</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</guid>
+    <description>Google adds autonomous computer use capabilities to the Gemini desktop app on macOS. Discover how the AI agent works and its current limits.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-gemini-mac-computer-use-agent_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Mandates Android App Verification Starting 2027</title>
     <link>https://cioc.online/en/posts/2026-11-19-google-android-verification-2027/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-google-android-verification-2027/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</guid>
     <description>Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Samsung Launches One UI 9.5 Beta: Key Features Explained</title>
-    <link>https://cioc.online/en/posts/2026-11-18-samsung-launches-one-ui-9-5/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-samsung-launches-one-ui-9-5/</guid>
-    <description>Samsung has officially started the One UI 9.5 beta program. Get an early look at new camera controls, health insights, and privacy features.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-samsung-launches-one-ui-9-5_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
