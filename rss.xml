@@ -26,6 +26,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-apple-developing-autonomous-ai-agent_1.jpg" medium="image" />
   </item>
   <item>
+    <title>NVIDIA Announces Upcoming Financial Community Event</title>
+    <link>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</guid>
+    <description>NVIDIA will present at the 30th Annual UBS Global Technology and AI Conference. Get the details on how to listen to the live webcast.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-nvidia-financial-community-event_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iOS 27.3 Public Beta 2: Safari and Siri AI Updates</title>
     <link>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</guid>
     <description>Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple Releases Firmware Update for Fourth-Generation Siri Remote</title>
-    <link>https://cioc.online/en/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</guid>
-    <description>Apple has updated the fourth-generation Siri Remote firmware to build 0001.0061.0000.0000 with background updates.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

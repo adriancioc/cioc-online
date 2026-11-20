@@ -68,6 +68,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:00:00+00:00</news:publication_date>
+      <news:title>NVIDIA Announces Upcoming Financial Community Event</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-nvidia-financial-community-event/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:00:00+00:00</news:publication_date>
+      <news:title>NVIDIA anunță un nou eveniment pentru comunitatea financiară</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
     <news:news>
       <news:publication>
