@@ -54,11 +54,11 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-google-android-verification-2027_1.jpg" medium="image" />
   </item>
   <item>
-    <title>Google Launches Tool Retrieval for Gemini API</title>
-    <link>https://cioc.online/en/posts/2026-11-19-google-gemini-api-tool-retrieval/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-api-tool-retrieval/</guid>
-    <description>Google introduces Tool Retrieval in the Gemini API to optimize AI agent performance and reduce token costs for developers.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-google-gemini-api-tool-retrieval_1.jpg" medium="image" />
+    <title>Google Introduces Tool Retrieval for Gemini API</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-introduces-gemini-api-tool-retrieval/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-introduces-gemini-api-tool-retrieval/</guid>
+    <description>Google launches Tool Retrieval in Gemini API to optimize AI agents with large tool libraries. Reduced latency and input token costs.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-introduces-gemini-api-tool-retrieval_1.jpg" medium="image" />
   </item>
   <item>
     <title>Apple Camera Software VP Jon McCormack Retires</title>
