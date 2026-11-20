@@ -332,6 +332,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
+      <news:title>Gemini for Mac Can Now Control Apps and Browsers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-gemini-mac-computer-use/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
+      <news:title>Gemini pe Mac: Acum poate controla aplicații și browserul pentru tine</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-google-launches-genie-4-gemini-api/</loc>
     <news:news>
       <news:publication>
@@ -703,72 +725,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T18:00:00+00:00</news:publication_date>
       <news:title>Samsung lansează One UI 9.5 Beta: Ce aduce nou pe Galaxy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:00:00+00:00</news:publication_date>
-      <news:title>Google Brings Gemini App to Lower-Memory Android Devices</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:00:00+00:00</news:publication_date>
-      <news:title>Google aduce aplicația Gemini pe dispozitivele Android cu memorie redusă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:59:00+00:00</news:publication_date>
-      <news:title>Sam Altman Warns Against a Future Where AI Controls Human Decisions</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:59:00+00:00</news:publication_date>
-      <news:title>Sam Altman avertizează: Oamenii trebuie să controleze viitorul inteligenței artificiale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
-      <news:title>Apple Releases Firmware Update for Fourth-Generation Siri Remote</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-firmware-update-for-fourth-generation-siri-remote/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
-      <news:title>Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote</news:title>
     </news:news>
   </url>
 </urlset>

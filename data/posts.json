@@ -542,6 +542,42 @@
     ]
   },
   {
+    "slug": "2026-11-19-gemini-mac-computer-use",
+    "slug_ro": "gemini-pe-mac-controleaza-aplicatii",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+    "category": "AI",
+    "virality_score": 9,
+    "focus_keyword_ro": "Gemini pentru Mac",
+    "focus_keyword_en": "Gemini Mac computer use",
+    "title_ro": "Gemini pe Mac: Acum poate controla aplicații și browserul pentru tine",
+    "title_en": "Gemini for Mac Can Now Control Apps and Browsers",
+    "summary": "Google introduces 'computer use' for Gemini on Mac, allowing the AI to navigate apps and automate repetitive tasks. Here is what you need to know.",
+    "summary_ro": "Google lansează funcția de 'computer use' pentru Gemini pe Mac. Află cum AI-ul poate automatiza sarcini repetitive direct pe desktopul tău.",
+    "summary_en": "Google introduces 'computer use' for Gemini on Mac, allowing the AI to navigate apps and automate repetitive tasks. Here is what you need to know.",
+    "body_ro": "<h2>Revoluția automatizării ajunge pe Mac prin Gemini</h2><p>Google a anunțat o schimbare majoră pentru utilizatorii de macOS: aplicația Gemini poate acum să preia controlul asupra computerului pentru a executa sarcini complexe. Această funcție, numită generic 'computer use', permite inteligenței artificiale să navigheze prin meniuri, să completeze formulare și să interacționeze cu diverse aplicații, totul în timp ce tu rămâi la cârma sistemului.</p><p>Spre deosebire de un simplu chatbot care scrie text, Gemini pe Mac acționează ca un asistent operativ. Poți descrie un flux de lucru complex, iar AI-ul va simula clicuri, tastare și navigare web. Această abordare este menită să elimine sarcinile repetitive care ocupă timp prețios, cum ar fi introducerea datelor în tabele sau navigarea prin interfețe software stufoase.</p><h2>Cum funcționează și ce control ai</h2><p>Google a integrat această tehnologie într-o fereastră separată, izolată, care rulează în fundal. Aceasta este o decizie de design inteligentă, deoarece îți permite să continui lucrul pe ecranul principal fără a fi întrerupt de acțiunile AI-ului. Poți vedea în timp real ce face Gemini printr-o previzualizare live, având posibilitatea de a întrerupe procesul în orice secundă.</p><ul><li><strong>Control total:</strong> Tu decizi ce aplicații poate accesa Gemini.</li><li><strong>Siguranță:</strong> AI-ul solicită aprobarea ta pentru acțiunile critice.</li><li><strong>Multitasking:</strong> Cursorul tău rămâne liber pentru a lucra în paralel.</li></ul><p>Din punct de vedere al securității, Google susține că a implementat bariere stricte. Utilizatorul rămâne în controlul final, aprobând fiecare pas important. Această funcție este un pas înainte față de instrumentele de automatizare tradiționale (precum Apple Shortcuts), oferind o flexibilitate mult mai mare prin înțelegerea limbajului natural.</p><h2>Disponibilitate și viitor</h2><p>În prezent, funcția este lansată pentru utilizatorii din SUA, în limba engleză. Deși disponibilitatea în România și UE este momentan limitată de reglementările locale și de procesul de localizare, este clar că aceasta este direcția în care se îndreaptă sistemele de operare moderne. Integrarea AI-ului direct în fluxul de lucru al sistemului de operare va deveni rapid un standard.</p><p>Pentru utilizatorii profesioniști, aceasta ar putea însemna sfârșitul sarcinilor administrative plictisitoare. Totuși, rămâne de văzut cât de precis va fi AI-ul în aplicații complexe și cum va gestiona erorile de interfață. Dacă ești un utilizator avansat, merită să urmărești evoluția acestei funcții, deoarece va schimba radical modul în care interacționăm cu aplicațiile de productivitate pe macOS.</p>",
+    "body_en": "<h2>Gemini for Mac Gets a Major Productivity Boost</h2><p>Google has officially introduced a powerful new capability for the Gemini app on macOS: 'computer use.' This feature moves beyond simple text generation, allowing the AI to navigate through your desktop applications, interact with websites, and automate complex, multi-step workflows that previously required dozens of manual clicks.</p><p>The core philosophy behind this update is to handle the repetitive 'drudge work' that consumes so much of our day. Whether it is filling out forms, navigating through nested software menus, or moving data between local files and web apps, Gemini can now handle the heavy lifting while you focus on higher-level creative or analytical tasks.</p><h2>How It Works: Seamless Integration</h2><p>Google has designed this feature with a focus on user control and system stability. Gemini operates within an isolated background window, providing a live preview of its actions. This means your main screen and cursor remain completely free, allowing you to continue working, designing, or taking calls without any interruption.</p><ul><li><strong>Isolated Execution:</strong> Runs in a separate window to keep your workspace clean.</li><li><strong>User Approval:</strong> You remain in control by approving key actions before they happen.</li><li><strong>Granular Access:</strong> You define exactly which apps the AI is permitted to access.</li></ul><p>Safety and privacy are at the forefront of this implementation. Because the AI is literally 'looking' at your screen to navigate, Google has built in safeguards that allow you to pause the process at any time. You are not just a spectator; you are the supervisor of the AI's workflow.</p><h2>The Future of Desktop Computing</h2><p>This launch marks a significant shift in how we interact with our computers. For years, we have relied on rigid automation tools like Apple Shortcuts. Gemini's approach is different because it uses natural language understanding to interpret what needs to be done, making it much more adaptable to different software environments.</p><p>While the feature is currently rolling out in the U.S. in English, its potential impact on global productivity is immense. As the AI becomes more adept at handling complex desktop tasks, the line between 'using' a computer and 'directing' an AI to use it will continue to blur. For Mac power users, this is a development that warrants close attention as it evolves from a novelty into an essential productivity tool.</p>",
+    "highlights_ro": [
+      "Gemini pe Mac a primit funcția 'computer use' pentru a naviga și opera aplicații și site-uri web.",
+      "Disponibil momentan în SUA (engleză), urmează extinderea globală și în UE.",
+      "Un pas uriaș spre automatizarea muncii, dar necesită supraveghere umană constantă."
+    ],
+    "highlights_en": [
+      "Gemini for Mac now features 'computer use' to navigate and operate desktop apps.",
+      "Currently rolling out in the US (English), with global expansion expected.",
+      "A game-changer for productivity that keeps the user in full control."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T17:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-19-gemini-mac-computer-use_1.jpg",
+      "assets/images/2026-11-19-gemini-mac-computer-use_2.jpg",
+      "assets/images/2026-11-19-gemini-mac-computer-use_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-google-launches-genie-4-gemini-api",
     "slug_ro": "google-lanseaza-genie-4-gemini-api",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
