@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:31:41+00:00</news:publication_date>
+      <news:title>Apple is Building an Autonomous AI Agent to Supercharge Siri</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-apple-developing-autonomous-ai-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:31:41+00:00</news:publication_date>
+      <news:title>Apple dezvoltă un AI agent autonom: Siri va prelua controlul aplicațiilor</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
     <news:news>
       <news:publication>

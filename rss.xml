@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-20-samsung-announces-semiconductor-leadership-changes_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Apple is Building an Autonomous AI Agent to Supercharge Siri</title>
+    <link>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</guid>
+    <description>Apple is hiring engineers to build an AI agent capable of browsing the web and controlling apps, aiming to compete with Google and OpenAI.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-apple-developing-autonomous-ai-agent_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iOS 27.3 Public Beta 2: Safari and Siri AI Updates</title>
     <link>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</guid>
     <description>Google has released the November Marketing Platform update, providing new tools to help advertisers maximize ROI during the holiday shopping season.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-google-launches-november-update-for-marketing-platform_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>How to Spot Real Black Friday Deals</title>
-    <link>https://cioc.online/en/posts/2026-11-18-how-to-spot-real-black-friday-deals/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-how-to-spot-real-black-friday-deals/</guid>
-    <description>Learn how to navigate Black Friday sales by using price tracking tools and avoiding common retailer pricing traps.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-how-to-spot-real-black-friday-deals_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
