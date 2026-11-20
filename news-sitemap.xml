@@ -112,6 +112,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:14:23+00:00</news:publication_date>
+      <news:title>Google Gemini Can Now Control Apps on Your Mac</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-google-gemini-mac-app-control/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:14:23+00:00</news:publication_date>
+      <news:title>Google Gemini poate acum să controleze aplicațiile de pe Mac-ul tău</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</loc>
     <news:news>
       <news:publication>

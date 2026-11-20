@@ -173,6 +173,41 @@
     ]
   },
   {
+    "slug": "2026-11-19-google-gemini-mac-app-control",
+    "slug_ro": "google-gemini-controleaza-aplicatii-mac",
+    "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+    "category": "AI",
+    "virality_score": 9,
+    "focus_keyword_ro": "Google Gemini Mac",
+    "focus_keyword_en": "Google Gemini Mac",
+    "title_ro": "Google Gemini poate acum să controleze aplicațiile de pe Mac-ul tău",
+    "title_en": "Google Gemini Can Now Control Apps on Your Mac",
+    "summary": "Google Gemini for Mac gets new automation features. Learn how it can control apps, files, and browsers to streamline your workflow.",
+    "summary_ro": "Google Gemini pe Mac primește funcții noi de automatizare. Află cum poate controla aplicațiile, fișierele și browserul pentru a-ți ușura munca.",
+    "summary_en": "Google Gemini for Mac gets new automation features. Learn how it can control apps, files, and browsers to streamline your workflow.",
+    "body_ro": "<h2>O nouă eră a automatizării pe macOS</h2><p>Google a lansat o actualizare majoră pentru aplicația Gemini pe macOS, transformând asistentul AI dintr-un simplu chatbot într-un agent capabil să preia controlul asupra sistemului tău. Această funcționalitate permite Gemini să interacționeze direct cu aplicațiile, fișierele și paginile web pentru a executa sarcini complexe în fundal, în timp ce tu te poți concentra pe alte activități.</p><p>Spre deosebire de versiunile anterioare, Gemini poate acum simula acțiuni umane precum click-uri, tastare, navigare prin meniuri și completarea formularelor. Totul se desfășoară într-o fereastră izolată, oferind o previzualizare live, astfel încât să poți monitoriza fiecare pas pe care AI-ul îl face în numele tău.</p><h2>Productivitate sporită sau risc de securitate?</h2><p>Google susține că această funcție este ideală pentru sarcini repetitive, cum ar fi editarea în masă a fotografiilor, pregătirea listărilor pentru platforme de vânzare sau transformarea capturilor de ecran în prezentări structurate. Totuși, puterea vine cu responsabilitate. Utilizatorii pot alege ce aplicații poate accesa Gemini, iar sistemul va solicita aprobarea explicită înainte de a efectua acțiuni critice.</p><p>Momentul lansării este strategic, venind chiar înainte de debutul macOS 27.3. Apple a anunțat deja că va introduce avertismente mai clare privind permisiunile oferite agenților AI, oferind utilizatorilor control granulat asupra accesului la foldere și date specifice. Această transparență este esențială într-un ecosistem unde AI-ul începe să aibă privilegii de operare.</p><h2>Cerințe și disponibilitate</h2><p>Pentru a beneficia de aceste funcții, ai nevoie de un Mac cu procesor Apple Silicon. Funcționalitatea este disponibilă pentru abonații Google AI Plus, Pro și Ultra, cu prețuri care pornesc de la 4,99 USD pe lună. Deși momentan este concentrată pe piața din SUA, integrarea este un semnal clar că viitorul sistemelor de operare va fi definit de agenți AI care \"lucrează\" pentru noi.</p><p>Dacă te întrebi cum să configurezi corect permisiunile pentru a nu expune date sensibile, am pregătit un ghid pas cu pas pe cioc.online. Este crucial să înțelegi cum să limitezi accesul AI-ului la fișierele tale personale înainte de a activa controlul total.</p>",
+    "body_en": "<h2>The New Era of macOS Automation</h2><p>Google has rolled out a significant update for the Gemini app on macOS, effectively turning the AI assistant into an agent capable of taking control of your system. This new capability allows Gemini to interact directly with your apps, files, and websites to execute multi-step tasks in the background while you focus on your primary work.</p><p>Unlike previous iterations, Gemini can now simulate human actions such as clicking, typing, navigating menus, and filling out forms. The entire process runs in an isolated window with a live preview, allowing you to keep a close eye on what the AI is doing at any given moment.</p><h2>Productivity vs. Security</h2><p>Google suggests that this feature is particularly useful for repetitive work, such as batch-editing photos, preparing listings for resale platforms, or turning screenshots and metrics into structured presentations. However, this level of access requires caution. Users can select which apps Gemini can use, and the system will ask for explicit approval before taking any \"key actions.\"</p><p>The timing of this release is strategic, arriving just before the launch of macOS 27.3. Apple has already announced that it will introduce clearer warnings regarding the permissions granted to AI agents, giving users granular control over access to specific folders and data. This transparency is crucial in an ecosystem where AI agents are beginning to have operational privileges.</p><h2>Requirements and Availability</h2><p>To use these features, you must have an Apple Silicon Mac. The functionality is available to Google AI Plus, Pro, and Ultra subscribers, with plans starting at $4.99 per month. While currently focused on the U.S. market, this integration is a clear signal that the future of operating systems will be defined by AI agents that \"work\" for us.</p><p>If you are wondering how to properly configure permissions to avoid exposing sensitive data, we have prepared a step-by-step guide on cioc.online. It is essential to understand how to limit the AI's access to your personal files before enabling full control.</p>",
+    "highlights_ro": [
+      "Gemini pentru Mac poate acum să automatizeze sarcini complexe, controlând click-uri, tastare și meniuri în aplicații.",
+      "Disponibil pentru abonații Google AI Plus/Pro/Ultra (de la 5 USD/lună) pe Mac-uri cu procesor Apple Silicon.",
+      "O unealtă puternică, dar care necesită atenție sporită la permisiunile de securitate oferite sistemului de operare."
+    ],
+    "highlights_en": [
+      "Gemini for Mac can now automate complex tasks by controlling clicks, typing, and menus within your applications.",
+      "Available for Google AI Plus/Pro/Ultra subscribers (starting at $4.99/month) on Apple Silicon Macs.",
+      "A powerful productivity tool that requires careful management of system permissions and privacy settings."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-19T20:14:23+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-19-google-gemini-mac-app-control_1.jpg",
+      "assets/images/2026-11-19-google-gemini-mac-app-control_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-sonos-black-friday-deals-2026",
     "slug_ro": "reduceri-sonos-black-friday-2026",
     "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",

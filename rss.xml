@@ -40,6 +40,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-ios-27-3-public-beta-2_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Gemini Can Now Control Apps on Your Mac</title>
+    <link>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</guid>
+    <description>Google Gemini for Mac gets new automation features. Learn how it can control apps, files, and browsers to streamline your workflow.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-google-gemini-mac-app-control_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Sonos Black Friday 2026: Best Deals on Speakers and Soundbars</title>
     <link>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices/</guid>
     <description>Google optimizes the Gemini app for Android (Go edition) devices, bringing advanced AI features to millions of entry-level smartphone users worldwide.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-google-brings-gemini-app-to-lower-memory-android-devices_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Sam Altman Warns Against a Future Where AI Controls Human Decisions</title>
-    <link>https://cioc.online/en/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions/</guid>
-    <description>Sam Altman and Greg Brockman emphasize the necessity of maintaining human oversight as AI models become increasingly powerful and complex.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-sam-altman-warns-against-a-future-where-ai-controls-human-decisions_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
