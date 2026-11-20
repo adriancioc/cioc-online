@@ -222,6 +222,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-apple-camera-software-vp-retires/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T19:37:10+00:00</news:publication_date>
+      <news:title>Apple Camera Software VP Jon McCormack Retires</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-apple-camera-software-vp-retires/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T19:37:10+00:00</news:publication_date>
+      <news:title>Schimbări la Apple: Șeful diviziei de software pentru cameră se retrage</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</loc>
     <news:news>
       <news:publication>
@@ -329,28 +351,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T18:00:00+00:00</news:publication_date>
       <news:title>Google lansează Tool Retrieval în Gemini API: Eficiență pentru AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:38:33+00:00</news:publication_date>
-      <news:title>Apple Camera Software VP Jon McCormack Retires</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-apple-camera-vp-jon-mccormack-retires/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:38:33+00:00</news:publication_date>
-      <news:title>Schimbare majoră la Apple: Șeful diviziei de cameră foto a plecat</news:title>
     </news:news>
   </url>
   <url>
