@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>SpaceX: Lending Dispute and New Home Cellular Hardware</title>
+    <link>https://cioc.online/en/posts/2026-11-20-spacex-lending-dispute-and-hardware/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-spacex-lending-dispute-and-hardware/</guid>
+    <description>SpaceX lenders worry about AI chips in space, while Musk unveils plans for home cellular mini-towers to fix dead zones.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-spacex-lending-dispute-and-hardware_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Jensen Huang&#x27;s Nvidia Exit: Leadership Built on Fear</title>
     <link>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</link>
     <guid>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</guid>
     <description>Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</title>
-    <link>https://cioc.online/en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</guid>
-    <description>Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
