@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-20-jensen-huang-nvidia-exit-scandal",
+    "slug_ro": "plecarea-lui-jensen-huang-nvidia",
+    "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+    "category": "TECH",
+    "virality_score": 7,
+    "focus_keyword_ro": "Jensen Huang Nvidia",
+    "focus_keyword_en": "Jensen Huang Nvidia exit",
+    "title_ro": "Jensen Huang și cultura fricii: De ce a plecat de la Nvidia",
+    "title_en": "Jensen Huang's Nvidia Exit: Leadership Built on Fear",
+    "summary": "Jensen Huang has left Nvidia. New reports reveal a management style built on humiliation and fear. We analyze the fallout of this tech industry shock.",
+    "summary_ro": "Jensen Huang a părăsit Nvidia. Dezvăluiri șocante despre un stil de management bazat pe umilință și frică. Află detaliile din spatele plecării.",
+    "summary_en": "Jensen Huang has left Nvidia. New reports reveal a management style built on humiliation and fear. We analyze the fallout of this tech industry shock.",
+    "body_ro": "<h2>O eră se încheie la Nvidia</h2><p>Plecarea lui Jensen Huang de la cârma Nvidia a luat prin surprindere întreaga industrie tehnologică. Dacă până acum imaginea sa era cea a unui vizionar care a transformat compania într-un gigant al inteligenței artificiale, noile dezvăluiri din presa internațională conturează un portret mult mai întunecat. Stilul său de management, descris de foști angajați ca fiind bazat pe frică și umilință, a ieșit la iveală după decenii de tăcere.</p><h2>Management prin umilință</h2><p>Conform investigațiilor recente, Huang ar fi folosit umilința ca instrument principal de motivare, argumentând că, într-o companie atât de bogată, banii nu mai sunt un stimulent eficient. Declarațiile sunt șocante: amenințări fizice și insulte la adresa subordonaților au fost documentate, inclusiv un incident din 2005 în care Nvidia a plătit peste 1 milion de dolari pentru a soluționa un litigiu cu un fost șef de resurse umane care a catalogat comportamentul lui Huang drept abuziv.</p><h2>Reacția pieței și a angajaților</h2><p>În timp ce Elon Musk a sărit în apărarea lui Huang, comparându-l cu Michael Jordan în perioada de glorie a echipei Chicago Bulls, realitatea din interiorul Nvidia pare divizată. Mii de angajați au semnat o scrisoare prin care cer revenirea sa, însă mărturiile celor care au lucrat direct sub comanda sa sugerează că succesul financiar al companiei a fost construit pe un fundament toxic. Această dualitate pune sub semnul întrebării viitorul culturii organizaționale a Nvidia.</p><h2>Ce urmează pentru Nvidia?</h2><p>Dincolo de scandalul personal, întrebarea rămâne: poate Nvidia să mențină ritmul inovator fără cel care a definit strategia companiei timp de 33 de ani? Investitorii sunt precauți, iar piața hardware AI urmărește cu atenție tranziția. Rămâne de văzut dacă noul leadership va reuși să curețe imaginea companiei sau dacă umbra lăsată de Huang va continua să afecteze moralul echipei pe termen lung.</p>",
+    "body_en": "<h2>The End of an Era at Nvidia</h2><p>The departure of Jensen Huang from Nvidia has sent shockwaves through the tech industry. Long hailed as the visionary architect behind the AI hardware revolution, Huang's legacy is now being scrutinized under a much darker light. Recent reports suggest that his management style was not just demanding, but reportedly built on a foundation of fear, humiliation, and verbal abuse.</p><h2>The Cost of Ambition</h2><p>According to investigative reports, Huang allegedly justified his behavior by claiming that in a company as wealthy as Nvidia, money was no longer a sufficient motivator, leaving humiliation as the only remaining lever. The allegations are severe, ranging from personal insults to direct threats of physical violence against subordinates. A 2005 settlement involving a former HR chief, where Nvidia paid over $1 million, highlights that these incidents were not isolated occurrences but part of a long-standing pattern.</p><h2>A Divided Workforce</h2><p>While industry figures like Elon Musk have publicly defended Huang, comparing his impact to that of basketball legend Michael Jordan, the internal reality at Nvidia appears far more complex. While thousands of employees have petitioned for his return, others have spoken out about the toxic environment they endured. This divide highlights the struggle between valuing high-performance output and maintaining a sustainable, healthy corporate culture.</p><h2>The Future of AI Hardware</h2><p>As Nvidia navigates this transition, the broader question is how the company will evolve without the leader who defined its strategy for over three decades. The AI hardware market is more competitive than ever, and the loss of such a central figure, coupled with the reputational damage from these allegations, creates significant uncertainty. Whether the new leadership can pivot toward a more constructive culture or if the company will struggle to retain top talent remains the critical issue for investors and industry observers alike.</p>",
+    "highlights_ro": [
+      "Jensen Huang a părăsit conducerea Nvidia în urma unor acuzații grave de abuz verbal.",
+      "Raportările indică un stil de management bazat pe umilință, contrazicând imaginea publică de lider iubit.",
+      "Cioc.online analizează impactul acestui scandal asupra viitorului gigantului din domeniul hardware AI."
+    ],
+    "highlights_en": [
+      "Jensen Huang has stepped down from Nvidia following reports of abusive management.",
+      "Allegations include verbal abuse and humiliation tactics used to motivate employees.",
+      "Cioc.online examines the impact of these revelations on Nvidia's future and corporate culture."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T13:25:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_1.jpg",
+      "assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_2.jpg",
+      "assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_3.jpg",
+      "assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_4.jpg",
+      "assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-signal-blocks-ai-screenshots",
     "slug_ro": "signal-blocheaza-ai-capturi-ecran",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",

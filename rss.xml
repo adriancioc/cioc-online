@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Jensen Huang&#x27;s Nvidia Exit: Leadership Built on Fear</title>
+    <link>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</guid>
+    <description>Jensen Huang has left Nvidia. New reports reveal a management style built on humiliation and fear. We analyze the fallout of this tech industry shock.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Signal blocks screenshots to stop AI agents</title>
     <link>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</link>
     <guid>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</guid>
     <description>Google launches Gemini 4 Neon, an AI model optimized for complex engineering and scientific workflows with a 1 million token context window.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</title>
-    <link>https://cioc.online/en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</guid>
-    <description>The Sony Bravia 8 II OLED hits a record low price, delivering top-tier 4K 120Hz performance and advanced features ahead of Black Friday.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
