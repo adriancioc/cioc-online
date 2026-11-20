@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-iphone-18-air-2-dummy-leaks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:31:19+00:00</news:publication_date>
+      <news:title>First Look at iPhone 18 and iPhone Air 2 Dummy Models</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-iphone-18-air-2-dummy-leaks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:31:19+00:00</news:publication_date>
+      <news:title>Primele imagini cu iPhone 18 și iPhone Air 2: Ce s-a schimbat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</loc>
     <news:news>
       <news:publication>
