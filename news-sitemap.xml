@@ -68,25 +68,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-iphone-18-air-2-dummy-leaks/</loc>
+    <loc>https://cioc.online/en/posts/2026-11-20-iphone-18-air-2-dummy-models/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-20T13:31:19+00:00</news:publication_date>
-      <news:title>First Look at iPhone 18 and iPhone Air 2 Dummy Models</news:title>
+      <news:title>iPhone 18 and iPhone Air 2: First Look at Dummy Models</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-20-iphone-18-air-2-dummy-leaks/</loc>
+    <loc>https://cioc.online/posts/2026-11-20-iphone-18-air-2-dummy-models/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-20T13:31:19+00:00</news:publication_date>
-      <news:title>Primele imagini cu iPhone 18 și iPhone Air 2: Ce s-a schimbat</news:title>
+      <news:title>iPhone 18 și iPhone Air 2: Primele imagini cu machetele</news:title>
     </news:news>
   </url>
   <url>
@@ -747,94 +747,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T23:15:24+00:00</news:publication_date>
       <news:title>Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:00:00+00:00</news:publication_date>
-      <news:title>Google Introduces Gemini 4 Neon for Advanced Reasoning Tasks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-introduces-gemini-4-neon-for-advanced-reasoning-tasks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:00:00+00:00</news:publication_date>
-      <news:title>Google lansează Gemini 4 Neon: Inteligență avansată pentru sarcini complexe</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T19:30:00+00:00</news:publication_date>
-      <news:title>Sony Bravia 8 II OLED Sees Major Price Drop Before Black Friday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-sony-bravia-8-ii-oled-sees-major-price-drop-before-black-friday/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T19:30:00+00:00</news:publication_date>
-      <news:title>Sony Bravia 8 II OLED: Reduceri masive înainte de Black Friday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T18:53:53+00:00</news:publication_date>
-      <news:title>Apple Releases First Software Update for HomeView Device</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T18:53:53+00:00</news:publication_date>
-      <news:title>Apple lansează prima actualizare software pentru dispozitivul HomeView</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T18:04:05+00:00</news:publication_date>
-      <news:title>Google Adds Incognito-Style Temporary Threads to AI Search</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T18:04:05+00:00</news:publication_date>
-      <news:title>Google introduce modul incognito pentru funcția AI din Search</news:title>
     </news:news>
   </url>
 </urlset>
