@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T21:43:39+00:00</news:publication_date>
+      <news:title>iOS 27.3 Public Beta 2: Safari and Siri AI Updates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T21:43:39+00:00</news:publication_date>
+      <news:title>iOS 27.3 Public Beta 2: Safari și Siri AI primesc update-uri</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</loc>
     <news:news>
       <news:publication>
@@ -659,116 +681,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T13:59:20+00:00</news:publication_date>
       <news:title>Apple a anunțat finaliștii pentru premiile App Store 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T22:25:41+00:00</news:publication_date>
-      <news:title>Apple HomeView Teardown: Why the New Smart Hub Is Hard to Repair</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-homeview-teardown-why-the-new-smart-hub-is-hard-to-repair/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T22:25:41+00:00</news:publication_date>
-      <news:title>Teardown-ul Apple HomeView: De ce este noul hub atât de greu de reparat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T22:18:00+00:00</news:publication_date>
-      <news:title>NVIDIA Expands Supply Chain Commitments to Support Global AI Infrastructure</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-nvidia-expands-supply-chain-commitments-to-support-global-ai-infrastruct/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T22:18:00+00:00</news:publication_date>
-      <news:title>NVIDIA își extinde lanțul de aprovizionare pentru a susține infrastructura AI globală</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T21:46:20+00:00</news:publication_date>
-      <news:title>Apple MacBook Neo Drops to $649 in Rare Early Black Friday Deal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-apple-macbook-neo-drops-to-649-in-rare-early-black-friday-deal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T21:46:20+00:00</news:publication_date>
-      <news:title>Apple MacBook Neo Primește o Reducere Rară de Black Friday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T21:20:00+00:00</news:publication_date>
-      <news:title>NVIDIA and Samsung Report Record Breaking Financial Results for 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-nvidia-and-samsung-report-record-breaking-financial-results-for-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T21:20:00+00:00</news:publication_date>
-      <news:title>NVIDIA și Samsung raportează rezultate financiare record în 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:02:20+00:00</news:publication_date>
-      <news:title>Google Expands Gemini Tasks for Advanced Personal Assistance</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-17-google-expands-gemini-tasks-for-advanced-personal-assistance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:02:20+00:00</news:publication_date>
-      <news:title>Google extinde funcția Gemini Tasks pentru sarcini administrative complexe</news:title>
     </news:news>
   </url>
 </urlset>

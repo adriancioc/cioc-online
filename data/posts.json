@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-19-ios-27-3-public-beta-2",
+    "slug_ro": "ios-27-3-public-beta-2",
+    "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+    "category": "TELEFOANE",
+    "virality_score": 8,
+    "focus_keyword_ro": "iOS 27.3 public beta",
+    "focus_keyword_en": "iOS 27.3 public beta",
+    "title_ro": "iOS 27.3 Public Beta 2: Safari și Siri AI primesc update-uri",
+    "title_en": "iOS 27.3 Public Beta 2: Safari and Siri AI Updates",
+    "summary": "Apple releases the second public beta of iOS 27.3. Discover new Safari features, Siri AI capabilities, and iPhone Duo improvements.",
+    "summary_ro": "Apple lansează a doua versiune public beta pentru iOS 27.3. Află ce aduce nou pentru Safari, Siri AI și posesorii de iPhone Duo.",
+    "summary_en": "Apple releases the second public beta of iOS 27.3. Discover new Safari features, Siri AI capabilities, and iPhone Duo improvements.",
+    "body_ro": "<h2>iOS 27.3 Public Beta 2: Ce aduce nou Apple</h2><p>Apple a făcut un pas important în dezvoltarea sistemelor sale de operare, lansând a doua versiune public beta pentru iOS 27.3, iPadOS 27.3 și macOS Golden Gate 27.3. Acest update nu este doar o simplă corecție de erori, ci introduce funcționalități care schimbă modul în care interacționăm cu dispozitivele noastre.</p><p>Cea mai vizibilă schimbare vine în Safari. Apple introduce opțiunea de tab-uri verticale, o funcție cerută de mult timp de utilizatorii care lucrează cu multe pagini deschise simultan. Alături de aceasta, modul Dark Mode adaptiv promite o experiență de navigare mai confortabilă, ajustându-se automat în funcție de conținutul paginilor web.</p><h2>Siri AI și iPhone Duo: Focus pe inteligență și securitate</h2><p>Siri a primit capacități extinse, permițând dezvoltatorilor să creeze acțiuni personalizate pe care asistentul virtual le poate executa în aplicațiile Apple. Totuși, Apple a început să testeze limite de utilizare pentru Siri AI, sugerând că accesul extins ar putea fi legat de abonamentele iCloud+.</p><p>Pentru posesorii de iPhone Duo, noul beta aduce funcții de securitate și confort, precum deblocarea facială prin camera frontală și opțiunea de a bloca dispozitivul atunci când este pliat. De asemenea, aplicația Health a fost redesenată complet, oferind acum insight-uri personalizate despre longevitate, un domeniu în care Apple investește masiv.</p><h2>Audio Intelligence pe Apple Watch</h2><p>Utilizatorii de Apple Watch Series 12 și Ultra 4 primesc funcții noi de inteligență audio. Live Rewind permite transcrierea ultimelor 15 secunde de conversație, în timp ce Siri Recap oferă un rezumat al discuțiilor purtate pe parcursul zilei. Aceste funcții sunt menite să ajute utilizatorii să rămână conectați la informațiile importante fără a fi nevoie să verifice constant telefonul.</p><p>Deși versiunea beta este stabilă, recomandăm prudență. Dacă decideți să instalați acest update, asigurați-vă că aveți un backup complet al dispozitivului. Lansarea versiunii finale este programată pentru luna decembrie, moment în care toate aceste funcții vor fi disponibile pentru publicul larg din România și restul lumii.</p>",
+    "body_en": "<h2>iOS 27.3 Public Beta 2: Key Updates Explained</h2><p>Apple has officially released the second public beta for iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3. This update cycle brings significant refinements to the ecosystem, focusing on productivity, AI integration, and hardware-specific features for the latest iPhone models.</p><p>Safari is the primary beneficiary of this update, introducing a vertical tab layout and Adaptive Dark Mode. These changes aim to improve browser efficiency, especially for power users who manage dozens of tabs simultaneously. The adaptive dark mode ensures that web content matches the system's aesthetic more seamlessly than ever before.</p><h2>Siri AI and iPhone Duo Advancements</h2><p>Siri AI continues to evolve, with developers now able to build deeper actions for the assistant to perform across Apple's native apps. However, Apple is also testing usage limits for these AI features, hinting that power users might need an iCloud+ subscription to unlock the full potential of these capabilities. This is a strategic move that aligns with Apple's broader service-based revenue model.</p><p>The iPhone Duo receives specific attention in this beta, with the introduction of facial unlock via the front camera and new locking mechanisms for the device when closed. Additionally, the Health app has undergone a complete redesign, now featuring custom longevity insights. This marks a shift towards more proactive health tracking, moving beyond simple fitness metrics.</p><h2>Audio Intelligence for Apple Watch</h2><p>Wearable technology is also getting a boost. Apple Watch Series 12 and Ultra 4 users can now test 'Live Rewind' and 'Siri Recap'. Live Rewind provides a real-time transcript of the last 15 seconds of audio, while Siri Recap summarizes your daily conversations. These features are designed to enhance accessibility and productivity on the go.</p><p>As we approach the final release in December, it is clear that Apple is prioritizing AI-driven utility. While the beta is currently available to public testers, it is recommended for secondary devices only. Stay tuned for the final release notes next month, as Apple continues to polish these features for the general public.</p>",
+    "highlights_ro": [
+      "Apple a lansat a doua versiune public beta pentru iOS 27.3, macOS Golden Gate și watchOS 27.3.",
+      "Update-ul aduce tab-uri verticale în Safari, noi funcții Siri AI și opțiuni de securitate pentru iPhone Duo.",
+      "Lansarea oficială a versiunii finale este așteptată în decembrie pentru toți utilizatorii."
+    ],
+    "highlights_en": [
+      "Apple has seeded the second public beta for iOS 27.3, macOS Golden Gate, and watchOS 27.3.",
+      "Key updates include vertical Safari tabs, Siri AI enhancements, and new security features for iPhone Duo.",
+      "The final public release is expected to arrive in December."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-19T21:43:39+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-19-ios-27-3-public-beta-2_1.jpg",
+      "assets/images/2026-11-19-ios-27-3-public-beta-2_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-sonos-black-friday-deals-2026",
     "slug_ro": "reduceri-sonos-black-friday-2026",
     "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
