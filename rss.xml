@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Signal blocks screenshots to stop AI agents</title>
+    <link>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</guid>
+    <description>Signal is restricting screenshots on Android and iOS to prevent AI agents like Gemini and Siri from reading your private messages.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-signal-blocks-ai-screenshots_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Samsung Electronics Announces New Leadership</title>
     <link>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</link>
     <guid>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-apple-releases-first-software-update-for-homeview-device/</guid>
     <description>Apple has released the 27.2.1 software update for the HomeView device, marking its very first post-release update.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-first-software-update-for-homeview-device_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Adds Incognito-Style Temporary Threads to AI Search</title>
-    <link>https://cioc.online/en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search/</guid>
-    <description>Google has launched temporary threads for AI Mode in Search, allowing users to conduct private, unlogged AI conversations that do not impact personalization.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-google-adds-incognito-style-temporary-threads-to-ai-search_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

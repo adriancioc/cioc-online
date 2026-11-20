@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:30:47+00:00</news:publication_date>
+      <news:title>Signal blocks screenshots to stop AI agents</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-signal-blocks-ai-screenshots/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:30:47+00:00</news:publication_date>
+      <news:title>Signal blochează capturile de ecran pentru a opri agenții AI</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</loc>
     <news:news>
       <news:publication>
@@ -747,94 +769,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T15:38:56+00:00</news:publication_date>
       <news:title>Apple a lansat o nouă actualizare de firmware pentru telecomanda Siri Remote</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>Google Launches November Update for Marketing Platform</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-google-launches-november-update-for-marketing-platform/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>Google lansează actualizarea de noiembrie pentru Marketing Platform</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-how-to-spot-real-black-friday-deals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>How to Spot Real Black Friday Deals</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-how-to-spot-real-black-friday-deals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>Cum să identifici reducerile reale de Black Friday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>Essential Guide: Google Tips and Tools for Your Online Safety</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-essential-guide-google-tips-and-tools-for-your-online-safety/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:00:00+00:00</news:publication_date>
-      <news:title>Ghid esențial: Sfaturi și instrumente Google pentru siguranța ta online</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:59:20+00:00</news:publication_date>
-      <news:title>Apple Announces Finalists for 2026 App Store Awards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-announces-finalists-for-2026-app-store-awards/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:59:20+00:00</news:publication_date>
-      <news:title>Apple a anunțat finaliștii pentru premiile App Store 2026</news:title>
     </news:news>
   </url>
 </urlset>

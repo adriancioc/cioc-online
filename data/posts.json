@@ -1,5 +1,41 @@
 [
   {
+    "slug": "2026-11-20-signal-blocks-ai-screenshots",
+    "slug_ro": "signal-blocheaza-ai-capturi-ecran",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "Signal securitate AI",
+    "focus_keyword_en": "Signal AI privacy",
+    "title_ro": "Signal blochează capturile de ecran pentru a opri agenții AI",
+    "title_en": "Signal blocks screenshots to stop AI agents",
+    "summary": "Signal is restricting screenshots on Android and iOS to prevent AI agents like Gemini and Siri from reading your private messages.",
+    "summary_ro": "Signal restricționează capturile de ecran pe Android și iOS pentru a preveni accesul neautorizat al asistenților AI precum Gemini și Siri la datele tale.",
+    "summary_en": "Signal is restricting screenshots on Android and iOS to prevent AI agents like Gemini and Siri from reading your private messages.",
+    "body_ro": "<h2>Signal declară război agenților AI</h2><p>Într-o mișcare radicală pentru protejarea intimității, Signal a anunțat restricționarea capabilităților de captură de ecran pe dispozitivele mobile. Această decizie vine ca un răspuns direct la integrarea tot mai profundă a agenților AI, precum Gemini de la Google și Siri de la Apple, care analizează conținutul de pe ecran pentru a oferi asistență utilizatorilor.</p><p>Meredith Whittaker, președintele Signal, a subliniat că acești agenți AI reprezintă o amenințare existențială la adresa confidențialității la nivel de aplicație. În prezent, dezvoltatorii nu dispun de instrumente robuste pentru a împiedica sistemele de operare să acceseze datele din interiorul aplicațiilor, transformând asistenții AI într-o poartă de acces nedorită către mesaje private.</p><h2>Cum te afectează această schimbare</h2><p>Dacă folosești Signal pe Android sau iOS, vei observa că funcția de captură de ecran este blocată implicit. Aceasta este o măsură de siguranță menită să prevină „citirea” conversațiilor tale de către inteligența artificială integrată în sistemul de operare. Deși Signal recunoaște că soluția este incompletă — deoarece agenții AI ar putea accesa datele prin alte metode, cum ar fi sistemul de fișiere — este un pas necesar pentru a trage un semnal de alarmă.</p><ul><li><strong>Controlul utilizatorului:</strong> Poți reactiva capturile de ecran din setările aplicației, dar Signal avertizează că acest lucru va expune conținutul conversațiilor tale către agenții AI.</li><li><strong>Limitări tehnice:</strong> Protecția nu este încă disponibilă pe macOS, din cauza lipsei instrumentelor oferite de Apple pentru dezvoltatori.</li><li><strong>Apel către giganții tech:</strong> Signal solicită public Google, Apple și Microsoft să ofere documentație și instrumente clare pentru ca dezvoltatorii să poată proteja datele utilizatorilor fără a compromite experiența de utilizare.</li></ul><h2>Verdictul cioc.online</h2><p>Signal acționează ca un „canar în mină”. În timp ce companiile mari se întrec în a integra AI în fiecare colț al sistemului de operare, dreptul la viață privată devine o variabilă ignorată. Este frustrant să vezi că trebuie să alegi între funcționalitatea sistemului și securitatea mesajelor tale. Până când Apple și Google nu vor oferi un cadru de reglementare pentru accesul AI, Signal rămâne singura aplicație care pune bariere reale în fața acestui fenomen.</p>",
+    "body_en": "<h2>Signal takes a stand against AI agents</h2><p>In a bold move to preserve user privacy, Signal has begun restricting screenshot capabilities on mobile devices. This decision is a direct response to the increasing integration of agentic AI, such as Google’s Gemini and Apple’s Siri, which analyze on-screen information to assist users. Signal argues that this behavior undermines the privacy guarantees that users expect from an encrypted messaging app.</p><p>Signal President Meredith Whittaker has been vocal about the issue, describing current OS-level AI integration as a serious problem. According to Signal, developers currently lack the necessary tools to prevent AI agents from accessing application-level data without making drastic compromises to the core user experience. This creates a scenario where the operating system itself becomes a potential vector for privacy leaks.</p><h2>The impact on your daily usage</h2><p>For users on Android and iOS, the ability to take screenshots within the Signal app is now restricted by default. This is intended to prevent AI assistants from reading your chats. While Signal acknowledges that this is an incomplete remedy—as AI agents might find alternative ways to access app data via the file system—it serves as a critical defensive measure.</p><ul><li><strong>User choice:</strong> You can restore screenshot capabilities in the app settings, but Signal warns that doing so may expose your content to AI agents.</li><li><strong>Platform limitations:</strong> These protections are currently not available on macOS due to the lack of technical tools provided by Apple for developers.</li><li><strong>Industry call to action:</strong> Signal is demanding that Apple, Google, and Microsoft provide simple technical tools and accurate documentation to help developers secure their apps against unauthorized AI access.</li></ul><h2>The cioc.online verdict</h2><p>Signal is acting as the canary in the coal mine. As tech giants race to bake AI into every layer of the operating system, the fundamental right to privacy is being treated as an afterthought. It is concerning that users are forced to choose between OS functionality and the security of their private conversations. Until Apple and Google provide a clear framework for AI access, Signal remains one of the few apps actively fighting to keep your data truly private.</p>",
+    "highlights_ro": [
+      "Signal a implementat restricții stricte privind capturile de ecran pentru a bloca accesul agenților AI la conversațiile private.",
+      "Funcția este disponibilă acum, dar utilizatorii o pot dezactiva din setări cu riscul de a expune datele către asistenții OS.",
+      "O măsură necesară într-o lume în care sistemele de operare devin intruzive prin integrarea AI la nivel de sistem."
+    ],
+    "highlights_en": [
+      "Signal is restricting screenshots on mobile to prevent AI agents from scraping private user data.",
+      "The feature is live, with an option to toggle it off at the risk of exposing data to OS-level AI assistants.",
+      "Signal is urging Apple, Google, and Microsoft to provide better tools for app-level privacy protection."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T12:30:47+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-20-signal-blocks-ai-screenshots_1.jpg",
+      "assets/images/2026-11-20-signal-blocks-ai-screenshots_2.jpg",
+      "assets/images/2026-11-20-signal-blocks-ai-screenshots_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-samsung-announces-new-leadership",
     "slug_ro": "samsung-schimba-conducerea-semiconductori",
     "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5",
