@@ -134,6 +134,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:33:26+00:00</news:publication_date>
+      <news:title>IconSwapper: Bring Your Mac Icons to Life</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-19-iconswapper-live-mac-icons/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:33:26+00:00</news:publication_date>
+      <news:title>IconSwapper: Personalizează iconițele de pe Mac cu date live</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</loc>
     <news:news>
       <news:publication>

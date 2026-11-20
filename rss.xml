@@ -47,6 +47,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-19-apple-developing-autonomous-ai-agent_1.jpg" medium="image" />
   </item>
   <item>
+    <title>IconSwapper: Bring Your Mac Icons to Life</title>
+    <link>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</link>
+    <guid>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</guid>
+    <description>Discover IconSwapper, a new macOS utility that lets you customize app icons and display live data directly in your dock.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-19-iconswapper-live-mac-icons_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>NVIDIA Announces Upcoming Financial Community Event</title>
     <link>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</link>
     <guid>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</guid>
     <description>The Senate Commerce Committee advanced FCC nominee Danielle Thumann 15-0 as Democrats boycotted, citing procedural concerns and alleged false testimony.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple Releases Safari Technology Preview 257 With Performance Updates</title>
-    <link>https://cioc.online/en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</link>
-    <guid>https://cioc.online/en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</guid>
-    <description>Apple has launched Safari Technology Preview 257, bringing technical optimizations and bug fixes for developers using macOS Tahoe and Golden Gate.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

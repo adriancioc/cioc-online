@@ -214,6 +214,40 @@
     ]
   },
   {
+    "slug": "2026-11-19-iconswapper-live-mac-icons",
+    "slug_ro": "iconswapper-personalizare-mac-live",
+    "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+    "category": "APLICAȚII",
+    "virality_score": 6,
+    "focus_keyword_ro": "IconSwapper macOS",
+    "focus_keyword_en": "IconSwapper macOS",
+    "title_ro": "IconSwapper: Personalizează iconițele de pe Mac cu date live",
+    "title_en": "IconSwapper: Bring Your Mac Icons to Life",
+    "summary": "Discover IconSwapper, a new macOS utility that lets you customize app icons and display live data directly in your dock.",
+    "summary_ro": "Află cum IconSwapper îți permite să transformi iconițele aplicațiilor de pe Mac în widget-uri dinamice care afișează date live și animații.",
+    "summary_en": "Discover IconSwapper, a new macOS utility that lets you customize app icons and display live data directly in your dock.",
+    "body_ro": "<h2>O nouă viață pentru dock-ul tău de macOS</h2><p>Personalizarea sistemului de operare Apple a fost întotdeauna un subiect delicat, macOS fiind cunoscut pentru restricțiile sale stricte în ceea ce privește modificarea interfeței. Totuși, designerul Michael Flarup a lansat o soluție ingenioasă numită <strong>IconSwapper</strong>, care promite să schimbe modul în care interacționăm cu iconițele aplicațiilor noastre.</p><p>Spre deosebire de metodele tradiționale care doar schimbă imaginea statică, IconSwapper utilizează shadere Metal pentru a reda grafică în timp real direct pe iconițele din dock. Această abordare tehnică permite afișarea unor informații utile sau pur și simplu a unor animații care fac experiența de utilizare mai personală și mai interactivă.</p><h2>Funcționalități și utilitate</h2><p>Punctul central al aplicației este capacitatea de a monitoriza utilizarea AI. Poți configura iconițele pentru ChatGPT, Claude sau Cursor astfel încât să afișeze consumul tău curent de resurse sau limitele de utilizare, fără a fi nevoie să deschizi aplicația respectivă. Deși utilitatea pentru aplicații precum Spotify sau Mail este mai degrabă estetică, posibilitatea de a vedea animații reactive adaugă un strat de „whimsy” (jucăuș) desktop-ului tău.</p><p>Tehnologia din spate este fascinantă: Flarup a reușit să trimită dock-ului un bitmap pentru o aplicație care rulează, permițând desenarea cadrelor direct de către sistem. Aceasta înseamnă că iconița poate reacționa la mișcarea cursorului, la încărcarea paginilor în Safari sau chiar la starea de „gândire” a unui model AI.</p><h2>Disponibilitate și preț</h2><p>IconSwapper este disponibil acum pentru utilizatorii de Mac, având un preț promoțional de lansare de <strong>19 USD</strong>. Ulterior, prețul va crește la 29 USD. Este o investiție interesantă pentru cei care își petrec mult timp în fața ecranului și doresc un mediu de lucru mai dinamic. Deși nu este o necesitate critică, este un exemplu excelent de dezvoltare software creativă care depășește limitările impuse de Apple.</p>",
+    "body_en": "<h2>Bringing Life to the macOS Dock</h2><p>Customizing the Apple ecosystem has always been a challenge, as macOS is known for its strict interface limitations. However, designer Michael Flarup has launched an ingenious new utility called <strong>IconSwapper</strong>, which changes how we interact with our app icons.</p><p>Unlike traditional methods that simply swap static images, IconSwapper uses custom Metal shaders to render graphics in real-time directly on your dock icons. This technical breakthrough allows for the display of live data or interactive animations, making the user experience significantly more personal and engaging.</p><h2>Features and Use Cases</h2><p>The standout feature is the ability to track AI usage. You can configure icons for apps like ChatGPT, Claude, or Cursor to display your current usage or remaining limits, eliminating the need to constantly check your account dashboard. While features for apps like Safari or Mail are more aesthetic—such as the Finder icon following your cursor—they add a layer of personality to the desktop environment.</p><p>The underlying technology is impressive. Flarup developed a technique that sends the Dock a bitmap for a running app, allowing it to draw frames itself. This ensures the icon reacts to system events, such as page loads, downloads, or even the 'thinking' state of an AI model, all while maintaining compatibility with macOS animations like Dock magnification.</p><h2>Pricing and Availability</h2><p>IconSwapper is available now for Mac users, with a launch promo price of <strong>$19</strong>. The price will eventually rise to $29. It is a compelling purchase for power users who want a more dynamic, personalized workspace. While not a critical productivity tool, it stands out as a creative software solution that pushes the boundaries of what is possible on macOS without official theming support.</p>",
+    "highlights_ro": [
+      "IconSwapper este o nouă utilitară macOS care permite personalizarea iconițelor și afișarea datelor în timp real.",
+      "Aplicația costă 19 USD (promoție de lansare), urmând să ajungă la 29 USD ulterior.",
+      "O soluție ingenioasă pentru pasionații de estetică și productivitate pe macOS."
+    ],
+    "highlights_en": [
+      "IconSwapper is a new macOS utility that allows for icon customization and live data visualization.",
+      "The app is currently available for a $19 launch price, increasing to $29 later.",
+      "A clever, creative solution for power users looking to personalize their macOS experience."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-19T22:33:26+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-19-iconswapper-live-mac-icons_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-nvidia-financial-community-event",
     "slug_ro": "nvidia-eveniment-financiar-decembrie",
     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
