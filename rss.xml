@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Actors Licensing Their Faces to AI: The Future of Hollywood?</title>
+    <link>https://cioc.online/en/posts/2026-11-21-actors-licensing-faces-for-ai/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-actors-licensing-faces-for-ai/</guid>
+    <description>Shortical is licensing actor likenesses for AI-generated micro-dramas. Is this the end of traditional acting or a new creative frontier?</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-actors-licensing-faces-for-ai_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Adds Face Unlock to iPhone Duo in iOS 27.3 Beta</title>
     <link>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use-feature/</guid>
     <description>Google brings &#x27;computer use&#x27; to Gemini for macOS. Discover how the AI agent navigates apps and files to automate your complex workflows.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-gemini-mac-computer-use-feature_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Gemini Gains Computer Use on Mac: What You Need to Know</title>
-    <link>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</guid>
-    <description>Google adds autonomous computer use capabilities to the Gemini desktop app on macOS. Discover how the AI agent works and its current limits.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-google-gemini-mac-computer-use-agent_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
