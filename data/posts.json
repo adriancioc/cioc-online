@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-20-google-assistant-shutting-down-gemini",
+    "slug_ro": "google-renunta-la-assistant-pentru-gemini",
+    "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+    "category": "AI",
+    "virality_score": 9,
+    "focus_keyword_ro": "Google Assistant inchidere",
+    "focus_keyword_en": "Google Assistant shutdown",
+    "title_ro": "Google închide Assistant pe boxe: Gemini preia controlul în 2027",
+    "title_en": "Google Assistant is dying: Gemini takes over smart speakers in 2027",
+    "summary": "Google is shutting down the Nest app and replacing Assistant with Gemini on smart speakers. Here is what you need to know about the 2027 transition.",
+    "summary_ro": "Google elimină Assistant de pe boxele smart și închide aplicația Nest. Află ce se întâmplă cu dispozitivele tale și tranziția către Gemini.",
+    "summary_en": "Google is shutting down the Nest app and replacing Assistant with Gemini on smart speakers. Here is what you need to know about the 2027 transition.",
+    "body_ro": "<h2>Sfârșitul unei ere pentru Google Home</h2><p>Google a anunțat oficial schimbări majore pentru ecosistemul său de smart home, marcând dispariția treptată a Google Assistant și a aplicației Nest. Începând cu anul 2027, utilizatorii vor fi nevoiți să migreze către aplicația Google Home și către noul asistent bazat pe inteligență artificială, Gemini for Home.</p><p>Această mișcare nu este surprinzătoare, având în vedere strategia agresivă a Google de a integra modelele sale lingvistice mari în toate produsele sale, însă impactul asupra utilizatorilor care au investit ani de zile în ecosistemul Nest este considerabil. Aplicația Nest va fi oprită oficial pe 25 ianuarie 2027, forțând utilizatorii să gestioneze termostatele, camerele și alarmele Nest exclusiv prin Google Home.</p><h2>Ce se întâmplă cu datele și abonamentele tale?</h2><p>Google promite o tranziție automatizată pentru majoritatea funcțiilor. Dacă ai deja contul configurat în Google Home, dispozitivele tale, inclusiv istoricul video, vor fi mutate automat la data de 25 ianuarie 2027. De asemenea, abonamentele Nest Aware (1st Gen) vor fi migrate către Google Home Premium. Totuși, este esențial să fii atent la data de 25 martie 2027, când Google va începe ștergerea definitivă a datelor asociate conturilor Nest vechi.</p><h2>Gemini for Home: Mai mult decât un simplu asistent</h2><p>Piesa centrală a acestei schimbări este înlocuirea Google Assistant cu Gemini for Home, programată pentru 2 august 2027. Google susține că Gemini va permite utilizatorilor să pună întrebări complexe și să poarte conversații naturale, eliminând nevoia de comenzi vocale rigide. Totuși, rămâne de văzut dacă această schimbare va aduce și o latență mai mică sau dacă va necesita hardware mai nou pentru a funcționa corect.</p><p>Pentru utilizatorii din România, această schimbare înseamnă că trebuie să ne asigurăm că toate dispozitivele sunt conectate corect în aplicația Google Home înainte de termenele limită. Deși promisiunea unui asistent mai inteligent sună bine pe hârtie, istoria recentă a Google cu eliminarea funcțiilor de pe telefoane ne face să fim sceptici cu privire la cât de fluidă va fi această tranziție pentru dispozitivele mai vechi.</p>",
+    "body_en": "<h2>The End of the Nest App and Google Assistant</h2><p>Google has officially announced a massive overhaul of its smart home strategy, confirming that both the legacy Nest app and the long-standing Google Assistant will be phased out on smart speakers and displays. This transition, set to complete by August 2027, represents a significant shift in how users interact with their connected homes.</p><p>The first major deadline is January 25, 2027, when the Nest app will be officially retired. Users are expected to migrate their Nest products—including thermostats, cameras, and security alarms—to the Google Home app. Google states that it will handle the transfer of devices and video history automatically for those who have already set up the Google Home app, but the transition is mandatory.</p><h2>Data Migration and Subscription Changes</h2><p>For those currently subscribed to Nest Aware (1st Gen), Google plans to migrate these subscriptions to the Google Home Premium tier. However, users should be aware that Google will begin purging legacy Nest account data on March 25, 2027. It is crucial to ensure that all your devices are correctly linked to the Google Home ecosystem well before these dates to avoid losing access to your video history or device controls.</p><h2>The Gemini for Home Era</h2><p>The most significant change arrives on August 2, 2027, when Gemini for Home replaces Google Assistant. Google argues that this move is necessary to enable more complex, natural-language interactions, moving away from the rigid command-based structure that has defined smart speakers for the last decade. While the promise of a smarter AI is appealing, the forced obsolescence of the familiar Assistant experience may frustrate power users.</p><p>As we look toward 2027, the focus remains on whether Gemini can maintain the reliability of the current Assistant while offering the promised advanced reasoning capabilities. For now, the best advice is to start consolidating your smart home devices into the Google Home app and keep an eye on official updates as the transition dates approach.</p>",
+    "highlights_ro": [
+      "Google va închide aplicația Nest pe 25 ianuarie 2027 și va înlocui Assistant cu Gemini pe boxe pe 2 august 2027.",
+      "Abonamentele Nest Aware vor fi transferate automat, iar datele vechi vor fi șterse din martie 2027.",
+      "Tranziția forțată către Gemini promite interacțiuni mai naturale, dar ridică semne de întrebare privind compatibilitatea."
+    ],
+    "highlights_en": [
+      "Google will shut down the Nest app on January 25, 2027, and replace Assistant with Gemini on August 2, 2027.",
+      "Nest Aware subscriptions will transfer automatically, but legacy Nest account data will be deleted by March 2027.",
+      "The shift to Gemini for Home aims for natural conversation but forces a major ecosystem migration."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-20T18:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-20-google-assistant-shutting-down-gemini_1.jpg",
+      "assets/images/2026-11-20-google-assistant-shutting-down-gemini_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-future-of-foldable-iphone-duo",
     "slug_ro": "viitorul-iphone-pliabil-iphone-duo",
     "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",

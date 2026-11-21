@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-google-assistant-shutting-down-gemini/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
+      <news:title>Google Assistant is dying: Gemini takes over smart speakers in 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-google-assistant-shutting-down-gemini/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
+      <news:title>Google închide Assistant pe boxe: Gemini preia controlul în 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-future-of-foldable-iphone-duo/</loc>
     <news:news>
       <news:publication>
@@ -703,50 +725,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T01:39:45+00:00</news:publication_date>
       <news:title>Elon Musk clarifică distincția dintre Starlink și sistemul militar Starshield</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:25:04+00:00</news:publication_date>
-      <news:title>Senate Committee Approves FCC Nominee Amidst Democratic Boycott</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-senate-committee-approves-fcc-nominee-amidst-democratic-boycott/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:25:04+00:00</news:publication_date>
-      <news:title>Comisia Senatului aprobă nominalizarea FCC în ciuda boicotului democrat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:15:24+00:00</news:publication_date>
-      <news:title>Apple Releases Safari Technology Preview 257 With Performance Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-18-apple-releases-safari-technology-preview-257-with-performance-updates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:15:24+00:00</news:publication_date>
-      <news:title>Apple lansează Safari Technology Preview 257 cu îmbunătățiri majore</news:title>
     </news:news>
   </url>
 </urlset>
