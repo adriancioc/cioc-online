@@ -1,5 +1,39 @@
 [
   {
+    "slug": "2026-11-21-apple-namedrop-lawsuit-india",
+    "slug_ro": "proces-apple-namedrop-india",
+    "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+    "category": "SECURITATE",
+    "virality_score": 6,
+    "focus_keyword_ro": "Apple NameDrop proces",
+    "focus_keyword_en": "Apple NameDrop lawsuit",
+    "title_ro": "Apple, dat în judecată pentru funcția NameDrop: Ce se întâmplă?",
+    "title_en": "Apple Sued Over NameDrop Feature in India",
+    "summary": "A startup is suing Apple in India over patent infringement claims regarding the iPhone NameDrop contact sharing feature.",
+    "summary_ro": "Un startup american dă în judecată Apple în India pentru încălcarea brevetelor în funcția NameDrop. Află riscurile pentru utilizatori.",
+    "summary_en": "A startup is suing Apple in India over patent infringement claims regarding the iPhone NameDrop contact sharing feature.",
+    "body_ro": "<h2>Un proces neașteptat pentru Apple în India</h2><p>Gigantul din Cupertino se confruntă cu o nouă provocare juridică, de data aceasta în India, una dintre piețele sale cu cea mai rapidă creștere. Un startup american, GG Technologies, a inițiat un proces împotriva Apple, susținând că funcția NameDrop — introdusă odată cu iOS 17 — încalcă brevetele tehnologiei lor de schimb de contacte prin proximitate.</p><h2>Ce susține GG Technologies?</h2><p>GG Technologies, compania din spatele aplicației StayTouch, a depus o documentație vastă la Înalta Curte din Bombay. Aceștia susțin că tehnologia lor, lansată în 2019, permite schimbul de date de contact prin simpla apropiere a două telefoane, exact ceea ce face și NameDrop. Startup-ul solicită daune de aproximativ 161 de milioane de dolari și, mai critic, o ordonanță de urgență pentru a restricționa importul și vânzarea dispozitivelor Apple care au această funcție preinstalată în India.</p><h2>Impactul asupra utilizatorilor și viitorul NameDrop</h2><p>Deși procesul este concentrat pe piața indiană, acesta atrage atenția asupra modului în care Apple implementează funcții noi. GG Technologies a inițiat acțiuni similare și în Statele Unite, unde Comisia pentru Comerț Internațional investighează deja plângerea. Dacă instanțele vor da câștig de cauză startup-ului, Apple ar putea fi forțată să dezactiveze funcția prin update-uri software sau să plătească redevențe considerabile.</p><p>Pentru utilizatorii din România și restul Europei, riscul imediat este minim, dar acest caz subliniază tensiunea dintre inovația rapidă a Apple și drepturile de proprietate intelectuală ale companiilor mai mici. Rămâne de văzut dacă Apple va alege o soluție amiabilă sau va lupta în instanță pentru a-și proteja ecosistemul software.</p><h2>Concluzia cioc.online</h2><p>Acest proces este un semnal de alarmă pentru utilizatorii care se bazează pe funcții de partajare rapidă. Deși NameDrop este extrem de util, dependența de funcții proprietare poate deveni o vulnerabilitate în cazul unor litigii de brevet. Vom monitoriza evoluția cazului, mai ales dacă acesta va duce la restricții software la nivel global.</p>",
+    "body_en": "<h2>The Legal Battle Over NameDrop</h2><p>Apple is facing a significant legal challenge in India, a market that has become increasingly critical for both manufacturing and sales. A US-based startup, GG Technologies, has filed a lawsuit alleging that Apple’s NameDrop feature—introduced in iOS 17—infringes on its patented technology for exchanging contact details between nearby devices.</p><h2>The Core of the Dispute</h2><p>GG Technologies, the creators of the StayTouch app, claims that their technology, which they began patenting in 2019, is the foundation for the contact-sharing functionality Apple launched in 2023. The startup has filed a massive 781-page document in the Bombay High Court, seeking approximately $161 million in damages. More aggressively, they are asking the court to block the import and sale of iPhones and Apple Watches preloaded with NameDrop in India.</p><h2>Global Implications for Apple</h2><p>This is not an isolated incident. GG Technologies has already initiated similar proceedings in the United States, where the International Trade Commission is investigating the claims. While Apple has not responded to requests for comment, the company is known for its aggressive defense of its software ecosystem. However, if courts in either India or the US rule in favor of the startup, Apple might be forced to either disable the feature via software updates or negotiate a costly settlement.</p><p>For the average consumer, this highlights the fragility of proprietary software features. While NameDrop is a staple of the modern iOS experience, legal hurdles can often lead to unexpected functionality changes. We will continue to track this story as it progresses through the Indian and US court systems.</p><h2>The cioc.online Verdict</h2><p>This case serves as a reminder that even the most seamless features can be subject to complex legal battles. Whether this is a legitimate patent claim or a strategic move by a smaller player, the outcome could set a precedent for how Apple handles feature integration moving forward.</p>",
+    "highlights_ro": [
+      "Startup-ul GG Technologies a dat în judecată Apple în India, susținând că NameDrop încalcă brevete proprii.",
+      "Se solicită daune de 161 milioane USD și interzicerea vânzărilor de iPhone-uri cu NameDrop în India.",
+      "Apple nu a comentat, dar situația ar putea forța o schimbare software sau o înțelegere financiară."
+    ],
+    "highlights_en": [
+      "GG Technologies filed a lawsuit in India alleging Apple's NameDrop infringes on their patented contact-sharing tech.",
+      "The startup seeks $161 million in damages and an injunction against selling iPhones with NameDrop in India.",
+      "Apple faces similar legal pressure in the US, potentially impacting the future of the feature."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T04:00:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-21-apple-namedrop-lawsuit-india_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-youtube-3-billion-settlement-addiction",
     "slug_ro": "youtube-acord-miliarde-dependenta-minori",
     "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
