@@ -72,6 +72,41 @@
     ]
   },
   {
+    "slug": "2026-11-20-fcc-preempts-california-telecom-rules",
+    "slug_ro": "fcc-vs-california-telecomunicatii",
+    "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+    "category": "SECURITATE",
+    "virality_score": 5,
+    "focus_keyword_ro": "reglementari telecom FCC",
+    "focus_keyword_en": "FCC California telecom regulation",
+    "title_ro": "FCC blochează California în conflictul cu AT&T privind telefonia",
+    "title_en": "FCC Overrides California in AT&T Phone Service Dispute",
+    "summary": "The FCC has ordered California to stop enforcing carrier obligations on AT&T. Analyzing the impact on copper network shutdowns and consumer protection.",
+    "summary_ro": "FCC a ordonat Californiei să nu mai aplice regulile de serviciu universal pentru AT&T. Află cum afectează acest conflict viitorul rețelelor fixe.",
+    "summary_en": "The FCC has ordered California to stop enforcing carrier obligations on AT&T. Analyzing the impact on copper network shutdowns and consumer protection.",
+    "body_ro": "<h2>Un conflict major între Washington și California</h2><p>Federal Communications Commission (FCC) a emis recent o decizie care marchează un nou capitol în tensiunile dintre administrația Trump și statul California. Instituția a ordonat autorităților californiene să înceteze aplicarea regulilor de tip 'Carrier of Last Resort' (COLR) împotriva AT&T. Această măsură permite gigantului telecom să renunțe la obligația de a oferi servicii de telefonie fixă tradițională în anumite zone.</p><h2>Ce înseamnă decizia pentru utilizatori</h2><p>Obligația COLR impunea AT&T să ofere servicii de telefonie oricărui client din teritoriul său. AT&T dorește acum să întrerupă serviciile pentru peste 200.000 de clienți rezidențiali și de afaceri până la 1 iunie 2027. Argumentul companiei, susținut de FCC, este că rețelele de cupru sunt depășite și că alternativele wireless sunt suficiente pentru piața actuală.</p><h2>Argumentele pro și contra</h2><p>Președintele FCC, Brendan Carr, susține că regulile vechi de 30 de ani nu mai au sens într-o piață competitivă. Totuși, comisarul democrat Anna Gomez a avertizat că autoritățile statale sunt adesea ultima linie de apărare pentru consumatori. Aceasta a subliniat că autoritățile locale înțeleg nevoile comunităților mult mai bine decât o agenție federală din Washington.</p><h2>Impactul asupra infrastructurii</h2><p>Dacă AT&T va închide liniile de cupru, multe zone ar putea rămâne fără acces la rețele moderne de fibră optică, fiind forțate să accepte soluții wireless. Această decizie ar putea declanșa noi procese în instanță, California fiind singurul stat care a rezistat până acum presiunilor AT&T de a renunța la obligațiile de serviciu universal. Această bătălie juridică subliniază fragilitatea reglementărilor locale în fața autorității federale americane.</p>",
+    "body_en": "<h2>Federal vs. State Power in Telecom</h2><p>The Federal Communications Commission (FCC) has issued a landmark order forcing California to halt the enforcement of its Carrier of Last Resort (COLR) rules against AT&T. This move escalates the ongoing battle between the current federal administration and California regarding the state's authority to regulate its own telecommunications infrastructure.</p><h2>The End of Copper Networks</h2><p>AT&T has been seeking to discontinue basic phone service for over 200,000 customers by June 1, 2027. Under the COLR framework, the company was legally required to provide service to anyone in its territory. The FCC's decision effectively clears the path for AT&T to abandon aging copper infrastructure in favor of wireless home phone services, which the commission deems sufficient for modern needs.</p><h2>Regulatory Disagreement</h2><p>FCC Chairman Brendan Carr stated that the 30-year-old rules were designed for a bygone era. Conversely, Democrat Commissioner Anna Gomez dissented, arguing that state regulators are the primary defense for consumers. She emphasized that the California Public Utilities Commission (CPUC) was already in the process of modernizing its rules and that the FCC should have allowed that process to conclude with local stakeholder input.</p><h2>What Lies Ahead</h2><p>This decision is likely to result in further litigation. California has historically been the only state to successfully challenge AT&T's attempts to shed its service obligations. By treating the state regulator as an obstacle rather than a partner, the FCC is setting a precedent that could impact how other states manage their transition from legacy copper networks to modern IP-based alternatives.</p>",
+    "highlights_ro": [
+      "FCC a anulat autoritatea Californiei de a impune AT&T menținerea serviciilor de telefonie fixă prin cablu.",
+      "Decizia deschide calea pentru închiderea rețelelor de cupru până în iunie 2027, înlocuindu-le cu soluții wireless.",
+      "Cioc.online consideră că acest precedent federal subminează protecția consumatorilor la nivel local."
+    ],
+    "highlights_en": [
+      "The FCC preempted California's Carrier of Last Resort rules, favoring AT&T's request to drop landline obligations.",
+      "AT&T plans to discontinue legacy voice services by June 2027, replacing them with wireless alternatives.",
+      "Cioc.online notes this as a significant shift in federal vs. state regulatory power in the US."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T22:28:24+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-20-fcc-preempts-california-telecom-rules_1.jpg",
+      "assets/images/2026-11-20-fcc-preempts-california-telecom-rules_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-google-removes-search-button-ai",
     "slug_ro": "google-elimina-butonul-cautare-ai",
     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
