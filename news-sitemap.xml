@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-iphone-duo-gets-face-unlock/</loc>
+    <loc>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
-      <news:title>iPhone Duo Gets Face Unlock: What You Need to Know</news:title>
+      <news:title>Apple Adds Face Unlock to iPhone Duo in iOS 27.3 Beta</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-21-iphone-duo-gets-face-unlock/</loc>
+    <loc>https://cioc.online/posts/2026-11-21-iphone-duo-face-unlock-update/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
-      <news:title>iPhone Duo primește Face Unlock: Ce trebuie să știi</news:title>
+      <news:title>iPhone Duo primește Face Unlock: Limitările noii funcții Apple</news:title>
     </news:news>
   </url>
   <url>
@@ -703,160 +703,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T17:11:26+00:00</news:publication_date>
       <news:title>Apple Black Friday 2026: Merită oferta oficială?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-genie-4-interactive-ai-worlds/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Google Genie 4: Interactive AI Worlds with Native Audio</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-genie-4-interactive-ai-worlds/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Google Genie 4: Lumea ta virtuală generată prin AI și sunet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Gemini for Mac Can Now Control Apps and Browsers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-gemini-mac-computer-use/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:00:00+00:00</news:publication_date>
-      <news:title>Gemini pe Mac: Acum poate controla aplicații și browserul pentru tine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:59:23+00:00</news:publication_date>
-      <news:title>Anthropic Makes Historic NASDAQ Debut With Record-Breaking IPO</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-anthropic-makes-historic-nasdaq-debut-with-record-breaking-ipo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:59:23+00:00</news:publication_date>
-      <news:title>Anthropic debutează spectaculos pe NASDAQ: Cel mai mare IPO din istorie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:15:01+00:00</news:publication_date>
-      <news:title>Paramount Plus Launches Aggressive Black Friday Streaming Deal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-paramount-plus-launches-aggressive-black-friday-streaming-deal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:15:01+00:00</news:publication_date>
-      <news:title>Paramount Plus lansează o ofertă agresivă de Black Friday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:00:00+00:00</news:publication_date>
-      <news:title>Google Unveils New Creative Projects via Flow AI Platform</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-unveils-new-creative-projects-via-flow-ai-platform/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T16:00:00+00:00</news:publication_date>
-      <news:title>Google lansează proiecte creative inovatoare prin platforma Flow</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-apple-tv-secures-f1-academy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:59:07+00:00</news:publication_date>
-      <news:title>Apple TV Becomes New U.S. Home for F1 ACADEMY in 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-apple-tv-secures-f1-academy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:59:07+00:00</news:publication_date>
-      <news:title>Apple TV devine casa oficiala F1 ACADEMY in SUA din 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-the-best-black-friday-deals-for-the-apple-ecosystem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:20:00+00:00</news:publication_date>
-      <news:title>The Best Black Friday Deals for the Apple Ecosystem</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-the-best-black-friday-deals-for-the-apple-ecosystem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T15:20:00+00:00</news:publication_date>
-      <news:title>Cele mai bune oferte de Black Friday pentru ecosistemul Apple</news:title>
     </news:news>
   </url>
 </urlset>
