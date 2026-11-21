@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Major Security Breach: FBI NCIC Database Compromised</title>
+    <link>https://cioc.online/en/posts/2026-11-21-fbi-ncic-database-breach/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-fbi-ncic-database-breach/</guid>
+    <description>The FBI is investigating a cyberattack on the NCIC database. Learn about the risks to law enforcement data integrity and national security.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-ncic-database-breach_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Siri AI Settlement: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</guid>
     <description>NVIDIA will present at the 30th Annual UBS Global Technology and AI Conference. Get the details on how to listen to the live webcast.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-nvidia-financial-community-event_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>iOS 27.3 Public Beta 2: Safari and Siri AI Updates</title>
-    <link>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</guid>
-    <description>Apple releases the second public beta of iOS 27.3. Discover new Safari features, Siri AI capabilities, and iPhone Duo improvements.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-ios-27-3-public-beta-2_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
