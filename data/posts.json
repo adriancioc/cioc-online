@@ -105,6 +105,44 @@
     ]
   },
   {
+    "slug": "2026-11-20-google-connected-apps-launch",
+    "slug_ro": "google-lanseaza-connected-apps-sua",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+    "category": "AI",
+    "virality_score": 5,
+    "focus_keyword_ro": "Google Connected Apps",
+    "focus_keyword_en": "Google Connected Apps",
+    "title_ro": "Google lansează Connected Apps: AI-ul care îți face cumpărăturile",
+    "title_en": "Google Launches Connected Apps for Search and Gemini",
+    "summary": "Google introduces Connected Apps in the US, integrating retail and financial services directly into Search and Gemini. Here is what you need to know.",
+    "summary_ro": "Google introduce Connected Apps în Search și Gemini pentru utilizatorii din SUA. Află cum funcționează integrarea cu Target și Experian.",
+    "summary_en": "Google introduces Connected Apps in the US, integrating retail and financial services directly into Search and Gemini. Here is what you need to know.",
+    "body_ro": "<h2>O nouă eră pentru Google Search și Gemini</h2><p>Google a anunțat oficial lansarea funcției <strong>Connected Apps</strong>, o actualizare majoră pentru motorul de căutare și aplicația Gemini. Această noutate promite să transforme modul în care utilizatorii interacționează cu serviciile terțe, permițând gestionarea sarcinilor zilnice direct din interfața Google. Din păcate pentru utilizatorii europeni, această funcție este disponibilă momentan exclusiv în Statele Unite.</p><h2>Ce aduce nou Connected Apps?</h2><p>Noua funcționalitate se bazează pe <strong>Universal Commerce Protocol</strong>, un standard care permite aplicațiilor să comunice eficient între ele. Utilizatorii din SUA pot acum să își construiască liste de cumpărături și să finalizeze comenzi direct din Search sau Gemini, folosind parteneri precum Albertsons, Safeway, Shaw’s și Target. Această integrare elimină nevoia de a naviga între multiple aplicații sau site-uri web pentru sarcini repetitive.</p><p>Pe lângă retail, Google extinde utilitatea AI-ului în zona financiară. Integrarea cu <strong>Experian</strong> permite verificarea scorului de credit și căutarea de împrumuturi personale direct din interfața Gemini. De asemenea, colaborarea cu <strong>H&R Block</strong> oferă utilizatorilor posibilitatea de a-și calcula taxele și de a estima rambursările fiscale fără a părăsi mediul Google.</p><h2>Viitorul asistenței digitale</h2><p>În săptămânile următoare, Google va adăuga suport pentru <strong>Angi</strong> și <strong>Thumbtack</strong>. Această extindere va permite utilizatorilor să găsească și să contracteze profesioniști locali pentru reparații casnice sau servicii de întreținere, totul printr-o simplă interogare în bara de căutare. Este clar că Google încearcă să transforme Gemini dintr-un simplu chatbot într-un asistent care poate acționa în lumea reală.</p><h2>Relevanța pentru România și UE</h2><p>Deși tehnologia este impresionantă, impactul său în România rămâne nul în acest moment. Având în vedere reglementările stricte ale <strong>Digital Markets Act (DMA)</strong> din Uniunea Europeană, Google va trebui să adapteze aceste funcții pentru a respecta legislația privind concurența înainte de o eventuală lansare pe piața noastră. Până atunci, rămânem cu o demonstrație de forță tehnologică limitată geografic, care subliniază direcția în care se îndreaptă ecosistemul Google: un hub centralizat pentru toate nevoile digitale ale utilizatorului.</p>",
+    "body_en": "<h2>Google's New Connected Apps Strategy</h2><p>Google has officially introduced <strong>Connected Apps</strong>, a significant update for both Google Search and the Gemini app. This feature is designed to streamline daily tasks by allowing users to interact with third-party services directly within the Google ecosystem. Currently, this rollout is limited to users in the United States.</p><h2>How Connected Apps Work</h2><p>Powered by the <strong>Universal Commerce Protocol</strong>, these new integrations allow users to build shopping carts and check out seamlessly. Initial retail partners include major US chains such as Albertsons, Safeway, Shaw’s, and Target. By embedding these services into the search experience, Google aims to reduce the friction typically associated with holiday shopping and grocery runs.</p><p>Beyond retail, Google is tackling personal finance. Users can now link their <strong>Experian</strong> accounts to Gemini to check credit ratings and explore personal loan options. Furthermore, a partnership with <strong>H&R Block</strong> enables users to calculate taxes and estimate refunds directly from the search results page, marking a shift toward more complex, transactional AI capabilities.</p><h2>Expanding Capabilities</h2><p>Google has confirmed that in the coming weeks, support for <strong>Angi</strong> and <strong>Thumbtack</strong> will be added. This will allow users to find and book local professionals for home maintenance tasks, such as repairs or event preparations, without leaving the search interface. This move signals Google's intent to position Gemini as an indispensable personal assistant rather than just an information retrieval tool.</p><h2>The European Perspective</h2><p>While these features showcase the potential of AI-driven commerce, their availability in Europe is currently non-existent. Due to the <strong>Digital Markets Act (DMA)</strong> and other regulatory frameworks, Google faces a more complex path to deploying such deeply integrated services in the EU. For now, Connected Apps remain a US-centric experiment, highlighting the company's aggressive strategy to keep users within its ecosystem for as long as possible. Whether this model can be successfully exported to the more fragmented European market remains to be seen.</p>",
+    "highlights_ro": [
+      "Google a lansat Connected Apps în SUA pentru integrarea directă a serviciilor de retail și finanțe în Search și Gemini.",
+      "Funcționalitatea este limitată momentan la piața americană, fără o dată de lansare anunțată pentru Europa.",
+      "O mișcare strategică prin care Google vrea să devină un asistent personal complet, nu doar un motor de căutare."
+    ],
+    "highlights_en": [
+      "Google is rolling out Connected Apps in the US to integrate retail and financial services into Search and Gemini.",
+      "The feature supports major US retailers like Target and financial services like Experian and H&R Block.",
+      "This is a major step toward making Gemini an actionable personal assistant, though it remains US-exclusive for now."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-20T18:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-20-google-connected-apps-launch_1.jpg",
+      "assets/images/2026-11-20-google-connected-apps-launch_2.jpg",
+      "assets/images/2026-11-20-google-connected-apps-launch_3.jpg",
+      "assets/images/2026-11-20-google-connected-apps-launch_4.jpg",
+      "assets/images/2026-11-20-google-connected-apps-launch_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-google-assistant-shutting-down-gemini",
     "slug_ro": "google-renunta-la-assistant-pentru-gemini",
     "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",

@@ -68,6 +68,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-google-connected-apps-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
+      <news:title>Google Launches Connected Apps for Search and Gemini</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-google-connected-apps-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
+      <news:title>Google lansează Connected Apps: AI-ul care îți face cumpărăturile</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-google-assistant-shutting-down-gemini/</loc>
     <news:news>
       <news:publication>
