@@ -134,6 +134,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-trump-ai-data-center-tax/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:50:19+00:00</news:publication_date>
+      <news:title>Trump threatens massive tax on foreign AI data centers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-trump-ai-data-center-tax/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T18:50:19+00:00</news:publication_date>
+      <news:title>Trump amenință cu taxe masive pentru centrele de date AI externe</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-google-connected-apps-launch/</loc>
     <news:news>
       <news:publication>
@@ -835,28 +857,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T14:04:38+00:00</news:publication_date>
       <news:title>De ce ne place să privim violența: Lecții din lumea șoarecilor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung TV Plus to Livestream 2026 MAMA AWARDS Globally</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-samsung-tv-plus-to-livestream-2026-mama-awards-globally/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung TV Plus transmite live ediția 2026 a premiilor MAMA AWARDS</news:title>
     </news:news>
   </url>
 </urlset>

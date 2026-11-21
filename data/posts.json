@@ -214,6 +214,41 @@
     ]
   },
   {
+    "slug": "2026-11-20-trump-ai-data-center-tax",
+    "slug_ro": "trump-taxa-centre-date-ai",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "category": "SECURITATE",
+    "virality_score": 7,
+    "focus_keyword_ro": "taxa centre date AI",
+    "focus_keyword_en": "AI data center tax",
+    "title_ro": "Trump amenință cu taxe masive pentru centrele de date AI externe",
+    "title_en": "Trump threatens massive tax on foreign AI data centers",
+    "summary": "President Trump proposes a 'tremendous tax' on companies building AI data centers outside the US. Analyzing the impact on the global tech industry.",
+    "summary_ro": "Donald Trump propune o taxă uriașă pentru companiile care mută centrele de date AI în afara SUA. Află impactul asupra industriei tech globale.",
+    "summary_en": "President Trump proposes a 'tremendous tax' on companies building AI data centers outside the US. Analyzing the impact on the global tech industry.",
+    "body_ro": "<h2>O nouă barieră pentru infrastructura AI</h2><p>Într-o declarație surprinzătoare, președintele Donald Trump a anunțat intenția de a impune o „taxă formidabilă” companiilor americane care aleg să își construiască centrele de date necesare pentru inteligența artificială în afara granițelor Statelor Unite. Această mișcare, deși încă în stadiu de propunere neoficială, ar putea schimba radical modul în care giganții tehnologici își gestionează infrastructura critică.</p><p>Trump a argumentat că externalizarea acestor facilități este o eroare strategică similară cu cea observată în industria semiconductorilor, unde dependența de producția externă a slăbit poziția tehnologică a Americii. „Nu vom permite companiilor noastre să construiască centre de date în afara țării noastre”, a declarat acesta, subliniind teama că rivali precum China ar putea profita de această tranziție.</p><h2>Contextul restricțiilor interne</h2><p>Propunerea vine într-un moment paradoxal. În timp ce administrația federală dorește păstrarea infrastructurii AI pe teritoriul american, numeroase state și orașe din SUA impun deja moratorii sau restricții severe privind construcția de noi centre de date. Motivele includ consumul masiv de energie electrică și presiunea asupra rețelelor locale de utilități. Companiile tech se află astfel într-o poziție dificilă: sunt presate să rămână în SUA, dar întâmpină obstacole birocratice și logistice majore la nivel local.</p><h2>Implicații pentru piața globală</h2><p>Dacă o astfel de taxă ar deveni lege, consecințele ar fi resimțite la nivel global. Companiile care au investit deja miliarde în regiuni precum Europa sau Asia pentru a beneficia de energie verde sau costuri operaționale mai mici ar putea fi forțate să își reevalueze strategia. Deși Congresul american, cu o nouă majoritate, ar putea bloca o astfel de inițiativă, retorica președintelui pune o presiune imensă pe consiliile de administrație ale companiilor precum Microsoft, Google sau Amazon.</p><p>Pentru consumatorii și investitorii din România și Europa, acest lucru ar putea însemna o încetinire a disponibilității unor servicii AI de ultimă generație, pe măsură ce companiile își concentrează resursele pentru a naviga acest nou peisaj politic. Rămâne de văzut dacă această amenințare este o strategie de negociere sau începutul unei politici protecționiste agresive în sectorul AI.</p>",
+    "body_en": "<h2>A new barrier for AI infrastructure</h2><p>In a surprise announcement, President Donald Trump has threatened a \"tremendous tax\" on any company that chooses to build AI data centers outside of the United States. This proposal, while currently lacking legislative detail, signals a major shift in how the administration views the sovereignty of critical AI infrastructure.</p><p>Trump framed the move as a necessary step to avoid the mistakes of the past, specifically citing the semiconductor industry. He argued that allowing companies to outsource infrastructure development has been \"very destructive\" to the country's technological standing. His primary concern is that if US companies do not build these facilities domestically, international rivals, specifically China, will seize the opportunity to control the underlying hardware of the AI era.</p><h2>The domestic infrastructure dilemma</h2><p>The threat comes at a time when the US is struggling with its own internal capacity. Across the country, local governments are increasingly placing moratoriums and strict zoning restrictions on new data center applications due to concerns over power grid strain and environmental impact. Tech giants are effectively caught between a rock and a hard place: they are being pressured to keep operations within the US, yet they face significant regulatory hurdles when attempting to do so.</p><h2>Global market implications</h2><p>If implemented, such a tax would have far-reaching consequences for the global tech sector. Major cloud providers have spent years building infrastructure in Europe and Asia to optimize for latency and energy costs. A punitive tax would force these companies to reconsider their global footprint, potentially leading to increased costs for AI services worldwide.</p><p>While the incoming Congress may present a significant check on this executive ambition, the rhetoric alone is enough to create uncertainty in the markets. For European stakeholders, this policy shift highlights the growing trend of \"technological nationalism.\" As the US moves toward more protectionist policies, global companies will likely face a fragmented landscape, where geopolitical alignment becomes just as important as technical efficiency in choosing where to host the next generation of AI compute.</p>",
+    "highlights_ro": [
+      "Președintele Trump a anunțat intenția de a taxa sever companiile care construiesc centre de date AI în afara SUA.",
+      "Măsura vine în contextul restricțiilor locale din SUA și al competiției tehnologice cu China.",
+      "O astfel de taxă ar putea destabiliza lanțurile de aprovizionare AI și costurile de operare pentru giganții tech."
+    ],
+    "highlights_en": [
+      "President Trump announced plans to impose a heavy tax on US companies building AI data centers abroad.",
+      "The move aims to prevent tech dominance by rivals like China and secure domestic infrastructure.",
+      "The proposal faces significant legislative hurdles and could disrupt global tech operations."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T18:50:19+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-20-trump-ai-data-center-tax_1.jpg",
+      "assets/images/2026-11-20-trump-ai-data-center-tax_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-google-connected-apps-launch",
     "slug_ro": "google-lanseaza-connected-apps-sua",
     "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
