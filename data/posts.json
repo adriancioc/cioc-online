@@ -1140,6 +1140,41 @@
     ]
   },
   {
+    "slug": "2026-11-19-google-quantum-contextuality-scale",
+    "slug_ro": "google-demonstreaza-contextualitatea-cuantica",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "calcul cuantic",
+    "focus_keyword_en": "quantum computing",
+    "title_ro": "Google demonstrează contextualitatea cuantică la scară largă",
+    "title_en": "Google proves quantum contextuality at scale",
+    "summary": "Google Quantum AI demonstrates quantum contextuality on 105 qubits, a breakthrough for quantum error correction and future computing power.",
+    "summary_ro": "Google Quantum AI a demonstrat contextualitatea cuantică pe 105 qubiți, un pas esențial pentru viitorul computerelor cuantice și corecția erorilor.",
+    "summary_en": "Google Quantum AI demonstrates quantum contextuality on 105 qubits, a breakthrough for quantum error correction and future computing power.",
+    "body_ro": "<h2>O nouă frontieră în calculul cuantic</h2><p>Google Quantum AI a marcat o premieră mondială, demonstrând că proprietatea de contextualitate cuantică poate fi menținută la scară largă. Rezultatele, publicate recent în revista Science, confirmă o teorie care ar putea schimba modul în care înțelegem puterea de calcul a viitorului.</p><h2>Ce este contextualitatea cuantică?</h2><p>În lumea cuantică, entanglement-ul (inseparabilitatea) a primit mereu cea mai mare atenție. Totuși, cercetătorii au bănuit de mult timp că un fenomen mai profund, numit contextualitate, este cel care alimentează algoritmii cuantici cu adevărat puternici. Pe scurt, contextualitatea înseamnă că proprietățile unui sistem nu sunt fixe. Ceea ce măsori depinde direct de celelalte măsurători compatibile pe care le efectuezi în același timp.</p><p>Până acum, acest fenomen a fost observat doar în sisteme mici, formate din câteva particule. Google a reușit să demonstreze acest lucru pe procesorul său cuantic, folosind până la 105 qubiți, depășind limitele teoretice ale sistemelor clasice.</p><h2>Rezultate și impact practic</h2><p>În cadrul testelor, qubiții Google au câștigat un joc de coordonare cu o rată de succes de 98,3%, depășind limita clasică de 88,9%. Această performanță nu este doar un exercițiu teoretic. Ea oferă o metodă extrem de sensibilă pentru a detecta erorile hardware subtile în procesoarele cuantice.</p><p>Această capacitate de a monitoriza și corecta erorile este „Sfântul Graal” pentru dezvoltarea computerelor cuantice practice. Odată ce vom putea controla aceste fenomene la scară mare, vom deschide ușa către simulări complexe în chimie, știința materialelor și descoperirea de noi medicamente, domenii unde computerele actuale eșuează lamentabil.</p><h2>Concluzia cioc.online</h2><p>Deși nu vom vedea un laptop cuantic pe birou prea curând, experimentul Google validează direcția tehnologică a gigantului. Contextualitatea nu mai este doar o ipoteză matematică, ci un instrument de lucru. Pentru utilizatorii din România, acest progres înseamnă că suntem cu un pas mai aproape de o revoluție în securitatea cibernetică și în procesarea datelor la nivel global.</p>",
+    "body_en": "<h2>A new milestone in quantum computing</h2><p>Google Quantum AI has achieved a significant milestone, demonstrating that the quantum property of contextuality can be maintained at scale. The research, published in the journal Science, confirms a theory that could fundamentally reshape our understanding of quantum computing power.</p><h2>Defining quantum contextuality</h2><p>While entanglement often takes the spotlight in quantum physics, researchers have long suspected that a deeper property called contextuality is what truly powers advanced quantum algorithms. In simple terms, contextuality implies that a system's properties are not fixed in advance; what you measure depends on the other compatible measurements performed alongside it.</p><p>Previously, this effect was mostly observed in small systems involving only a few particles. Google's latest experiment demonstrates this phenomenon at scale on their quantum processor, utilizing up to 105 qubits and outperforming classical limits.</p><h2>Performance and hardware implications</h2><p>During the tests, the quantum qubits won a coordination game with a 98.3% success rate, significantly beating the 88.9% classical limit. This performance is not merely a theoretical exercise; it serves as a highly sensitive method for identifying subtle hardware errors in quantum processors.</p><p>The ability to detect and mitigate these errors is essential for building practical quantum computers. By mastering these phenomena, researchers are paving the way for real-world applications, such as complex chemistry simulations, materials science, and drug discovery, where classical supercomputers reach their limits.</p><h2>The cioc.online verdict</h2><p>While we are still years away from consumer-grade quantum hardware, Google's experiment proves that the underlying physics are sound and manageable. Contextuality is no longer just a mathematical curiosity but a practical tool. This progress brings us closer to a future where quantum computing solves problems that are currently impossible for today's most powerful machines.</p>",
+    "highlights_ro": [
+      "Google a demonstrat experimental contextualitatea cuantică pe un procesor cu 105 qubiți.",
+      "Tehnologia nu are un preț comercial, fiind un pas de cercetare fundamentală publicat în Science.",
+      "Cioc.online consideră acest succes drept baza necesară pentru computerele cuantice fiabile."
+    ],
+    "highlights_en": [
+      "Google demonstrated quantum contextuality on a 105-qubit processor.",
+      "This is a fundamental research milestone with no direct consumer pricing.",
+      "Cioc.online views this as a critical step toward reliable quantum hardware."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-19T19:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-19-google-quantum-contextuality-scale_1.jpg",
+      "assets/images/2026-11-19-google-quantum-contextuality-scale_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-19-sonos-black-friday-deals-2026",
     "slug_ro": "reduceri-sonos-black-friday-2026",
     "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
