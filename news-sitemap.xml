@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-iphone-duo-gets-face-unlock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
+      <news:title>iPhone Duo Gets Face Unlock: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-iphone-duo-gets-face-unlock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
+      <news:title>iPhone Duo primește Face Unlock: Ce trebuie să știi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</loc>
     <news:news>
       <news:publication>
@@ -835,50 +857,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T15:20:00+00:00</news:publication_date>
       <news:title>Cele mai bune oferte de Black Friday pentru ecosistemul Apple</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-analogue-3d-console-gains-wi-fi-support-for-automatic-updates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:32:33+00:00</news:publication_date>
-      <news:title>Analogue 3D Console Gains Wi-Fi Support for Automatic Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-analogue-3d-console-gains-wi-fi-support-for-automatic-updates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:32:33+00:00</news:publication_date>
-      <news:title>Consola Analogue 3D primește actualizări wireless prin noua funcție Wi-Fi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-why-we-like-watching-violence-lessons-from-mouse-fight-club/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:04:38+00:00</news:publication_date>
-      <news:title>Why We Like Watching Violence: Lessons From Mouse Fight Club</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-why-we-like-watching-violence-lessons-from-mouse-fight-club/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:04:38+00:00</news:publication_date>
-      <news:title>De ce ne place să privim violența: Lecții din lumea șoarecilor</news:title>
     </news:news>
   </url>
 </urlset>

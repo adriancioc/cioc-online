@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>iPhone Duo Gets Face Unlock: What You Need to Know</title>
+    <link>https://cioc.online/en/posts/2026-11-21-iphone-duo-gets-face-unlock/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-iphone-duo-gets-face-unlock/</guid>
+    <description>Apple brings Face Unlock to iPhone Duo via iOS 27.3. Discover the limitations of this new feature and what it means for foldable users.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-iphone-duo-gets-face-unlock_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Sued in India Over NameDrop Patent Infringement</title>
     <link>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-google-android-verification-2027/</guid>
     <description>Google is making developer verification mandatory for all Android apps by 2027. Here is what this means for sideloading and your device security.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-google-android-verification-2027_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Introduces Tool Retrieval for Gemini API</title>
-    <link>https://cioc.online/en/posts/2026-11-19-google-introduces-gemini-api-tool-retrieval/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-google-introduces-gemini-api-tool-retrieval/</guid>
-    <description>Google launches Tool Retrieval in Gemini API to optimize AI agents with large tool libraries. Reduced latency and input token costs.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-google-introduces-gemini-api-tool-retrieval_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

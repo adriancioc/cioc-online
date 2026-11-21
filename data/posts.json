@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-21-iphone-duo-gets-face-unlock",
+    "slug_ro": "iphone-duo-primeste-face-unlock",
+    "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+    "category": "TELEFOANE",
+    "virality_score": 8,
+    "focus_keyword_ro": "iPhone Duo Face Unlock",
+    "focus_keyword_en": "iPhone Duo Face Unlock",
+    "title_ro": "iPhone Duo primește Face Unlock: Ce trebuie să știi",
+    "title_en": "iPhone Duo Gets Face Unlock: What You Need to Know",
+    "summary": "Apple brings Face Unlock to iPhone Duo via iOS 27.3. Discover the limitations of this new feature and what it means for foldable users.",
+    "summary_ro": "Apple aduce Face Unlock pe iPhone Duo prin iOS 27.3. Află limitările noii funcții și ce se schimbă pentru utilizatorii de telefoane pliabile.",
+    "summary_en": "Apple brings Face Unlock to iPhone Duo via iOS 27.3. Discover the limitations of this new feature and what it means for foldable users.",
+    "body_ro": "<h2>O funcție mult așteptată, dar cu limitări</h2><p>Utilizatorii noului iPhone Duo au primit în sfârșit o veste bună prin lansarea celei de-a doua versiuni beta a iOS 27.3. Apple a decis să implementeze o formă de deblocare facială pentru dispozitivul pliabil, adresând una dintre cele mai frecvente critici primite de la lansare: dependența exclusivă de senzorul Touch ID integrat în butonul de power.</p><p>Totuși, entuziasmul trebuie temperat. Această implementare nu este echivalentă cu sistemul Face ID de pe modelele slab-style. Din motive de securitate hardware, Apple a impus restricții stricte. Utilizatorii trebuie să fi folosit codul de acces sau Touch ID în ultimele 45 de minute pentru a activa această funcție. Mai mult, deblocarea facială nu poate fi utilizată pentru autorizarea plăților prin Apple Pay, completarea automată a parolelor sau alte acțiuni care necesită un nivel ridicat de securitate.</p><h2>De ce este acest update un compromis?</h2><p>Această mișcare pare a fi un „stopgap” – o soluție temporară menită să îmbunătățească experiența de utilizare până când Apple va reuși să integreze un sistem Face ID complet în generația a doua a dispozitivului. Pentru utilizatorii din România, acest update subliniază importanța de a înțelege limitările tehnologice ale noilor formate de telefoane pliabile.</p><p>În cadrul aceluiași update, Apple a introdus și limite zilnice pentru utilizarea Siri AI, încercând să gestioneze mai eficient resursele de calcul în cloud. De asemenea, utilizatorii de iCloud+ vor primi mai multe detalii despre consumul de date, un aspect binevenit pentru cei care se bazează pe ecosistemul Apple pentru stocarea datelor personale.</p><h2>Ce urmează pentru 2027?</h2><p>După un an 2026 extrem de aglomerat, cu lansări precum iPhone Duo și HomeView, Apple se pregătește pentru un 2027 și mai ambițios. Se zvonește că vom vedea peste 18 produse noi, inclusiv aniversarul iPhone 20 Pro și o nouă generație de ochelari inteligenți. Designul viitoarelor telefoane high-end ar putea reveni la un cadru din titan, cu ecrane aproape fără margini, inspirate de conceptul iPhone Air.</p><p>Pentru utilizatorii care se confruntă deja cu erori pe noul HomeView, Apple a lansat deja un update software (27.2.1) pentru a remedia problemele de conectivitate Siri. Rămâne de văzut dacă aceste ajustări vor fi suficiente pentru a menține entuziasmul consumatorilor în perioada sărbătorilor.</p>",
+    "body_en": "<h2>A Long-Awaited Feature with Caveats</h2><p>iPhone Duo users have finally received a significant update in the second beta of iOS 27.3. Apple is introducing a face unlock option for its foldable device, addressing one of the most common complaints since launch: the reliance on the Touch ID power button for authentication.</p><p>However, this is not a full-featured Face ID implementation. Due to hardware limitations, Apple has placed strict boundaries on the feature. It requires a successful Touch ID or passcode authorization within the last 45 minutes to function. Furthermore, it cannot be used for Apple Pay, password autofill, or other high-security actions. It is strictly a convenience feature for unlocking the device.</p><h2>Why This Is a Stopgap Solution</h2><p>This update is clearly a bridge to the second-generation model, which is expected to feature a true Face ID system. For users, it highlights the trade-offs inherent in first-generation foldable hardware. Apple is prioritizing user experience while maintaining security standards, even if it means offering a limited feature set for now.</p><p>The iOS 27.3 beta also includes new daily limits for Siri AI and better visibility into iCloud+ plan usage. These changes reflect Apple's ongoing efforts to optimize its AI services and cloud infrastructure, which have seen increased demand following the recent product launches.</p><h2>Looking Ahead to 2027</h2><p>After a packed 2026, Apple is setting the stage for an even busier 2027. With over 18 products rumored, including the 20th-anniversary iPhone 20 Pro and new smart glasses, the company shows no signs of slowing down. Rumors suggest a return to titanium frames and nearly borderless displays for the upcoming Pro models, taking design cues from the iPhone Air concept.</p><p>Meanwhile, for those experiencing issues with the newly launched HomeView, Apple has already released a 27.2.1 software update to address Siri AI bugs. As we head into the holiday season, these software refinements are crucial for maintaining user trust in the new product lineup.</p>",
+    "highlights_ro": [
+      "Apple introduce o funcție de deblocare facială limitată pe iPhone Duo prin beta-ul iOS 27.3.",
+      "Funcția nu permite plăți Apple Pay sau autentificări securizate, fiind un compromis temporar.",
+      "Cioc.online recomandă prudență: securitatea rămâne inferioară sistemului Face ID complet."
+    ],
+    "highlights_en": [
+      "Apple introduces a limited face unlock feature for the iPhone Duo in the iOS 27.3 beta.",
+      "The feature does not support Apple Pay or high-security authentication, serving as a stopgap.",
+      "Cioc.online verdict: A welcome convenience, but true Face ID is still expected for the next generation."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T14:00:10+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-21-iphone-duo-gets-face-unlock_1.jpg",
+      "assets/images/2026-11-21-iphone-duo-gets-face-unlock_2.jpg",
+      "assets/images/2026-11-21-iphone-duo-gets-face-unlock_3.jpg",
+      "assets/images/2026-11-21-iphone-duo-gets-face-unlock_4.jpg",
+      "assets/images/2026-11-21-iphone-duo-gets-face-unlock_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-apple-sued-over-namedrop-feature",
     "slug_ro": "apple-dat-in-judecata-pentru-namedrop",
     "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
