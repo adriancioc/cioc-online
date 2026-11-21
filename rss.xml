@@ -26,6 +26,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-20-meta-reconsiders-net-zero-goals_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Siri Recap on Apple Watch: Privacy vs. Utility</title>
+    <link>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</guid>
+    <description>We tested the new Siri Recap feature on watchOS 27.3. Is it a breakthrough or just a privacy-invasive gimmick? Read our full analysis.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-siri-recap-apple-watch-review_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>YouTube to Pay $3 Billion to Settle Teen Addiction Claims</title>
     <link>https://cioc.online/en/posts/2026-11-20-youtube-3-billion-settlement-addiction/</link>
     <guid>https://cioc.online/en/posts/2026-11-20-youtube-3-billion-settlement-addiction/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-google-genie-4-interactive-ai-worlds/</guid>
     <description>Google releases Genie 4 for Gemini API and AI Ultra. Create interactive 720p worlds with real-time audio and text-based environment editing.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-google-genie-4-interactive-ai-worlds_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Gemini for Mac Can Now Control Apps and Browsers</title>
-    <link>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use/</guid>
-    <description>Google introduces &#x27;computer use&#x27; for Gemini on Mac, allowing the AI to navigate apps and automate repetitive tasks. Here is what you need to know.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-gemini-mac-computer-use_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

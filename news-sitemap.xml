@@ -68,6 +68,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T21:45:43+00:00</news:publication_date>
+      <news:title>Siri Recap on Apple Watch: Privacy vs. Utility</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-20-siri-recap-apple-watch-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T21:45:43+00:00</news:publication_date>
+      <news:title>Siri Recap pe Apple Watch: Inovație sau invazie a intimității?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-20-youtube-3-billion-settlement-addiction/</loc>
     <news:news>
       <news:publication>
