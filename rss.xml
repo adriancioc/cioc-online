@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>AI Agents in Your Text Messages: The Future of Personal Assistants</title>
+    <link>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</guid>
+    <description>Forget new apps. AI agents like Ask Proxy and Caddy are moving into your SMS and iMessage to manage your life. Here is how they work.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-ai-agents-via-sms_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Officially Shuts Down Apple Support Community</title>
     <link>https://cioc.online/en/posts/2026-11-21-apple-shuts-down-support-forums/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-apple-shuts-down-support-forums/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-transfer-ai-chat-history-gemini/</guid>
     <description>Google now allows you to transfer your chat history, context, and preferences from other AI assistants into Gemini. Here is how it works.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-transfer-ai-chat-history-gemini_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Meta Muse Charm: The $300 AI Wearable Challenge</title>
-    <link>https://cioc.online/en/posts/2026-11-19-meta-muse-charm-price-leak/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-meta-muse-charm-price-leak/</guid>
-    <description>Meta&#x27;s Muse Charm is rumored to cost $300. We analyze the specs, the 5G bundle, and whether this AI wearable can succeed where others failed.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-meta-muse-charm-price-leak_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

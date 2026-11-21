@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-21-ai-agents-via-sms",
+    "slug_ro": "agenti-ai-prin-sms",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "agenti AI prin SMS",
+    "focus_keyword_en": "AI agents via SMS",
+    "title_ro": "Agenti AI care traiesc in aplicatia ta de mesaje: Viitorul productivitatii",
+    "title_en": "AI Agents in Your Text Messages: The Future of Personal Assistants",
+    "summary": "Forget new apps. AI agents like Ask Proxy and Caddy are moving into your SMS and iMessage to manage your life. Here is how they work.",
+    "summary_ro": "Descopera cum agentii AI precum Instinct, Ask Proxy sau Caddy iti pot gestiona viata direct prin SMS sau iMessage, fara aplicatii noi.",
+    "summary_en": "Forget new apps. AI agents like Ask Proxy and Caddy are moving into your SMS and iMessage to manage your life. Here is how they work.",
+    "body_ro": "<h2>Revolutia AI se muta in aplicatia ta de mesaje</h2><p>Ne-am saturat cu totii de instalarea a zeci de aplicatii pentru fiecare nevoie marunta. Tendinta actuala in tehnologie, sustinuta de investitii masive, este mutarea inteligentei artificiale direct in canalul de comunicare pe care il folosim deja: mesageria text. In loc sa deschizi o interfata separata, poti acum sa trimiti un SMS sau un mesaj pe iMessage/RCS catre un agent AI care iti cunoaste contextul si poate executa sarcini complexe.</p><h2>Cine sunt principalii jucatori?</h2><p>Piata este in plina expansiune, cu nume precum <strong>Instinct</strong>, care a atras recent investitii colosale, dominand discutia. Totusi, alternativele sunt diverse si specializate:</p><ul><li><strong>Ask Proxy:</strong> Se diferentiaza printr-o abordare proactiva, incercand sa anticipeze nevoile utilizatorului. Functioneaza pe baza de SMS si poate gestiona de la idei de cadouri pana la organizarea calendarului.</li><li><strong>Caddy:</strong> Ideal pentru utilizatorii de iPhone si Android care vor sa transforme haosul din conversatii in actiuni concrete. Se integreaza nativ in iMessage si RCS.</li><li><strong>Comma:</strong> Un asistent orientat spre productivitate, capabil sa gestioneze sarcini complexe si sa verifice singur daca munca a fost finalizata corect.</li><li><strong>Fambot:</strong> Un veritabil „sef de cabinet” pentru familii, care centralizeaza activitatile scolare, planurile de masa si calendarele intr-un flux de mesaje organizat.</li></ul><h2>Merita sa platesti pentru un asistent prin SMS?</h2><p>Modelul de business variaza. De exemplu, Ask Proxy percepe o taxa de aproximativ 1 USD pe zi pentru utilizatorii individuali, in timp ce versiunile pentru companii sunt taxate per angajat. In Romania, disponibilitatea acestor numere scurte pentru SMS poate fi limitata, iar costurile de roaming sau tarifele standard pentru SMS-uri internationale trebuie luate in calcul.</p><p><strong>Verdictul nostru:</strong> Integrarea AI in mesagerie este mult mai naturala decat utilizarea unui chatbot izolat. Totusi, raman semne de intrebare privind confidentialitatea datelor personale trimise prin SMS, un protocol care nu este criptat end-to-end in mod implicit in toate retelele. Inainte de a te abona, asigura-te ca platforma respecta standardele europene de protectie a datelor (GDPR).</p>",
+    "body_en": "<h2>The AI Revolution Moves to Your Inbox</h2><p>We are all suffering from app fatigue. The latest trend in the AI space is moving away from standalone applications and into the messaging channels we already use daily. By interacting with AI agents via SMS, iMessage, or RCS, users can delegate tasks without ever leaving their conversation threads.</p><h2>Notable AI Agents to Watch</h2><p>While <strong>Instinct</strong> is currently the buzziest name in the industry with a $10 billion valuation, several other players are carving out specific niches:</p><ul><li><strong>Ask Proxy:</strong> This agent prides itself on anticipating user needs. It works via SMS and can handle everything from event planning to setting reminders based on photos you send it.</li><li><strong>Caddy:</strong> A powerful tool for iPhone and Android users that scans your conversations to identify actionable items, like appointments or shopping lists, and adds them to your calendar.</li><li><strong>Comma:</strong> Designed for complex task management, Comma can work across your computer and browser, providing updates via Signal, Telegram, or WeChat.</li><li><strong>Fambot:</strong> A family-focused assistant that acts as a chief of staff, organizing school schedules, meal plans, and daily to-do lists for the entire household.</li></ul><h2>Is Messaging-First AI the Future?</h2><p>The convenience is undeniable. By treating an AI like a human contact, the barrier to entry is significantly lowered. However, users should be cautious. Unlike dedicated apps with robust encryption, SMS-based AI agents operate over standard cellular protocols which may not offer the same level of privacy or data security as modern encrypted messengers.</p><p><strong>Our Take:</strong> For busy professionals and families, these tools offer immense value by reducing the cognitive load of daily planning. However, always check the data privacy policy of these agents before sharing sensitive personal or corporate information. As these agents become more proactive, the line between a helpful assistant and an intrusive bot will become increasingly thin.</p>",
+    "highlights_ro": [
+      "Agentii AI evolueaza de la chatbot-uri clasice la asistenti personali care functioneaza nativ prin SMS sau iMessage.",
+      "Servicii precum Ask Proxy costa aproximativ 1 USD pe zi, in timp ce altele ofera planuri business personalizate.",
+      "Cioc.online considera ca integrarea in mesagerie este cheia adoptiei AI, eliminand oboseala instalarii de noi aplicatii."
+    ],
+    "highlights_en": [
+      "AI agents are shifting from standalone apps to native messaging integrations like SMS and iMessage.",
+      "Services like Ask Proxy charge around $1/day, targeting users who want proactive assistance.",
+      "Cioc.online believes messaging-first AI is the most practical path to mass adoption."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T17:00:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-21-ai-agents-via-sms_1.jpg",
+      "assets/images/2026-11-21-ai-agents-via-sms_2.jpg",
+      "assets/images/2026-11-21-ai-agents-via-sms_3.jpg",
+      "assets/images/2026-11-21-ai-agents-via-sms_4.jpg",
+      "assets/images/2026-11-21-ai-agents-via-sms_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-apple-shuts-down-support-forums",
     "slug_ro": "apple-inchide-forumurile-suport",
     "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
