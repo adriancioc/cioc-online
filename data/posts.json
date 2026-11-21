@@ -1,5 +1,39 @@
 [
   {
+    "slug": "2026-11-21-apple-siri-ai-class-action-settlement",
+    "slug_ro": "proces-colectiv-apple-siri-ai",
+    "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+    "category": "SECURITATE",
+    "virality_score": 5,
+    "focus_keyword_ro": "Apple Siri AI proces",
+    "focus_keyword_en": "Apple Siri AI lawsuit",
+    "title_ro": "Apple plătește despăgubiri pentru Siri AI: Ce trebuie să știi",
+    "title_en": "Apple Siri AI Settlement: What You Need to Know",
+    "summary": "Apple agrees to a $250 million settlement over delayed Siri AI features. Here is the breakdown of the payouts and eligibility requirements.",
+    "summary_ro": "Apple a acceptat o înțelegere de 250 milioane dolari în SUA din cauza întârzierilor Siri AI. Află detaliile și cine este eligibil pentru plată.",
+    "summary_en": "Apple agrees to a $250 million settlement over delayed Siri AI features. Here is the breakdown of the payouts and eligibility requirements.",
+    "body_ro": "<h2>Contextul procesului Siri AI</h2><p>Apple a acceptat recent să plătească suma de 250 de milioane de dolari pentru a închide un proces colectiv în Statele Unite. Litigiul a fost generat de publicitatea înșelătoare privind lansarea funcțiilor Siri AI, care au întârziat semnificativ față de promisiunile inițiale ale companiei. Deși Apple neagă toate acuzațiile, a ales această cale pentru a evita costurile și riscurile unui proces prelungit.</p><h2>Cine este eligibil pentru compensații?</h2><p>Este important de reținut că această înțelegere este strict limitată la piața din SUA. Pentru a fi eligibil, un utilizator trebuie să fi achiziționat un model de iPhone compatibil în Statele Unite, în scop personal, între 10 iunie 2024 și 29 martie 2025. Utilizatorii din România sau din restul Europei nu sunt incluși în această procedură și nu pot solicita aceste plăți.</p><h2>Valoarea despăgubirilor și termene limită</h2><p>Conform documentelor depuse la tribunal, fiecare cerere validă va primi o sumă de bază de 25 de dolari. Totuși, în funcție de numărul total de cereri procesate, suma ar putea crește până la 95 de dolari. Avocații care reprezintă reclamanții estimează în prezent o plată de cel puțin 61 de dolari per dispozitiv. Termenul limită pentru depunerea cererilor este 21 decembrie 2026, iar audierea finală pentru aprobare este programată pentru februarie 2027.</p><h2>Impactul asupra utilizatorilor Apple</h2><p>Deși acest caz este specific pieței americane, el subliniază presiunea tot mai mare asupra giganților tech de a livra funcțiile software promise la momentul lansării hardware-ului. Siri AI, disponibilă acum pe iPhone 15 Pro și modelele ulterioare cu iOS 27, rămâne într-o fază de dezvoltare continuă, în ciuda faptului că a ieșit din stadiul beta. Pentru utilizatorii din România, lecția principală este importanța monitorizării promisiunilor de marketing în raport cu disponibilitatea reală a funcțiilor AI pe piața locală.</p>",
+    "body_en": "<h2>Understanding the Siri AI Settlement</h2><p>Apple has agreed to a $250 million settlement to resolve a class action lawsuit in the United States. The legal action stemmed from allegations of false advertising regarding the delayed rollout of Siri AI capabilities. While Apple denies any wrongdoing, the company opted for a settlement to avoid the ongoing costs and risks associated with a prolonged court trial.</p><h2>Eligibility and Claim Process</h2><p>The settlement is exclusively for customers residing in the U.S. To be eligible, a claimant must have purchased a qualifying iPhone model in the United States for personal use between June 10, 2024, and March 29, 2025. Users outside of the U.S. are not part of this class and are not eligible to file a claim.</p><h2>Payout Estimates and Timeline</h2><p>According to court documents, the settlement provides a minimum payment of $25 per eligible device. Depending on the total number of valid claims submitted, this amount could fluctuate, with a maximum cap of $95. Legal counsel representing the class currently estimates that claimants will receive at least $61 per device. The deadline to submit a claim is December 21, 2026, with a final approval hearing set for February 2027.</p><h2>Broader Implications for Apple Intelligence</h2><p>This case highlights the growing scrutiny on tech companies regarding feature delivery timelines. Apple Intelligence features, including the revamped Siri, were heavily marketed in 2024 but faced significant delays, leading to the lawsuit. While Siri AI is now available on iPhone 15 Pro models and newer running iOS 27, it serves as a reminder of the gap that can exist between marketing promises and actual software availability. For international users, this serves as a case study in consumer rights regarding AI-driven product features.</p>",
+    "highlights_ro": [
+      "Apple a soluționat un proces colectiv în SUA privind lansarea întârziată a funcțiilor Siri AI.",
+      "Utilizatorii eligibili ar putea primi între 25 și 95 USD per dispozitiv, estimările actuale indicând 61 USD.",
+      "Acțiunea este strict limitată la rezidenții SUA; utilizatorii din România nu sunt vizați de această compensație."
+    ],
+    "highlights_en": [
+      "Apple settles a US class action lawsuit regarding the delayed launch of Siri AI features.",
+      "Eligible claimants may receive between $25 and $95 per device, with current estimates around $61.",
+      "The settlement is exclusive to US residents; international users are not eligible for compensation."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T17:08:49+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-21-apple-siri-ai-class-action-settlement_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-ai-agents-via-sms",
     "slug_ro": "agenti-ai-prin-sms",
     "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",

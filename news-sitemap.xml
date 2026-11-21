@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:08:49+00:00</news:publication_date>
+      <news:title>Apple Siri AI Settlement: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-apple-siri-ai-class-action-settlement/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:08:49+00:00</news:publication_date>
+      <news:title>Apple plătește despăgubiri pentru Siri AI: Ce trebuie să știi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</loc>
     <news:news>
       <news:publication>
@@ -637,204 +659,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T21:43:39+00:00</news:publication_date>
       <news:title>iOS 27.3 Public Beta 2: Safari și Siri AI primesc update-uri</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-transfer-ai-chat-history-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:30:00+00:00</news:publication_date>
-      <news:title>Switch to Gemini: Import Your AI History and Context Now</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-transfer-ai-chat-history-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:30:00+00:00</news:publication_date>
-      <news:title>Adio barieră: Acum poți transfera istoricul AI direct în Gemini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-meta-muse-charm-price-leak/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:22:17+00:00</news:publication_date>
-      <news:title>Meta Muse Charm: The $300 AI Wearable Challenge</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-meta-muse-charm-price-leak/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:22:17+00:00</news:publication_date>
-      <news:title>Meta Muse Charm: Gadgetul AI care vrea să îți fie prieten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-app-control/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:14:23+00:00</news:publication_date>
-      <news:title>Google Gemini Can Now Control Apps on Your Mac</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-gemini-mac-app-control/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:14:23+00:00</news:publication_date>
-      <news:title>Google Gemini poate acum să controleze aplicațiile de pe Mac-ul tău</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-apple-camera-software-vp-retires/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:37:10+00:00</news:publication_date>
-      <news:title>Apple Camera Software VP Jon McCormack Retires</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-apple-camera-software-vp-retires/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:37:10+00:00</news:publication_date>
-      <news:title>Schimbări la Apple: Șeful diviziei de software pentru cameră se retrage</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-quantum-contextuality-scale/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:00:00+00:00</news:publication_date>
-      <news:title>Google proves quantum contextuality at scale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-quantum-contextuality-scale/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:00:00+00:00</news:publication_date>
-      <news:title>Google demonstrează contextualitatea cuantică la scară largă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-sonos-black-friday-deals-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:33:08+00:00</news:publication_date>
-      <news:title>Sonos Black Friday 2026: Best Deals on Speakers and Soundbars</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-sonos-black-friday-deals-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:33:08+00:00</news:publication_date>
-      <news:title>Black Friday 2026: Reduceri masive la sistemele audio Sonos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-gemini-mac-computer-use-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:21:13+00:00</news:publication_date>
-      <news:title>Google Gemini on Mac: The AI Agent That Controls Your Apps</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-gemini-mac-computer-use-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:21:13+00:00</news:publication_date>
-      <news:title>Google Gemini pe Mac: AI-ul care îți preia controlul aplicațiilor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-gemini-mac-computer-use-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:09:11+00:00</news:publication_date>
-      <news:title>Google Gemini Gains Computer Use on Mac: What You Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-gemini-mac-computer-use-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:09:11+00:00</news:publication_date>
-      <news:title>Google Gemini poate controla Mac-ul: Ce oferă noul agent AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-google-android-verification-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:00:33+00:00</news:publication_date>
-      <news:title>Google Mandates Android App Verification Starting 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-google-android-verification-2027/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:00:33+00:00</news:publication_date>
-      <news:title>Google blochează sideloading-ul pe Android: Ce se schimbă în 2027</news:title>
     </news:news>
   </url>
 </urlset>

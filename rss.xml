@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple Siri AI Settlement: What You Need to Know</title>
+    <link>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</guid>
+    <description>Apple agrees to a $250 million settlement over delayed Siri AI features. Here is the breakdown of the payouts and eligibility requirements.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-apple-siri-ai-class-action-settlement_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>AI Agents in Your Text Messages: The Future of Personal Assistants</title>
     <link>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</guid>
     <description>Apple releases the second public beta of iOS 27.3. Discover new Safari features, Siri AI capabilities, and iPhone Duo improvements.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-ios-27-3-public-beta-2_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Switch to Gemini: Import Your AI History and Context Now</title>
-    <link>https://cioc.online/en/posts/2026-11-19-transfer-ai-chat-history-gemini/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-transfer-ai-chat-history-gemini/</guid>
-    <description>Google now allows you to transfer your chat history, context, and preferences from other AI assistants into Gemini. Here is how it works.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-transfer-ai-chat-history-gemini_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
