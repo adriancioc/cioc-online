@@ -107,6 +107,41 @@
     ]
   },
   {
+    "slug": "2026-11-21-un-fails-regulate-killer-robots",
+    "slug_ro": "onu-esueaza-reglementarea-robotilor-ucigasi",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "category": "SECURITATE",
+    "virality_score": 8,
+    "focus_keyword_ro": "roboti ucigasi reglementare ONU",
+    "focus_keyword_en": "UN autonomous weapons regulation",
+    "title_ro": "ONU eșuează în reglementarea „roboților ucigași” autonomi",
+    "title_en": "UN Fails to Regulate Autonomous 'Killer Robots'",
+    "summary": "The UN has delayed binding rules for autonomous weapons. Discover why major powers are stalling and the implications for global AI security.",
+    "summary_ro": "ONU amână din nou regulile pentru armele autonome. Află de ce marile puteri blochează tratatele și ce înseamnă asta pentru viitorul conflictelor.",
+    "summary_en": "The UN has delayed binding rules for autonomous weapons. Discover why major powers are stalling and the implications for global AI security.",
+    "body_ro": "<h2>Un impas periculos pentru viitorul AI-ului militar</h2><p>Într-o serie de negocieri desfășurate la Geneva, Națiunile Unite au ratat ocazia de a stabili un cadru legal obligatoriu pentru utilizarea armelor autonome, cunoscute popular sub numele de „roboți ucigași”. În ciuda presiunilor venite din partea Comitetului Internațional al Crucii Roșii și a Secretarului General al ONU, care au cerut măsuri urgente, rezultatul a fost un compromis palid: statele au agreat doar să „înceapă discutarea opțiunilor” pe parcursul următorilor doi ani.</p><p>Acest eșec subliniază dificultatea imensă de a alinia interesele geopolitice divergente în fața unei tehnologii care evoluează mult mai rapid decât diplomația. În timp ce dronele semi-autonome sunt deja implicate în conflicte active în Ucraina, Gaza și Sudan, provocând victime civile, marile puteri par mai preocupate de menținerea libertății de acțiune decât de stabilirea unor limite etice clare.</p><h2>Cine blochează progresul?</h2><p>Conform rapoartelor recente, opoziția a venit din partea unor actori cheie. Rusia a întârziat procedurile încă din prima zi, contestând agenda, în timp ce Statele Unite au propus un interval de cinci ani pentru discutarea unor linii directoare care ar rămâne, în esență, opționale. Israelul a fost, de asemenea, identificat ca un factor de blocaj în adoptarea unor reguli stricte.</p><p>Această abordare „opțională” este considerată de experții în drept internațional ca fiind ineficientă. Fără un tratat obligatoriu, riscul ca tehnologia AI să fie integrată în sisteme de armament fără supraveghere umană adecvată devine o realitate cotidiană, nu un scenariu de film SF.</p><h2>Ce urmează pentru securitatea globală?</h2><p>Amânarea cu doi ani a oricărei decizii concrete înseamnă că dezvoltarea armelor autonome va continua într-un vid legislativ. Pentru consumatorul obișnuit și pentru societatea civilă, acest lucru ridică semne de întrebare serioase cu privire la responsabilitatea algoritmilor în deciziile de viață și moarte. Pe cioc.online, vom continua să monitorizăm cum aceste decizii politice influențează dezvoltarea tehnologiilor AI civile, care adesea împart aceleași baze de cod cu cele militare.</p>",
+    "body_en": "<h2>A Dangerous Deadlock for Military AI</h2><p>In a recent series of negotiations in Geneva, the United Nations failed to establish a binding legal framework for the use of autonomous weapons, widely known as \"killer robots.\" Despite urgent calls from the International Committee of the Red Cross and the UN Secretary-General for legally binding rules, the outcome was a weak compromise: nations agreed only to \"start discussing options\" over the next two years.</p><p>This failure highlights the immense difficulty of aligning divergent geopolitical interests in the face of technology that evolves far faster than diplomacy. While semi-autonomous drones are already being deployed in conflicts across Ukraine, Gaza, and Sudan, causing significant civilian casualties, major powers appear more concerned with maintaining strategic freedom than establishing clear ethical boundaries.</p><h2>Who is Blocking Progress?</h2><p>Reports indicate that the primary opposition came from key global players. Russia delayed proceedings on the very first day by objecting to the meeting agenda, while the United States proposed a five-year window to discuss guidelines that would remain largely optional. Israel has also been identified as a significant obstacle to adopting strict, enforceable regulations.</p><p>International law experts argue that this \"optional\" approach is fundamentally ineffective. Without a binding treaty, the risk of AI being integrated into weapon systems without adequate human oversight becomes a daily reality rather than a science-fiction scenario.</p><h2>The Future of Global Security</h2><p>Delaying concrete decisions for two years means that the development of autonomous weapons will continue in a legislative vacuum. For the general public, this raises serious questions about algorithmic accountability in life-or-death decisions. At cioc.online, we will continue to monitor how these political decisions influence the development of civilian AI technologies, which often share the same foundational code as their military counterparts.</p>",
+    "highlights_ro": [
+      "ONU a eșuat în a stabili reguli obligatorii pentru armele autonome, convenind doar să discute opțiuni în următorii doi ani.",
+      "Statele Unite, Rusia și Israel au blocat demersurile pentru un tratat imediat, preferând linii directoare opționale.",
+      "Cioc.online consideră acest impas un risc major pentru securitatea globală și etica utilizării AI în zonele de conflict."
+    ],
+    "highlights_en": [
+      "The UN failed to establish binding rules for autonomous weapons, agreeing only to discuss options over the next two years.",
+      "The US, Russia, and Israel blocked immediate treaty efforts, favoring optional, non-binding guidelines.",
+      "Cioc.online views this deadlock as a significant risk to global security and the ethics of AI in warfare."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T20:03:37+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-21-un-fails-regulate-killer-robots_1.jpg",
+      "assets/images/2026-11-21-un-fails-regulate-killer-robots_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-fbi-ncic-database-breach",
     "slug_ro": "breasa-securitate-fbi-ncic",
     "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
