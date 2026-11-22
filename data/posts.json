@@ -1000,6 +1000,41 @@
     ]
   },
   {
+    "slug": "2026-11-20-microsoft-to-do-retirement",
+    "slug_ro": "microsoft-inchide-aplicatia-to-do",
+    "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
+    "category": "APLICAȚII",
+    "virality_score": 9,
+    "focus_keyword_ro": "Microsoft To Do retragere",
+    "focus_keyword_en": "Microsoft To Do retirement",
+    "title_ro": "Microsoft închide aplicația To Do: Ce trebuie să știi",
+    "title_en": "Microsoft to Retire To Do App: What You Need to Know",
+    "summary": "Microsoft is retiring its To Do app by June 2027. Learn how this affects your tasks and why personal users are left without a native replacement.",
+    "summary_ro": "Microsoft a anunțat retragerea aplicației To Do în 2027. Află ce se întâmplă cu sarcinile tale și care sunt alternativele pentru utilizatorii personali.",
+    "summary_en": "Microsoft is retiring its To Do app by June 2027. Learn how this affects your tasks and why personal users are left without a native replacement.",
+    "body_ro": "<h2>Finalul unei ere pentru productivitatea Microsoft</h2><p>Microsoft a luat o decizie surprinzătoare care va afecta milioane de utilizatori: aplicația <strong>To Do</strong> va fi retrasă oficial pe 30 iunie 2027. Această mișcare marchează sfârșitul drumului pentru succesorul mult iubitului Wunderlist, lăsând utilizatorii în fața unei schimbări majore de flux de lucru.</p><h2>Ce se întâmplă cu datele tale?</h2><p>Anunțul oficial specifică faptul că utilizatorii cu conturi de muncă sau școală vor fi direcționați către <strong>Planner</strong>. Totuși, problema reală apare pentru utilizatorii cu conturi Microsoft personale (inclusiv abonații Microsoft 365 Personal sau Family). Aceștia nu au acces la Planner, ceea ce înseamnă că vor fi nevoiți să caute o soluție complet nouă pentru gestionarea sarcinilor zilnice.</p><p>Un aspect critic este transferul datelor. Microsoft a confirmat că sarcinile nu vor fi migrate automat către Planner. Deși compania promite o opțiune de export înainte de data limită, detaliile despre formatul acestui export rămân neclare. Utilizatorii riscă să piardă istoricul sarcinilor dacă nu iau măsuri din timp.</p><h2>Pierderea aplicațiilor desktop native</h2><p>Trecerea forțată către Planner aduce și un dezavantaj major pentru utilizatorii de Mac și Windows. Planner funcționează în prezent doar prin browser sau Microsoft Teams. Spre deosebire de aplicația To Do, care oferea o experiență nativă și capabilități de lucru offline, Planner necesită o conexiune constantă la internet, eliminând flexibilitatea de a gestiona sarcinile în mod eficient fără acces la rețea.</p><h2>Verdictul Cioc.online</h2><p>Această decizie subliniază fragilitatea ecosistemelor software dependente de deciziile corporate. Pentru utilizatorii care se bazează pe To Do pentru organizarea vieții personale, recomandăm începerea procesului de migrare către aplicații independente precum <strong>Todoist</strong> sau <strong>TickTick</strong>. Acestea oferă o continuitate mai sigură și funcționalități avansate care nu depind de schimbările de strategie ale Microsoft. Nu așteptați până în 2027 pentru a vă exporta listele; începeți să testați alternativele chiar de astăzi pentru a vă asigura că fluxul de lucru rămâne intact.</p>",
+    "body_en": "<h2>The End of the Road for Microsoft To Do</h2><p>Microsoft has announced that it will retire its <strong>To Do</strong> app on June 30, 2027. This decision effectively ends support for the task manager across iPhone, iPad, Mac, Windows, Android, and the web, marking the final chapter for the successor to the legendary Wunderlist.</p><h2>The Impact on Personal Users</h2><p>While Microsoft is pushing work and school account users toward <strong>Planner</strong>, the situation for personal users is grim. Those with Microsoft 365 Personal or Family subscriptions will have no access to Planner, leaving them to find entirely new task management solutions. This creates a significant gap for millions of users who rely on the Microsoft ecosystem for daily organization.</p><p>Data migration is another major concern. Microsoft has stated that tasks will not automatically transfer to Planner. While an export option is promised before the retirement date, the lack of clarity regarding import compatibility with other apps makes this a risky transition for power users who have years of data stored in their lists.</p><h2>Loss of Native Desktop Experience</h2><p>Moving to Planner also means sacrificing the native desktop experience. Unlike the To Do app, which provided robust offline support and a compact, distraction-free interface, Planner is primarily a web-based tool accessible through browsers or Microsoft Teams. This shift removes the ability to manage tasks effectively while offline, a feature that was a cornerstone of the To Do desktop experience.</p><h2>Cioc.online Perspective</h2><p>This move highlights the risks of relying on first-party tools that can be deprecated at the whim of a corporate strategy shift. For personal users, we strongly advise migrating to dedicated task management platforms like <strong>Todoist</strong> or <strong>TickTick</strong>. These services offer more stability and are less likely to be discontinued due to enterprise-focused pivots. Start your migration now to ensure your data remains portable and your productivity workflow stays uninterrupted.</p>",
+    "highlights_ro": [
+      "Microsoft va retrage aplicația To Do pe 30 iunie 2027, eliminând suportul pentru toate platformele.",
+      "Utilizatorii personali rămân fără o soluție nativă, deoarece Planner este limitat doar la conturi de business/școală.",
+      "Cioc.online recomandă migrarea timpurie către alternative precum Todoist sau TickTick pentru a evita pierderea datelor."
+    ],
+    "highlights_en": [
+      "Microsoft will retire the To Do app on June 30, 2027, across all platforms.",
+      "Personal Microsoft account holders are left without a native replacement as Planner is restricted to business/school accounts.",
+      "Cioc.online recommends migrating to third-party task managers like Todoist or TickTick immediately."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T16:31:43+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-20-microsoft-to-do-retirement_1.jpg",
+      "assets/images/2026-11-20-microsoft-to-do-retirement_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-valve-might-raise-steam-machine-price",
     "slug_ro": "valve-ar-putea-scumpi-steam-machine",
     "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
