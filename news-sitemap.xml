@@ -288,6 +288,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-chess-com-launches-classic-games-hub/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:00+00:00</news:publication_date>
+      <news:title>Chess.com Expands Beyond Chess with New Classic Games Hub</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-chess-com-launches-classic-games-hub/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:00+00:00</news:publication_date>
+      <news:title>Chess.com se extinde: 10 jocuri clasice noi pe platformă</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-race-realism-science-debunked/</loc>
     <news:news>
       <news:publication>

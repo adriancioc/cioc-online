@@ -463,6 +463,44 @@
     ]
   },
   {
+    "slug": "2026-11-21-chess-com-launches-classic-games-hub",
+    "slug_ro": "chess-com-lanseaza-platforma-classic-games",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "category": "APLICAȚII",
+    "virality_score": 6,
+    "focus_keyword_ro": "Chess.com Classic Games",
+    "focus_keyword_en": "Chess.com Classic Games",
+    "title_ro": "Chess.com se extinde: 10 jocuri clasice noi pe platformă",
+    "title_en": "Chess.com Expands Beyond Chess with New Classic Games Hub",
+    "summary": "Chess.com launches Classic Games, adding 10 new titles including Sudoku, Mahjong, and Solitaire, powered by AI-assisted development.",
+    "summary_ro": "Chess.com lansează Classic Games, o nouă platformă care include șah, sudoku, mahjong și alte 8 jocuri clasice, dezvoltate cu ajutorul AI.",
+    "summary_en": "Chess.com launches Classic Games, adding 10 new titles including Sudoku, Mahjong, and Solitaire, powered by AI-assisted development.",
+    "body_ro": "<h2>O nouă eră pentru Chess.com</h2><p>Cea mai populară platformă de șah din lume, Chess.com, face un pas important în afara nișei sale tradiționale. Compania a anunțat lansarea <strong>Classic Games</strong>, un hub dedicat jocurilor clasice care include titluri precum backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi și un joc de cuvinte numit „word”.</p><p>Această mișcare vine după lansarea Gambit, un site de poker fără mize reale, și confirmă ambiția Chess.com de a deveni destinația principală pentru pasionații de jocuri de strategie și logică. Platforma a intrat în faza de testare publică (beta) și este disponibilă atât pe web, cât și prin actualizări ale aplicațiilor de iOS și Android.</p><h2>Rolul AI în dezvoltarea rapidă</h2><p>Un aspect fascinant al acestei lansări este viteza cu care a fost realizată. Conform declarațiilor oficiale, echipa de dezvoltare a folosit <strong>inteligența artificială</strong> pentru a accelera procesul de scriere a codului. Această abordare a permis unei echipe foarte mici să lanseze 11 jocuri noi în doar câteva luni.</p><p>Totuși, reprezentanții companiei subliniază că AI-ul a fost utilizat strict pentru sarcinile tehnice de programare. Designul grafic, interfața și experiența utilizatorului au fost create exclusiv de oameni, menținând standardele estetice cu care utilizatorii Chess.com sunt deja obișnuiți. Este un exemplu clar de colaborare între eficiența algoritmilor și creativitatea umană.</p><h2>Ce oferă noua platformă?</h2><p>Utilizatorii care accesează Classic Games vor regăsi elementele familiare de pe Chess.com: sisteme de rating, clasamente și lecții interactive. Fiecare joc beneficiază de moduri de joc variate, de la meciuri împotriva altor jucători reali, până la partide cu boți, folosind aceleași personaje consacrate din ecosistemul Chess.com.</p><p>De exemplu, fanii sudoku vor primi grile zilnice, în timp ce pasionații de mahjong sau jocuri de cuvinte vor avea acces la puzzle-uri dedicate. Această integrare nu afectează însă nucleul platformei; șahul rămâne prioritatea principală, iar echipa dedicată noilor jocuri reprezintă mai puțin de 1% din totalul angajaților companiei.</p><p>Această expansiune este un răspuns direct la cererea comunității de aproape 300 de milioane de membri, care își doreau un spațiu similar pentru alte jocuri clasice. Rămâne de văzut dacă această diversificare va atrage o audiență nouă sau dacă va consolida doar poziția actualilor utilizatori pe platformă.</p>",
+    "body_en": "<h2>Chess.com Goes Beyond the Board</h2><p>Chess.com is taking a significant step to broaden its appeal by launching <strong>Classic Games</strong>, a new platform dedicated to timeless tabletop and puzzle games. The lineup includes 10 additions: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble-like game called 'word'.</p><p>This expansion follows the launch of Gambit, a poker-focused site, and aims to provide a 'Chess.com-like' experience for fans of other classic games. The platform is currently in public beta, accessible via web browsers and updated iOS and Android applications.</p><h2>The Role of AI in Rapid Development</h2><p>A key takeaway from this launch is the company's reliance on <strong>artificial intelligence</strong> to accelerate the development cycle. By leveraging AI for coding tasks, a small team was able to bring 11 new games to market in just a few months. This approach allowed them to build on the existing Chess.com codebase, design system, and rating infrastructure.</p><p>However, the company is careful to note that AI was not used for the creative side of the project. The art, design, and user experience were crafted by human designers, ensuring the platform retains the high-quality feel that users expect. This hybrid approach highlights how tech companies are increasingly using AI to handle repetitive backend tasks while keeping creative control firmly in human hands.</p><h2>What to Expect from Classic Games</h2><p>The new section will feel instantly familiar to existing members. Each game includes features like leaderboards, lessons, and a rating system. Players can compete against other humans or against the platform's well-known bot characters. Different games offer unique modes, such as daily sudoku grids or puzzle sets for word and mahjong.</p><p>Despite the expansion, Chess.com remains committed to its namesake game. The company stated that the team dedicated to building these new games represents less than 1% of the total workforce. With daily active users at an all-time high, the company is using the success of its core product to fund and build these adjacent experiences, with plans to potentially add even more games in the future.</p>",
+    "highlights_ro": [
+      "Chess.com a lansat platforma Classic Games, adăugând 10 titluri precum sudoku, mahjong și solitaire.",
+      "Funcționalitățile sunt disponibile gratuit pe web și aplicații mobile, folosind infrastructura existentă.",
+      "O mișcare strategică ce demonstrează cum AI-ul accelerează dezvoltarea de produse software complexe."
+    ],
+    "highlights_en": [
+      "Chess.com is launching a new platform called Classic Games featuring 10 new titles.",
+      "The expansion uses existing infrastructure and AI to speed up development cycles.",
+      "Chess remains the core focus while diversifying into strategy and puzzle games."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T14:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-21-chess-com-launches-classic-games-hub_1.jpg",
+      "assets/images/2026-11-21-chess-com-launches-classic-games-hub_2.jpg",
+      "assets/images/2026-11-21-chess-com-launches-classic-games-hub_3.jpg",
+      "assets/images/2026-11-21-chess-com-launches-classic-games-hub_4.jpg",
+      "assets/images/2026-11-21-chess-com-launches-classic-games-hub_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-race-realism-science-debunked",
     "slug_ro": "genetica-si-mitul-raselor",
     "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
