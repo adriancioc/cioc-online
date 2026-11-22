@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-22-apple-homeview-audio-review",
+    "slug_ro": "apple-homeview-analiza-audio",
+    "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+    "category": "GADGETURI",
+    "virality_score": 7,
+    "focus_keyword_ro": "Apple HomeView",
+    "focus_keyword_en": "Apple HomeView audio quality",
+    "title_ro": "Apple HomeView: Merită pentru sunet sau doar pentru ecran?",
+    "title_en": "Apple HomeView: Is it worth it for music?",
+    "summary": "We tested the Apple HomeView. Is it a good speaker or just a fancy display? Here is our deep dive into its audio performance and limitations.",
+    "summary_ro": "Am testat Apple HomeView. Este un difuzor bun sau doar un ecran inteligent scump? Află verdictul nostru despre calitatea audio și limitări.",
+    "summary_en": "We tested the Apple HomeView. Is it a good speaker or just a fancy display? Here is our deep dive into its audio performance and limitations.",
+    "body_ro": "<h2>Apple HomeView: Dincolo de marketing</h2><p>Lansarea Apple HomeView a stârnit curiozitatea multor utilizatori care doreau un centru de comandă pentru casa inteligentă. Totuși, după teste aprofundate, întrebarea principală rămâne: poate acest dispozitiv să înlocuiască un sistem audio dedicat? Răspunsul scurt este nu, dar contextul este mult mai nuanțat.</p><h2>Performanța audio: HomeView vs. HomePod Mini</h2><p>La capitolul sunet, HomeView se poziționează undeva între HomePod Mini și un HomePod de dimensiuni mari. Deși Apple a integrat un woofer în bază și a adăugat un accelerometru pentru ajustarea EQ-ului în funcție de înclinarea ecranului, rezultatele sunt mixte. Basul este prezent, dar claritatea generală nu atinge nivelul unui sistem stereo format din două unități HomePod Mini.</p><p>Varianta montată pe perete suferă și mai mult, sunetul fiind notabil mai subțire din cauza lipsei spațiului pentru rezonanță. Este o soluție acceptabilă pentru interfon video, dar nu pentru audiție muzicală serioasă.</p><h2>Limitări și experiența AirPlay</h2><p>Un aspect frustrant pentru utilizatorii avansați este lipsa posibilității de a crea o pereche stereo folosind două unități HomeView sau de a le combina cu alte modele HomePod. De asemenea, integrarea aplicațiilor terțe precum Spotify este inegală. Interfața de tip CarPlay, deși familiară, limitează funcționalitățile de căutare și controlul vocal, forțând utilizatorul să folosească Siri într-un mod mai restrictiv decât în aplicația nativă Apple Music.</p><h2>Verdictul Cioc.online</h2><p>Dacă bugetul tău de 300 USD (aprox. 1400 RON + taxe) este destinat exclusiv calității audio, investiția în două unități HomePod Mini în configurație stereo este o alegere superioară. HomeView strălucește cu adevărat ca un „jukebox” vizual. Ecranul face selecția podcasturilor, a muzicii și controlul casei mult mai intuitive. Este, în esență, un panou de control inteligent cu funcții audio secundare, nu un difuzor pentru audiofili.</p>",
+    "body_en": "<h2>Apple HomeView: Beyond the Hype</h2><p>The arrival of the Apple HomeView has sparked significant interest among smart home enthusiasts. However, after extensive testing, the core question remains: can this device replace a dedicated audio system? The short answer is no, but the reality is more complex.</p><h2>Audio Performance: HomeView vs. HomePod Mini</h2><p>In terms of sound, the HomeView sits somewhere between the HomePod Mini and the full-sized HomePod. While Apple integrated a woofer in the base and added an accelerometer to adjust EQ based on screen tilt, the results are mixed. The bass is present, but overall clarity doesn't reach the level of a stereo pair of HomePod Minis.</p><p>The wall-mounted version suffers even more, with noticeably thinner sound due to the lack of resonance space. It is an acceptable solution for video doorbells, but not for serious music listening.</p><h2>Limitations and AirPlay Experience</h2><p>A frustrating aspect for power users is the inability to create a stereo pair using two HomeView units or combine them with other HomePod models. Furthermore, third-party app integration like Spotify is inconsistent. The CarPlay-style interface, while familiar, limits search functionality and voice control, forcing users to rely on Siri in a more restrictive way than in the native Apple Music app.</p><h2>The Cioc.online Verdict</h2><p>If your $300 budget is dedicated solely to audio quality, investing in two HomePod Minis in a stereo configuration is the superior choice. The HomeView truly shines as a visual jukebox. The screen makes selecting podcasts, music, and controlling your home much more intuitive. It is, essentially, a smart control panel with secondary audio features, not a speaker for audiophiles.</p>",
+    "highlights_ro": [
+      "Apple HomeView oferă un ecran tactil excelent pentru control, dar performanța audio este sub un HomePod standard.",
+      "Prețul de lansare în SUA este de 300 USD; disponibilitatea în România depinde de importatori, preț estimat 1600-1800 RON.",
+      "Verdict: Cumpără-l pentru ecran și control, nu pentru audiție hi-fi. Două HomePod Mini în stereo sună mai bine."
+    ],
+    "highlights_en": [
+      "Apple HomeView excels as a touchscreen controller but falls short of dedicated HomePod audio quality.",
+      "Priced at $300 USD; availability varies by region. Check local EU pricing for VAT adjustments.",
+      "Verdict: Buy it for the interface, not the sound. Two HomePod Minis in stereo offer a better sonic experience."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T13:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-22-apple-homeview-audio-review_1.jpg",
+      "assets/images/2026-11-22-apple-homeview-audio-review_2.jpg",
+      "assets/images/2026-11-22-apple-homeview-audio-review_3.jpg",
+      "assets/images/2026-11-22-apple-homeview-audio-review_4.jpg",
+      "assets/images/2026-11-22-apple-homeview-audio-review_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-godzilla-minus-zero-review",
     "slug_ro": "godzilla-minus-zero-recenzie-film",
     "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",

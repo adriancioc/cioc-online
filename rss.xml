@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple HomeView: Is it worth it for music?</title>
+    <link>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</guid>
+    <description>We tested the Apple HomeView. Is it a good speaker or just a fancy display? Here is our deep dive into its audio performance and limitations.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-apple-homeview-audio-review_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Godzilla Minus Zero: A Sequel That Actually Delivers</title>
     <link>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-google-assistant-shutting-down-gemini/</guid>
     <description>Google is shutting down the Nest app and replacing Assistant with Gemini on smart speakers. Here is what you need to know about the 2027 transition.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-google-assistant-shutting-down-gemini_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>The Future of iPhone Duo: Face ID and Design Rumors</title>
-    <link>https://cioc.online/en/posts/2026-11-20-future-of-iphone-duo/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-future-of-iphone-duo/</guid>
-    <description>We analyze the latest rumors regarding the iPhone Duo: under-display Face ID, hybrid buttons, and Apple&#x27;s plans for an 8-inch foldable.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-future-of-iphone-duo_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
