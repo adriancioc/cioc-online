@@ -54,6 +54,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-21-alaska-governor-wikipedia-editor_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Anthropic IPO: Can AI Safety Survive the Public Market?</title>
+    <link>https://cioc.online/en/posts/2026-11-21-anthropic-ipo-safety-vs-profit/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-anthropic-ipo-safety-vs-profit/</guid>
+    <description>Anthropic is the first pure-play AI lab to go public. We analyze the tension between their safety-first mission and shareholder profit demands.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-anthropic-ipo-safety-vs-profit_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Adds Face Unlock to iPhone Duo in iOS 27.3 Beta</title>
     <link>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</guid>
     <description>Apple is developing a proactive AI agent capable of browsing the web, coding, and navigating apps, aiming to compete with Meta and OpenAI.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-apple-developing-autonomous-ai-agent_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>IconSwapper: Bring Your Mac Icons to Life</title>
-    <link>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</guid>
-    <description>Discover IconSwapper, a new macOS utility that lets you customize app icons and display live data directly in your dock.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-iconswapper-live-mac-icons_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
