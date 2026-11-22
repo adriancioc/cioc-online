@@ -1,5 +1,39 @@
 [
   {
+    "slug": "2026-11-22-large-tv-nausea-oled-guide",
+    "slug_ro": "televizor-prea-mare-greata-oled",
+    "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+    "category": "GADGETURI",
+    "virality_score": 6,
+    "focus_keyword_ro": "televizor OLED mare",
+    "focus_keyword_en": "large OLED TV nausea",
+    "title_ro": "Televizorul prea mare îți provoacă greață? Adevărul despre ecrane",
+    "title_en": "Can a large OLED TV make you sick? The truth revealed",
+    "summary": "Feeling nauseous after buying a big OLED TV? Discover why large screens cause motion sickness and how to adjust your settings for a better experience.",
+    "summary_ro": "Ai cumpărat un televizor OLED mare și ai amețeli? Află de ce ecranele mari pot cauza disconfort vizual și cum te adaptezi rapid.",
+    "summary_en": "Feeling nauseous after buying a big OLED TV? Discover why large screens cause motion sickness and how to adjust your settings for a better experience.",
+    "body_ro": "<h2>De ce te simți rău după ce cumperi un televizor nou?</h2><p>Trecerea de la un televizor standard la un OLED de mari dimensiuni, precum LG evo C4, este un salt tehnologic imens. Totuși, pentru unii utilizatori, experiența cinematografică se transformă rapid într-un coșmar fiziologic. Greața, amețelile și durerile de cap sunt simptome raportate frecvent de cei care fac upgrade la ecrane de peste 65 de inci.</p><h2>Adaptarea vizuală și tehnologia OLED</h2><p>Spre deosebire de ecranele LED tradiționale, OLED-urile folosesc pixeli auto-iluminați, oferind un contrast infinit și culori vibrante. Această intensitate, combinată cu dimensiunea ecranului, forțează sistemul vizual să proceseze o cantitate mult mai mare de informație. Creierul tău trebuie să se obișnuiască cu faptul că trebuie să scaneze activ suprafețe mari în timpul scenelor cu mișcare rapidă, ceea ce poate induce o stare similară cu răul de mișcare.</p><h2>Cum să eviți disconfortul</h2><ul><li><strong>Ajustează luminozitatea:</strong> Nu lăsa televizorul pe setările maxime din fabrică. Reducerea luminozității la 50% poate diminua oboseala oculară.</li><li><strong>Verifică setările de mișcare:</strong> Dezactivează procesarea excesivă a mișcării (motion smoothing), care poate crea un efect artificial deranjant.</li><li><strong>Distanța de vizionare:</strong> Asigură-te că respecți distanța recomandată. Chiar și la 2-3 metri, un ecran de 65 de inci ocupă o mare parte din câmpul tău vizual.</li></ul><p>În majoritatea cazurilor, aceste simptome dispar după 3-5 zile de utilizare, pe măsură ce sistemul vizual se adaptează. Dacă disconfortul persistă, consultă un specialist, dar nu te grăbi să returnezi televizorul imediat. Calitatea imaginii oferită de tehnologia OLED rămâne, în prezent, standardul de aur pentru cinefili.</p>",
+    "body_en": "<h2>The dark side of the big screen upgrade</h2><p>Upgrading to a high-end OLED television is the dream for any cinephile. However, many users report an unexpected side effect: severe nausea and headaches. This phenomenon, often discussed in tech communities, is not a hardware defect but a physiological reaction to a significant change in visual input.</p><h2>Why your brain struggles with OLEDs</h2><p>OLED technology provides perfect blacks and intense highlights. When you jump from a 55-inch display to a 65-inch or larger OLED, your eyes are suddenly flooded with more light and detail than they are accustomed to. During fast-paced movie scenes, your eyes have to work harder to track motion across the larger surface area, which can trigger a sensation similar to motion sickness.</p><h2>Practical steps for a better experience</h2><ul><li><strong>Calibrate brightness:</strong> Out-of-the-box settings are often too bright for home environments. Try setting brightness to 50% during the first week.</li><li><strong>Disable motion smoothing:</strong> Features like 'Soap Opera Effect' can cause visual dissonance. Stick to 'Filmmaker Mode' for a more natural look.</li><li><strong>Give it time:</strong> Most users report that the nausea dissipates after a few days of consistent viewing as the brain adapts to the new field of view.</li></ul><p>The LG evo C4 and similar models offer incredible customization options. Before returning your new device, give your eyes time to adjust. The cinematic experience provided by OLED technology is unmatched, and for most, the initial discomfort is a small price to pay for the visual fidelity that follows.</p>",
+    "highlights_ro": [
+      "Utilizatorii raportează stări de greață și dureri de cap după trecerea la televizoare OLED de mari dimensiuni.",
+      "Fenomenul este temporar, fiind cauzat de adaptarea ochilor la câmpul vizual extins și luminozitatea ridicată.",
+      "Recomandăm ajustarea setărilor de luminozitate și o perioadă de acomodare de câteva zile înainte de a returna produsul."
+    ],
+    "highlights_en": [
+      "New OLED TV owners often report nausea and headaches due to screen size and high brightness.",
+      "The phenomenon is usually a temporary physiological adjustment period for the eyes and brain.",
+      "We recommend lowering brightness and disabling motion smoothing to ease the transition."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T15:00:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-22-large-tv-nausea-oled-guide_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-auracast-redefines-theatrical-experience",
     "slug_ro": "auracast-redefineste-experienta-teatrala",
     "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",

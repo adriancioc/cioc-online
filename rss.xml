@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Can a large OLED TV make you sick? The truth revealed</title>
+    <link>https://cioc.online/en/posts/2026-11-22-large-tv-nausea-oled-guide/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-large-tv-nausea-oled-guide/</guid>
+    <description>Feeling nauseous after buying a big OLED TV? Discover why large screens cause motion sickness and how to adjust your settings for a better experience.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-large-tv-nausea-oled-guide_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>How Auracast is redefining immersive sound and storytelling</title>
     <link>https://cioc.online/en/posts/2026-11-22-auracast-redefines-theatrical-experience/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-auracast-redefines-theatrical-experience/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-gta-vi-historic-sales-record/</guid>
     <description>Rockstar Games confirms GTA VI made $3.79 billion on day one with 32.5 million preorders. Discover why this is the biggest entertainment launch ever.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-gta-vi-historic-sales-record_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Trump threatens massive tax on foreign AI data centers</title>
-    <link>https://cioc.online/en/posts/2026-11-20-trump-ai-data-center-tax/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-trump-ai-data-center-tax/</guid>
-    <description>President Trump proposes a &#x27;tremendous tax&#x27; on companies building AI data centers outside the US. Analyzing the impact on the global tech industry.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-trump-ai-data-center-tax_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
