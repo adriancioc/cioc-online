@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg" medium="image" />
   </item>
   <item>
+    <title>The Data Center Backlash: Why AI Infrastructure is Facing Scrutiny</title>
+    <link>https://cioc.online/en/posts/2026-11-22-data-centers-ai-backlash/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-data-centers-ai-backlash/</guid>
+    <description>Data centers are the backbone of AI, but they consume massive amounts of water and power. Explore the environmental and social impact of hyperscale tech.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-data-centers-ai-backlash_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Delta Airlines Faces Major System Outage in Atlanta</title>
     <link>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-meta-reconsiders-net-zero-ai-emissions/</guid>
     <description>Meta is re-evaluating its 2030 net-zero goals as AI data center expansion leads to record-breaking carbon emissions.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-meta-reconsiders-net-zero-ai-emissions_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Siri Recap on Apple Watch: Privacy vs. Utility</title>
-    <link>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</guid>
-    <description>We tested the new Siri Recap feature on watchOS 27.3. Is it a breakthrough or just a privacy-invasive gimmick? Read our full analysis.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-siri-recap-apple-watch-review_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
