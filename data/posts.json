@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-21-amazon-nyc-shipping-label-protest",
+    "slug_ro": "amazon-conflict-consiliul-nyc",
+    "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "category": "TECH",
+    "virality_score": 4,
+    "focus_keyword_ro": "Amazon Delivery Protection Act",
+    "focus_keyword_en": "Amazon Delivery Protection Act",
+    "title_ro": "Amazon pune presiune pe clienții din NYC prin etichete pe colete",
+    "title_en": "Amazon uses shipping labels to protest NYC Council legislation",
+    "summary": "Amazon is placing warning labels on packages in NYC, claiming the Delivery Protection Act could increase costs by $5 per order.",
+    "summary_ro": "Amazon protestează împotriva Delivery Protection Act din NYC, avertizând clienții cu etichete pe colete despre posibile scumpiri de 5 dolari.",
+    "summary_en": "Amazon is placing warning labels on packages in NYC, claiming the Delivery Protection Act could increase costs by $5 per order.",
+    "body_ro": "<h2>Un nou front în războiul dintre Amazon și autorități</h2><p>Amazon a decis să ducă lupta împotriva Consiliului Local din New York direct în casele clienților. Într-o mișcare neobișnuită, gigantul tech a început să aplice etichete pe coletele livrate în oraș, avertizând consumatorii că legislația locală ar putea duce la creșteri de prețuri de până la 5 dolari per comandă.</p><h2>Ce este Delivery Protection Act?</h2><p>Mărul discordiei este <strong>Delivery Protection Act</strong>, un proiect de lege care vizează reglementarea strictă a firmelor de livrare de tip „last-mile”. În prezent, Amazon utilizează o rețea vastă de contractori independenți și firme terțe pentru a asigura livrările rapide. Noua lege ar impune acestor firme să fie licențiate de oraș și să își angajeze direct personalul, eliminând modelul actual de subcontractare.</p><p>Amazon susține că această schimbare ar forța compania să își mute depozitele în afara orașului, ceea ce ar rezulta în livrări mai lente și mult mai scumpe pentru milioane de locuitori. Compania a început deja să afișeze notificări în aplicația mobilă și pe site, iar acum a trecut la etichetarea fizică a coletelor pentru a maximiza vizibilitatea mesajului.</p><h2>Reacția autorităților</h2><p>De cealaltă parte, oficialii din New York, inclusiv Consilierul Julie Menin și primarul Zohran Mamdani, acuză Amazon de tactici de intimidare. Aceștia susțin că gigantul, cu o capitalizare de piață de aproape 3 trilioane de dolari, pune profitul mai presus de condițiile de muncă ale angajaților din logistică. Sindicatele susțin că reglementarea este necesară pentru a asigura standarde de muncă echitabile într-un sector dominat de presiunea vitezei.</p><h2>Implicații pentru piața tech</h2><p>Acest conflict subliniază o tendință globală în care marile companii tech se confruntă cu autoritățile locale care încearcă să limiteze puterea acestora. Deși situația este specifică orașului New York, ea ridică întrebări importante despre cum vor fi reglementate viitoarele rețele logistice automatizate și drepturile lucrătorilor în economia gig. Pentru utilizatorii din România, acest caz servește drept studiu de caz despre cum companiile tech pot folosi infrastructura proprie pentru a influența opinia publică în dispute politice.</p>",
+    "body_en": "<h2>Amazon takes its political fight to the doorstep</h2><p>Amazon has taken its ongoing battle with the New York City Council offline and directly onto the packages delivered to customers. The company is now applying labels to shipments, warning residents that the proposed <strong>Delivery Protection Act</strong> could lead to price hikes of up to $5 per order.</p><h2>The core of the dispute</h2><p>The Delivery Protection Act aims to overhaul how last-mile delivery firms operate within the city. Currently, Amazon relies heavily on third-party arrangements and independent contractors to manage its massive delivery volume. The proposed legislation would require last-mile delivery firms to obtain city licenses and directly employ their workers, effectively banning the current subcontracting model.</p><p>Amazon argues that if the bill passes, it would inevitably lead to slower and more expensive delivery services for millions of New Yorkers. The company has even threatened to relocate its warehouses outside of the city limits if the legislation is enacted. This move follows similar warnings already displayed within the Amazon mobile app and website.</p><h2>Political pushback</h2><p>City officials, including Council Speaker Julie Menin and Mayor Zohran Mamdani, have pushed back hard against Amazon’s campaign. They characterize the company's actions as an attempt to threaten New Yorkers and intimidate the City Council. Critics point to Amazon’s nearly $3 trillion market cap, arguing that the company is prioritizing corporate greed over the fair treatment of workers in the logistics sector.</p><h2>Broader implications</h2><p>This situation highlights the growing friction between global tech giants and local governments attempting to enforce labor standards. As cities around the world look to regulate the gig economy and last-mile logistics, Amazon’s aggressive stance in New York serves as a preview of the challenges ahead. While the immediate impact is limited to NYC, the tactics used by Amazon demonstrate the extent to which tech companies are willing to leverage their customer-facing infrastructure to influence local policy and public opinion.</p>",
+    "highlights_ro": [
+      "Amazon a început să aplice etichete pe coletele din New York pentru a protesta împotriva unei noi legi locale.",
+      "Compania susține că Delivery Protection Act ar putea crește costurile cu 5 dolari per comandă.",
+      "Conflictul escaladează tensiunile dintre gigantul tech și autoritățile locale privind drepturile muncii."
+    ],
+    "highlights_en": [
+      "Amazon is adding labels to packages in NYC to protest the Delivery Protection Act.",
+      "The company claims the bill could add up to $5 in costs per order for customers.",
+      "Local officials accuse Amazon of using intimidation tactics to protect its business model."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T21:59:31+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-21-amazon-nyc-shipping-label-protest_1.jpg",
+      "assets/images/2026-11-21-amazon-nyc-shipping-label-protest_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-nvidia-leadership-drama-china",
     "slug_ro": "nvidia-criza-leadership-china",
     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",

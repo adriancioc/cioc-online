@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Amazon uses shipping labels to protest NYC Council legislation</title>
+    <link>https://cioc.online/en/posts/2026-11-21-amazon-nyc-shipping-label-protest/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-amazon-nyc-shipping-label-protest/</guid>
+    <description>Amazon is placing warning labels on packages in NYC, claiming the Delivery Protection Act could increase costs by $5 per order.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-amazon-nyc-shipping-label-protest_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Nvidia: Between Record Earnings and Leadership Drama</title>
     <link>https://cioc.online/en/posts/2026-11-21-nvidia-leadership-drama-china/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-nvidia-leadership-drama-china/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</guid>
     <description>Samsung Electronics reshuffles its semiconductor leadership, appointing new presidents for its Memory and System LSI business units.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-samsung-announces-new-leadership_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple is Developing an AI Agent to Control Your Mac</title>
-    <link>https://cioc.online/en/posts/2026-11-20-apple-developing-mac-ai-agent/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-apple-developing-mac-ai-agent/</guid>
-    <description>Apple is working on an AI agent capable of operating apps and writing code on macOS. Here is what we know about the future of Mac automation.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-apple-developing-mac-ai-agent_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
