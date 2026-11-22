@@ -35,6 +35,41 @@
     ]
   },
   {
+    "slug": "2026-11-22-delta-airlines-system-outage",
+    "slug_ro": "probleme-sistem-delta-atlanta",
+    "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "Delta Airlines probleme sistem",
+    "focus_keyword_en": "Delta Airlines system outage",
+    "title_ro": "Probleme tehnice la Delta: Zboruri blocate în hub-ul din Atlanta",
+    "title_en": "Delta Airlines Faces Major System Outage in Atlanta",
+    "summary": "Delta Airlines experiences significant flight delays in Atlanta due to a critical weight and balance system failure.",
+    "summary_ro": "Delta Airlines se confruntă cu întârzieri majore în Atlanta din cauza unei erori la sistemul de calcul al greutății și echilibrului aeronavelor.",
+    "summary_en": "Delta Airlines experiences significant flight delays in Atlanta due to a critical weight and balance system failure.",
+    "body_ro": "<h2>O nouă eroare IT paralizează operațiunile Delta</h2><p>Pasagerii care tranzitează aeroportul Hartsfield-Jackson din Atlanta se confruntă cu o duminică dificilă. Delta Airlines a raportat întârzieri semnificative pentru zborurile care operează în cel mai mare hub al său, din cauza unei defecțiuni tehnice critice. Problema vizează sistemul responsabil cu calculul greutății și echilibrului aeronavelor, un element esențial pentru siguranța fiecărui zbor.</p><h2>De ce este acest sistem critic?</h2><p>Calculul greutății și echilibrului nu este doar o formalitate administrativă. Acesta determină distribuția masei pe fuselaj, incluzând combustibilul, pasagerii și bagajele. Fără aceste date, piloții nu pot confirma dacă centrul de greutate al avionului permite o decolare sigură. În prezent, echipele Delta recurg la proceduri manuale pentru a menține traficul aerian în mișcare, însă acest proces este mult mai lent decât automatizarea.</p><h2>Contextul unei săptămâni tensionate</h2><p>Acest incident vine la doar șapte zile după o pană majoră a FAA care a dus la un groundstop național în SUA, provocând mii de anulări. Deși în acest caz problema este izolată la sistemele interne ale Delta, riscul de propagare este real. Dacă întârzierile se acumulează, acestea pot afecta conexiunile internaționale, inclusiv zborurile transatlantice care leagă hub-urile americane de Europa.</p><h2>Impactul asupra aviației moderne</h2><p>Evenimentul subliniază fragilitatea infrastructurii IT din spatele aviației comerciale. Deși tehnologia a adus eficiență, dependența totală de software-uri complexe creează puncte unice de eșec care pot paraliza operațiuni globale în câteva minute. Pentru călătorii din România, situația servește drept avertisment: verificați întotdeauna statusul zborului cu 24 de ore înainte de plecare, mai ales dacă aveți escale în hub-uri majore din Statele Unite.</p>",
+    "body_en": "<h2>Delta Airlines Grapples with Critical System Failure</h2><p>Travelers at Hartsfield-Jackson Atlanta International Airport are facing significant disruptions today as Delta Airlines struggles with a major system outage. The issue, which affects the airline's weight and balance calculation system, has triggered widespread delays for flights operating out of its primary hub. This system is a fundamental component of flight safety, ensuring that the aircraft's center of gravity is properly managed before takeoff.</p><h2>Understanding the Technical Failure</h2><p>The system that went offline is responsible for calculating the total weight of an airplane, including the airframe, fuel, passengers, and cargo. Pilots rely on this data to ensure the weight is evenly distributed, which is critical for safe flight operations. Delta has confirmed that its teams are currently using manual workarounds to process departures, but these measures are significantly slower than the automated systems they replace.</p><h2>A Pattern of Aviation Instability</h2><p>This incident is particularly concerning as it occurs just one week after a major FAA outage led to a nationwide groundstop and thousands of flight cancellations across the United States. While the current issue appears to be specific to Delta's internal infrastructure, the potential for cascading delays remains high. If the backlog continues to grow, it could impact international flight schedules, including those connecting to European destinations.</p><h2>The Fragility of Modern Aviation</h2><p>The situation highlights the increasing vulnerability of the aviation industry to software-related outages. As airlines move toward fully automated, data-driven operations, the lack of robust, redundant systems can lead to massive operational paralysis. For international travelers, this serves as a reminder to monitor flight status updates closely and prepare for potential delays when transiting through major US hubs, as the ripple effect of such outages can be felt globally.</p>",
+    "highlights_ro": [
+      "Sistemul de calcul al greutății și echilibrului Delta a cedat, provocând întârzieri masive în Atlanta.",
+      "Nu există un impact direct asupra zborurilor din România, dar riscul de propagare în rețea rămâne ridicat.",
+      "O nouă dovadă că dependența de sisteme software automatizate poate paraliza aviația globală."
+    ],
+    "highlights_en": [
+      "Delta's weight and balance calculation system failed, causing major delays at Hartsfield-Jackson.",
+      "Manual workarounds are currently in place to maintain operations while automation is restored.",
+      "A stark reminder of how software dependency creates systemic risks in global aviation."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T17:46:44+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-22-delta-airlines-system-outage_1.jpg",
+      "assets/images/2026-11-22-delta-airlines-system-outage_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-apple-black-friday-deals-analysis",
     "slug_ro": "reduceri-black-friday-apple-amazon-sua",
     "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",

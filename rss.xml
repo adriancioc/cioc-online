@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Delta Airlines Faces Major System Outage in Atlanta</title>
+    <link>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</guid>
+    <description>Delta Airlines experiences significant flight delays in Atlanta due to a critical weight and balance system failure.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-delta-airlines-system-outage_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Black Friday Deals: Amazon US Price Drops</title>
     <link>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</guid>
     <description>We tested the new Siri Recap feature on watchOS 27.3. Is it a breakthrough or just a privacy-invasive gimmick? Read our full analysis.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-siri-recap-apple-watch-review_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>AI Privacy Disaster: Your Data Is Being Exposed</title>
-    <link>https://cioc.online/en/posts/2026-11-20-ai-supply-chain-security-leak/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-ai-supply-chain-security-leak/</guid>
-    <description>New research shows that sensitive data sent to AI apps is being leaked through routers and providers. Here is how to protect your information.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-ai-supply-chain-security-leak_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
