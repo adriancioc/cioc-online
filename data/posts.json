@@ -1008,6 +1008,44 @@
     ]
   },
   {
+    "slug": "2026-11-20-nasa-artemis-starship-blue-origin-update",
+    "slug_ro": "planul-nasa-artemis-starship-blue-origin",
+    "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "NASA Artemis",
+    "focus_keyword_en": "NASA Artemis mission",
+    "title_ro": "NASA își schimbă planurile pentru Artemis: Starship și Blue Moon",
+    "title_en": "NASA's Evolving Artemis Strategy: Starship and Blue Moon",
+    "summary": "NASA adjusts its Artemis mission roadmap. Discover how SpaceX and Blue Origin are collaborating to return humans to the Moon by 2028.",
+    "summary_ro": "NASA ajustează strategia pentru misiunile Artemis. Află cum colaborează SpaceX și Blue Origin pentru întoarcerea oamenilor pe Lună până în 2028.",
+    "summary_en": "NASA adjusts its Artemis mission roadmap. Discover how SpaceX and Blue Origin are collaborating to return humans to the Moon by 2028.",
+    "body_ro": "<h2>O nouă strategie pentru întoarcerea pe Lună</h2><p>Programul Artemis al NASA trece printr-o etapă de recalibrare tehnică. După succesele recente ale SpaceX în recuperarea rachetei Starship, agenția spațială americană a ajustat obiectivele pentru misiunile viitoare, punând un accent sporit pe testarea tehnologiilor critice în condiții reale, dar sigure.</p><p>Misiunea Artemis III, care inițial trebuia să marcheze revenirea oamenilor pe suprafața lunară, a fost reconfigurată. Aceasta va deveni o misiune de testare în orbita joasă a Pământului (LEO). Această decizie strategică permite NASA să evalueze sistemele de andocare și suport vital fără a expune echipajul la riscurile unei aselenizări premature.</p><h2>Rolurile SpaceX și Blue Origin</h2><p>NASA colaborează cu doi giganți privați pentru a asigura succesul misiunilor Artemis. SpaceX, prin sistemul său Starship, se concentrează pe provocarea majoră a realimentării în spațiu. Această tehnologie este esențială pentru misiunile de lungă durată și pentru transportul de masă mare către Lună.</p><p>Pe de altă parte, Blue Origin, prin landerul Blue Moon, va juca un rol crucial în testarea sistemelor de suport vital. Deoarece Blue Origin are o experiență mai limitată în zborurile spațiale de lungă durată comparativ cu SpaceX, NASA a decis ca Artemis III să fie platforma ideală pentru ca astronauții să intre în cabina presurizată a landerului Blue Moon și să verifice funcționalitatea acestuia.</p><h2>Calendarul și perspectivele viitoare</h2><p>Această abordare prudentă, deși a împins prima aselenizare cu echipaj uman către misiunea Artemis IV, programată pentru finalul anului 2028, reduce riscurile sistemice. SpaceX continuă să își extindă capacitățile de producție și lansare, cu un al doilea sit de lansare în Florida, ceea ce va accelera ritmul testelor în anii ce vor urma.</p><p>Pentru pasionații de tehnologie, următoarea etapă critică va fi demonstrația de realimentare orbitală a SpaceX. Succesul acestei operațiuni va fi indicatorul principal că suntem cu adevărat pregătiți să stabilim o prezență umană sustenabilă pe Lună. Până atunci, Artemis III rămâne un pas esențial de validare tehnologică.</p>",
+    "body_en": "<h2>A New Strategy for Lunar Exploration</h2><p>NASA's Artemis program is undergoing a significant technical recalibration. Following SpaceX's recent success in recovering the Starship rocket, the agency has adjusted its roadmap to prioritize the testing of critical technologies in a controlled environment before attempting a lunar landing.</p><p>Artemis III, originally intended to be the first crewed lunar landing mission, has been reconfigured into a low-Earth orbit (LEO) mission. This strategic shift allows NASA to evaluate complex docking procedures and life support systems without the immediate risks associated with a lunar surface descent.</p><h2>The Roles of SpaceX and Blue Origin</h2><p>NASA is leveraging the strengths of two private spaceflight leaders. SpaceX is primarily focused on the monumental challenge of orbital refueling, a prerequisite for deep-space missions. This capability is essential for the Starship vehicle to ferry crews and cargo to the Moon effectively.</p><p>Blue Origin, through its Blue Moon lander, is tasked with validating life support systems. Given Blue Origin's focus on suborbital tourism to date, Artemis III provides the necessary environment to test its pressurized crew cabin. Astronauts will dock with the Blue Moon lander and verify its environmental control systems, ensuring they meet the rigorous standards required for long-duration spaceflight.</p><h2>Timeline and Future Outlook</h2><p>While this cautious approach has moved the first crewed lunar landing to Artemis IV, scheduled for late 2028, it significantly mitigates systemic risk. SpaceX is rapidly expanding its infrastructure, with a second launch site at Kennedy Space Center set to increase launch cadence significantly.</p><p>For the tech community, the upcoming orbital refueling demonstration by SpaceX remains the most critical milestone. Success in this area will prove that the infrastructure for a sustainable lunar presence is finally within reach. Artemis III serves as the vital bridge to that future, focusing on integration and safety above all else.</p>",
+    "highlights_ro": [
+      "NASA a reconfigurat misiunea Artemis III pentru teste în orbita joasă a Pământului.",
+      "SpaceX se concentrează pe realimentarea orbitală, în timp ce Blue Origin testează sistemele de suport vital.",
+      "Prima aselenizare cu echipaj uman este acum programată pentru misiunea Artemis IV, estimată înainte de finalul anului 2028."
+    ],
+    "highlights_en": [
+      "NASA has reconfigured Artemis III into a low-Earth orbit test mission.",
+      "SpaceX focuses on orbital refueling, while Blue Origin tests life support systems.",
+      "The first crewed lunar landing is now targeted for Artemis IV, expected by late 2028."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T20:26:33+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_1.jpg",
+      "assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_2.jpg",
+      "assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_3.jpg",
+      "assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_4.jpg",
+      "assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-daniel-ek-backs-europa-fusion",
     "slug_ro": "daniel-ek-investeste-in-fuziune-nucleara",
     "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
