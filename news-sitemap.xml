@@ -90,6 +90,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-fbi-usda-cyber-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:42:27+00:00</news:publication_date>
+      <news:title>FBI and USDA hit by major cyber security breach</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-fbi-usda-cyber-breach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:42:27+00:00</news:publication_date>
+      <news:title>FBI și USDA, victimele unui atac cibernetic major</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</loc>
     <news:news>
       <news:publication>
@@ -681,28 +703,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T09:01:00+00:00</news:publication_date>
       <news:title>Samsung anunță schimbări majore la nivelul conducerii</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-apple-developing-mac-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T00:56:01+00:00</news:publication_date>
-      <news:title>Apple is Developing an AI Agent to Control Your Mac</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-apple-developing-mac-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T00:56:01+00:00</news:publication_date>
-      <news:title>Apple dezvoltă un agent AI care îți va controla Mac-ul</news:title>
     </news:news>
   </url>
 </urlset>

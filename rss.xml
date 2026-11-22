@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-ncic-database-breach_1.jpg" medium="image" />
   </item>
   <item>
+    <title>FBI and USDA hit by major cyber security breach</title>
+    <link>https://cioc.online/en/posts/2026-11-21-fbi-usda-cyber-breach/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-fbi-usda-cyber-breach/</guid>
+    <description>The FBI and USDA have been compromised in a major cyber attack. Learn about the security breach and the impact on government data infrastructure.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-usda-cyber-breach_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple permanently closes historic UK store</title>
     <link>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-jensen-huang-nvidia-exit-scandal/</guid>
     <description>Jensen Huang has left Nvidia. New reports reveal a management style built on humiliation and fear. We analyze the fallout of this tech industry shock.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-jensen-huang-nvidia-exit-scandal_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Signal Blocks AI: Screenshots Restricted to Stop Gemini and Siri</title>
-    <link>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</guid>
-    <description>Signal is restricting screenshots on mobile to prevent AI agents like Gemini and Siri from reading your private messages and data.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-signal-blocks-ai-screenshots_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
