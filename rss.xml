@@ -201,18 +201,18 @@
     <media:content url="https://cioc.online/assets/images/2026-11-20-siri-recap-apple-watch-review_1.jpg" medium="image" />
   </item>
   <item>
+    <title>AI Privacy Disaster: Your Data Is Being Exposed</title>
+    <link>https://cioc.online/en/posts/2026-11-20-ai-supply-chain-security-leak/</link>
+    <guid>https://cioc.online/en/posts/2026-11-20-ai-supply-chain-security-leak/</guid>
+    <description>New research shows that sensitive data sent to AI apps is being leaked through routers and providers. Here is how to protect your information.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-20-ai-supply-chain-security-leak_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>YouTube to Pay $3 Billion to Settle Teen Addiction Claims</title>
     <link>https://cioc.online/en/posts/2026-11-20-youtube-3-billion-settlement-addiction/</link>
     <guid>https://cioc.online/en/posts/2026-11-20-youtube-3-billion-settlement-addiction/</guid>
     <description>YouTube is reportedly nearing a $3 billion settlement with US school districts over claims that its addictive design harms teen mental health.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-youtube-3-billion-settlement-addiction_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>NASA&#x27;s Evolving Artemis Strategy: Starship and Blue Moon</title>
-    <link>https://cioc.online/en/posts/2026-11-20-nasa-artemis-starship-blue-origin-update/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-nasa-artemis-starship-blue-origin-update/</guid>
-    <description>NASA adjusts its Artemis mission roadmap. Discover how SpaceX and Blue Origin are collaborating to return humans to the Moon by 2028.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

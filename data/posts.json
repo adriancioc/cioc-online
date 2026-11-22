@@ -1010,6 +1010,43 @@
     ]
   },
   {
+    "slug": "2026-11-20-ai-supply-chain-security-leak",
+    "slug_ro": "dezastru-securitate-date-scurse-ai",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "scurgeri date AI",
+    "focus_keyword_en": "AI data leak",
+    "title_ro": "Dezastru de securitate: Datele tale AI sunt expuse masiv",
+    "title_en": "AI Privacy Disaster: Your Data Is Being Exposed",
+    "summary": "New research shows that sensitive data sent to AI apps is being leaked through routers and providers. Here is how to protect your information.",
+    "summary_ro": "Cercetătorii au descoperit că datele sensibile trimise către aplicații AI sunt expuse prin routere și furnizori. Află cum să te protejezi.",
+    "summary_en": "New research shows that sensitive data sent to AI apps is being leaked through routers and providers. Here is how to protect your information.",
+    "body_ro": "<h2>Datele tale nu sunt private în ecosistemul AI</h2><p>Un experiment de amploare realizat de cercetătorul HD Moore a scos la iveală o realitate alarmantă: ecosistemul actual de servicii AI funcționează ca o sită pentru datele sensibile. Prin plantarea a 2 milioane de 'canari' digitali — informații unice, trasabile — s-a demonstrat că datele trimise către diverse aplicații AI sunt interceptate, stocate și, în cazuri grave, exploatate de atacatori.</p><h2>Cum funcționează scurgerea de date</h2><p>Multe aplicații AI moderne nu trimit prompturile direct către giganți precum OpenAI sau Anthropic. Ele folosesc 'routere AI' sau 'gateway-uri' (precum OpenRouter sau Vercel) care direcționează cererile către cel mai ieftin sau eficient model disponibil. Problema apare la fiecare 'hop' din acest lanț. Deși datele sunt criptate în tranzit, ele sunt decriptate pentru a fi citite de routere și furnizori, moment în care sunt logate sau furate.</p><h2>Breșe de securitate și promisiuni false</h2><p>Cercetarea a confirmat că atacatorii au compromis mai mulți furnizori, furând chei AWS și alte credențiale. Mai mult, un laborator AI din China a fost surprins accesând URL-uri secrete din prompturi, chiar și atunci când utilizatorii selectaseră opțiunea 'Zero Data Retention'. Această etichetă s-a dovedit a fi adesea o simplă iluzie de marketing, fără acoperire tehnică reală.</p><h2>Ce trebuie să faci pentru a te proteja</h2><p>Concluzia este clară: nu poți avea încredere în promisiunile de confidențialitate ale intermediarilor AI. Iată ce trebuie să eviți:</p><ul><li>Nu introduce niciodată chei API, parole sau credențiale de acces în ferestrele de chat AI.</li><li>Evită să trimiți documente interne, cod sursă proprietar sau date cu caracter personal (GDPR) către modele AI terțe.</li><li>Dacă folosești servicii de tip router, presupune că tot ce scrii este stocat pe serverele lor pe termen nedeterminat.</li></ul><p>Securitatea în era AI este încă la început, iar până când reglementările vor forța transparența, utilizatorul final rămâne singura linie de apărare. Protejează-ți datele cu prudență maximă.</p>",
+    "body_en": "<h2>Your data is not private in the AI ecosystem</h2><p>A massive experiment conducted by security researcher HD Moore has revealed a disturbing reality: the current ecosystem of AI services acts like a sieve for sensitive data. By planting 2 million digital 'canaries'—unique, trackable pieces of information—the study proved that data sent to various AI applications is being intercepted, stored, and in severe cases, exploited by attackers.</p><h2>How the data leakage happens</h2><p>Many modern AI apps do not send prompts directly to giants like OpenAI or Anthropic. Instead, they use 'AI routers' or 'gateways' (such as OpenRouter or Vercel) that route requests to the cheapest or most suitable model available. The problem occurs at every 'hop' in this chain. While data is encrypted in transit, it is decrypted to be read by routers and providers, at which point it is logged or stolen.</p><h2>Security breaches and false promises</h2><p>The research confirmed that attackers have compromised multiple providers, stealing AWS keys and other credentials. Furthermore, a Chinese AI lab was caught accessing secret URLs from prompts, even when users had selected 'Zero Data Retention' options. This label proved to be a marketing illusion with no real technical enforcement.</p><h2>How to protect yourself</h2><p>The conclusion is clear: you cannot trust the privacy promises of AI intermediaries. Here is what you must avoid:</p><ul><li>Never input API keys, passwords, or access credentials into AI chat windows.</li><li>Avoid sending internal documents, proprietary source code, or personal identifiable information (PII) to third-party AI models.</li><li>If you use router services, assume that everything you write is stored on their servers indefinitely.</li></ul><p>Security in the AI era is still in its infancy. Until regulations force transparency, the end user remains the only line of defense. Protect your data with extreme caution.</p>",
+    "highlights_ro": [
+      "Cercetătorii au plantat 2 milioane de 'canari' digitali și au descoperit că datele trimise către AI sunt interceptate și stocate ilegal.",
+      "Problema vizează routerele AI și furnizorii de modele care încalcă politicile de confidențialitate, inclusiv cele de tip 'Zero Data Retention'.",
+      "cioc.online recomandă: Nu introduce niciodată chei API, parole sau date confidențiale în chatbot-uri, indiferent de promisiunile de confidențialitate."
+    ],
+    "highlights_en": [
+      "Researchers planted 2 million digital tripwires and discovered that sensitive data sent to AI services is being intercepted and stored.",
+      "The issue stems from AI routers and model providers violating privacy policies, including 'Zero Data Retention' claims.",
+      "cioc.online verdict: Never input API keys, passwords, or sensitive data into AI chatbots, regardless of privacy promises."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T20:59:08+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-20-ai-supply-chain-security-leak_1.jpg",
+      "assets/images/2026-11-20-ai-supply-chain-security-leak_2.jpg",
+      "assets/images/2026-11-20-ai-supply-chain-security-leak_3.jpg",
+      "assets/images/2026-11-20-ai-supply-chain-security-leak_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-youtube-3-billion-settlement-addiction",
     "slug_ro": "youtube-acord-miliarde-dependenta-minori",
     "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
