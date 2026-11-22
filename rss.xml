@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>How Auracast is redefining immersive sound and storytelling</title>
+    <link>https://cioc.online/en/posts/2026-11-22-auracast-redefines-theatrical-experience/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-auracast-redefines-theatrical-experience/</guid>
+    <description>Auracast isn&#x27;t just for music sharing. Discover how an off-Broadway show uses Bluetooth technology to create a unique, immersive audio experience.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-auracast-redefines-theatrical-experience_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple HomeView: Is it worth it for music?</title>
     <link>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-trump-ai-data-center-tax/</guid>
     <description>President Trump proposes a &#x27;tremendous tax&#x27; on companies building AI data centers outside the US. Analyzing the impact on the global tech industry.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-trump-ai-data-center-tax_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Super-Hot Rock Geothermal: The Future of AI Power?</title>
-    <link>https://cioc.online/en/posts/2026-11-20-super-hot-rock-geothermal-ai-data/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-super-hot-rock-geothermal-ai-data/</guid>
-    <description>Google is betting on deep-earth geothermal energy. Discover how &#x27;super-hot rock&#x27; drilling could power the next generation of AI data centers.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-super-hot-rock-geothermal-ai-data_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
