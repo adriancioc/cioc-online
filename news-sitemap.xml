@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T22:12:41+00:00</news:publication_date>
+      <news:title>Godzilla Minus Zero: A Sequel That Actually Delivers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-godzilla-minus-zero-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T22:12:41+00:00</news:publication_date>
+      <news:title>Godzilla Minus Zero: O continuare care depășește așteptările</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-amazon-nyc-shipping-label-protest/</loc>
     <news:news>
       <news:publication>

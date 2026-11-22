@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Godzilla Minus Zero: A Sequel That Actually Delivers</title>
+    <link>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</guid>
+    <description>Our review of Godzilla Minus Zero. Does the sequel live up to the hype? We analyze the visual effects, narrative depth, and monster action.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-godzilla-minus-zero-review_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Amazon uses shipping labels to protest NYC Council legislation</title>
     <link>https://cioc.online/en/posts/2026-11-21-amazon-nyc-shipping-label-protest/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-amazon-nyc-shipping-label-protest/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-signal-blocks-ai-screenshots/</guid>
     <description>Signal is restricting screenshots on mobile to prevent AI agents like Gemini and Siri from reading your private messages and data.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-signal-blocks-ai-screenshots_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Samsung Electronics Announces New Leadership</title>
-    <link>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-samsung-announces-new-leadership/</guid>
-    <description>Samsung Electronics reshuffles its semiconductor leadership, appointing new presidents for its Memory and System LSI business units.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-samsung-announces-new-leadership_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
