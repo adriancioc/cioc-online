@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple Black Friday Deals: Amazon US Price Drops</title>
+    <link>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</guid>
+    <description>We analyze the latest Amazon US Black Friday deals on AirPods Pro 3 and M6 MacBook Pro. Are these international discounts worth the hassle?</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-apple-black-friday-deals-analysis_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Can a large OLED TV make you sick? The truth revealed</title>
     <link>https://cioc.online/en/posts/2026-11-22-large-tv-nausea-oled-guide/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-large-tv-nausea-oled-guide/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-nasa-artemis-starship-blue-origin-update/</guid>
     <description>NASA adjusts its Artemis mission roadmap. Discover how SpaceX and Blue Origin are collaborating to return humans to the Moon by 2028.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-nasa-artemis-starship-blue-origin-update_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Spotify founder Daniel Ek backs fusion power startup Europa Fusion</title>
-    <link>https://cioc.online/en/posts/2026-11-20-daniel-ek-backs-europa-fusion/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-daniel-ek-backs-europa-fusion/</guid>
-    <description>Daniel Ek is investing in Europa Fusion, a startup led by former AI researcher Nantas Nardelli, aiming to revolutionize fusion power with AI simulations.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-daniel-ek-backs-europa-fusion_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

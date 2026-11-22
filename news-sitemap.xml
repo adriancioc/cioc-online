@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:40:00+00:00</news:publication_date>
+      <news:title>Apple Black Friday Deals: Amazon US Price Drops</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-22-apple-black-friday-deals-analysis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:40:00+00:00</news:publication_date>
+      <news:title>Reduceri Black Friday Apple: Ce oferte apar pe Amazon</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-22-large-tv-nausea-oled-guide/</loc>
     <news:news>
       <news:publication>
@@ -725,72 +747,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T18:34:00+00:00</news:publication_date>
       <news:title>Energie geotermală: Soluția pentru centrele de date AI?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-google-launches-connected-apps-us/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
-      <news:title>Google Launches Connected Apps for Search and Gemini</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-google-launches-connected-apps-us/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
-      <news:title>Google lansează Connected Apps: Integrare AI pentru sarcini zilnice</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-google-assistant-shutting-down-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
-      <news:title>Google Assistant is dying: Gemini takes over smart speakers in 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-google-assistant-shutting-down-gemini/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:00:00+00:00</news:publication_date>
-      <news:title>Google închide Assistant pe boxe: Gemini preia controlul în 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-future-of-iphone-duo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T17:21:59+00:00</news:publication_date>
-      <news:title>The Future of iPhone Duo: Face ID and Design Rumors</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-future-of-iphone-duo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T17:21:59+00:00</news:publication_date>
-      <news:title>Viitorul iPhone Duo: Zvonuri despre Face ID și design</news:title>
     </news:news>
   </url>
 </urlset>
