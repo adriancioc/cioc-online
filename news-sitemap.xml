@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:16:10+00:00</news:publication_date>
+      <news:title>Apple permanently closes historic UK store</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-apple-store-basingstoke-closing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:16:10+00:00</news:publication_date>
+      <news:title>Apple închide un magazin istoric din Marea Britanie</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</loc>
     <news:news>
       <news:publication>
@@ -593,94 +615,6 @@
       </news:publication>
       <news:publication_date>2026-11-20T00:56:01+00:00</news:publication_date>
       <news:title>Apple dezvoltă un agent AI care îți va controla Mac-ul</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-apple-developing-autonomous-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:43:08+00:00</news:publication_date>
-      <news:title>Apple is Building an AI Agent That Can Use Apps and Code</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-apple-developing-autonomous-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:43:08+00:00</news:publication_date>
-      <news:title>Apple dezvoltă un agent AI care îți va controla aplicațiile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:33:26+00:00</news:publication_date>
-      <news:title>IconSwapper: Bring Your Mac Icons to Life</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-iconswapper-live-mac-icons/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:33:26+00:00</news:publication_date>
-      <news:title>IconSwapper: Personalizează iconițele de pe Mac cu date live</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:00:00+00:00</news:publication_date>
-      <news:title>NVIDIA Announces Upcoming Financial Community Event</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-nvidia-financial-community-event/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:00:00+00:00</news:publication_date>
-      <news:title>NVIDIA anunță un nou eveniment pentru comunitatea financiară</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:43:39+00:00</news:publication_date>
-      <news:title>iOS 27.3 Public Beta 2: Safari and Siri AI Updates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-19-ios-27-3-public-beta-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:43:39+00:00</news:publication_date>
-      <news:title>iOS 27.3 Public Beta 2: Safari și Siri AI primesc update-uri</news:title>
     </news:news>
   </url>
 </urlset>

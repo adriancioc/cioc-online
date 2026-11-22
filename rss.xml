@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-ncic-database-breach_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Apple permanently closes historic UK store</title>
+    <link>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</guid>
+    <description>Apple has officially closed its Festival Place store in Basingstoke after 15 years. Here is what happens to staff and regional operations.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-apple-store-basingstoke-closing_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Siri AI Settlement: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-class-action-settlement/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-19-iconswapper-live-mac-icons/</guid>
     <description>Discover IconSwapper, a new macOS utility that lets you customize app icons and display live data directly in your dock.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-19-iconswapper-live-mac-icons_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>NVIDIA Announces Upcoming Financial Community Event</title>
-    <link>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</link>
-    <guid>https://cioc.online/en/posts/2026-11-19-nvidia-financial-community-event/</guid>
-    <description>NVIDIA will present at the 30th Annual UBS Global Technology and AI Conference. Get the details on how to listen to the live webcast.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-19-nvidia-financial-community-event_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
