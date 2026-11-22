@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-21-amazon-nyc-delivery-label-dispute_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Signal Restricts Screenshots to Thwart AI Surveillance</title>
+    <link>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</link>
+    <guid>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</guid>
+    <description>Signal is limiting screenshots to prevent OS-level AI agents from scraping private user data. Here is what you need to know.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-21-signal-restricts-screenshots-ai_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>The Nvidia Drama: Jensen Huang, China, and Corporate Uncertainty</title>
     <link>https://cioc.online/en/posts/2026-11-21-nvidia-jensen-huang-china-drama/</link>
     <guid>https://cioc.online/en/posts/2026-11-21-nvidia-jensen-huang-china-drama/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-future-of-iphone-duo/</guid>
     <description>We analyze the latest rumors regarding the iPhone Duo: under-display Face ID, hybrid buttons, and Apple&#x27;s plans for an 8-inch foldable.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-future-of-iphone-duo_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>How Gemini AI is Revolutionizing Wildfire Alerts</title>
-    <link>https://cioc.online/en/posts/2026-11-20-gemini-ai-wildfire-alerts-watch-duty/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-gemini-ai-wildfire-alerts-watch-duty/</guid>
-    <description>Google&#x27;s Gemini AI is now transcribing noisy fire radio transmissions, helping Watch Duty issue life-saving wildfire alerts in under 30 seconds.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-gemini-ai-wildfire-alerts-watch-duty_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

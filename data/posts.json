@@ -73,6 +73,44 @@
     ]
   },
   {
+    "slug": "2026-11-21-signal-restricts-screenshots-ai",
+    "slug_ro": "signal-blocheaza-screenshot-ai",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "Signal securitate screenshot",
+    "focus_keyword_en": "Signal screenshot privacy",
+    "title_ro": "Signal blochează screenshot-urile: Protecție împotriva AI-ului",
+    "title_en": "Signal Restricts Screenshots to Thwart AI Surveillance",
+    "summary": "Signal is limiting screenshots to prevent OS-level AI agents from scraping private user data. Here is what you need to know.",
+    "summary_ro": "Signal limitează capturile de ecran pentru a preveni colectarea datelor de către AI-ul sistemelor de operare. Află cum te afectează.",
+    "summary_en": "Signal is limiting screenshots to prevent OS-level AI agents from scraping private user data. Here is what you need to know.",
+    "body_ro": "<h2>Signal declară război AI-ului de sistem</h2><p>Într-o mișcare radicală, Signal a anunțat restricționarea capturilor de ecran în cadrul aplicației sale de mesagerie securizată. Această decizie nu este un moft, ci un răspuns direct la ceea ce președintele Signal, Meredith Whittaker, numește o „amenințare existențială”: integrarea agresivă a AI-ului la nivelul sistemelor de operare (OS).</p><p>Până acum, Signal se baza pe criptarea end-to-end pentru a garanta confidențialitatea. Însă, odată cu apariția agenților AI în Windows, Android și macOS/iOS, care au capacitatea de a scana constant conținutul ecranului, această protecție devine vulnerabilă. Practic, orice informație afișată pe ecran poate fi capturată și stocată de un agent AI, indiferent de cât de securizat este canalul de comunicație.</p><h2>De ce este aceasta o problemă de securitate?</h2><p>Problema principală este că datele capturate de AI-ul sistemului de operare ies complet de sub controlul Signal. Acestea pot ajunge în baze de date locale sau servere externe, fiind accesibile unor terți sau procesate pentru antrenarea modelelor AI. Whittaker avertizează că sistemele de operare subminează capacitatea Signal de a garanta confidențialitatea, transformând ecranul telefonului într-o fereastră deschisă pentru supravegherea AI.</p><ul><li><strong>Restricții noi:</strong> Blocarea capturilor de ecran, deja prezentă pe Windows, este extinsă acum pe Android și iOS.</li><li><strong>Controlul utilizatorului:</strong> Poți dezactiva această setare din meniul de confidențialitate al aplicației, însă Signal avertizează că acest lucru anulează garanțiile de confidențialitate oferite.</li><li><strong>Limitări tehnice:</strong> Signal recunoaște că aceasta este o soluție incompletă, deoarece nu poate preveni metodele mai „viclene” prin care agenții AI ar putea accesa datele aplicației.</li></ul><h2>Verdictul cioc.online</h2><p>Deși măsura poate părea frustrantă pentru utilizatorii obișnuiți cu screenshot-urile rapide, este o necesitate în contextul actual. Dacă folosești Signal pentru conversații sensibile, recomandăm păstrarea acestei setări active. Totuși, trebuie să fim conștienți că, atâta timp cât sistemul de operare (Android sau iOS) este compromis de un AI care „vede” tot, nicio aplicație nu poate oferi o protecție de 100%. Este un joc de-a șoarecele și pisica, iar în acest moment, Signal încearcă doar să îngreuneze munca „pisicii” AI.</p>",
+    "body_en": "<h2>Signal Takes a Stand Against OS-Level AI</h2><p>Signal has officially announced new restrictions on the ability to take screenshots within its messaging app. This move is a direct response to what the company describes as an 'existential threat' posed by AI agents integrated into modern operating systems like Windows, Android, and iOS.</p><p>According to Signal President Meredith Whittaker, these operating systems are undermining the app's ability to guarantee privacy. By giving AI agents the capability to scan and process everything displayed on a user's screen, OS developers are effectively creating a back door for sensitive data to be captured, stored, and processed by local or remote AI models, all without Signal's oversight.</p><h2>The Privacy Implications</h2><p>The core issue is that once data is captured from the screen by an OS-level AI, it is no longer protected by Signal's end-to-end encryption. This data can be accessed by third parties or used to train AI models, putting the privacy of all conversation participants at risk. Signal has previously implemented screenshot blocking on its Windows app, and this functionality is now being rolled out to mobile platforms.</p><ul><li><strong>Default Security:</strong> The screenshot restriction is enabled by default on mobile devices to ensure maximum protection.</li><li><strong>User Choice:</strong> Users can choose to disable this setting, though Signal warns that doing so breaks their core privacy guarantees.</li><li><strong>The AI Threat:</strong> Whittaker admits this is an 'incomplete' solution, as it does not address more sophisticated methods AI agents might use to scrape application data.</li></ul><h2>The cioc.online Perspective</h2><p>This update highlights the growing tension between user privacy and the convenience of AI-integrated operating systems. While blocking screenshots might be an inconvenience for some, it is a critical step for those who rely on Signal for secure communication. However, it is important to remember that as long as the underlying OS is designed to 'see' everything, no app can provide a perfect shield. Signal is essentially trying to make the data harder to scrape, but the battle for digital privacy is far from over.</p>",
+    "highlights_ro": [
+      "Signal restricționează capturile de ecran pe Android și iOS pentru a bloca accesul AI-ului de sistem la datele private.",
+      "Funcția este activată implicit, dar poate fi dezactivată de utilizator pe propria răspundere.",
+      "O măsură necesară, dar incompletă, în fața sistemelor de operare care scanează tot ce apare pe ecran."
+    ],
+    "highlights_en": [
+      "Signal is restricting screenshots on Android and iOS to prevent system-level AI from scraping private chats.",
+      "The feature is enabled by default but can be toggled off by users at their own risk.",
+      "A necessary but partial defense against OS-level AI agents that monitor screen content."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-21T21:37:10+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-21-signal-restricts-screenshots-ai_1.jpg",
+      "assets/images/2026-11-21-signal-restricts-screenshots-ai_2.jpg",
+      "assets/images/2026-11-21-signal-restricts-screenshots-ai_3.jpg",
+      "assets/images/2026-11-21-signal-restricts-screenshots-ai_4.jpg",
+      "assets/images/2026-11-21-signal-restricts-screenshots-ai_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-21-nvidia-jensen-huang-china-drama",
     "slug_ro": "drama-nvidia-jensen-huang-china",
     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",

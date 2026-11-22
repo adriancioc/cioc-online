@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:37:10+00:00</news:publication_date>
+      <news:title>Signal Restricts Screenshots to Thwart AI Surveillance</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-21-signal-restricts-screenshots-ai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:37:10+00:00</news:publication_date>
+      <news:title>Signal blochează screenshot-urile: Protecție împotriva AI-ului</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-21-nvidia-jensen-huang-china-drama/</loc>
     <news:news>
       <news:publication>
