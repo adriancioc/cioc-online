@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-22-iphone-duo-lock-screen-widgets",
+    "slug_ro": "iphone-duo-widget-lock-screen",
+    "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+    "category": "TELEFOANE",
+    "virality_score": 6,
+    "focus_keyword_ro": "iPhone Duo widget-uri",
+    "focus_keyword_en": "iPhone Duo lock screen widgets",
+    "title_ro": "iPhone Duo: Apple testează widget-uri noi pe ecranul de blocare",
+    "title_en": "iPhone Duo: Apple testing new Lock Screen widgets",
+    "summary": "A new leak reveals Apple is testing a 'Complication Column' for iPhone Duo in iOS 27.1. Here is what we know about this experimental feature.",
+    "summary_ro": "Un nou leak sugerează că Apple testează o coloană de widget-uri pentru iPhone Duo în iOS 27.1. Află ce aduce nou această funcție experimentală.",
+    "summary_en": "A new leak reveals Apple is testing a 'Complication Column' for iPhone Duo in iOS 27.1. Here is what we know about this experimental feature.",
+    "body_ro": "<h2>O nouă abordare pentru ecranul de blocare</h2><p>Lumea zvonurilor Apple nu doarme niciodată, iar cea mai recentă descoperire vine din codul iOS 27.1. Utilizatorul cunoscut sub numele de 'pdfu' a scos la iveală existența unei funcții experimentale numite 'Complication Column', dedicată modelului iPhone Duo. Această modificare ar putea schimba modul în care interacționăm cu informațiile rapide pe ecranul de blocare.</p><p>În prezent, iPhone-urile permit adăugarea unui rând de widget-uri sub ceas. Noua configurație testată de Apple adaugă o coloană verticală pe partea dreaptă a ecranului, permițând utilizatorilor să plaseze widget-uri circulare suplimentare. Această schimbare ar oferi un spațiu de afișare mai dens, fără a interfera cu scurtăturile pentru lanternă sau cameră.</p><h2>Detaliile tehnice din spatele funcției</h2><p>Conform informațiilor apărute, această coloană de widget-uri este controlată printr-o setare internă 'SpringBoard/Ionic'. Deși codul este prezent în versiunile recente de test ale iOS 27.1, funcția este în prezent dezactivată. Nu există dovezi clare că Apple va lansa această opțiune în versiunea finală a sistemului de operare sau dacă este doar un experiment intern pentru testarea densității informaționale.</p><p>Utilizarea acestui spațiu 'intervenient' între indicatorii de rețea și scurtăturile inferioare ar putea fi un pas logic pentru Apple, având în vedere tendința de a oferi utilizatorilor mai mult control asupra personalizării ecranului de blocare. Totuși, rămâne de văzut dacă această coloană va fi limitată doar la modelul Duo sau dacă va fi extinsă și pe alte dispozitive din gamă.</p><h2>Ce înseamnă acest lucru pentru utilizatori?</h2><p>Dacă funcția va fi implementată, utilizatorii vor putea monitoriza mai multe date simultan – de la prețuri bursiere la starea vremii sau notificări de la aplicații terțe – fără a fi nevoiți să deblocheze telefonul. Această evoluție ar transforma iPhone Duo într-un dispozitiv și mai eficient pentru cei care depind de informații rapide.</p><p>Pe de altă parte, un ecran prea aglomerat poate duce la o experiență vizuală obositoare. Apple a pus întotdeauna preț pe estetică, deci implementarea finală, dacă va exista, va trebui să echilibreze perfect utilitatea cu designul minimalist caracteristic iOS. Rămâneți pe cioc.online pentru actualizări despre viitoarele funcții iOS și testele Apple.</p>",
+    "body_en": "<h2>A new approach to the Lock Screen</h2><p>The Apple rumor mill is active again, with the latest discovery emerging from the iOS 27.1 code. A leaker known as 'pdfu' has revealed the existence of an experimental feature dubbed 'Complication Column', specifically designed for the iPhone Duo model. This modification could fundamentally change how we interact with quick information on the Lock Screen.</p><p>Currently, iPhones allow users to add a single row of widgets below the clock. The new layout being tested by Apple introduces a vertical column on the right side of the screen, allowing users to place additional circular widgets. This change would provide a denser display area without interfering with the existing shortcuts for the flashlight and camera.</p><h2>Technical details behind the feature</h2><p>According to the reports, this widget column is controlled by an internal 'SpringBoard/Ionic' setting. Although the code is present in recent iOS 27.1 test builds, the feature is currently disabled. There is no clear evidence that Apple will release this option in the final version of the operating system, or if it is merely an internal experiment to test information density.</p><p>Utilizing this space between the network status indicators and the bottom shortcuts could be a logical step for Apple, given their ongoing push for Lock Screen customization. However, it remains to be seen whether this column will be exclusive to the Duo model or if it will eventually roll out to other devices in the lineup.</p><h2>What this means for users</h2><p>If implemented, users would be able to monitor more data simultaneously—from stock prices to weather updates or third-party app notifications—without needing to unlock their phones. This evolution would make the iPhone Duo an even more efficient tool for those who rely on glanceable information.</p><p>Conversely, a cluttered screen can lead to a visually overwhelming experience. Apple has always prioritized aesthetics, so the final implementation, if it ever surfaces, will need to strike a perfect balance between utility and the minimalist design characteristic of iOS. Stay tuned to cioc.online for updates on future iOS features and Apple's ongoing development tests.</p>",
+    "highlights_ro": [
+      "Apple testează o coloană verticală de widget-uri pentru iPhone Duo în iOS 27.1.",
+      "Funcția este momentan inactivă și ascunsă în codul sistemului de operare.",
+      "cioc.online consideră că Apple încearcă să maximizeze utilitatea ecranului pe modelele Duo."
+    ],
+    "highlights_en": [
+      "Apple is testing a vertical widget column for iPhone Duo in iOS 27.1.",
+      "The feature is currently hidden and disabled within the internal system code.",
+      "cioc.online believes Apple is experimenting with higher information density for Duo models."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-22T20:38:16+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg",
+      "assets/images/2026-11-22-iphone-duo-lock-screen-widgets_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-apple-black-friday-deals-analysis",
     "slug_ro": "reduceri-black-friday-apple-amazon-sua",
     "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
