@@ -1040,6 +1040,40 @@
     ]
   },
   {
+    "slug": "2026-11-20-super-hot-rock-geothermal-ai-data",
+    "slug_ro": "geotermala-super-hot-rock-viitor-energie",
+    "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "energie geotermală super-hot rock",
+    "focus_keyword_en": "super-hot rock geothermal energy",
+    "title_ro": "Energie geotermală: Soluția pentru centrele de date AI?",
+    "title_en": "Super-Hot Rock Geothermal: The Future of AI Power?",
+    "summary": "Google is betting on deep-earth geothermal energy. Discover how 'super-hot rock' drilling could power the next generation of AI data centers.",
+    "summary_ro": "Google investește în foraje geotermale de mare adâncime. Află cum tehnologia 'super-hot rock' ar putea alimenta viitorul centrelor de date AI.",
+    "summary_en": "Google is betting on deep-earth geothermal energy. Discover how 'super-hot rock' drilling could power the next generation of AI data centers.",
+    "body_ro": "<h2>Revoluția energetică de sub picioarele noastre</h2><p>Pe măsură ce cererea pentru putere de calcul necesară inteligenței artificiale explodează, centrele de date devin consumatori masivi de energie. Soluția tradițională a energiei solare sau eoliene este limitată de intermitență, iar companii precum Google caută alternative constante și scalabile. Răspunsul ar putea veni din adâncurile Pământului, prin tehnologia de foraj <strong>super-hot rock</strong>.</p><h2>Ce este energia geotermală supercriticală?</h2><p>Spre deosebire de energia geotermală convențională, care folosește izvoare termale mai puțin adânci, noua abordare vizează roci aflate la adâncimi de peste 3-5 kilometri. La aceste adâncimi, temperatura și presiunea sunt atât de mari încât apa se transformă în fluid supercritical, o stare care poate transporta cantități enorme de energie. Un singur puț de mare adâncime ar putea genera peste 15 megawați de electricitate.</p><h2>Inovațiile tehnologice: Quaise și Mazama</h2><p>Companiile din acest sector adoptă strategii diferite pentru a atinge aceste adâncimi fără a distruge echipamentele de foraj:</p><ul><li><strong>Quaise Energy:</strong> Utilizează un gyrotron pentru a bombarda rocile cu radiații milimetrice, transformându-le în cenușă în loc să le foreze mecanic.</li><li><strong>Mazama Energy:</strong> Inovează prin utilizarea dioxidului de carbon (CO2) supercritical în loc de noroi de foraj, menținând capetele de foraj reci prin expansiunea gazului.</li></ul><p>Google a validat deja acest potențial, semnând un contract de peste 500 de milioane de dolari cu Quaise pentru a securiza 50 MW de energie dintr-un proiect în Oregon. Această mișcare subliniază strategia gigantului tech de a investi timpuriu în furnizori care pot susține infrastructura AI pe termen lung.</p><h2>Provocări și viitor</h2><p>Deși rezultatele preliminare sunt încurajatoare, riscurile rămân ridicate. Forajul la adâncimi extreme este costisitor și complex din punct de vedere inginereasc. Totuși, dacă aceste tehnologii devin comerciale, ele ar putea oferi o sursă de energie de bază (baseload) inepuizabilă, capabilă să alimenteze centrele de date 24/7, indiferent de condițiile meteo. Pentru România, unde potențialul geotermal este deja recunoscut în zone precum vestul țării, aceste inovații ar putea reprezenta un model de urmat pentru modernizarea rețelei energetice naționale.</p>",
+    "body_en": "<h2>The Energy Race Beneath Our Feet</h2><p>As the power demands of artificial intelligence continue to skyrocket, data centers are becoming massive energy consumers. The traditional reliance on solar and wind is hampered by intermittency, forcing tech giants to look for constant, scalable alternatives. The answer may lie deep beneath the Earth's crust, through emerging <strong>super-hot rock</strong> geothermal technology.</p><h2>Understanding Supercritical Geothermal</h2><p>Unlike conventional geothermal energy, which taps into shallower heat sources, this new class of technology aims for rocks at depths of 3 to 5 miles. At these extreme depths, temperature and pressure reach levels where water turns into a supercritical fluid—a state that can carry immense amounts of energy. A single well could potentially generate 15 megawatts or more, significantly outperforming current geothermal plants.</p><h2>Technological Breakthroughs: Quaise and Mazama</h2><p>Startups are racing to master the drilling process, which is the most expensive part of geothermal energy production:</p><ul><li><strong>Quaise Energy:</strong> Replaces conventional drill bits with gyrotrons, using millimeter-wave radiation to vaporize rock into ash, avoiding the wear-and-tear of metal bits.</li><li><strong>Mazama Energy:</strong> Uses supercritical CO2 as a coolant to keep drill bits functional at high temperatures, while simultaneously capturing energy more efficiently.</li></ul><p>Google has signaled its confidence in this sector by committing over $500 million to a Quaise project in Oregon. This investment is part of a broader strategy to secure reliable, carbon-free energy for its data centers, ensuring that the infrastructure supporting AI is sustainable in the long run.</p><h2>The Road Ahead</h2><p>While the technology is still in the experimental phase, the early results are promising. Mazama, for instance, has already demonstrated significant improvements in drilling speed. If these companies can successfully scale their operations, they could unlock a massive, untapped source of baseload power. For the tech industry, this represents a crucial step toward decoupling AI growth from fossil fuel dependence, providing a clean energy solution that runs 24/7, regardless of weather conditions.</p>",
+    "highlights_ro": [
+      "Start-up-uri precum Quaise și Mazama dezvoltă tehnologii de foraj la adâncimi extreme pentru a accesa căldura supercriticală a Pământului.",
+      "Google a investit peste 500 milioane USD într-un proiect Quaise pentru a securiza 50 MW de energie curată pentru centrele sale de date.",
+      "Deși promițătoare, tehnologia este încă în fază de testare, dar ar putea elimina dependența centrelor de date de combustibilii fosili."
+    ],
+    "highlights_en": [
+      "Startups like Quaise and Mazama are pioneering deep-drilling tech to tap into supercritical earth heat.",
+      "Google has committed over $500 million to a Quaise project to secure 50 MW of clean power for data centers.",
+      "While still experimental, this technology offers a 24/7 baseload power solution that could replace fossil fuels for tech giants."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-20T18:34:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-20-super-hot-rock-geothermal-ai-data_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-20-google-launches-connected-apps-us",
     "slug_ro": "google-lanseaza-connected-apps-sua",
     "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
