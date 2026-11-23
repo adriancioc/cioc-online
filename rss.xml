@@ -40,6 +40,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-22-elizabeth-holmes-documentary-box-office-success_1.jpg" medium="image" />
   </item>
   <item>
+    <title>OpenAI Proposes Speed Limits for AI Development</title>
+    <link>https://cioc.online/en/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</guid>
+    <description>OpenAI&#x27;s chief scientist Jakub Pachocki suggests using perplexity as a standard metric to pace AI progress and ensure safety.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-openai-proposes-ai-development-speed-limits_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone Duo: Apple Testing New Lock Screen Widget Layout</title>
     <link>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-alaska-governor-wikipedia-editor/</guid>
     <description>Alaska&#x27;s governor-elect Jonathan Kreiss-Tomkins has been linked to a prolific Wikipedia editing past. Here is what this means for digital-native politics.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-alaska-governor-wikipedia-editor_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Anthropic IPO: Can AI Safety Survive Capitalism?</title>
-    <link>https://cioc.online/en/posts/2026-11-21-anthropic-ipo-ai-safety-future/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-anthropic-ipo-ai-safety-future/</guid>
-    <description>Anthropic is the first pure AI lab to go public. We analyze the tension between their safety-first mission and the pressure of public markets.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-anthropic-ipo-ai-safety-future_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

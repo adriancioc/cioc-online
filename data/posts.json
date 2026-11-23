@@ -178,6 +178,40 @@
     ]
   },
   {
+    "slug": "2026-11-22-openai-proposes-ai-development-speed-limits",
+    "slug_ro": "openai-propune-limite-dezvoltare-ai",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "limite dezvoltare AI",
+    "focus_keyword_en": "AI development speed limits",
+    "title_ro": "OpenAI propune o „limită de viteză” pentru dezvoltarea AI",
+    "title_en": "OpenAI Proposes Speed Limits for AI Development",
+    "summary": "OpenAI's chief scientist Jakub Pachocki suggests using perplexity as a standard metric to pace AI progress and ensure safety.",
+    "summary_ro": "Jakub Pachocki de la OpenAI propune utilizarea perplexității ca standard pentru a limita progresul necontrolat al inteligenței artificiale.",
+    "summary_en": "OpenAI's chief scientist Jakub Pachocki suggests using perplexity as a standard metric to pace AI progress and ensure safety.",
+    "body_ro": "<h2>O nouă abordare pentru siguranța AI</h2><p>Într-o mișcare surprinzătoare, Jakub Pachocki, cercetătorul șef al OpenAI, a publicat o analiză tehnică ce ar putea schimba modul în care companiile de tehnologie abordează dezvoltarea inteligenței artificiale. Într-o eră în care cursa pentru AGI (Inteligență Artificială Generală) pare scăpată de sub control, OpenAI propune implementarea unui mecanism de 'limită de viteză'.</p><p>Pachocki sugerează utilizarea <strong>perplexității</strong> ca unitate de măsură standard. Perplexitatea măsoară cât de bine prezice un model următorul token; cu cât valoarea este mai mică, cu atât modelul este mai capabil. Această metrică ar putea servi drept bază pentru un benchmark comun, acceptat de întreaga industrie, pentru a stabili praguri de siguranță.</p><h2>De ce este perplexitatea cheia?</h2><p>Până acum, benchmark-urile care se concentrau pe capacitățile 'downstream' (cum ar fi rezolvarea unor probleme specifice) au devenit rapid irelevante pe măsură ce modelele au evoluat. În schimb, perplexitatea a rămas un indicator constant și informativ. Conform datelor OpenAI, modelele care au atins pierderi sub 0.8 au demonstrat capacități transformative în domenii precum matematica și securitatea cibernetică.</p><p>Ideea este simplă: companiile ar trebui să se angajeze să nu depășească un anumit prag de perplexitate până când capacitatea noastră de a înțelege și monitoriza comportamentul AI atinge un nivel de siguranță verificabil. Această propunere vine după ce voci importante din industrie, inclusiv Dario Amodei de la Anthropic, au avertizat asupra riscurilor existențiale pe care le poate prezenta progresul necontrolat.</p><h2>Impactul asupra viitorului tehnologiei</h2><p>Sam Altman, CEO-ul OpenAI, a descris acest articol drept 'cel mai important lucru publicat de OpenAI în ultima vreme'. Această abordare ar putea forța marile companii să adopte standarde comune de siguranță, în loc să concureze doar pe baza puterii brute de calcul. Pentru utilizatorii din România și Europa, acest lucru este crucial, având în vedere reglementările stricte din AI Act, care pun accent pe transparență și responsabilitate.</p><p>Rămâne de văzut dacă giganții tech vor accepta cu adevărat să încetinească ritmul inovației în numele siguranței. Totuși, faptul că OpenAI recunoaște necesitatea unor 'frâne' tehnice reprezintă un pas major către maturizarea industriei AI.</p>",
+    "body_en": "<h2>A New Framework for AI Safety</h2><p>In a significant development, OpenAI's chief scientist Jakub Pachocki has outlined a technical framework that could redefine how the industry handles AI growth. As the race toward Artificial General Intelligence (AGI) intensifies, the need for a 'speed limit' on development has become a central topic of debate among major tech players.</p><p>Pachocki proposes using <strong>perplexity</strong> as a standardized measurement for AI progress. Perplexity measures how well a model predicts the next token, with lower scores indicating better predictive capabilities. By establishing this as a shared benchmark, AI companies could agree on common limits, preventing unchecked progress until safety and monitoring capabilities are sufficiently advanced.</p><h2>Why Perplexity Matters</h2><p>Traditional benchmarks focusing on downstream capabilities have often become obsolete as technology advances. However, perplexity remains a robust and informative metric. Pachocki notes that as models reach loss levels below 0.8, we see the emergence of transformative capabilities in complex fields like mathematics and cybersecurity. This makes it an ideal candidate for a 'speedometer' for AI development.</p><p>The proposal suggests that companies commit to not crossing specific perplexity thresholds until they can demonstrate a concrete milestone in understanding and monitoring AI behavior. This aligns with calls from leaders at Anthropic and other organizations for common safety standards to mitigate catastrophic risks.</p><h2>The Road Ahead</h2><p>Sam Altman, CEO of OpenAI, has labeled this analysis as one of the most important publications from the company in recent times. If adopted, this framework could shift the industry's focus from raw speed to responsible scaling. For the global tech community, this represents a pivotal moment in the transition from the 'wild west' phase of AI to a more regulated, safety-conscious era.</p><p>While the implementation of such limits remains a challenge, the willingness of a leading AI lab to advocate for self-imposed constraints is a clear signal that the industry is beginning to prioritize long-term societal safety over short-term competitive gains.</p>",
+    "highlights_ro": [
+      "OpenAI propune un standard tehnic numit 'perplexitate' pentru a măsura și limita viteza de dezvoltare a modelelor AI.",
+      "Măsura ar permite companiilor să impună pauze de siguranță până când monitorizarea comportamentului AI este pusă la punct.",
+      "O inițiativă critică pentru siguranța globală, susținută de lideri precum Sam Altman și Elon Musk."
+    ],
+    "highlights_en": [
+      "OpenAI proposes using 'perplexity' as a standard metric to measure and limit the pace of AI development.",
+      "The goal is to establish safety thresholds before models reach dangerous capability levels.",
+      "A critical shift towards industry-wide safety standards supported by OpenAI leadership."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T21:14:07+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-22-openai-proposes-ai-development-speed-limits_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-iphone-duo-lock-screen-widgets",
     "slug_ro": "iphone-duo-widget-lock-screen",
     "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
