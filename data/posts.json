@@ -34,6 +34,43 @@
     ]
   },
   {
+    "slug": "2026-11-23-kodak-slidetag-hybrid-gadget",
+    "slug_ro": "kodak-slidetag-gadget-hibrid",
+    "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+    "category": "GADGETURI",
+    "virality_score": 5,
+    "focus_keyword_ro": "Kodak SlideTag",
+    "focus_keyword_en": "Kodak SlideTag",
+    "title_ro": "Kodak SlideTag: Ramă foto digitală și tracker Bluetooth",
+    "title_en": "Kodak SlideTag: Digital Photo Frame Meets Bluetooth Tracker",
+    "summary": "Kodak introduces the SlideTag, a keychain with an E Ink display that shows photos and functions as a tracker compatible with Apple Find My and Google Find Hub.",
+    "summary_ro": "Kodak lansează SlideTag, un breloc cu ecran E Ink care afișează poze și funcționează ca tracker compatibil Apple Find My și Google Find Hub.",
+    "summary_en": "Kodak introduces the SlideTag, a keychain with an E Ink display that shows photos and functions as a tracker compatible with Apple Find My and Google Find Hub.",
+    "body_ro": "<h2>Un hibrid între nostalgie și utilitate</h2><p>Kodak continuă să exploreze zona de gadgeturi retro cu noul SlideTag, un dispozitiv care încearcă să combine estetica diapozitivelor de altădată cu tehnologia modernă de localizare. La prima vedere, pare doar un accesoriu decorativ, dar sub carcasa sa se ascunde un ecran E Ink color de 1.54 inch, capabil să redea fotografii, coduri QR sau liste de sarcini.</p><h2>Specificații tehnice și funcționalitate</h2><p>Ecranul E Ink utilizează șase cerneluri colorate pentru a afișa imagini la o rezoluție de 240 x 240 pixeli. Deși nu se compară cu claritatea unui ecran OLED, tehnologia E Ink oferă un consum redus de energie și o vizibilitate excelentă în lumină naturală. Transferul datelor se face prin Bluetooth, folosind aplicația Kodak Memory Link. Dispozitivul poate stoca până la 12 fotografii care pot fi setate să ruleze ciclic.</p><h2>Tracker, dar cu limitări</h2><p>Dincolo de funcția de ramă foto, SlideTag se vrea a fi un tracker pentru obiectele personale. Este compatibil cu rețelele Apple Find My și Google Find Hub, ceea ce îi oferă o utilitate practică. Totuși, spre deosebire de un AirTag sau Pixel Tag, acesta nu dispune de tehnologie Ultra Wideband (UWB) sau Channel Sounding. Raza de acțiune este limitată la 30 de metri în spațiu deschis, iar localizarea se bazează strict pe semnalul Bluetooth și un difuzor de 75 de decibeli.</p><h2>Verdictul Cioc.online</h2><p>Kodak SlideTag este un produs de nișă. Este ideal pentru cei care vor un accesoriu cu personalitate, capabil să afișeze o poză cu cei dragi sau un QR code util, având bonusul unei funcții de localizare de bază. Dacă însă cauți un tracker de înaltă precizie pentru obiecte de valoare, un AirTag rămâne o opțiune superioară din punct de vedere tehnic. Prețul de 35 USD îl plasează în zona de cadouri tech accesibile, dar nu trebuie tratat ca un dispozitiv de securitate critic.</p>",
+    "body_en": "<h2>A Blend of Nostalgia and Modern Utility</h2><p>Kodak is continuing its foray into retro-inspired gadgets with the new SlideTag, a device that attempts to bridge the gap between vintage slide projectors and modern tracking technology. At first glance, it appears to be a simple decorative accessory, but it houses a 1.54-inch color E Ink screen capable of displaying photos, QR codes, or to-do lists.</p><h2>Technical Specs and Capabilities</h2><p>The E Ink display uses six colored inks to render images at a 240 x 240 resolution. While it lacks the vibrancy of OLED panels, the E Ink technology offers excellent visibility in bright light and minimal power consumption. Data transfer is handled via Bluetooth through the Kodak Memory Link app. The device can store and cycle through up to 12 photos, making it a personalized keychain for your favorite memories.</p><h2>Tracking Capabilities and Limitations</h2><p>Beyond its display function, the SlideTag serves as a Bluetooth tracker. It is compatible with both Apple’s Find My and Google’s Find Hub networks, providing a decent level of utility. However, unlike dedicated trackers like the Apple AirTag or Pixel Tag, the SlideTag lacks Ultra Wideband (UWB) and Channel Sounding technology. Its range is limited to 30 meters in open spaces, and it relies on a 75-decibel buzzer for proximity alerts.</p><h2>The Cioc.online Verdict</h2><p>The Kodak SlideTag is a niche product. It is perfect for those who want a gadget with character that can display a photo or a useful QR code while offering basic tracking functionality. If you are looking for high-precision tracking for high-value items, a dedicated AirTag remains the superior choice. At $34.99, it is an accessible tech gift, but it should be viewed as a fun lifestyle accessory rather than a mission-critical security tool.</p>",
+    "highlights_ro": [
+      "Kodak a lansat SlideTag, un breloc cu ecran E Ink de 1.54 inch care afișează fotografii și mesaje.",
+      "Dispozitivul costă 35 USD, funcționează cu baterie CR2032 și este compatibil cu rețelele Apple Find My și Google Find Hub.",
+      "O jucărie retro interesantă, dar limitată ca tracker față de un AirTag dedicat din cauza lipsei UWB."
+    ],
+    "highlights_en": [
+      "Kodak released the SlideTag, a 1.54-inch E Ink keychain that displays photos and messages.",
+      "Priced at $34.99, it uses a CR2032 battery and supports both Apple Find My and Google Find Hub networks.",
+      "A fun retro-inspired gadget, but lacks the precision tracking of UWB-enabled devices like AirTags."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-23T03:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-23-kodak-slidetag-hybrid-gadget_1.jpg",
+      "assets/images/2026-11-23-kodak-slidetag-hybrid-gadget_2.jpg",
+      "assets/images/2026-11-23-kodak-slidetag-hybrid-gadget_3.jpg",
+      "assets/images/2026-11-23-kodak-slidetag-hybrid-gadget_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-global-it-infrastructure-risks",
     "slug_ro": "infrastructura-it-globala-riscuri",
     "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
