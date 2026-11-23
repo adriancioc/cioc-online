@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-review/</loc>
+    <loc>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Smaller, Lighter, 790-Day Battery</news:title>
+      <news:title>Samsung Galaxy SmartTag3: Smaller, Lighter, Longer Battery</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-23-samsung-galaxy-smarttag3-review/</loc>
+    <loc>https://cioc.online/posts/2026-11-23-samsung-galaxy-smarttag3-official/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Mai mic, mai ușor și baterie de 2 ani</news:title>
+      <news:title>Samsung Galaxy SmartTag3: Mai mic, mai ușor și cu baterie record</news:title>
     </news:news>
   </url>
   <url>
@@ -659,28 +659,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T12:01:13+00:00</news:publication_date>
       <news:title>Mitul rasismului științific: Ce spune genetica modernă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T04:00:00+00:00</news:publication_date>
-      <news:title>Apple Sued in India Over NameDrop Patent Infringement</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-apple-sued-over-namedrop-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T04:00:00+00:00</news:publication_date>
-      <news:title>Apple, dat în judecată pentru funcția NameDrop: Ce se întâmplă?</news:title>
     </news:news>
   </url>
 </urlset>
