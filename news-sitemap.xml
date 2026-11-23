@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-samsung-odyssey-g6-1100hz-gaming-monitor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:00:00+00:00</news:publication_date>
+      <news:title>Samsung Odyssey G6 Debuts as World&#x27;s First 1,100Hz Gaming Monitor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-samsung-odyssey-g6-1100hz-gaming-monitor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:00:00+00:00</news:publication_date>
+      <news:title>Samsung Odyssey G6: Primul monitor din lume la 1.100 Hz</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-apple-iphone-duo-samsung-foldable-display/</loc>
     <news:news>
       <news:publication>
@@ -769,94 +791,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T17:08:36+00:00</news:publication_date>
       <news:title>Apple plătește 250 milioane dolari pentru Siri AI: Detalii</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-ai-agents-via-sms/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:00:00+00:00</news:publication_date>
-      <news:title>AI Agents via SMS: Managing Your Life Through Text</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-ai-agents-via-sms/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:00:00+00:00</news:publication_date>
-      <news:title>Agenti AI prin SMS: Cum sa iti gestionezi viata direct din mesaje</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-apple-shuts-down-support-forums/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:48:03+00:00</news:publication_date>
-      <news:title>Apple Officially Shuts Down Support Community Forums</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-apple-shuts-down-support-forums/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:48:03+00:00</news:publication_date>
-      <news:title>Apple a închis definitiv forumurile Apple Support Community</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-ai-face-licensing-hollywood-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:00:00+00:00</news:publication_date>
-      <news:title>Selling Your Face to AI: The Future of Hollywood?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-ai-face-licensing-hollywood-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:00:00+00:00</news:publication_date>
-      <news:title>Îți vinzi chipul către AI? Noua eră a micro-dramelor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-alaska-governor-wikipedia-editor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T15:18:29+00:00</news:publication_date>
-      <news:title>Alaska&#x27;s New Governor: A Former Wikipedia Power User</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-alaska-governor-wikipedia-editor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T15:18:29+00:00</news:publication_date>
-      <news:title>Noul guvernator al Alaskăi: Un fost editor Wikipedia pasionat</news:title>
     </news:news>
   </url>
 </urlset>
