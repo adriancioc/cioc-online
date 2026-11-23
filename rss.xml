@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-23-samsung-galaxy-smarttag3-review_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Global IT Infrastructure Under Pressure: More Outages Expected</title>
+    <link>https://cioc.online/en/posts/2026-11-22-global-it-infrastructure-risks/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-global-it-infrastructure-risks/</guid>
+    <description>Microsoft and officials warn that major tech outages will continue. Learn why our digital infrastructure is struggling and how to prepare.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-global-it-infrastructure-risks_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone Duo: Apple testing new Lock Screen widgets</title>
     <link>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-science-genetics-vs-racism/</guid>
     <description>We analyze why theories of racial superiority have no basis in modern genetics and how flawed data is used for misinformation.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-science-genetics-vs-racism_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple Sued in India Over NameDrop Patent Infringement</title>
-    <link>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</guid>
-    <description>Apple faces a major lawsuit in India as startup GG Technologies claims the NameDrop feature infringes on its patented contact-sharing technology.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-apple-sued-over-namedrop-feature_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
