@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-anthropic-ipo-historic-financial-success/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T01:25:53+00:00</news:publication_date>
+      <news:title>Anthropic: How it Became the Largest IPO in Tech History</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-anthropic-ipo-historic-financial-success/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T01:25:53+00:00</news:publication_date>
+      <news:title>Anthropic: Cum a devenit cel mai mare IPO din istoria tehnologiei</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-22-global-it-infrastructure-instability/</loc>
     <news:news>
       <news:publication>
