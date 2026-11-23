@@ -423,6 +423,40 @@
     ]
   },
   {
+    "slug": "2026-11-22-robotaxi-vs-human-drivers-future",
+    "slug_ro": "viitorul-transportului-robotaxi-vs-soferi",
+    "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+    "category": "AUTO_TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "robotaxi",
+    "focus_keyword_en": "robotaxi",
+    "title_ro": "Robotaxi vs. Șoferi: Las Vegas devine laboratorul viitorului",
+    "title_en": "Robotaxi vs. Human Drivers: The Las Vegas Mobility Lab",
+    "summary": "We analyze the competition between Waymo, Zoox, and Tesla and how Uber is changing the way we navigate urban environments.",
+    "summary_ro": "Analizăm competiția dintre robotaxiurile Waymo, Zoox și Tesla și cum Uber schimbă modul în care ne deplasăm prin orașe.",
+    "summary_en": "We analyze the competition between Waymo, Zoox, and Tesla and how Uber is changing the way we navigate urban environments.",
+    "body_ro": "<h2>Revoluția autonomă prinde viteză în Las Vegas</h2><p>Industria transportului autonom traversează o perioadă de transformări radicale. În timp ce Waymo se confruntă cu provocări logistice, fiind nevoită să își retragă temporar flota de pe autostrăzi, competiția se intensifică. Integrarea robotaxiurilor Zoox în aplicația Uber în Las Vegas marchează un pas important către normalizarea transportului fără șofer.</p><p>Nu mai vorbim doar despre tehnologie experimentală, ci despre o piață fragmentată unde Tesla, Waymo și Zoox își dispută supremația. Tesla a raportat recent un număr de 1.507 robotaxiuri înregistrate în Texas, depășind flota Waymo de 1.345 de unități. Totuși, numărul de vehicule nu spune întreaga poveste. Eficiența operațională, măsurată prin milele parcurse în regim complet autonom, rămâne punctul forte al Waymo.</p><h2>Testul A/B: Om sau Algoritm?</h2><p>Las Vegas se transformă într-un laborator viu. Uber plănuiește să introducă o opțiune dedicată pentru vehicule autonome, permițând utilizatorilor să aleagă conștient între un șofer uman și un robotaxi. Această alegere va oferi date prețioase despre preferințele consumatorilor: suntem dispuși să plătim mai mult pentru un șofer uman sau preferăm anonimatul și eficiența unui vehicul autonom?</p><p>Această competiție directă ar putea declanșa tensiuni pe piața muncii, pe măsură ce sindicatele și șoferii profesioniști încep să simtă presiunea automatizării. În paralel, industria auto tradițională trece prin schimbări majore, cu zvonuri despre înlocuirea CEO-ului General Motors, Mary Barra, semn că giganții auto caută cu disperare o direcție nouă în era AI.</p><h2>Ce înseamnă acest lucru pentru Europa?</h2><p>Deși aceste teste au loc în SUA, impactul lor va fi resimțit global. Reglementările stricte din Uniunea Europeană și legislația privind inteligența artificială (AI Act) vor încetini probabil adopția masivă, dar vor asigura un cadru de siguranță mai riguros. Pentru utilizatorii din România, tranziția către mobilitatea autonomă este încă la orizont, însă evoluția tehnologiilor de asistență la condus pe care le vedem astăzi pe mașinile electrice este primul pas către acest viitor.</p>",
+    "body_en": "<h2>The Autonomous Revolution Accelerates in Las Vegas</h2><p>The autonomous transportation industry is undergoing a radical shift. While Waymo faces logistical hurdles, having to pull its robotaxis off freeways again, the competition is intensifying. The integration of Zoox robotaxis into the Uber app in Las Vegas marks a significant step toward normalizing driverless transport.</p><p>We are no longer just talking about experimental tech, but a fragmented market where Tesla, Waymo, and Zoox are fighting for dominance. Tesla recently reported 1,507 registered robotaxis in Texas, surpassing Waymo’s fleet of 1,345 units. However, vehicle count doesn't tell the whole story. Operational efficiency, measured by commercial driverless miles, remains Waymo’s strong suit.</p><h2>The A/B Test: Human or Algorithm?</h2><p>Las Vegas is turning into a living laboratory. Uber plans to introduce a dedicated autonomous option, allowing users to consciously choose between a human driver and a robotaxi. This choice will provide invaluable data on consumer preferences: are we willing to pay more for a human driver, or do we prefer the anonymity and efficiency of an autonomous vehicle?</p><p>This direct competition could trigger labor market tensions as unions and professional drivers begin to feel the pressure of automation. Meanwhile, the traditional auto industry is undergoing major changes, with rumors swirling about the potential replacement of General Motors CEO Mary Barra, signaling that auto giants are desperately seeking a new direction in the AI era.</p><h2>What This Means for the Global Market</h2><p>While these tests are happening in the U.S., their impact will be felt globally. Strict European Union regulations and the AI Act will likely slow down mass adoption but ensure a more rigorous safety framework. For users in Europe, the transition to autonomous mobility is still on the horizon, but the evolution of driver assistance technologies we see in electric vehicles today is the first step toward this future.</p>",
+    "highlights_ro": [
+      "Las Vegas devine un test A/B real pentru transportul autonom vs. condusul uman prin integrarea Zoox în aplicația Uber.",
+      "Tesla a depășit Waymo în numărul de vehicule înregistrate în Texas, dar Waymo rămâne lider în eficiența milelor parcurse.",
+      "Viitorul mobilității urbane va depinde de alegerea utilizatorului între preț, siguranță și confortul oferit de roboți."
+    ],
+    "highlights_en": [
+      "Las Vegas is becoming a real-world A/B test for autonomous vs. human ride-hailing with the integration of Zoox into Uber.",
+      "Tesla has surpassed Waymo in registered robotaxis in Texas, but Waymo leads in commercial driverless miles.",
+      "The future of urban mobility will hinge on consumer choice between price, safety, and the convenience of autonomous tech."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T17:06:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-22-robotaxi-vs-human-drivers-future_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-sheherazaad-khudgarzi-album-review",
     "slug_ro": "sheherazaad-khudgarzi-recenzie-muzica",
     "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",

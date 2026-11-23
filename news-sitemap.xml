@@ -266,6 +266,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-22-robotaxi-vs-human-drivers-future/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T17:06:00+00:00</news:publication_date>
+      <news:title>Robotaxi vs. Human Drivers: The Las Vegas Mobility Lab</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-22-robotaxi-vs-human-drivers-future/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T17:06:00+00:00</news:publication_date>
+      <news:title>Robotaxi vs. Șoferi: Las Vegas devine laboratorul viitorului</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-22-sheherazaad-khudgarzi-album-review/</loc>
     <news:news>
       <news:publication>
