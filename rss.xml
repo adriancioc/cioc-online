@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-23-meta-muse-walmart-ai-shopping_1.jpg" medium="image" />
   </item>
   <item>
+    <title>MacBook Neo to Move to Annual Update Cycle</title>
+    <link>https://cioc.online/en/posts/2026-11-23-macbook-neo-annual-update-cycle/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-macbook-neo-annual-update-cycle/</guid>
+    <description>Apple plans annual updates for the MacBook Neo, featuring A19 Pro chips and new colors. Here is what to expect from the J701 model.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-macbook-neo-annual-update-cycle_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Samsung Galaxy SmartTag3: Smaller, Lighter, Longer Battery</title>
     <link>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-un-fails-regulate-killer-robots/</guid>
     <description>The UN has delayed binding rules for autonomous weapons. Discover why major powers are stalling and the implications for global AI security.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-un-fails-regulate-killer-robots_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>FBI Investigates Major Security Breach of NCIC Database</title>
-    <link>https://cioc.online/en/posts/2026-11-21-fbi-ncic-database-breach/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-fbi-ncic-database-breach/</guid>
-    <description>The FBI is investigating a cyberattack on the NCIC database. Learn about the risks to data integrity and the potential impact on law enforcement operations.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-ncic-database-breach_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

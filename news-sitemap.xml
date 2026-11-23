@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-macbook-neo-annual-update-cycle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:50:49+00:00</news:publication_date>
+      <news:title>MacBook Neo to Move to Annual Update Cycle</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-macbook-neo-annual-update-cycle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:50:49+00:00</news:publication_date>
+      <news:title>MacBook Neo trece la un ciclu de actualizare anual</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</loc>
     <news:news>
       <news:publication>
