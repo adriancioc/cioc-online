@@ -422,6 +422,41 @@
     ]
   },
   {
+    "slug": "2026-11-22-tamagotchi-30-years-later",
+    "slug_ro": "istoria-tamagotchi-fenomen-digital",
+    "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+    "category": "GADGETURI",
+    "virality_score": 4,
+    "focus_keyword_ro": "Tamagotchi",
+    "focus_keyword_en": "Tamagotchi history",
+    "title_ro": "Tamagotchi la 30 de ani: De ce ne-a cucerit animalul digital?",
+    "title_en": "Tamagotchi turns 30: The legacy of digital pets",
+    "summary": "Celebrating 30 years of Tamagotchi. We look back at the digital pet craze that defined the 90s and its impact on modern tech engagement.",
+    "summary_ro": "Tamagotchi împlinește 30 de ani. Analizăm fenomenul digital care a definit anii '90 și cum a schimbat interacțiunea noastră cu tehnologia.",
+    "summary_en": "Celebrating 30 years of Tamagotchi. We look back at the digital pet craze that defined the 90s and its impact on modern tech engagement.",
+    "body_ro": "<h2>O scurtă incursiune în era Tamagotchi</h2><p>Acum 30 de ani, un mic breloc digital a reușit să schimbe modul în care milioane de copii interacționau cu tehnologia. Tamagotchi nu a fost doar o jucărie; a fost primul nostru contact cu responsabilitatea digitală. Într-o lume în care ecranele sunt omniprezente, merită să ne amintim cum un dispozitiv cu pixeli puțini a creat o legătură emoțională atât de puternică.</p><h2>De ce a funcționat rețeta Tamagotchi?</h2><p>Secretul succesului a fost simplitatea combinată cu un nivel ridicat de stres artificial. Trebuia să hrănești, să cureți și să te joci cu o creatură care nu avea nicio altă funcție în afară de a supraviețui. Această tactică de engagement, pe care astăzi o vedem în aplicațiile moderne de tip 'daily streak', a fost pionierată de acest gadget japonez.</p><ul><li><strong>Simplitatea interfeței:</strong> Doar trei butoane pentru a controla totul.</li><li><strong>Factorul de urgență:</strong> Animalul digital nu aștepta; dacă nu erai atent, acesta 'murea'.</li><li><strong>Impactul social:</strong> Era un simbol de statut în școli, deși profesorii îl urau din cauza sunetelor constante.</li></ul><h2>Tehnologia din spatele brelocului</h2><p>Deși astăzi pare rudimentar, Tamagotchi a demonstrat că hardware-ul nu trebuie să fie complex pentru a fi captivant. În comparație cu gadgeturile actuale, cum ar fi robotul Aibo de la Sony, Tamagotchi a fost prima dovadă că putem dezvolta empatie față de un set de pixeli. Chiar și după trei decenii, conceptul rămâne relevant, fiind un studiu de caz excelent pentru designul de produs.</p><h2>Verdictul Cioc.online</h2><p>Dacă te întrebi dacă merită să mai cumperi un Tamagotchi astăzi, răspunsul este pur nostalgic. Nu oferă funcții smart, nu se conectează la cloud și nu îți va îmbunătăți productivitatea. Totuși, ca obiect de colecție, rămâne o piesă esențială în istoria tehnologiei de consum. Este o lecție despre cum designul minimalist poate învinge complexitatea inutilă.</p>",
+    "body_en": "<h2>The Tamagotchi Phenomenon</h2><p>Thirty years ago, a small digital keychain changed how we interacted with technology. Tamagotchi wasn't just a toy; it was our first real experience with digital responsibility. In an era dominated by complex apps, it is worth remembering how a device with minimal pixels created such a strong emotional bond.</p><h2>The Psychology of Engagement</h2><p>The success of the Tamagotchi relied on a mix of simplicity and artificial stress. Users had to feed, clean, and play with a creature that had no purpose other than survival. This engagement tactic, which we now see in modern apps, was pioneered by this Japanese gadget. It was the original 'daily streak' mechanic.</p><ul><li><strong>Minimalist Interface:</strong> Just three buttons to control the entire experience.</li><li><strong>Urgency Factor:</strong> The digital pet demanded attention, creating a sense of duty.</li><li><strong>Social Impact:</strong> It became a cultural touchstone, despite being banned in many classrooms.</li></ul><h2>The Hardware Perspective</h2><p>While it seems rudimentary today, the Tamagotchi proved that hardware doesn't need to be complex to be compelling. Compared to modern tech like Sony's Aibo, the Tamagotchi was the first proof that humans could develop empathy for digital entities. Even after three decades, the concept remains a masterclass in product design.</p><h2>The Cioc.online Verdict</h2><p>If you are wondering if a Tamagotchi is worth buying today, the answer is purely nostalgic. It lacks smart features, cloud connectivity, or productivity tools. However, as a collector's item, it remains an essential piece of consumer tech history. It serves as a reminder that minimalist design can often outperform unnecessary complexity.</p>",
+    "highlights_ro": [
+      "Tamagotchi aniversează 30 de ani de la lansare, fiind un simbol al gadgeturilor portabile din anii '90.",
+      "Dispozitivul nu este disponibil oficial în magazinele mari din RO, dar variantele noi costă circa 20-30 EUR.",
+      "Un experiment social interesant despre cum tehnologia simplă a creat dependență emoțională."
+    ],
+    "highlights_en": [
+      "Tamagotchi celebrates its 30th anniversary, marking a milestone in handheld tech history.",
+      "Modern iterations are widely available for 20-30 USD/EUR.",
+      "A fascinating case study on how simple tech created deep user engagement."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T13:15:27+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-22-tamagotchi-30-years-later_1.jpg",
+      "assets/images/2026-11-22-tamagotchi-30-years-later_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-apple-homeview-audio-review",
     "slug_ro": "apple-homeview-analiza-audio",
     "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",

@@ -89,6 +89,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-22-auracast-theatre-audio-revolution_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Tamagotchi turns 30: The legacy of digital pets</title>
+    <link>https://cioc.online/en/posts/2026-11-22-tamagotchi-30-years-later/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-tamagotchi-30-years-later/</guid>
+    <description>Celebrating 30 years of Tamagotchi. We look back at the digital pet craze that defined the 90s and its impact on modern tech engagement.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-tamagotchi-30-years-later_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple HomeView: Is It Worth It for Audio?</title>
     <link>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-apple-homeview-audio-review/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</guid>
     <description>Apple is bringing face unlock to the iPhone Duo via iOS 27.3. Learn about the security limitations and how it works compared to standard Face ID.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-iphone-duo-face-unlock-update_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Chess.com Expands Beyond Chess with New Classic Games Hub</title>
-    <link>https://cioc.online/en/posts/2026-11-21-chess-com-launches-classic-games-hub/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-chess-com-launches-classic-games-hub/</guid>
-    <description>Chess.com launches Classic Games, adding 10 new titles including Sudoku, Mahjong, and Solitaire, powered by AI-assisted development.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-chess-com-launches-classic-games-hub_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
