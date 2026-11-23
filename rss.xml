@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-23-samsung-odyssey-g6-1100hz-gaming-monitor_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Jensen Huang Reinstated as Nvidia CEO After Trump Intervention</title>
+    <link>https://cioc.online/en/posts/2026-11-23-jensen-huang-reinstated-nvidia-ceo/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-jensen-huang-reinstated-nvidia-ceo/</guid>
+    <description>Jensen Huang returns as Nvidia CEO following direct intervention by Donald Trump. Read the full analysis and national security details on cioc.online.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-jensen-huang-reinstated-nvidia-ceo_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple May Be Locked to Samsung for Foldable iPhone Duo Displays</title>
     <link>https://cioc.online/en/posts/2026-11-23-apple-iphone-duo-samsung-display-deal/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-apple-iphone-duo-samsung-display-deal/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-amazon-nyc-delivery-label-dispute/</guid>
     <description>Amazon is labeling packages in NYC to protest the Delivery Protection Act, claiming it could increase shipping costs by $5 per order.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-amazon-nyc-delivery-label-dispute_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Signal restricts screenshots to counter AI surveillance</title>
-    <link>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</guid>
-    <description>Signal is limiting mobile screenshots on Android and iOS to prevent OS-level AI agents from scraping sensitive user data.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-signal-restricts-screenshots-ai_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
