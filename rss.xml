@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Siri&#x27;s Struggle: Why Apple is Falling Behind in the AI Race</title>
+    <link>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-challenges/</link>
+    <guid>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-challenges/</guid>
+    <description>Apple&#x27;s Siri layoffs and rigid development cycle are hindering its AI progress. Discover why the tech giant is struggling against faster rivals.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-22-apple-siri-ai-challenges_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>The Data Center Backlash: Why AI Infrastructure is Facing Scrutiny</title>
     <link>https://cioc.online/en/posts/2026-11-22-data-centers-ai-backlash/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-data-centers-ai-backlash/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-apple-sued-over-namedrop-feature/</guid>
     <description>Apple faces a major lawsuit in India as startup GG Technologies claims the NameDrop feature infringes on its patented contact-sharing technology.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-apple-sued-over-namedrop-feature_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>FCC Overrules California on AT&amp;T Phone Service Obligations</title>
-    <link>https://cioc.online/en/posts/2026-11-20-fcc-preempts-california-att-phone-rules/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-fcc-preempts-california-att-phone-rules/</guid>
-    <description>The FCC has ordered California to stop enforcing Carrier of Last Resort rules against AT&amp;T, allowing the carrier to phase out legacy copper lines.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-fcc-preempts-california-att-phone-rules_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
