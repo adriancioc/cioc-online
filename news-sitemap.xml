@@ -68,6 +68,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-f1-las-vegas-2026-tech-race/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:54:22+00:00</news:publication_date>
+      <news:title>F1 Las Vegas: How Cold Weather and Aero Reshaped the Race</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-f1-las-vegas-2026-tech-race/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:54:22+00:00</news:publication_date>
+      <news:title>F1 Las Vegas: Cum au Schimbat Frigul și Aerodinamica Cursa</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-iphone-air-2-dynamic-island-leak/</loc>
     <news:news>
       <news:publication>
@@ -813,28 +835,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T17:16:10+00:00</news:publication_date>
       <news:title>Apple închide un magazin emblematic din Marea Britanie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-apple-siri-ai-settlement-details/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:08:36+00:00</news:publication_date>
-      <news:title>Apple&#x27;s $250M Siri AI Settlement: What You Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-apple-siri-ai-settlement-details/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:08:36+00:00</news:publication_date>
-      <news:title>Apple plătește 250 milioane dolari pentru Siri AI: Detalii</news:title>
     </news:news>
   </url>
 </urlset>
