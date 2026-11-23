@@ -332,6 +332,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-22-meta-india-protests-censorship/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:15:07+00:00</news:publication_date>
+      <news:title>Meta Offices Stormed in India Amid Censorship Allegations</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-22-meta-india-protests-censorship/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:15:07+00:00</news:publication_date>
+      <news:title>Proteste la sediul Meta din India: Acuzații de cenzură politică</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-22-large-oled-tv-nausea/</loc>
     <news:news>
       <news:publication>

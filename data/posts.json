@@ -530,6 +530,41 @@
     ]
   },
   {
+    "slug": "2026-11-22-meta-india-protests-censorship",
+    "slug_ro": "proteste-meta-india-cenzura",
+    "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+    "category": "SECURITATE",
+    "virality_score": 7,
+    "focus_keyword_ro": "cenzura Meta India",
+    "focus_keyword_en": "Meta India censorship",
+    "title_ro": "Proteste la sediul Meta din India: Acuzații de cenzură politică",
+    "title_en": "Meta Offices Stormed in India Amid Censorship Allegations",
+    "summary": "Protesters stormed Meta's Delhi office, accusing the company of censoring political opposition and favoring the Modi government.",
+    "summary_ro": "Manifestanții au luat cu asalt sediul Meta din Delhi, acuzând compania de cenzurarea opoziției politice și favoritism față de guvernul Modi.",
+    "summary_en": "Protesters stormed Meta's Delhi office, accusing the company of censoring political opposition and favoring the Modi government.",
+    "body_ro": "<h2>Tensiuni politice la sediul Meta din Delhi</h2><p>Sediul Meta din India a devenit recent scena unui protest violent, după ce membrii aripii de tineret a partidului Congres au pătruns în clădire. Motivul principal al acestor acțiuni a fost suspendarea conturilor de Instagram ale unor lideri politici, o măsură interpretată de opoziție drept o formă de cenzură orchestrată pentru a favoriza guvernul condus de Narendra Modi.</p><p>Deși Meta a restaurat două dintre conturile vizate imediat după izbucnirea protestelor, situația rămâne critică. Reprezentanții partidului susțin că mii de conturi aparținând jurnaliștilor, creatorilor de conținut și influencerilor care critică politicile actualului guvern rămân restricționate sau complet eliminate de pe platformă.</p><h2>Cenzura și noile reglementări indiene</h2><p>Acest conflict nu este izolat. În luna februarie, India a implementat reguli mult mai stricte privind eliminarea conținutului considerat ilegal, reducând timpul de răspuns al platformelor de la 36 de ore la doar trei ore. Această schimbare legislativă a oferit autorităților un instrument puternic pentru a exercita presiuni asupra companiilor tech.</p><p>Criticii susțin că Meta a cedat presiunilor politice pentru a-și proteja interesele comerciale pe piața indiană, una dintre cele mai mari și mai profitabile la nivel global. Acuzațiile de favoritism față de partidul BJP (partidul de guvernământ) au fost afișate public pe bannere în tot orașul Delhi, vizându-l direct pe Mark Zuckerberg.</p><h2>Impactul asupra libertății de exprimare</h2><p>Cazul din India ridică semne de întrebare serioase despre neutralitatea algoritmilor Meta. Când o companie privată devine arbitru al discursului politic într-o democrație, granița dintre moderarea conținutului și cenzura politică devine extrem de fină. Utilizatorii trebuie să fie conștienți că ceea ce văd în feed-ul lor poate fi rezultatul unor presiuni guvernamentale externe.</p><p>În timp ce Meta a refuzat să comenteze imediat situația, incidentul demonstrează că platformele sociale nu mai sunt doar simple rețele de comunicare, ci actori politici implicați direct în conflicte de putere. Pentru utilizatorii din România și UE, acest lucru subliniază importanța reglementărilor precum Digital Services Act, care încearcă să limiteze puterea discreționară a giganților tech.</p>",
+    "body_en": "<h2>Political Unrest at Meta's Delhi Headquarters</h2><p>Meta's office in India became the epicenter of a heated protest this week, as members of the Congress party's youth wing breached the building. The demonstration was sparked by the suspension of several high-profile Instagram accounts belonging to opposition leaders, fueling accusations that the tech giant is actively censoring speech to align with Prime Minister Narendra Modi's BJP party.</p><p>While Meta restored two of the suspended accounts following the protest, the broader issue remains unresolved. Manu Jain, who oversees social media for the youth wing, stated that thousands of accounts belonging to journalists and influencers critical of the government remain restricted. This incident has brought the debate over Meta's content moderation policies to the forefront of Indian politics.</p><h2>The Role of Regulatory Pressure</h2><p>The tension is exacerbated by India's recent legislative changes. In February, the government mandated that platforms must remove \"unlawful\" content within just three hours, down from the previous 36-hour window. Critics argue that this aggressive timeline forces companies like Meta to comply with government takedown requests without proper due process, effectively stifling dissent.</p><p>Banners accusing Mark Zuckerberg of favoring the ruling party were displayed across Delhi, highlighting the public's perception of Meta as an accomplice to government overreach. For a company that prides itself on connecting people, the optics of being seen as a tool for political suppression are damaging to its global brand reputation.</p><h2>Global Implications for Tech Giants</h2><p>This situation serves as a stark reminder of the influence Big Tech holds over democratic processes. When platforms are pressured by governments to silence opposition, the integrity of the information ecosystem is compromised. Users globally should be concerned about how these precedents might influence moderation policies in other jurisdictions.</p><p>As Meta continues to navigate these complex political waters, the incident in India underscores the necessity for transparent moderation practices. Whether in India, Europe, or elsewhere, the balance between complying with local laws and upholding the principles of free expression remains a critical challenge for the future of social media.</p>",
+    "highlights_ro": [
+      "Membrii partidului de opoziție din India au protestat violent la sediul Meta din Delhi.",
+      "Acuzațiile vizează cenzurarea liderilor politici și a jurnaliștilor critici la adresa guvernului.",
+      "Cioc.online analizează cum politicile Meta devin un instrument de presiune politică globală."
+    ],
+    "highlights_en": [
+      "Opposition party members stormed Meta's office in Delhi over Instagram account suspensions.",
+      "Allegations suggest Meta is censoring critics of the Indian government to maintain market access.",
+      "Cioc.online examines the growing tension between Big Tech moderation and political pressure."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-22T15:15:07+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-22-meta-india-protests-censorship_1.jpg",
+      "assets/images/2026-11-22-meta-india-protests-censorship_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-22-large-oled-tv-nausea",
     "slug_ro": "televizoare-mari-greata-oled",
     "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
