@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
+      <news:title>Samsung Galaxy SmartTag3: Smaller, Lighter, 790-Day Battery</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-samsung-galaxy-smarttag3-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
+      <news:title>Samsung Galaxy SmartTag3: Mai mic, mai ușor și baterie de 2 ani</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</loc>
     <news:news>
       <news:publication>
@@ -615,116 +637,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T04:00:00+00:00</news:publication_date>
       <news:title>Apple, dat în judecată pentru funcția NameDrop: Ce se întâmplă?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-fcc-preempts-california-att-phone-rules/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:28:24+00:00</news:publication_date>
-      <news:title>FCC Overrules California on AT&amp;T Phone Service Obligations</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-fcc-preempts-california-att-phone-rules/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:28:24+00:00</news:publication_date>
-      <news:title>FCC blochează California: AT&amp;T poate renunța la liniile telefonice</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-spacex-starshield-government-contracts-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:16:51+00:00</news:publication_date>
-      <news:title>SpaceX Faces Congressional Scrutiny Over Starshield in Ukraine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-spacex-starshield-government-contracts-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:16:51+00:00</news:publication_date>
-      <news:title>SpaceX sub presiune: Viitorul Starshield în vizorul Congresului SUA</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-google-removes-search-button-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:58:29+00:00</news:publication_date>
-      <news:title>Google Redesign: Search Button Gone, AI Takes Over</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-google-removes-search-button-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:58:29+00:00</news:publication_date>
-      <news:title>Google schimbă tot: Butonul de căutare dispare de pe homepage</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-meta-reconsiders-net-zero-ai-emissions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:47:10+00:00</news:publication_date>
-      <news:title>Meta Rethinks 2030 Green Goals Due to AI Energy Surge</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-meta-reconsiders-net-zero-ai-emissions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:47:10+00:00</news:publication_date>
-      <news:title>Meta abandonează obiectivele verzi din cauza consumului AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-20-siri-recap-apple-watch-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:45:43+00:00</news:publication_date>
-      <news:title>Siri Recap on Apple Watch: Privacy vs. Utility</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-20-siri-recap-apple-watch-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:45:43+00:00</news:publication_date>
-      <news:title>Siri Recap pe Apple Watch: Inovație sau invazie a intimității?</news:title>
     </news:news>
   </url>
 </urlset>

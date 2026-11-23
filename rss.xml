@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Samsung Galaxy SmartTag3: Smaller, Lighter, 790-Day Battery</title>
+    <link>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-review/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-review/</guid>
+    <description>Samsung unveils Galaxy SmartTag3 with massive battery life improvements and a compact design. Is it the ultimate tracker for Galaxy users?</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-samsung-galaxy-smarttag3-review_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone Duo: Apple testing new Lock Screen widgets</title>
     <link>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</link>
     <guid>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-20-fcc-preempts-california-att-phone-rules/</guid>
     <description>The FCC has ordered California to stop enforcing Carrier of Last Resort rules against AT&amp;T, allowing the carrier to phase out legacy copper lines.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-20-fcc-preempts-california-att-phone-rules_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>SpaceX Faces Congressional Scrutiny Over Starshield in Ukraine</title>
-    <link>https://cioc.online/en/posts/2026-11-20-spacex-starshield-government-contracts-risk/</link>
-    <guid>https://cioc.online/en/posts/2026-11-20-spacex-starshield-government-contracts-risk/</guid>
-    <description>US Congress threatens SpaceX funding following Starshield service disruptions in Ukraine. What this means for government contracts.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-20-spacex-starshield-government-contracts-risk_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
