@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-23-apple-namedrop-patent-lawsuit-india",
+    "slug_ro": "proces-brevet-apple-namedrop-india",
+    "url": "https://www.macrumors.com/2026/11/23/iphone-sales-ban-namedrop-feature/",
+    "category": "SECURITATE",
+    "virality_score": 7,
+    "focus_keyword_ro": "Apple NameDrop proces",
+    "focus_keyword_en": "Apple NameDrop patent lawsuit",
+    "title_ro": "Apple, dat în judecată în India din cauza funcției NameDrop",
+    "title_en": "Apple Faces iPhone Sales Ban in India Over NameDrop",
+    "summary": "A US startup is suing Apple in India over the NameDrop feature, seeking $162 million and a potential sales ban on iPhones.",
+    "summary_ro": "Un startup american cere interzicerea vânzărilor de iPhone în India din cauza funcției NameDrop. Află detaliile procesului și impactul asupra Apple.",
+    "summary_en": "A US startup is suing Apple in India over the NameDrop feature, seeking $162 million and a potential sales ban on iPhones.",
+    "body_ro": "<h2>Conflict juridic major pentru Apple în India</h2><p>Apple se confruntă cu o provocare legală neașteptată pe piața din India, unde un startup american, GG Technologies, a inițiat un proces privind încălcarea drepturilor de proprietate intelectuală. Miza este funcția NameDrop, introdusă de Apple în iOS 17, care permite schimbul rapid de date de contact între dispozitivele aflate în proximitate.</p><p>GG Technologies, dezvoltatorul aplicației StayTouch, susține că tehnologia utilizată de Apple în NameDrop încalcă un brevet indian obținut de aceștia în iulie 2024. Startup-ul a depus documentele la Înalta Curte din Bombay încă din luna octombrie, solicitând daune în valoare de aproximativ 15 miliarde de rupii (circa 162 milioane dolari).</p><h2>Cereri drastice: Interzicerea vânzărilor</h2><p>Cea mai dură parte a acțiunii legale nu vizează doar compensațiile financiare. GG Technologies solicită instanței indiene să blocheze importul și vânzarea tuturor dispozitivelor Apple, inclusiv iPhone și Apple Watch, care includ funcția NameDrop. Dacă instanța ar da curs acestei solicitări, impactul asupra operațiunilor Apple pe una dintre cele mai mari piețe emergente ar putea fi semnificativ.</p><p>Această dispută nu este singulară. GG Technologies a mai dat în judecată gigantul din Cupertino și în Statele Unite în aprilie, iar în august, Comisia pentru Comerț Internațional (ITC) a demarat o investigație oficială. Startup-ul urmărește un rezultat similar și în SUA: interzicerea importurilor de dispozitive care utilizează tehnologia lor brevetată.</p><h2>Contextul tehnologic și viitorul NameDrop</h2><p>NameDrop a fost prezentat inițial în iunie 2023, fiind integrat nativ în iOS 17. Deși Apple a implementat măsuri de securitate, precum necesitatea confirmării utilizatorului înainte de schimbul de date, funcția a fost adesea criticată pentru ușurința cu care poate fi activată accidental. Rămâne de văzut cât de des este utilizată funcția în mod real de către utilizatorii de rând, însă importanța sa pentru ecosistemul Apple este incontestabilă.</p><p>Pentru utilizatorii din România și Europa, acest proces reprezintă un studiu de caz interesant despre modul în care brevetele software pot bloca distribuția unor dispozitive globale. Deși legislația europeană și cea indiană diferă, o decizie nefavorabilă în India ar putea forța Apple să modifice funcționalitatea software-ului prin actualizări viitoare de iOS, pentru a evita orice risc de blocare a vânzărilor.</p>",
+    "body_en": "<h2>Apple's NameDrop Feature Under Legal Fire in India</h2><p>Apple is currently navigating a complex patent dispute in India as a U.S.-based startup, GG Technologies, seeks to halt the sales of iPhones and Apple Watches. The core of the conflict lies in the NameDrop feature, which Apple introduced with iOS 17, allowing users to exchange contact information by bringing devices close together.</p><p>GG Technologies, the company behind the StayTouch app, claims that NameDrop infringes upon their Indian patent, which was granted in July 2024. The lawsuit, filed in the Bombay High Court, demands approximately 15 billion rupees ($162 million) in damages. More critically, the startup is asking the court to prevent Apple from importing or selling any devices that support the contested feature.</p><h2>A Global Legal Strategy</h2><p>This legal action in India is part of a broader strategy by GG Technologies. The company previously sued Apple in the United States in April, alleging similar patent infringements. In August, the U.S. International Trade Commission (ITC) launched an investigation into the matter. The startup is pushing for an order that could potentially block the import of infringing Apple devices into the U.S. market as well.</p><p>The technology in question, which allows nearby phones to exchange contact details without manual pairing, has been a point of contention since the startup's inception in 2019. While Apple has not yet commented on the specific Indian court proceedings, the company is known for aggressively defending its software features against patent claims.</p><h2>What This Means for Users</h2><p>For the average consumer, NameDrop is a convenient, albeit occasionally controversial, feature. Since its announcement in June 2023, it has become a staple of the iOS experience. However, the legal uncertainty surrounding the underlying technology could lead to changes in how the feature is implemented in future software updates.</p><p>If the Indian courts rule in favor of GG Technologies, Apple might be forced to disable or modify NameDrop in the region to avoid a total sales ban. This scenario highlights the ongoing tension between large-scale tech innovation and the protection of intellectual property rights held by smaller startups. As the case progresses, the tech industry will be watching closely to see if Apple's global product distribution faces any tangible disruptions.</p>",
+    "highlights_ro": [
+      "Un startup numit GG Technologies a dat în judecată Apple în India pentru încălcarea unui brevet legat de NameDrop.",
+      "Reclamanții cer daune de 162 milioane USD și blocarea importurilor/vânzărilor de iPhone-uri și Apple Watch-uri cu această funcție.",
+      "Deși NameDrop este o funcție utilă, Apple se confruntă cu presiuni legale similare și în SUA prin intermediul ITC."
+    ],
+    "highlights_en": [
+      "GG Technologies has filed a patent infringement lawsuit against Apple in India over the NameDrop contact-sharing feature.",
+      "The startup is seeking $162 million in damages and an injunction against selling iPhones and Apple Watches with NameDrop.",
+      "This follows a similar legal battle in the US, where the ITC is already investigating the patent claims."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-23T11:33:48+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-23-apple-namedrop-patent-lawsuit-india_1.jpg",
+      "assets/images/2026-11-23-apple-namedrop-patent-lawsuit-india_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-samsung-galaxy-smarttag3-official",
     "slug_ro": "samsung-galaxy-smarttag3-lansare",
     "url": "https://news.samsung.com/global/the-technology-behind-more-precise-finding-with-galaxy-smarttag3-and-smartthings",

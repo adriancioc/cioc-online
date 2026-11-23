@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple Faces iPhone Sales Ban in India Over NameDrop</title>
+    <link>https://cioc.online/en/posts/2026-11-23-apple-namedrop-patent-lawsuit-india/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-apple-namedrop-patent-lawsuit-india/</guid>
+    <description>A US startup is suing Apple in India over the NameDrop feature, seeking $162 million and a potential sales ban on iPhones.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-apple-namedrop-patent-lawsuit-india_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Samsung Galaxy SmartTag3: Smaller, Lighter, Longer Battery</title>
     <link>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-21-fbi-usda-hacked-security-breach/</guid>
     <description>FBI and USDA systems compromised in latest cyberattacks. Learn about the scope of the breach and the implications for critical infrastructure security.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-21-fbi-usda-hacked-security-breach_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple Permanently Closes Basingstoke Store in UK</title>
-    <link>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</link>
-    <guid>https://cioc.online/en/posts/2026-11-21-apple-store-basingstoke-closing/</guid>
-    <description>Apple has officially closed its Festival Place store in Basingstoke after 15 years. Here is what happens to staff and the regional retail strategy.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-21-apple-store-basingstoke-closing_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
