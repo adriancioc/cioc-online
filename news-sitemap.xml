@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-apple-iphone-duo-samsung-foldable-display/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T14:38:22+00:00</news:publication_date>
+      <news:title>iPhone Duo: Apple Locked With Samsung for Foldable Screens</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-apple-iphone-duo-samsung-foldable-display/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T14:38:22+00:00</news:publication_date>
+      <news:title>iPhone Duo: Samsung rămâne furnizorul exclusiv de ecrane</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-apple-namedrop-patent-lawsuit-india/</loc>
     <news:news>
       <news:publication>
@@ -835,116 +857,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T15:18:29+00:00</news:publication_date>
       <news:title>Noul guvernator al Alaskăi: Un fost editor Wikipedia pasionat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-anthropic-ipo-ai-safety-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T15:00:00+00:00</news:publication_date>
-      <news:title>Anthropic IPO: Can AI Safety Survive Capitalism?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-anthropic-ipo-ai-safety-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T15:00:00+00:00</news:publication_date>
-      <news:title>Anthropic la bursă: Poate supraviețui siguranța AI în capitalism?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-iphone-duo-face-unlock-update/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
-      <news:title>Apple Adds Face Unlock to iPhone Duo in iOS 27.3 Beta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-iphone-duo-face-unlock-update/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:10+00:00</news:publication_date>
-      <news:title>iPhone Duo primește Face Unlock: Limitările noii funcții Apple</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-chess-com-launches-classic-games-hub/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:00+00:00</news:publication_date>
-      <news:title>Chess.com Expands Beyond Chess with New Classic Games Hub</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-chess-com-launches-classic-games-hub/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:00+00:00</news:publication_date>
-      <news:title>Chess.com se extinde: 10 jocuri clasice noi pe platformă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-weekly-tech-app-recommendations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:00:00+00:00</news:publication_date>
-      <news:title>Weekly Tech Picks: Essential Apps for Your Workflow</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-weekly-tech-app-recommendations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:00:00+00:00</news:publication_date>
-      <news:title>Aplicații și unelte tech: Ce merită să ai pe telefon săptămâna aceasta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-science-genetics-vs-racism/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:01:13+00:00</news:publication_date>
-      <news:title>The Myth of Race Realism: Modern Science Debunked</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-science-genetics-vs-racism/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:01:13+00:00</news:publication_date>
-      <news:title>Mitul rasismului științific: Ce spune genetica modernă</news:title>
     </news:news>
   </url>
 </urlset>
