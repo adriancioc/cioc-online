@@ -182,6 +182,43 @@
     ]
   },
   {
+    "slug": "2026-11-23-roscosmos-secrecy-iss-launch",
+    "slug_ro": "secretomania-roscosmos-statia-spatiala",
+    "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+    "category": "TECH",
+    "virality_score": 5,
+    "focus_keyword_ro": "Roscosmos secret lansare",
+    "focus_keyword_en": "Roscosmos ISS launch secrecy",
+    "title_ro": "De ce a devenit secretă o lansare NASA-Roscosmos către ISS?",
+    "title_en": "Why is a routine ISS supply mission now a state secret?",
+    "summary": "NASA is refusing to provide details on a Russian Progress launch to the ISS. We examine the geopolitical shift behind this lack of transparency.",
+    "summary_ro": "NASA refuză să ofere detalii despre o misiune de aprovizionare rusească către ISS. Analizăm motivele din spatele acestei schimbări de paradigmă.",
+    "summary_en": "NASA is refusing to provide details on a Russian Progress launch to the ISS. We examine the geopolitical shift behind this lack of transparency.",
+    "body_ro": "<h2>O ruptură în transparența spațială</h2><p>Într-o conferință de presă recentă, NASA a oferit un răspuns neobișnuit de sec reporterilor care întrebau despre lansarea unei nave cargo rusești Progress către Stația Spațială Internațională (ISS). În loc de datele obișnuite, oficialii NASA au direcționat presa către Roscosmos, agenția spațială rusă, care în ultima perioadă a încetat să mai comunice public detaliile lansărilor sale.</p><p>Această schimbare marchează o abatere majoră de la tradiția de transparență care a definit colaborarea pe ISS timp de decenii. Până recent, NASA transmitea live lansările Progress din Baikonur, oferind actualizări constante. Astăzi, însă, programul oficial al NASA nu conține nicio mențiune despre această misiune, lăsând comunitatea spațială să speculeze motivele.</p><h2>Tehnologie și geopolitică la bord</h2><p>Misiunea Progress MS-36 transportă echipamente critice, inclusiv un robot numit „Teledroid”, conceput pentru a asista astronauții în timpul activităților extravehiculare. De asemenea, nava va juca un rol tehnic important în gestionarea modulelor stației, în special după decizia de a dezafecta modulul PrK, care prezenta scurgeri de presiune.</p><p>Totuși, analiștii consideră că problemele tehnice nu sunt cauza secretomaniei. Cel mai probabil, Rusia a extins politicile de securitate aplicate deja la cosmodromul Plesetsk către toate facilitățile sale de lansare. Din cauza războiului din Ucraina și a atacurilor cu drone asupra infrastructurii rusești, Moscova a decis să limiteze drastic informațiile despre orice activitate spațială, temându-se că detaliile despre lansări ar putea fi folosite pentru a identifica vulnerabilități.</p><h2>Ce urmează pentru colaborarea internațională?</h2><p>NASA pare să accepte, cel puțin tacit, această nouă realitate pentru a menține relația de lucru cu partenerii ruși. Totuși, această abordare va fi pusă la încercare în martie 2027, când o misiune Soyuz va transporta astronauți NASA către stație. Este greu de crezut că o lansare cu echipaj uman va putea fi tratată cu aceeași lipsă de transparență, având în vedere responsabilitatea agenției americane față de siguranța propriilor cetățeni. Rămâne de văzut dacă acest „secret de stat” va deveni noua normă sau dacă presiunea publică va forța o revenire la comunicarea deschisă.</p>",
+    "body_en": "<h2>A shift in space transparency</h2><p>During a recent NASA press briefing, officials provided an unusually blunt response to reporters asking about an upcoming Russian Progress cargo mission to the International Space Station (ISS). Instead of providing the standard launch window, NASA officials directed media to contact Roscosmos directly, effectively washing their hands of the mission's public schedule.</p><p>This lack of information is a stark departure from the decades-long tradition of transparency regarding ISS operations. Historically, NASA has televised every Russian cargo flight from Baikonur, Kazakhstan. The current silence suggests a paradigm shift in how international partners manage information, especially as Russia has curtailed its own public communications regarding launch campaigns.</p><h2>The intersection of tech and geopolitics</h2><p>The Progress MS-36 mission carries specialized cargo, including the 'Teledroid' robot designed to assist with spacewalks. Furthermore, the spacecraft is vital for the station's propulsion and docking configuration, particularly as the aging PrK module is slated for decommissioning due to persistent pressure leaks.</p><p>However, experts suggest that technical specifics are not the primary driver of this secrecy. It is more likely that Russia has extended its strict security policies—already implemented at the Plesetsk Cosmodrome—to all its launch facilities. Following drone attacks on Russian infrastructure, the Kremlin has moved to restrict information about launch schedules, likely to prevent the identification of vulnerabilities or to maintain operational security amidst the ongoing war in Ukraine.</p><h2>The future of ISS cooperation</h2><p>NASA appears to be accommodating this new policy to maintain a functional working relationship with Roscosmos. Yet, this approach faces a critical test in March 2027, when the Soyuz MS-30 mission is scheduled to carry NASA astronauts to the ISS. Maintaining such secrecy for a crewed mission would be unprecedented and likely unsustainable for the US space agency. As the geopolitical landscape continues to impact space operations, the future of transparency on the ISS remains uncertain, forcing a difficult balance between international cooperation and national security demands.</p>",
+    "highlights_ro": [
+      "NASA a refuzat să confirme detaliile unei lansări rusești Progress către ISS, trimițând reporterii direct la Roscosmos.",
+      "Lipsa de transparență este o premieră, având în vedere că anterior astfel de misiuni erau transmise live oficial.",
+      "Se suspectează că secretomania este legată de tensiunile geopolitice și securitatea infrastructurii spațiale rusești."
+    ],
+    "highlights_en": [
+      "NASA declined to confirm details of a Russian Progress cargo mission to the ISS, citing Roscosmos as the sole source.",
+      "This marks a significant departure from historical transparency where such missions were televised live.",
+      "Geopolitical tensions and security concerns regarding Russian spaceports are the likely drivers of this secrecy."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-23T20:34:51+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-23-roscosmos-secrecy-iss-launch_1.jpg",
+      "assets/images/2026-11-23-roscosmos-secrecy-iss-launch_2.jpg",
+      "assets/images/2026-11-23-roscosmos-secrecy-iss-launch_3.jpg",
+      "assets/images/2026-11-23-roscosmos-secrecy-iss-launch_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-russia-nuclear-space-weapon-threat",
     "slug_ro": "rusia-arma-nucleara-spatiu",
     "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",

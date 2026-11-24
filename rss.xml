@@ -40,6 +40,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-23-apple-reviving-product-red-homepod-airpods_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Why is a routine ISS supply mission now a state secret?</title>
+    <link>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</guid>
+    <description>NASA is refusing to provide details on a Russian Progress launch to the ISS. We examine the geopolitical shift behind this lack of transparency.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-roscosmos-secrecy-iss-launch_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Russia May Launch Nuclear Weapon into Orbit Next Month</title>
     <link>https://cioc.online/en/posts/2026-11-23-russia-nuclear-space-weapon-threat/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-russia-nuclear-space-weapon-threat/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-binding-of-isaac-removes-ai-music/</guid>
     <description>Binding of Isaac: Repentance Plus developer removes AI-generated music following community outrage and Steam review-bombing.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-binding-of-isaac-removes-ai-music_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Robotaxi vs. Human Drivers: The Las Vegas Mobility Lab</title>
-    <link>https://cioc.online/en/posts/2026-11-22-robotaxi-vs-human-drivers-future/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-robotaxi-vs-human-drivers-future/</guid>
-    <description>We analyze the competition between Waymo, Zoox, and Tesla and how Uber is changing the way we navigate urban environments.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-robotaxi-vs-human-drivers-future_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
