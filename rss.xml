@@ -47,6 +47,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-23-trump-reinstates-jensen-huang-nvidia-ceo_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Gemini API Adds File Slicing Controls to Cut Token Costs</title>
+    <link>https://cioc.online/en/posts/2026-11-23-google-gemini-api-file-slicing/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-google-gemini-api-file-slicing/</guid>
+    <description>Google introduces native file slicing and MS Office support in Gemini API, lowering token spend for developers. Read full technical breakdown on cioc.online.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-google-gemini-api-file-slicing_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Avengers: Doomsday Final Trailer: RDJ and Multiverse Chaos</title>
     <link>https://cioc.online/en/posts/2026-11-23-avengers-doomsday-final-trailer-marvel/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-avengers-doomsday-final-trailer-marvel/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-apple-black-friday-deals-analysis/</guid>
     <description>We analyze the latest Amazon US Black Friday deals on AirPods Pro 3 and M6 MacBook Pro. Are these international discounts worth the hassle?</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-apple-black-friday-deals-analysis_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple&#x27;s Big Spring 2027 Product Roadmap Revealed</title>
-    <link>https://cioc.online/en/posts/2026-11-22-apple-spring-2027-product-launch/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-apple-spring-2027-product-launch/</guid>
-    <description>Apple is planning a major product launch in early 2027 featuring the iPhone 18, MacBook Neo, and new iPads. Get the latest details on the upcoming lineup.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-apple-spring-2027-product-launch_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
