@@ -403,6 +403,41 @@
     ]
   },
   {
+    "slug": "2026-11-23-apple-wallet-id-connecticut-expansion",
+    "slug_ro": "apple-wallet-id-connecticut",
+    "url": "https://www.macrumors.com/2026/11/23/apple-wallet-ids-coming-to-connecticut/",
+    "category": "TECH",
+    "virality_score": 4,
+    "focus_keyword_ro": "Apple Wallet ID",
+    "focus_keyword_en": "Apple Wallet ID",
+    "title_ro": "Apple Wallet ID: Connecticut adoptă actele de identitate digitale",
+    "title_en": "Apple Wallet ID Expansion: Connecticut Joins the List",
+    "summary": "Connecticut is finally adding support for digital driver's licenses in Apple Wallet. Here is what you need to know about the rollout and limitations.",
+    "summary_ro": "Statul Connecticut introduce suport pentru permise de conducere în Apple Wallet. Află cum funcționează și de ce disponibilitatea rămâne limitată în SUA.",
+    "summary_en": "Connecticut is finally adding support for digital driver's licenses in Apple Wallet. Here is what you need to know about the rollout and limitations.",
+    "body_ro": "<h2>Digitalizarea actelor de identitate în SUA</h2><p>Apple continuă expansiunea funcției de acte de identitate digitale în Apple Wallet, statul Connecticut fiind cea mai recentă regiune care a confirmat adoptarea acestui sistem. Deși anunțul a fost făcut inițial încă din 2021, implementarea practică a întârziat considerabil, fiind acum programată pentru anul viitor. Această funcție permite utilizatorilor să stocheze permisul de conducere sau cartea de identitate direct în aplicația Wallet pe iPhone și Apple Watch.</p><h2>Cum funcționează tehnologia Apple</h2><p>Utilizarea actelor digitale este simplificată pentru a proteja intimitatea utilizatorului. În loc să înmâneze dispozitivul fizic, posesorul de iPhone trebuie doar să apropie telefonul sau ceasul de un cititor compatibil. Informațiile sunt partajate doar după autentificarea prin Face ID sau Touch ID, asigurând un control total asupra datelor transmise. Această metodă este deja acceptată la punctele de control TSA din peste 250 de aeroporturi americane pentru zboruri interne.</p><h2>Limitări și realitatea din teren</h2><p>În ciuda entuziasmului tehnologic, adopția rămâne extrem de fragmentată. În prezent, doar 16 state americane oferă acest suport, iar utilitatea este limitată. Este important de menționat că aceste acte digitale nu înlocuiesc documentele fizice în fața autorităților rutiere; șoferii sunt în continuare obligați prin lege să poarte actele fizice la ei în timpul condusului. Mai mult, numărul companiilor private care acceptă acest format este încă redus.</p><h2>Relevanța pentru România și Uniunea Europeană</h2><p>Pentru utilizatorii din România, acest sistem rămâne un subiect de interes pur tehnologic. În timp ce Uniunea Europeană lucrează la propriul cadru pentru portofelul digital de identitate (EUDI Wallet), acesta va funcționa pe standarde diferite față de implementarea Apple din SUA. Până când legislația românească nu va permite recunoașterea actelor digitale stocate în aplicații terțe, posesorii de iPhone din țara noastră vor trebui să se bazeze în continuare pe documentele fizice sau pe aplicațiile oficiale ale statului român.</p>",
+    "body_en": "<h2>Digital IDs arrive in Connecticut</h2><p>Apple's digital identity initiative is expanding, with Connecticut officials confirming that state IDs and driver's licenses will be supported in Apple Wallet starting next year. This follows a long delay, as the state initially signed an agreement with Apple back in 2021. The move aims to modernize how residents prove their identity at TSA checkpoints and select businesses.</p><h2>Security and Privacy Features</h2><p>The system is designed with privacy at its core. When presenting an ID, the user simply taps their iPhone or Apple Watch against a reader. The device only releases the necessary information after the user authenticates via Face ID or Touch ID. This ensures that the user never has to hand over their device to a third party, maintaining full control over their personal data.</p><h2>The Current Landscape in the US</h2><p>While 16 states have already rolled out this feature, the adoption rate remains a point of contention. The primary use case is currently domestic air travel, with acceptance at over 250 TSA checkpoints across the United States. However, law enforcement agencies generally do not recognize these digital IDs, meaning that physical cards are still a legal requirement for traffic stops and other official interactions.</p><h2>Global Perspective</h2><p>For European users, this development highlights the difference between proprietary tech solutions and government-led digital identity frameworks. While Apple is pushing its own standard in the US, the European Union is developing the EUDI Wallet, which is intended to be the standard for digital identification across member states. Until local regulations align with these digital standards, physical documents will remain the only legally binding form of identification in most European countries.</p>",
+    "highlights_ro": [
+      "Connecticut va permite adăugarea permisului de conducere în Apple Wallet începând de anul viitor.",
+      "Funcția este disponibilă în 16 state americane, dar nu există planuri pentru România sau UE.",
+      "Cioc.online: O tehnologie utilă, dar blocată de birocrația locală și adopția extrem de lentă."
+    ],
+    "highlights_en": [
+      "Connecticut residents will be able to add state IDs to Apple Wallet starting next year.",
+      "The feature is currently available in 16 US states with varying levels of acceptance.",
+      "Cioc.online: A convenient feature for US travelers, but still far from a global standard."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-23T15:37:49+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-23-apple-wallet-id-connecticut-expansion_1.jpg",
+      "assets/images/2026-11-23-apple-wallet-id-connecticut-expansion_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-apple-iphone-duo-samsung-display-deal",
     "slug_ro": "apple-iphone-duo-ecran-samsung",
     "url": "https://www.macrumors.com/2026/11/23/apple-may-be-stuck-with-samsung-for-iphone-duo/",
