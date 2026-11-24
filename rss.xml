@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-24-kagi-mail-privacy-focused-gmail-alternative_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Search AI Mode Connects to Wallet and Google Drive</title>
+    <link>https://cioc.online/en/posts/2026-11-23-google-search-ai-mode-wallet-drive/</link>
+    <guid>https://cioc.online/en/posts/2026-11-23-google-search-ai-mode-wallet-drive/</guid>
+    <description>Google expands AI Mode in Search by integrating Google Wallet, Drive, and Gemini. Learn what changes and how to control your personal data.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-23-google-search-ai-mode-wallet-drive_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Anthropic Launches Claude Ship: AI Agents That Approve Code</title>
     <link>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-struggles/</guid>
     <description>Mark Gurman reports on Apple&#x27;s internal Siri struggles, rigid development cycles, and the long wait for a truly capable AI agent.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-apple-siri-ai-struggles_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Data Centers: Why Big Tech&#x27;s Infrastructure is a Political Minefield</title>
-    <link>https://cioc.online/en/posts/2026-11-22-data-centers-big-tech-backlash/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-data-centers-big-tech-backlash/</guid>
-    <description>Data centers are fueling a backlash against Big Tech. From massive energy use to water scarcity, learn why communities are fighting back.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-data-centers-big-tech-backlash_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

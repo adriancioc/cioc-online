@@ -35,6 +35,44 @@
     ]
   },
   {
+    "slug": "2026-11-23-google-search-ai-mode-wallet-drive",
+    "slug_ro": "google-search-ai-mod-acces-wallet",
+    "url": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "Google Search AI Wallet Drive",
+    "focus_keyword_en": "Google Search AI Wallet Drive",
+    "title_ro": "Google Search AI primește acces la Google Wallet și Drive",
+    "title_en": "Google Search AI Mode Connects to Wallet and Google Drive",
+    "summary": "Google expands AI Mode in Search by integrating Google Wallet, Drive, and Gemini. Learn what changes and how to control your personal data.",
+    "summary_ro": "Google extinde modul AI din Search conectând Google Wallet, Drive și Gemini. Află ce date sunt folosite și cum poți dezactiva opțiunea.",
+    "summary_en": "Google expands AI Mode in Search by integrating Google Wallet, Drive, and Gemini. Learn what changes and how to control your personal data.",
+    "body_ro": "<h2>Google aduce Inteligența Personală mai aproape de fișierele tale</h2><p>Gigantul din Mountain View a anunțat o extindere majoră pentru sistemul <strong>Personal Intelligence</strong> integrat în modul AI din Google Search. După ce a permis anterior conectarea cu Gmail, Google Calendar și Google Photos, gigantul tech adaugă acum integrări directe pentru <strong>Google Wallet</strong>, <strong>Google Drive</strong> și aplicația <strong>Gemini</strong>. Obiectivul declarat este oferirea unor răspunsuri mult mai precise și adaptate la contextul individual al fiecărui utilizator.</p><p>Prin conectarea serviciului Google Wallet, modul AI va putea analiza date financiare precum istoricul sau beneficiile cardurilor de credit, ajutând utilizatorii să identifice modalități de a economisi sau de a-și structura obiectivele bugetare. Reprezentanții Google au subliniat că algoritmul are exclusiv permisiuni de citire a datelor din conturile asociate, neavând capacitatea de a efectua tranzacții, de a muta fonduri sau de a administra investiții în mod autonom.</p><h2>Integrare profundă cu Google Drive și Gemini</h2><p>A doua componentă majoră este conectarea cu <strong>Google Drive</strong>. Această funcționalitate permite motorului de căutare să scaneze documente text, fișiere PDF, tabele și prezentări salvate în cloud pentru a oferi răspunsuri personalizate. De exemplu, utilizatorii pot cere inteligenței artificiale să creeze un plan de organizare pentru taxele anuale sau să extragă concluzii dintr-un proiect complex ale cărui detalii erau împrăștiate în mai multe fișiere.</p><p>În plus, sincronizarea bidirecțională cu aplicația Gemini asigură un transfer continuu de context. Dacă începi o conversație sau explorezi o idee în aplicația mobilă Gemini, modul AI din Google Search va recunoaște istoricul recent și va continua căutarea fără a necesita reintroducerea informațiilor de la zero. Pentru transparență, răspunsurile furnizate pe baza datelor personale vor fi însoțite de o nouă pictogramă dedicată numită <strong>Personalization</strong>, prin care poți vedea exact din ce aplicație au fost preluate informațiile.</p><h2>Cum îți protejezi confidențialitatea și datele personale</h2><p>Deși facilitățile de personalizare par extrem de utile, stocarea și analizarea unui volum atât de mare de date sensibile ridică semne de întrebare legitime legate de confidențialitate. Google menționează că opțiunea de conectare a aplicațiilor la Personal Intelligence nu este activată implicit și necesită acordul explicit al utilizatorului prin secțiunea <strong>Search Personalization</strong> din contul Google.</p><p>Pentru utilizatorii din România și din Uniunea Europeană preocupați de respectarea normelor GDPR, este esențial de știut că istoricul de conversare și utilizarea datelor pentru antrenarea modelelor AI pot fi gestionate separat. Din panoul de control al contului se pot opri recomandările personalizate, istoricul serviciilor de căutare și reclamele adaptate. Chiar și dacă oprești stocarea istoricului de chat în Gemini, compania reține temporar datele timp de aproximativ două luni din motive de securitate. Cei care doresc o confidențialitate totală pot opta pentru motoare de căutare alternative bazate pe abonament plătit.</p>",
+    "body_en": "<h2>Google Search Expands Personal Intelligence Capabilities</h2><p>Google has officially announced a significant expansion to its <strong>Personal Intelligence</strong> engine within AI Mode in Google Search. Having already integrated Gmail, Google Calendar, and Google Photos, the search giant is now bringing direct support for <strong>Google Wallet</strong>, <strong>Google Drive</strong>, and the <strong>Gemini</strong> application into the fold. The goal is to deliver context-aware, tailored search responses using your existing digital footprint.</p><p>With Google Wallet access, AI Mode can evaluate financial milestones and analyze credit card benefits to help users optimize everyday spending. Google explicitly noted that AI Mode only holds read permissions for Wallet data and cannot initiate money transfers, manage accounts, or execute investments on behalf of the user.</p><h2>Deeper Connectivity with Google Drive and Gemini</h2><p>The integration of <strong>Google Drive</strong> empowers the search engine to index cloud-stored documents, spreadsheets, and PDF files to generate answers suited to personal workflows. For example, if project details or financial documents are scattered across various files, Search AI can synthesize that information into an actionable tax preparation schedule or meeting summary.</p><p>Furthermore, cross-app context sharing between the standalone Gemini app and AI Mode in Search ensures a unified user experience. When you research a topic inside the Gemini application, Search AI Mode retains that foundation, eliminating the need to restart queries. To maintain clear boundaries, responses derived from personal data will feature a distinct <strong>Personalization</strong> icon underneath, showing the precise data sources consulted by the model.</p><h2>Privacy Controls and Data Management Options</h2><p>While contextual personal search offers undeniable efficiency, feeding sensitive financial and document data to AI models poses clear privacy concerns. Google emphasizes that app integration for Personal Intelligence remains optional and is not turned on by default. Users can manage or revoke access at any time via the <strong>Search Personalization</strong> panel inside their Google Account settings.</p><p>For privacy-minded users across Europe and beyond, Google provides toggles to disable personalized recommendations, search history tracking, and ad customization. It is worth noting that even when Gemini chat history is disabled, residual logs are retained for up to two months for safety monitoring. Users seeking complete isolation from personal data profiling may consider zero-data search alternatives.</p>",
+    "highlights_ro": [
+      "Google extinde Personal Intelligence în modul AI din Search adăugând acces la fișierele din Drive, cardurile din Wallet și aplicația Gemini.",
+      "Funcția este gratuită pentru utilizatorii ecosistemului Google și este lansată treptat la nivel global, inclusiv în Uniunea Europeană.",
+      "Atenție la confidențialitate: deși oferă răspunsuri personalizate, este recomandată verificarea setărilor de colectare a datelor pe cioc.online."
+    ],
+    "highlights_en": [
+      "Google expands Personal Intelligence in Search AI Mode with access to Drive documents, Wallet rewards, and Gemini context.",
+      "Rolling out globally as a free enhancement within the Google ecosystem, requiring opt-in settings.",
+      "Privacy verdict: convenient personalized answers, but users should review data collection settings carefully."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-23T22:09:42+00:00",
+    "source_names": [
+      "MacRumors",
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-23-google-search-ai-mode-wallet-drive_1.jpg",
+      "assets/images/2026-11-23-google-search-ai-mode-wallet-drive_2.jpg",
+      "assets/images/2026-11-23-google-search-ai-mode-wallet-drive_3.jpg",
+      "assets/images/2026-11-23-google-search-ai-mode-wallet-drive_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-anthropic-launches-claude-ship",
     "slug_ro": "anthropic-lanseaza-claude-ship",
     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
