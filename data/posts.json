@@ -180,6 +180,44 @@
     ]
   },
   {
+    "slug": "2026-11-23-gemini-canvas-hidden-features",
+    "slug_ro": "ce-poti-face-cu-gemini-canvas",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "Gemini Canvas",
+    "focus_keyword_en": "Gemini Canvas features",
+    "title_ro": "4 funcții ascunse în Gemini Canvas pe care trebuie să le încerci",
+    "title_en": "4 Hidden Gemini Canvas Features You Need to Try",
+    "summary": "Unlock the full potential of Google's Gemini Canvas with these 4 practical tips to boost your AI-assisted workflow and productivity.",
+    "summary_ro": "Descoperă cum Gemini Canvas îți transformă modul de lucru cu AI-ul. Iată 4 trucuri practice pentru a-ți maximiza productivitatea chiar acum.",
+    "summary_en": "Unlock the full potential of Google's Gemini Canvas with these 4 practical tips to boost your AI-assisted workflow and productivity.",
+    "body_ro": "<h2>Gemini Canvas: Mai mult decât un simplu chatbot</h2><p>Google continuă să integreze AI-ul în fluxul nostru zilnic de lucru, iar Gemini Canvas reprezintă un pas important în această direcție. Dacă până acum eram obișnuiți să purtăm conversații liniare cu inteligența artificială, Canvas schimbă regulile jocului oferind un spațiu de lucru dedicat, lateral, unde poți edita, rafina și structura conținutul în timp real.</p><p>Această abordare elimină nevoia de a copia și lipi textul constant între fereastra de chat și un editor extern. Iată cum poți profita de acest instrument pentru a deveni mai eficient.</p><h2>1. Editarea colaborativă în timp real</h2><p>Cea mai mare problemă a chatbot-urilor clasice este dificultatea de a modifica un text lung generat anterior. Cu Gemini Canvas, ai un editor integrat. Poți selecta porțiuni specifice din textul generat și poți cere AI-ului să rescrie doar acea secțiune, să schimbe tonul sau să scurteze paragrafele, fără a altera restul documentului.</p><h2>2. Structurarea și organizarea ideilor</h2><p>Canvas nu este doar pentru text. Poți folosi spațiul lateral pentru a transforma ideile brute în liste, tabele sau outline-uri structurate. Este ideal pentru planificarea proiectelor sau pentru organizarea notițelor de ședință, oferindu-ți o vedere clară asupra structurii documentului tău.</p><h2>3. Verificarea și rafinarea codului</h2><p>Pentru programatori, Gemini Canvas este un aliat puternic. Poți vizualiza și edita fragmente de cod direct în fereastra dedicată. AI-ul poate sugera corecții, poate explica funcțiile complexe sau poate optimiza scripturile, totul într-un mediu care permite testarea rapidă a modificărilor.</p><h2>4. Gestionarea versiunilor</h2><p>Un aspect adesea ignorat este capacitatea de a reveni la iterații anterioare. Canvas îți permite să gestionezi mai ușor versiunile textului tău, astfel încât să nu pierzi ideile bune în procesul de editare. Este un instrument de productivitate care, odată stăpânit, îți salvează cel puțin 30 de minute din timpul de lucru zilnic.</p><p><strong>Verdictul nostru:</strong> Gemini Canvas nu este doar un moft, ci o unealtă de productivitate matură. Deși competiția (precum Claude Artifacts) este acerbă, integrarea în ecosistemul Google îl face extrem de accesibil pentru utilizatorii din România care folosesc deja suita Workspace.</p>",
+    "body_en": "<h2>Mastering the Gemini Canvas Workspace</h2><p>Google is shifting the AI paradigm from simple chat interfaces to interactive workspaces. Gemini Canvas is the latest evolution, providing a dedicated side window where you can refine, edit, and collaborate with AI on complex tasks without losing context. This is a significant upgrade for anyone tired of the endless copy-paste cycle.</p><p>Here are four ways to leverage this workspace to streamline your daily operations.</p><h2>1. Targeted Content Refinement</h2><p>The standout feature of Canvas is the ability to edit specific sections of generated content. Instead of asking the AI to regenerate an entire article, you can highlight a paragraph and instruct the AI to adjust the tone, length, or clarity of that specific block. This precision makes the creative process feel much more human-centric.</p><h2>2. Structured Data Organization</h2><p>Canvas excels at transforming unstructured thoughts into organized formats. Whether you are building a project roadmap or drafting a complex report, you can use the side panel to generate tables, bulleted lists, and structured outlines. This visual organization is key to maintaining clarity in long-form projects.</p><h2>3. Code Review and Optimization</h2><p>Developers can use the Canvas environment to view and manipulate code snippets directly. The AI can suggest optimizations, debug specific lines, or explain logic flows within the workspace. It acts as a lightweight IDE that integrates perfectly with your chat history, allowing for rapid iteration and testing.</p><h2>4. Version Control and Iteration</h2><p>Managing iterations is often a pain point in AI prompting. Canvas simplifies this by allowing you to track changes and revert to previous versions of your work. This ensures that you never lose a good idea while experimenting with new prompts or structural changes.</p><p><strong>Our Verdict:</strong> Gemini Canvas is a mature productivity tool that finally bridges the gap between conversational AI and functional document editing. While it faces stiff competition from tools like Claude Artifacts, its deep integration with the Google ecosystem makes it a must-use for power users.</p>",
+    "highlights_ro": [
+      "Google a extins capabilitățile Gemini Canvas pentru un spațiu de lucru interactiv.",
+      "Funcția este disponibilă gratuit pentru utilizatorii Gemini; fără costuri suplimentare în RO.",
+      "Un instrument esențial pentru editare și organizare, depășind simplul chat."
+    ],
+    "highlights_en": [
+      "Google expanded Gemini Canvas capabilities for interactive workspace tasks.",
+      "Available for free for Gemini users; no extra subscription required.",
+      "A game-changer for editing, coding, and project organization."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-23T18:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-23-gemini-canvas-hidden-features_1.jpg",
+      "assets/images/2026-11-23-gemini-canvas-hidden-features_2.jpg",
+      "assets/images/2026-11-23-gemini-canvas-hidden-features_3.jpg",
+      "assets/images/2026-11-23-gemini-canvas-hidden-features_4.jpg",
+      "assets/images/2026-11-23-gemini-canvas-hidden-features_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-trump-reinstates-jensen-huang-nvidia-ceo",
     "slug_ro": "trump-interventie-jensen-huang-nvidia",
     "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
