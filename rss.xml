@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>NYT Warns Photographers to Avoid Photoshop 2027 AI</title>
+    <link>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</guid>
+    <description>The New York Times instructs photographers not to update to Photoshop 2027 over automatic AI metadata tags flagging images as AI-edited.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-nyt-warns-photographers-against-photoshop-2027_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Meta Launches Muse Personal AI Agent in the UK via WhatsApp</title>
     <link>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-best-apps-to-make-friends/</guid>
     <description>Loneliness is a modern crisis. Discover the best social apps designed to help you build platonic connections and local communities in 2026.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-best-apps-to-make-friends_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>iPhone Duo: Apple Testing New Lock Screen Widget Layout</title>
-    <link>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</guid>
-    <description>Leaked code from iOS 27.1 suggests Apple is testing a new &#x27;Complication Column&#x27; for iPhone Duo lock screens. Here is what we know so far.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
