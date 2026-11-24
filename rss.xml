@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Meta Launches Muse Personal AI Agent in the UK via WhatsApp</title>
+    <link>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</guid>
+    <description>Meta expands its Muse AI agent to the UK with WhatsApp integration and autonomous payment features. Here is what you need to know about safety and rollout.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-meta-launches-muse-personal-ai-agent_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Kagi Mail: A New Privacy-First Alternative to Gmail</title>
     <link>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</guid>
     <description>Leaked code from iOS 27.1 suggests Apple is testing a new &#x27;Complication Column&#x27; for iPhone Duo lock screens. Here is what we know so far.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-iphone-duo-lock-screen-widgets_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Siri Struggles: Why Apple is Falling Behind in the AI Race</title>
-    <link>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-struggles/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-struggles/</guid>
-    <description>Mark Gurman reports on Apple&#x27;s internal Siri struggles, rigid development cycles, and the long wait for a truly capable AI agent.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-apple-siri-ai-struggles_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

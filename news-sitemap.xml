@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:15:54+00:00</news:publication_date>
+      <news:title>Meta Launches Muse Personal AI Agent in the UK via WhatsApp</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:15:54+00:00</news:publication_date>
+      <news:title>Meta lansează agentul AI Muse în Europa: Ce face pe WhatsApp</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</loc>
     <news:news>
       <news:publication>
