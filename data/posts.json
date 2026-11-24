@@ -41,6 +41,42 @@
     ]
   },
   {
+    "slug": "2026-11-23-anthropic-launches-claude-ship",
+    "slug_ro": "anthropic-lanseaza-claude-ship",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "Claude Ship Anthropic",
+    "focus_keyword_en": "Claude Ship AI coding",
+    "title_ro": "Anthropic lansează Claude Ship: AI-ul care aprobă codul singur",
+    "title_en": "Anthropic Launches Claude Ship: AI Agents That Approve Code",
+    "summary": "Anthropic introduces Claude Ship, a suite of AI agents automating code reviews, fixes, and approvals for software development teams.",
+    "summary_ro": "Anthropic introduce Claude Ship, o suită de agenți AI care automatizează revizuirea, repararea și aprobarea codului pentru dezvoltatori.",
+    "summary_en": "Anthropic introduces Claude Ship, a suite of AI agents automating code reviews, fixes, and approvals for software development teams.",
+    "body_ro": "<h2>Revoluția în programare: Claude Ship preia controlul</h2><p>Anthropic face un pas major în evoluția inteligenței artificiale aplicate în dezvoltarea software. Noua suită, denumită <strong>Claude Ship</strong>, nu se limitează doar la generarea de linii de cod, ci vizează eliminarea blocajelor din procesul de revizuire și aprobare a acestuia. Într-o lume în care agenții AI scriu deja o mare parte din software-ul modern, viteza de producție a depășit capacitatea umană de verificare.</p><h2>Ce aduce nou Claude Ship?</h2><p>Spre deosebire de instrumentele anterioare, Claude Ship introduce trei componente esențiale pentru echipele de dezvoltare:</p><ul><li><strong>Code Review:</strong> Disponibil deja pentru toți utilizatorii, acesta analizează modificările propuse și identifică problemele de logică sau securitate.</li><li><strong>PR Steward:</strong> Un agent dedicat care gestionează conflictele de îmbinare (merge conflicts) și erorile de integrare continuă (CI), comentând automat după fiecare push.</li><li><strong>Claude Approvals:</strong> Piesa centrală a suitei, care permite AI-ului să aprobe automat modificările de cod pe baza politicilor definite de echipă într-un fișier de configurare.</li></ul><p>Această abordare permite echipelor să automatizeze fluxurile de lucru care, până acum, necesitau intervenție umană constantă pentru fiecare pull request.</p><h2>Siguranță și control în era AI</h2><p>Anthropic este conștientă de riscurile automatizării aprobărilor. De aceea, funcționalitatea de aprobare este lansată în beta, iar compania recomandă utilizarea ei inițial în mod <em>observe-only</em>. Dezvoltatorii păstrează controlul total asupra politicilor de aprobare, putând seta limite de cheltuieli și niveluri de profunzime a analizei (Quick, Standard sau Deep). Mai mult, orice modificare critică poate fi escaladată către un om pentru decizia finală.</p><p>Pentru piața din România, această lansare este relevantă pentru companiile de software care utilizează planurile Team și Enterprise. Integrarea directă cu GitHub facilitează adoptarea, dar necesită o schimbare de paradigmă în guvernanța codului. Dacă până acum AI-ul a fost un asistent, acum devine un participant activ în ciclul de viață al produsului software, capabil să decidă ce cod este gata de lansare.</p>",
+    "body_en": "<h2>The Next Step in AI Coding: Claude Ship</h2><p>Anthropic is fundamentally changing how developers interact with AI. With the launch of <strong>Claude Ship</strong>, the company is moving beyond simple code generation to helping teams manage the entire lifecycle of a pull request. As AI coding agents become more capable, the bottleneck in software development has shifted from writing code to reviewing and approving it. Claude Ship aims to solve this by delegating approval authority to AI agents.</p><h2>Key Features of the Claude Ship Suite</h2><p>The new offering consists of three main components designed to streamline development:</p><ul><li><strong>Code Review:</strong> A general-purpose tool that identifies bugs and suggests improvements in proposed code changes.</li><li><strong>PR Steward:</strong> An agent that handles CI failures and merge conflicts, providing feedback and rollback instructions after every push.</li><li><strong>Claude Approvals:</strong> The most significant addition, which allows teams to set natural language policies for code approval, enabling the AI to merge changes automatically.</li></ul><p>This suite is specifically designed for teams where AI agents are already generating a significant portion of the codebase, ensuring that the speed of development is not hampered by human review latency.</p><h2>Implementation and Safety</h2><p>Anthropic emphasizes that human oversight remains a priority. The approval functionality is currently in beta, and the company advises teams to run it in <em>observe-only</em> mode before granting full autonomy. Developers can define custom approval policies within their repository, set monthly spending limits, and choose the depth of the review process. Critical changes can still be escalated to human reviewers, ensuring that teams maintain control over their production environment.</p><p>For enterprise teams, this represents a significant shift in DevOps practices. By integrating directly with GitHub, Claude Ship allows developers to automate routine tasks while maintaining strict policy adherence. As AI agents continue to mature, tools like Claude Ship will likely become standard in high-velocity engineering environments, transforming the role of the developer from a manual coder to an architect of AI-driven workflows.</p>",
+    "highlights_ro": [
+      "Anthropic a lansat Claude Ship, o suită de agenți AI pentru automatizarea completă a fluxului de lucru în programare.",
+      "Disponibil pentru planurile Team și Enterprise pe GitHub, cu funcții de aprobare automată bazate pe politici interne.",
+      "O schimbare radicală: AI-ul nu mai doar scrie cod, ci preia controlul asupra aprobării acestuia în producție."
+    ],
+    "highlights_en": [
+      "Anthropic unveiled Claude Ship, a suite of AI agents designed to automate the entire coding workflow.",
+      "Available for Team and Enterprise plans on GitHub, featuring automated approval policies.",
+      "A major shift: AI now moves beyond writing code to autonomously approving it for production."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-23T22:05:50+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-23-anthropic-launches-claude-ship_1.jpg",
+      "assets/images/2026-11-23-anthropic-launches-claude-ship_2.jpg",
+      "assets/images/2026-11-23-anthropic-launches-claude-ship_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-samsung-odyssey-g6-1100hz-review",
     "slug_ro": "samsung-odyssey-g6-1100hz-monitor",
     "url": "https://news.samsung.com/global/samsung-launches-odyssey-g6-the-worlds-first-1100hz-gaming-monitor",
