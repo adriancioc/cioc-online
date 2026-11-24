@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-23-ted-lasso-season-5-confirmed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:28:39+00:00</news:publication_date>
+      <news:title>Apple Officially Renews Ted Lasso for Season 5</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-23-ted-lasso-season-5-confirmed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:28:39+00:00</news:publication_date>
+      <news:title>Apple confirmă sezonul 5 Ted Lasso: Ce urmează pentru serial</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-apple-reviving-product-red-homepod-airpods/</loc>
     <news:news>
       <news:publication>
@@ -747,94 +769,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T12:07:41+00:00</news:publication_date>
       <news:title>Pot medicamentele GLP-1 să salveze mediul înconjurător?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-godzilla-minus-zero-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T22:12:41+00:00</news:publication_date>
-      <news:title>Godzilla Minus Zero: A Sequel That Actually Delivers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-godzilla-minus-zero-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T22:12:41+00:00</news:publication_date>
-      <news:title>Godzilla Minus Zero: O continuare care depășește originalul?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-amazon-nyc-delivery-label-dispute/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:59:31+00:00</news:publication_date>
-      <news:title>Amazon&#x27;s New Shipping Label Strategy in NYC</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-amazon-nyc-delivery-label-dispute/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:59:31+00:00</news:publication_date>
-      <news:title>Amazon escaladează conflictul cu autoritățile din New York</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-signal-restricts-screenshots-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:37:10+00:00</news:publication_date>
-      <news:title>Signal restricts screenshots to counter AI surveillance</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-signal-restricts-screenshots-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:37:10+00:00</news:publication_date>
-      <news:title>Signal restricționează capturile de ecran din cauza AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-21-nvidia-jensen-huang-china-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:07:42+00:00</news:publication_date>
-      <news:title>The Nvidia Drama: Jensen Huang, China, and Corporate Uncertainty</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-21-nvidia-jensen-huang-china-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:07:42+00:00</news:publication_date>
-      <news:title>Drama Nvidia: Jensen Huang, China și viitorul incert al gigantului AI</news:title>
     </news:news>
   </url>
 </urlset>
