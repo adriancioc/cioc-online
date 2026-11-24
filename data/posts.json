@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-24-kagi-mail-privacy-focused-gmail-alternative",
+    "slug_ro": "kagi-mail-alternativa-privacy-gmail",
+    "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+    "category": "APLICAȚII",
+    "virality_score": 7,
+    "focus_keyword_ro": "Kagi Mail",
+    "focus_keyword_en": "Kagi Mail",
+    "title_ro": "Kagi Mail: O nouă alternativă la Gmail axată pe confidențialitate",
+    "title_en": "Kagi Mail: A New Privacy-First Alternative to Gmail",
+    "summary": "Kagi Mail enters public beta. Discover this new ad-free, surveillance-free email service designed for those looking to move away from Google.",
+    "summary_ro": "Kagi Mail intră în beta public. Află ce oferă noul serviciu de email fără reclame și supraveghere, destinat celor care vor să scape de Google.",
+    "summary_en": "Kagi Mail enters public beta. Discover this new ad-free, surveillance-free email service designed for those looking to move away from Google.",
+    "body_ro": "<h2>O nouă încercare de a înlocui Gmail</h2><p>Kagi, compania cunoscută deja pentru motorul de căutare plătit și browserul Orion, a decis să atace un alt bastion Google: Gmail. Noul serviciu, Kagi Mail, intră oficial în faza de beta public, promițând o experiență lipsită de supraveghere, reclame și tehnici de lock-in. Într-o piață dominată de giganți, Kagi mizează pe transparență și standarde deschise.</p><h2>Ce primești în schimbul abonamentului?</h2><p>Spre deosebire de serviciile gratuite care își monetizează utilizatorii prin date, Kagi Mail urmează modelul de business bazat pe abonament. Utilizatorii primesc o adresă @kagimail.com, suport pentru alias-uri nelimitate, domenii proprii, 50GB spațiu de stocare și un calendar integrat. Totuși, trebuie să fii conștient că serviciul este încă în dezvoltare. Roadmap-ul oficial indică lansarea contactelor și a agendei abia în primul trimestru din 2027.</p><h2>Puncte slabe și disponibilitate</h2><p>Cel mai mare obstacol pentru utilizatorii obișnuiți este lipsa aplicațiilor mobile native. Kagi a anunțat că acestea nu vor fi disponibile până în trimestrul al treilea al anului 2027, ceea ce face ca utilizarea pe smartphone să fie dependentă de interfața web. Din punct de vedere financiar, Kagi Mail costă 99 USD pe an, sau este inclus în abonamentul Kagi Ultimate de 25 USD pe lună. Există o perioadă de testare de 60 de zile pentru cei curioși.</p><h2>Verdictul cioc.online</h2><p>Kagi Mail este o inițiativă lăudabilă pentru cei care vor să se deconecteze de ecosistemul Google. Totuși, prețul premium și lipsa unei aplicații mobile dedicate pentru aproape un an fac ca acest serviciu să fie, momentan, o soluție pentru entuziaști și power-users, nu pentru publicul larg. Dacă ești deja utilizator Kagi, integrarea ar putea merita efortul, dar pentru restul, Fastmail sau Tuta rămân alternative mai mature.</p>",
+    "body_en": "<h2>Another Attempt to Challenge Gmail</h2><p>Kagi, the company already known for its paid search engine and the Orion browser, is taking on another Google service: Gmail. The new service, Kagi Mail, has entered public beta, promising an experience free from surveillance, ads, and lock-in techniques. In a market dominated by tech giants, Kagi is banking on transparency and open standards to win over power users.</p><h2>What Do You Get for the Price?</h2><p>Unlike free services that monetize user data, Kagi Mail follows a subscription-based business model. Users get an @kagimail.com address, support for unlimited aliases, custom domains, 50GB of storage, and an integrated calendar. However, users should be aware that the service is still in active development. The official roadmap indicates that contacts and address book features are expected in Q1 2027.</p><h2>Drawbacks and Availability</h2><p>The biggest hurdle for the average user is the lack of native mobile apps. Kagi has stated that these are not expected to arrive until Q3 2027, making mobile usage dependent on the web interface for the time being. Financially, Kagi Mail costs $99 per year or is included in the $25/month Kagi Ultimate subscription. A 60-day free trial is available for those interested in testing the service.</p><h2>The cioc.online Verdict</h2><p>Kagi Mail is a commendable initiative for those looking to decouple from the Google ecosystem. However, the premium price point and the absence of a dedicated mobile app for nearly a year make this service a solution for enthusiasts and power users rather than the general public. If you are already a Kagi user, the integration might be worth it, but for others, services like Fastmail or Tuta remain more mature alternatives.</p>",
+    "highlights_ro": [
+      "Kagi a lansat Kagi Mail, un serviciu de email axat pe intimitate, fără reclame sau tracking.",
+      "Costă 99 USD/an sau 25 USD/lună (abonament Ultimate), cu 60 de zile trial gratuit.",
+      "O alternativă solidă, dar lipsa aplicațiilor mobile native până în Q3 2027 este un dezavantaj major."
+    ],
+    "highlights_en": [
+      "Kagi has launched Kagi Mail, an email service focused on privacy, zero ads, and no tracking.",
+      "Pricing is $99/year or $25/month (Ultimate plan), with a 60-day free trial.",
+      "A strong privacy contender, but the lack of native mobile apps until Q3 2027 is a significant drawback."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-24T00:02:52+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-24-kagi-mail-privacy-focused-gmail-alternative_1.jpg",
+      "assets/images/2026-11-24-kagi-mail-privacy-focused-gmail-alternative_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-23-anthropic-launches-claude-ship",
     "slug_ro": "anthropic-lanseaza-claude-ship",
     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",

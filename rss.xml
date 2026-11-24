@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Kagi Mail: A New Privacy-First Alternative to Gmail</title>
+    <link>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</guid>
+    <description>Kagi Mail enters public beta. Discover this new ad-free, surveillance-free email service designed for those looking to move away from Google.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-kagi-mail-privacy-focused-gmail-alternative_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Anthropic Launches Claude Ship: AI Agents That Approve Code</title>
     <link>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</link>
     <guid>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-data-centers-big-tech-backlash/</guid>
     <description>Data centers are fueling a backlash against Big Tech. From massive energy use to water scarcity, learn why communities are fighting back.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-data-centers-big-tech-backlash_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Delta Airlines Faces Major System Outage in Atlanta</title>
-    <link>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</guid>
-    <description>Delta Airlines experiences significant flight delays in Atlanta due to a critical weight and balance system failure.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-delta-airlines-system-outage_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

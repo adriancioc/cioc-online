@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T00:02:52+00:00</news:publication_date>
+      <news:title>Kagi Mail: A New Privacy-First Alternative to Gmail</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T00:02:52+00:00</news:publication_date>
+      <news:title>Kagi Mail: O nouă alternativă la Gmail axată pe confidențialitate</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</loc>
     <news:news>
       <news:publication>
