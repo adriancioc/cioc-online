@@ -35,6 +35,44 @@
     ]
   },
   {
+    "slug": "2026-11-24-google-announces-gemini-4-neon-hydrogen",
+    "slug_ro": "google-lanseaza-gemini-4-neon-hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "Gemini 4 Neon",
+    "focus_keyword_en": "Gemini 4 Neon",
+    "title_ro": "Google lansează Gemini 4 Neon și Hydrogen: Ce pot face noile modele AI",
+    "title_en": "Google Launches Gemini 4 Neon and Hydrogen AI Models",
+    "summary": "Google introduces Gemini 4 Neon and Hydrogen. Discover how these new AI models are revolutionizing coding and interactive 3D content creation.",
+    "summary_ro": "Google introduce Gemini 4 Neon și Hydrogen. Află cum noile modele AI revoluționează programarea și crearea de conținut vizual interactiv.",
+    "summary_en": "Google introduces Gemini 4 Neon and Hydrogen. Discover how these new AI models are revolutionizing coding and interactive 3D content creation.",
+    "body_ro": "<h2>Noua eră Gemini 4: Neon și Hydrogen</h2><p>Google a făcut un pas important în evoluția inteligenței artificiale prin lansarea modelelor Gemini 4 Neon și Gemini 4 Hydrogen. Aceste noi iterații nu sunt doar simple actualizări, ci instrumente specializate concepute pentru a răspunde nevoilor diferite ale dezvoltatorilor și utilizatorilor avansați.</p><p><strong>Gemini 4 Neon</strong> este vârful de gamă pentru inteligență de frontieră. Modelul a fost antrenat pentru a gestiona sarcini complexe de inginerie software și fluxuri științifice. Utilizatorii pot ajusta nivelul de gândire al modelului, permițând rezolvarea unor probleme de codare extrem de dificile sau crearea unor simulări 3D interactive complexe, precum simulări de găuri negre sau pendule ondulatorii.</p><h2>Hydrogen: Viteza și eficiența în prim-plan</h2><p>Dacă Neon este pentru profunzime, <strong>Gemini 4 Hydrogen</strong> este construit pentru execuție rapidă. Este un model agil, ideal pentru sarcinile zilnice, dar care strălucește în fluxuri de lucru agentice. Poate fi utilizat individual sau în tandem cu modelul Carbon, acționând ca un motor de execuție de înaltă eficiență.</p><p>Exemplele practice includ crearea de peisaje sci-fi, animații voxel complexe și randări 3D care prind viață în mai puțin de un minut. Această viteză de procesare schimbă radical modul în care dezvoltatorii pot prototipa idei noi.</p><h2>Disponibilitate și integrare</h2><p>Google a integrat aceste modele în ecosistemul său actual:</p><ul><li><strong>Dezvoltatori:</strong> Acces prin Gemini API în Google AI Studio și Android Studio.</li><li><strong>Abonați Pro/Ultra:</strong> Acces direct în Google Antigravity și prin meniul drop-down în aplicația Gemini.</li><li><strong>Enterprise:</strong> Disponibilitate prin Gemini for Business.</li></ul><p>Pentru utilizatorii din România, aceste funcții sunt disponibile imediat prin abonamentele Google One AI Premium, oferind acces la capabilități avansate de raționament care depășesc versiunile anterioare Flash. Indiferent dacă ești un programator care caută să automatizeze sarcini complexe sau un creator care dorește să genereze conținut vizual interactiv, Gemini 4 reprezintă un salt tehnologic major.</p>",
+    "body_en": "<h2>The New Gemini 4 Era: Neon and Hydrogen</h2><p>Google has taken a significant step in AI evolution with the release of Gemini 4 Neon and Gemini 4 Hydrogen. These new models are not just incremental updates; they are specialized tools designed to address the distinct needs of developers and power users.</p><p><strong>Gemini 4 Neon</strong> represents the frontier of intelligence. It is engineered to handle complex software engineering tasks and scientific workflows. Users can dial up the model's 'thinking' levels, allowing it to solve intricate coding problems or generate complex interactive 3D builds, such as interactive black hole shaders or pendulum wave simulations.</p><h2>Hydrogen: Speed and Efficiency</h2><p>While Neon focuses on depth, <strong>Gemini 4 Hydrogen</strong> is built for rapid execution. It is an agile model designed for everyday work, yet it excels in agentic workflows. It can function as a standalone model or pair with Carbon as a high-efficiency execution engine.</p><p>Early projects demonstrate its capability to create sci-fi landscapes, voxel animations, and interactive visuals in under a minute. This processing speed is fundamentally changing how developers prototype and deploy new ideas.</p><h2>Availability and Integration</h2><p>Google has integrated these models across its core ecosystem:</p><ul><li><strong>Developers:</strong> Access via Gemini API in Google AI Studio and Android Studio.</li><li><strong>Pro/Ultra Subscribers:</strong> Direct access in Google Antigravity and via the model drop-down in the Gemini app.</li><li><strong>Enterprise:</strong> Available through Gemini for Business.</li></ul><p>These models offer a major leap in reasoning capabilities compared to previous Flash versions. Whether you are a developer looking to automate complex tasks or a creator aiming to generate interactive visual content, Gemini 4 provides the necessary power to push the boundaries of what is possible with generative AI today.</p>",
+    "highlights_ro": [
+      "Google a lansat oficial modelele Gemini 4 Neon și Hydrogen, optimizate pentru sarcini complexe și execuție rapidă.",
+      "Disponibile acum pentru abonații Pro/Ultra în AI Studio, Google Antigravity și prin API pentru dezvoltatori.",
+      "Neon excelează în codare complexă, în timp ce Hydrogen este motorul ideal pentru fluxuri de lucru agentice rapide."
+    ],
+    "highlights_en": [
+      "Google officially released Gemini 4 Neon and Hydrogen, optimized for complex reasoning and rapid task execution.",
+      "Available now for Pro/Ultra subscribers in AI Studio, Google Antigravity, and via API for developers.",
+      "Neon excels in deep-thinking coding tasks, while Hydrogen serves as a high-efficiency engine for agentic workflows."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-24T16:00:00+00:00",
+    "source_names": [
+      "Google The Keyword"
+    ],
+    "images": [
+      "assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_1.jpg",
+      "assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_2.jpg",
+      "assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_3.jpg",
+      "assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_4.jpg",
+      "assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-iphone-18e-camera-redesign-leak",
     "slug_ro": "iphone-18e-design-camera-ipad-pro",
     "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",

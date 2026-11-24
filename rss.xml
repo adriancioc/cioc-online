@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-24-nyt-warns-photographers-against-photoshop-2027_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Launches Gemini 4 Neon and Hydrogen AI Models</title>
+    <link>https://cioc.online/en/posts/2026-11-24-google-announces-gemini-4-neon-hydrogen/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-google-announces-gemini-4-neon-hydrogen/</guid>
+    <description>Google introduces Gemini 4 Neon and Hydrogen. Discover how these new AI models are revolutionizing coding and interactive 3D content creation.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-google-announces-gemini-4-neon-hydrogen_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone 18e Leak: New iPad Pro-Style Camera Design</title>
     <link>https://cioc.online/en/posts/2026-11-24-iphone-18e-camera-redesign-leak/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-iphone-18e-camera-redesign-leak/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-22-elizabeth-holmes-documentary-box-office-success/</guid>
     <description>Nathan Fielder&#x27;s documentary &#x27;You Can See Everything&#x27; has grossed over $100 million worldwide, becoming a massive success for A24.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-22-elizabeth-holmes-documentary-box-office-success_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>OpenAI Proposes Speed Limits for AI Development</title>
-    <link>https://cioc.online/en/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</link>
-    <guid>https://cioc.online/en/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</guid>
-    <description>OpenAI&#x27;s chief scientist Jakub Pachocki suggests using perplexity as a standard metric to pace AI progress and ensure safety.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-22-openai-proposes-ai-development-speed-limits_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
