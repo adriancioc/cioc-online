@@ -35,6 +35,41 @@
     ]
   },
   {
+    "slug": "2026-11-24-iphone-18e-camera-redesign-leak",
+    "slug_ro": "iphone-18e-design-camera-ipad-pro",
+    "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
+    "category": "TELEFOANE",
+    "virality_score": 7,
+    "focus_keyword_ro": "iPhone 18e",
+    "focus_keyword_en": "iPhone 18e",
+    "title_ro": "iPhone 18e: Apple pregătește o schimbare radicală a camerei",
+    "title_en": "iPhone 18e Leak: New iPad Pro-Style Camera Design",
+    "summary": "Leaked CAD files suggest the iPhone 18e will feature a redesigned camera housing inspired by the iPad Pro. Here is what we know about the 2027 entry-level…",
+    "summary_ro": "Noi fișiere CAD dezvăluie un design al camerei pentru iPhone 18e inspirat de iPad Pro. Află ce aduce nou modelul de buget pregătit pentru 2027.",
+    "summary_en": "Leaked CAD files suggest the iPhone 18e will feature a redesigned camera housing inspired by the iPad Pro. Here is what we know about the 2027 entry-level…",
+    "body_ro": "<h2>O schimbare de design pentru iPhone 18e</h2><p>Apple continuă să ajusteze estetica gamei sale de telefoane accesibile. Cele mai recente informații, bazate pe fișiere CAD scurse din lanțul de aprovizionare, indică faptul că viitorul iPhone 18e va primi o reproiectare semnificativă a modulului camerei foto principale. Spre deosebire de predecesorul său, iPhone 17e, noul model va grupa camera, blițul și microfonul într-o carcasă proeminentă, cu dimensiuni de aproximativ 28mm pe 35mm.</p><h2>Inspirat de iPad Pro</h2><p>Această nouă abordare vizuală, comparată de surse cu modulul camerei de pe iPad Pro cu cip M5, oferă dispozitivului un aspect mult mai industrial. Deși carcasa ocupă un spațiu considerabil pe spatele telefonului, rapoartele indică faptul că Apple va păstra o singură cameră foto principală. Această schimbare ar putea semnala o îmbunătățire a senzorului sau a sistemului optic, deși detaliile tehnice exacte rămân încă sub semnul întrebării.</p><h2>Performanță și specificații tehnice</h2><p>Dincolo de aspectul exterior, iPhone 18e se anunță a fi un salt tehnologic important pentru segmentul de buget. Se speculează trecerea la noul cip A20, fabricat pe procesul de 2nm, ceea ce va aduce un plus semnificativ de eficiență energetică și putere de calcul. De asemenea, memoria RAM ar putea crește la 9GB, o îmbunătățire necesară pentru a susține funcțiile avansate de inteligență artificială pe care Apple le integrează tot mai profund în ecosistemul său.</p><h2>Ce ne rezervă viitorul?</h2><p>Zvonurile contradictorii privind dimensiunea ecranului, oscilând între 6,12 și 6,3 inci, arată că Apple testează mai multe prototipuri înainte de lansarea oficială, programată pentru februarie sau martie 2027. Cu o baterie ce ar putea atinge 4.430mAh și un modem C2 îmbunătățit, iPhone 18e se profilează ca un dispozitiv extrem de competitiv. Rămâne de văzut dacă acest design îndrăzneț va fi pe placul utilizatorilor care preferă simplitatea modelelor anterioare.</p>",
+    "body_en": "<h2>A New Look for the iPhone 18e</h2><p>Apple is reportedly preparing a significant visual overhaul for its upcoming entry-level smartphone, the iPhone 18e. According to leaked computer-aided design (CAD) files, the device will feature a redesigned rear camera housing that groups the camera sensor, flash, and microphone into a single raised module. Measuring approximately 28mm by 35mm, this design represents a departure from the iPhone 17e, where these components were arranged separately.</p><h2>iPad Pro Aesthetic</h2><p>Industry reports liken the new camera arrangement to the module found on the M5 iPad Pro. While the housing is significantly larger, current schematics still show only a single rear-facing camera. This suggests that Apple may be preparing a hardware upgrade for the sensor, or perhaps simply aligning the aesthetic of its budget-friendly devices with the more premium iPad lineup. The shift indicates a move toward a more unified design language across Apple's hardware ecosystem.</p><h2>Internal Hardware Upgrades</h2><p>Beyond the exterior, the iPhone 18e is shaping up to be a substantial performance upgrade. The device is expected to be powered by Apple's A20 chip, utilizing a 2nm manufacturing process. This transition from the 3nm process used in the iPhone 17e should provide meaningful gains in both performance and battery efficiency. Furthermore, reports suggest an increase to 9GB of RAM, up from 8GB, which would provide more headroom for future software features and AI-driven tasks.</p><h2>Launch Expectations</h2><p>While rumors regarding the display size—varying between 6.12 and 6.3 inches—remain unconfirmed, the device is widely expected to debut in February or March 2027. With a potential 4,430mAh battery and the new C2 modem, the iPhone 18e aims to offer a premium experience at a more accessible price point. Whether this bold new camera design will resonate with consumers remains to be seen, but it is clear that Apple is not holding back on the internal specifications for its 2027 entry-level offering.</p>",
+    "highlights_ro": [
+      "iPhone 18e ar putea adopta un modul de cameră masiv, similar cu cel de pe iPad Pro.",
+      "Dispozitivul este așteptat în primăvara lui 2027 cu cip A20 pe 2nm și 9GB RAM.",
+      "Designul nou sugerează o schimbare de estetică pentru gama de intrare a Apple."
+    ],
+    "highlights_en": [
+      "iPhone 18e CAD files show a new, larger camera housing grouping flash and microphone.",
+      "The device is expected to launch in early 2027 with an A20 2nm chip and 9GB RAM.",
+      "The redesign mirrors the aesthetic of the M5 iPad Pro camera module."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-24T12:30:12+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-24-iphone-18e-camera-redesign-leak_1.jpg",
+      "assets/images/2026-11-24-iphone-18e-camera-redesign-leak_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-meta-launches-muse-personal-ai-agent",
     "slug_ro": "meta-lanseaza-agentul-ai-muse-whatsapp",
     "url": "https://www.macrumors.com/2026/11/24/metas-muse-personal-ai-agent-launches-in-the-uk/",

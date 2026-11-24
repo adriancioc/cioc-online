@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-iphone-18e-camera-redesign-leak/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:30:12+00:00</news:publication_date>
+      <news:title>iPhone 18e Leak: New iPad Pro-Style Camera Design</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-iphone-18e-camera-redesign-leak/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:30:12+00:00</news:publication_date>
+      <news:title>iPhone 18e: Apple pregătește o schimbare radicală a camerei</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</loc>
     <news:news>
       <news:publication>
@@ -637,160 +659,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T21:14:07+00:00</news:publication_date>
       <news:title>OpenAI propune o „limită de viteză” pentru dezvoltarea AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-best-apps-to-make-friends/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:00:00+00:00</news:publication_date>
-      <news:title>The Best Apps to Make New Friends Right Now</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-best-apps-to-make-friends/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:00:00+00:00</news:publication_date>
-      <news:title>Cele mai bune aplicații pentru a-ți face prieteni noi în 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-iphone-duo-lock-screen-widgets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:38:16+00:00</news:publication_date>
-      <news:title>iPhone Duo: Apple Testing New Lock Screen Widget Layout</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-iphone-duo-lock-screen-widgets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:38:16+00:00</news:publication_date>
-      <news:title>iPhone Duo: Apple testează widget-uri suplimentare pe Lock Screen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-apple-siri-ai-struggles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:29:51+00:00</news:publication_date>
-      <news:title>Siri Struggles: Why Apple is Falling Behind in the AI Race</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-apple-siri-ai-struggles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:29:51+00:00</news:publication_date>
-      <news:title>Siri în impas: De ce Apple rămâne în urmă cu inteligența artificială</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-data-centers-big-tech-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T18:08:43+00:00</news:publication_date>
-      <news:title>Data Centers: Why Big Tech&#x27;s Infrastructure is a Political Minefield</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-data-centers-big-tech-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T18:08:43+00:00</news:publication_date>
-      <news:title>Centrele de date: De ce au devenit inamicul public al Big Tech?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-delta-airlines-system-outage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:46:44+00:00</news:publication_date>
-      <news:title>Delta Airlines Faces Major System Outage in Atlanta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-delta-airlines-system-outage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:46:44+00:00</news:publication_date>
-      <news:title>Probleme tehnice la Delta: Zboruri blocate în hub-ul din Atlanta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-binding-of-isaac-removes-ai-music/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:25:20+00:00</news:publication_date>
-      <news:title>Binding of Isaac removes AI music after backlash</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-binding-of-isaac-removes-ai-music/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:25:20+00:00</news:publication_date>
-      <news:title>Binding of Isaac elimină muzica generată de AI după scandal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-robotaxi-vs-human-drivers-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:06:00+00:00</news:publication_date>
-      <news:title>Robotaxi vs. Human Drivers: The Las Vegas Mobility Lab</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-robotaxi-vs-human-drivers-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:06:00+00:00</news:publication_date>
-      <news:title>Robotaxi vs. Șoferi: Las Vegas devine laboratorul viitorului</news:title>
     </news:news>
   </url>
 </urlset>
