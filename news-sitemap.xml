@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-iphone-18-pro-max-battery-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T17:16:43+00:00</news:publication_date>
+      <news:title>iPhone 18 Pro Max Battery: Apple Promises Up to 45 Hours</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-iphone-18-pro-max-battery-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T17:16:43+00:00</news:publication_date>
+      <news:title>iPhone 18 Pro Max: Apple Promite Autonomie Record de 45 Ore</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-whatsapp-schedule-messages-feature/</loc>
     <news:news>
       <news:publication>
@@ -615,28 +637,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T19:28:30+00:00</news:publication_date>
       <news:title>Rusia ar putea lansa o armă nucleară în spațiu luna viitoare</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-gemini-canvas-hidden-features/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T18:00:00+00:00</news:publication_date>
-      <news:title>4 Hidden Gemini Canvas Features You Need to Try</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-gemini-canvas-hidden-features/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T18:00:00+00:00</news:publication_date>
-      <news:title>4 funcții ascunse în Gemini Canvas pe care trebuie să le încerci</news:title>
     </news:news>
   </url>
 </urlset>
