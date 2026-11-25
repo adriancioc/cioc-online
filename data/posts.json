@@ -1,5 +1,44 @@
 [
   {
+    "slug": "2026-11-25-whatsapp-schedule-messages-feature",
+    "slug_ro": "whatsapp-programare-mesaje-chaturi",
+    "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+    "category": "APLICAȚII",
+    "virality_score": 9,
+    "focus_keyword_ro": "programare mesaje whatsapp",
+    "focus_keyword_en": "whatsapp schedule messages",
+    "title_ro": "WhatsApp permite în sfârșit programarea mesajelor în chat",
+    "title_en": "WhatsApp Now Lets You Schedule Messages in All Chats",
+    "summary": "WhatsApp rolls out message scheduling for individual and group chats globally. Schedule text, photos, and videos up to 14 days in advance.",
+    "summary_ro": "WhatsApp lansează funcția de programare a mesajelor în chaturi individuale și de grup. Află cum funcționează și ce poți trimite automat.",
+    "summary_en": "WhatsApp rolls out message scheduling for individual and group chats globally. Schedule text, photos, and videos up to 14 days in advance.",
+    "body_ro": "<h2>O funcție cerută de ani de zile ajunge în WhatsApp</h2><p>Utilizatorii aplicației WhatsApp din România și din întreaga lume primesc în sfârșit una dintre cele mai solicitate opțiuni de comunicare: posibilitatea de a programa trimiterea mesajelor. Extinderea acestei funcționalități a început la nivel global și devine disponibilă treptat pentru toate conturile, atât pe sistemele iOS, cât și pe Android.</p><p>Până în prezent, trimiterea automată a unui mesaj la o anumită oră necesita fie utilizarea unor aplicații terțe nesigure, fie apelarea la versiunea business a platformei. De acum înainte, orice utilizator obișnuit poate fixa momentul exact în care un text, o fotografie sau un videoclip ajunge în chatul dorit.</p><h2>Cum funcționează programarea mesajelor în chaturi</h2><p>Mecanismul de utilizare este conceput să fie extrem de intuitiv. După redactarea textului sau atașarea fișierului media într-o conversație individuală sau de grup, este suficientă o apăsare lungă pe butonul de trimitere. Acest gest deschide un meniu contextual din care se poate selecta data și ora dorită pentru expediere.</p><p>Intervalul de timp permis pentru programare este cuprins între <strong>10 minute și 14 zile în avans</strong>. Aplicația include și o secțiune dedicată unde pot fi vizualizate toate mesajele aflate în așteptare, oferind opțiunea de a le edita sau șterge înainte de expedierea propriu-zisă.</p><h2>Trimitere pe server: funcționează chiar dacă telefonul este închis</h2><p>Un detaliu tehnic esențial este că procesul de expediere nu depinde de starea dispozitivului mobil în momentul respectiv. Deoarece programarea este procesată și salvată pe serverele Meta, mesajul stabilit va fi livrat către destinatar la secunda fixată, chiar dacă telefonul expeditorului este oprit, se află în mod avion sau nu are acces la rețeaua de internet.</p><p>Această arhitectură oferă o fiabilitate crescută față de soluțiile vechi bazate pe automatizări locale. Utilitatea este evidentă pentru urările de aniversare trimise la miezul nopții, pentru comunicarea eficientă între persoane aflate pe fusuri orare diferite sau pentru coordonarea activităților profesionale și de echipă fără a deranja interlocutorii în afara orelor de lucru.</p><h2>Actualizări paralele din zona de productivitate: Claude Artifacts</h2><p>Pe lângă noutatea adusă de Meta, ecosistemul de aplicații de productivitate înregistrează o altă lansare importantă. Anthropic a anunțat că utilizatorii asistentului AI Claude pot transforma componentele interactive denumite <strong>Artifacts</strong> în aplicații desktop de sine stătătoare pentru macOS și Windows.</p><p>Aceste aplicații create prin intermediul inteligenței artificiale pot fi lansate direct din Dock sau Taskbar și pot primi permisiuni speciale, precum integrarea în bara de meniu sau scurtături globale de tastatură. Ele se actualizează automat atunci când proiectul sursă este modificat în conversația cu Claude.</p><h2>Verdictul cioc.online</h2><p>Fără îndoială, introducerea programării nativ pe WhatsApp reprezintă un pas imens pentru confortul și intimitatea utilizatorilor. Eliminarea nevoii de a oferi acces aplicațiilor dubioase la datele din chat reprezintă o victorie majoră pentru securitate, iar gratuitatea completă a funcției în România asigură o adopție rapidă în rândul tuturor grupurilor de vârstă.</p>",
+    "body_en": "<h2>A Long-Awaited Feature Arrives on WhatsApp</h2><p>WhatsApp users worldwide are finally getting one of the most requested features in the app’s history: the native ability to schedule messages. The global rollout has officially begun, bringing scheduled communications to both individual and group conversations across iOS and Android devices.</p><p>Previously, sending automated texts required awkward workarounds, third-party Android apps with intrusive permissions, or specialized WhatsApp Business tools. Now, standard users can select the precise moment a message, photo, or video delivers inside any conversation.</p><h2>How Message Scheduling Works</h2><p>The interface integration is designed to be seamless. After typing a message or selecting a media file in a chat, users simply press and hold the send button. This long-press action invokes a scheduling picker where the exact dispatch time and date can be chosen.</p><p>Messages can be scheduled anywhere from <strong>10 minutes to 14 days in advance</strong>. Furthermore, WhatsApp includes a dedicated management panel where users can review all queued messages, adjust timing, or delete them entirely before delivery.</p><h2>Server-Side Execution: Delivery Even When Offline</h2><p>A crucial technical aspect of this rollout is server-side scheduling. Because the delivery task is handled directly on Meta’s infrastructure, scheduled items will be delivered at the target time even if your smartphone is powered off, out of battery, or disconnected from mobile data.</p><p>This makes the tool immensely practical for birthday wishes across different time zones, business updates, or team management without sending late-night notifications to colleagues.</p><h2>Parallel Productivity Tech: Claude Artifacts as Desktop Apps</h2><p>Alongside Meta's messaging update, Anthropic introduced a notable upgrade for artificial intelligence workflows. Claude users can now convert <strong>Artifacts</strong>—interactive dashboards, code outputs, and custom tools created inside chat—into standalone desktop apps on macOS and Windows.</p><p>These micro-applications can be pinned to system docks, run with customizable permission tiers (ranging from basic browser isolation to full system file access), and automatically sync whenever the underlying prompt is updated in Claude.</p><h2>The cioc.online Verdict</h2><p>WhatsApp adding native message scheduling eliminates the security risks associated with third-party automation tools while bringing essential convenience to over two billion daily active users. It is an immediate win for practical technology, requiring zero subscription fees or complex configuration.</p>",
+    "highlights_ro": [
+      "WhatsApp lansează global posibilitatea de a programa mesaje în chaturi individuale și de grup.",
+      "Funcția este complet gratuită și permite programarea de la 10 minute până la 14 zile în avans, chiar dacă telefonul este oprit.",
+      "Verdict cioc.online: O actualizare extrem de utilă pentru utilizatorii din România, eliminând aplicațiile terțe nesecurizate."
+    ],
+    "highlights_en": [
+      "WhatsApp rolls out native message scheduling for individual and group chats worldwide.",
+      "Users can schedule messages from 10 minutes up to 14 days in advance completely for free.",
+      "cioc.online verdict: A long-overdue utility upgrade that improves user privacy and convenience."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-25T16:57:51+00:00",
+    "source_names": [
+      "TechCrunch",
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-25-whatsapp-schedule-messages-feature_1.jpg",
+      "assets/images/2026-11-25-whatsapp-schedule-messages-feature_2.jpg",
+      "assets/images/2026-11-25-whatsapp-schedule-messages-feature_3.jpg",
+      "assets/images/2026-11-25-whatsapp-schedule-messages-feature_4.jpg",
+      "assets/images/2026-11-25-whatsapp-schedule-messages-feature_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-amazon-meta-muse-ai-negotiations",
     "slug_ro": "amazon-meta-negocieri-ai-muse",
     "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
