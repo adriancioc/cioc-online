@@ -39,6 +39,41 @@
     ]
   },
   {
+    "slug": "2026-11-25-iphone-push-notification-ads-problem",
+    "slug_ro": "iphone-notificari-reclame-live-activities",
+    "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
+    "category": "APLICAȚII",
+    "virality_score": 8,
+    "focus_keyword_ro": "notificari iphone reclame",
+    "focus_keyword_en": "iphone notification ads",
+    "title_ro": "Reclame pe ecranul iPhone: cum au scăpat notificările de sub control",
+    "title_en": "iPhone Notification Ads: How Push Spam Beat Apple's Guidelines",
+    "summary": "Popular apps and Apple itself are pushing promo notifications and Live Activities ads to iPhones. Here is how to disable App Store spam.",
+    "summary_ro": "Apple permite reclame nedorite prin notificări și Live Activities pe iPhone. Vezi de ce se întâmplă și cum poți opri notificările promoționale.",
+    "summary_en": "Popular apps and Apple itself are pushing promo notifications and Live Activities ads to iPhones. Here is how to disable App Store spam.",
+    "body_ro": "<h2>Reclame mascate direct pe ecranul de blocare al iPhone-ului</h2><p>Experiența curată și fără reclame pe care Apple o promite pe sistemul de operare iOS începe să fie compromisă de un val tot mai mare de notificări promoționale nedorite. Deși regulamentul App Store interzice explicit trimiterea de mesaje de marketing direct fără acordul prealabil al utilizatorului, o serie de aplicații populare ignoră cu desăvârșire aceste reguli. Utilizatorii se trezesc zilnic cu alerte despre reduceri, meniuri promoționale și oferte speciale direct pe ecranul de blocare al iPhone-ului, chiar și după ce au dezactivat manual opțiunile de comunicare comercială.</p><h2>Regulile App Store ignorate de dezvoltatori și de Apple</h2><p>Ghidul oficial al magazinului de aplicații Apple precizează clar că alerte de tip Push Notification pentru scopuri de promovare pot fi trimise numai dacă utilizatorul și-a exprimat opțiunea explicită prin interfața aplicației. În plus, dezvoltatorii sunt obligați să ofere un mecanism simplu și accesibil prin care utilizatorii să se poată dezabona oricând de la aceste alerte comerciale. Cu toate acestea, aplicații mari din domenii precum livrările de mâncare sau divertismentul ignoră dezabonarea și continuă trimiterea mesajelor promoționale pe termen lung.</p><p>Partea cea mai controversată este că însăși compania Apple pare să aplice duble standarde. Recent, utilizatorii de iOS au primit notificări din magazinul oficial App Store prin care li se promova o ofertă de abonament la Paramount+. Deși App Store oferă un meniu de setări pentru oprirea recomandărilor, aplicația preinstalată nu a cerut niciodată acordul explicit înainte de a livra reclamă pe ecranul principal al telefonului.</p><h2>Live Activities: De la informații utile la spațiu publicitar</h2><p>O altă problemă gravă semnalată de utilizatori este transformarea funcției Live Activities în spațiu publicitar. Introdusă inițial pentru a afișa informații în timp real, precum scorul unui meci sau progresul unei comenzi, această funcționalitate este acum exploatată de aplicații de e-commerce precum AliExpress. Acestea plasează bannere cu oferte de preț direct în modulul Live Activity, încălcând direct instrucțiunile de design publicate de Apple, care interzic utilizarea widget-urilor interactive pentru reclame.</p><h2>Cum poți limita notificările promoționale pe iOS</h2><p>Pentru a reduce nivelul de spam pe ecranul iPhone-ului tău, este recomandat să verifici setările individuale de notificare. În cazul aplicației App Store, poți opri mesajele publicitare deschizând aplicația, apăsând pe pictograma profilului din colțul dreapta sus, intrând în secțiunea Notifications și dezactivând opțiunea Recommendations &amp; Offers. Pentru aplicațiile terțe care ignoră dezabonarea internă, singura soluție eficientă rămâne oprirea completă a notificărilor din setările generale ale sistemului iOS.</p>",
+    "body_en": "<h2>Intrusive Ads Are Breaking the iPhone Lock Screen Experience</h2><p>The clean and refined software environment that Apple has long championed on iOS is facing a growing challenge from unwanted push notifications. Despite strict App Store guidelines prohibiting unsolicited direct marketing messages without prior explicit user consent, multiple mainstream applications are actively ignoring these terms. iPhone users are increasingly finding their lock screens cluttered with promotional pop-ups, discount alerts, and flash sales, even after taking the steps to opt out of marketing communications inside those apps.</p><h2>App Store Enforcement Fails as Developers Ignore Opt-Outs</h2><p>According to Apple's official App Store guidelines, apps are permitted to send push notifications for promotions or direct marketing only if customers explicitly opt in via clear consent language within the app interface. Furthermore, developers must provide an easily accessible method for users to opt out at any given moment. In practice, however, major delivery and retail apps continue sending promotional messages long after users toggle off marketing notifications in their account settings.</p><p>Even more troubling for many users is Apple's own questionable handling of promotional content. Apple recently dispatched a push notification from its native App Store app promoting a discounted subscription to Paramount+. While users can technically disable recommendations within the App Store profile menu, the system app bypasses the strict explicit opt-in requirement enforced on third-party software developers, highlighting an uncomfortably loose standard for native iOS services.</p><h2>Live Activities Are Being Hijacked for Banner Advertising</h2><p>The notification issue extends beyond traditional push alerts into interactive features like Live Activities. Originally designed to display real-time updates such as ride-sharing arrivals, sports scores, or food delivery status, Live Activities are now being repurposed as active ad spaces by apps like AliExpress. These implementations display promotional banners directly on the lock screen and Dynamic Island, explicitly violating Apple's developer guidelines that prohibit using Live Activities for marketing and advertising.</p><h2>How to Stop App Store Marketing Notifications on iOS</h2><p>If you want to clean up your iPhone lock screen and stop unwanted promotional alerts, you can adjust your system permissions. To disable marketing alerts directly from Apple's App Store, open the App Store, tap your profile icon in the top-right corner, select Notifications, and toggle off Recommendations &amp; Offers. For third-party apps that fail to respect in-app opt-out toggles, disabling notifications entirely through the primary iOS Settings menu remains the most reliable solution.</p>",
+    "highlights_ro": [
+      "Aplicațiile de pe App Store, dar și Apple însăși, trimit notificări promoționale și reclame direct prin Push și Live Activities.",
+      "Funcția afectează toți utilizatorii de iOS; oprirea reclamelor din App Store se face din profilul contului la secțiunea Notifications.",
+      "Verdict cioc.online: Apple își încalcă propriile reguli de design când vine vorba de monetizare și tolerarea spamului."
+    ],
+    "highlights_en": [
+      "Developers and Apple are exploiting Push Notifications and Live Activities to deliver unwanted promotional campaigns.",
+      "In-app consent toggles are frequently ignored, while Apple sent its own Paramount+ ads through the official App Store.",
+      "cioc.online verdict: Apple's inconsistent enforcement compromises the premium iOS user experience for quick ad revenue."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T16:30:01+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-25-iphone-push-notification-ads-problem_1.jpg",
+      "assets/images/2026-11-25-iphone-push-notification-ads-problem_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-amazon-meta-muse-ai-negotiations",
     "slug_ro": "amazon-meta-negocieri-ai-muse",
     "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
