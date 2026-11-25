@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-military-attacks-cloud-data-centers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T16:47:14+00:00</news:publication_date>
+      <news:title>Military Attacks on Cloud Data Centers: A Growing Global Threat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-military-attacks-cloud-data-centers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T16:47:14+00:00</news:publication_date>
+      <news:title>Atacuri militare asupra centrelor de date cloud: Risc global</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-iphone-push-notification-ads-problem/</loc>
     <news:news>
       <news:publication>

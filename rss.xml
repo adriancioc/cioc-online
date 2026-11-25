@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-whatsapp-schedule-messages-feature_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Military Attacks on Cloud Data Centers: A Growing Global Threat</title>
+    <link>https://cioc.online/en/posts/2026-11-25-military-attacks-cloud-data-centers/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-military-attacks-cloud-data-centers/</guid>
+    <description>Data centers are now kinetic targets in war zone conflicts. Discover how low-cost drone strikes threaten global cloud resilience on cioc.online.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-military-attacks-cloud-data-centers_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone Notification Ads: How Push Spam Beat Apple&#x27;s Guidelines</title>
     <link>https://cioc.online/en/posts/2026-11-25-iphone-push-notification-ads-problem/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-iphone-push-notification-ads-problem/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-trump-reinstates-jensen-huang-nvidia-ceo/</guid>
     <description>The White House confirms Donald Trump directly intervened to bring Jensen Huang back as Nvidia CEO. Full breakdown on cioc.online.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-trump-reinstates-jensen-huang-nvidia-ceo_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Gemini API Adds File Slicing Controls to Cut Token Costs</title>
-    <link>https://cioc.online/en/posts/2026-11-23-google-gemini-api-file-slicing/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-google-gemini-api-file-slicing/</guid>
-    <description>Google introduces native file slicing and MS Office support in Gemini API, lowering token spend for developers. Read full technical breakdown on cioc.online.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-google-gemini-api-file-slicing_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
