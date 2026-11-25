@@ -90,6 +90,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-jensen-huang-nvidia-return-scandal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:02:03+00:00</news:publication_date>
+      <news:title>Jensen Huang Returns to Nvidia Amidst Global Controversy</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-jensen-huang-nvidia-return-scandal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:02:03+00:00</news:publication_date>
+      <news:title>Jensen Huang revine la Nvidia: Scandalul care a zguduit AI-ul</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-tidal-removes-ai-generated-music/</loc>
     <news:news>
       <news:publication>
@@ -703,28 +725,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T10:50:49+00:00</news:publication_date>
       <news:title>MacBook Neo trece la un ciclu de actualizare anual</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Smaller, Lighter, Longer Battery</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-samsung-galaxy-smarttag3-official/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Mai mic, mai ușor și cu baterie record</news:title>
     </news:news>
   </url>
 </urlset>

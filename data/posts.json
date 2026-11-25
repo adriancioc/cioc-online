@@ -151,6 +151,46 @@
     ]
   },
   {
+    "slug": "2026-11-24-jensen-huang-nvidia-return-scandal",
+    "slug_ro": "jensen-huang-revine-nvidia-scandal",
+    "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "category": "TECH",
+    "virality_score": 9,
+    "focus_keyword_ro": "Jensen Huang Nvidia",
+    "focus_keyword_en": "Jensen Huang Nvidia",
+    "title_ro": "Jensen Huang revine la Nvidia: Scandalul care a zguduit AI-ul",
+    "title_en": "Jensen Huang Returns to Nvidia Amidst Global Controversy",
+    "summary": "Jensen Huang is back as Nvidia CEO. We break down the political pressure, the espionage allegations, and the future of the AI giant.",
+    "summary_ro": "Jensen Huang a revenit la conducerea Nvidia după un scandal major. Află detaliile despre implicarea Casei Albe și investigațiile în curs.",
+    "summary_en": "Jensen Huang is back as Nvidia CEO. We break down the political pressure, the espionage allegations, and the future of the AI giant.",
+    "body_ro": "<h2>Revenirea surprinzătoare a lui Jensen Huang</h2><p>Într-o mișcare ce amintește de criza OpenAI, Jensen Huang a revenit oficial la cârma Nvidia, la mai puțin de două săptămâni după ce și-a dat demisia în urma unui scandal de proporții. Revenirea sa a fost marcată de o primire entuziastă la sediul din Santa Clara, însă realitatea din spatele ușilor închise este mult mai complexă și controversată.</p><p>Huang a încercat să calmeze spiritele în cadrul unei întâlniri cu angajații, negând vehement că politica sau intervenția președintelui Donald Trump ar fi jucat vreun rol în reinstalarea sa. Acesta a declarat că Nvidia este o companie apolitică și că decizia a aparținut exclusiv consiliului de administrație, după ce s-au primit asigurări că nu există riscuri de securitate națională.</p><h2>Presiuni politice și controverse</h2><p>Contrar declarațiilor lui Huang, surse multiple confirmă că o coaliție de aliați din Silicon Valley a făcut lobby intens pe lângă Casa Albă. Președintele Trump a recunoscut public implicarea sa și a vicepreședintelui JD Vance în acest proces, argumentând că Huang este esențial pentru industria AI din SUA și pentru stabilitatea pieței bursiere.</p><p>Într-un interviu recent, Trump a menționat chiar că o grațiere a lui Huang este „o opțiune”, deși consideră că nu va fi necesară. Această declarație adaugă un strat suplimentar de tensiune, având în vedere că CEO-ul Nvidia este implicat într-un scandal ce include acuzații de relații nepotrivite cu o persoană suspectată de spionaj chinez, legată de deturnarea ilegală a cipurilor Nvidia către China.</p><h2>Ce urmează pentru Nvidia?</h2><p>Deși piața a reacționat pozitiv, cu o creștere de aproape 1 trilion de dolari în valoare de piață imediat după anunț, Nvidia nu a scăpat de probleme. Compania se confruntă în continuare cu investigații din partea FBI și SEC, iar Huang urmează să depună mărturie în fața Congresului pe 1 decembrie.</p><p>Investigația internă privind legăturile cu spionajul chinez și practicile contabile rămâne activă. Jensen Huang a recunoscut în fața angajaților că a făcut „greșeli teribile”, dar rămâne de văzut dacă această revenire va fi suficientă pentru a proteja reputația gigantului tehnologic pe termen lung.</p>",
+    "body_en": "<h2>The Dramatic Return of Jensen Huang</h2><p>In a corporate comeback reminiscent of the OpenAI saga, Jensen Huang has officially returned as the CEO of Nvidia, less than two weeks after resigning amidst a massive scandal. While his return was met with applause at the company's Santa Clara headquarters, the reality behind the scenes is far more complex and fraught with political tension.</p><p>During an all-hands meeting, Huang attempted to distance himself from the narrative that his return was orchestrated by the White House. He insisted that Nvidia remains an apolitical entity and that his reinstatement was a board-led decision based on national security clearances, rather than political favors.</p><h2>Political Pressure and Allegations</h2><p>Despite Huang's claims, reports suggest that a 'war room' of Silicon Valley allies lobbied the White House heavily to secure his return. President Donald Trump publicly confirmed his and Vice President JD Vance's involvement, arguing that Huang is indispensable to the US AI industry and the broader economy.</p><p>In a recent interview, Trump even suggested that a pardon for Huang is 'an option,' though he hopes it won't be necessary. This statement adds significant weight to the ongoing scrutiny, as Huang is embroiled in a scandal involving alleged extramarital affairs with a person suspected of having ties to Chinese intelligence, potentially linked to the illegal diversion of Nvidia chips to China.</p><h2>The Road Ahead for Nvidia</h2><p>While the stock market reacted with a nearly $1 trillion valuation boost, Nvidia is far from out of the woods. The company remains under investigation by the FBI and SEC, and Huang is scheduled to testify before Congress on December 1st regarding national security concerns.</p><p>Internal investigations into the alleged Chinese espionage plot and company accounting practices are still ongoing. While Huang has admitted to making 'terrible mistakes,' the tech giant faces a long road to restoring its governance reputation and navigating the treacherous waters of geopolitical tech policy.</p>",
+    "highlights_ro": [
+      "Jensen Huang a fost reinstalat ca CEO Nvidia după doar două săptămâni de la demisie.",
+      "Președintele Trump a confirmat implicarea în procesul de revenire, deși Huang neagă influența politică.",
+      "Compania rămâne sub investigații federale privind securitatea națională și practicile contabile."
+    ],
+    "highlights_en": [
+      "Jensen Huang has been reinstated as Nvidia CEO just two weeks after his resignation.",
+      "President Trump confirmed his involvement in the return, despite Huang's denials of political influence.",
+      "The company faces ongoing federal investigations regarding national security and accounting practices."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-24T20:02:03+00:00",
+    "source_names": [
+      "The Verge",
+      "TechCrunch",
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_1.jpg",
+      "assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_2.jpg",
+      "assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_3.jpg",
+      "assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_4.jpg",
+      "assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-tidal-removes-ai-generated-music",
     "slug_ro": "tidal-sterge-muzica-generata-ai",
     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
