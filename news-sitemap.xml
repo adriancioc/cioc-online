@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-amazon-meta-muse-ai-negotiations/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T14:12:33+00:00</news:publication_date>
+      <news:title>Amazon in Talks with Meta to Unblock Muse AI Shopping Agent</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-amazon-meta-muse-ai-negotiations/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T14:12:33+00:00</news:publication_date>
+      <news:title>Amazon și Meta negociază deblocarea agentului AI Muse</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-apple-testing-macos-on-ipad/</loc>
     <news:news>
       <news:publication>
