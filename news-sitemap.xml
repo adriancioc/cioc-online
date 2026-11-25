@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://cioc.online/en/posts/2026-11-24-google-mozilla-criticize-apple-browser-rules/</loc>
+    <loc>https://cioc.online/en/posts/2026-11-24-google-apple-ios-browser-dispute/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-24T22:07:06+00:00</news:publication_date>
-      <news:title>Google and Mozilla Call Apple&#x27;s Browser Rules &#x27;Choice on Paper&#x27;</news:title>
+      <news:title>Google Slams Apple Over iOS Browser Restrictions in EU</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://cioc.online/posts/2026-11-24-google-mozilla-criticize-apple-browser-rules/</loc>
+    <loc>https://cioc.online/posts/2026-11-24-google-apple-ios-browser-dispute/</loc>
     <news:news>
       <news:publication>
         <news:name>DC — Daniel Cioc</news:name>
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-24T22:07:06+00:00</news:publication_date>
-      <news:title>Google și Mozilla atacă Apple: „Alegere pe hârtie, nu în practică”</news:title>
+      <news:title>Google atacă Apple: regulile pentru browsere pe iOS sunt inutile</news:title>
     </news:news>
   </url>
   <url>
@@ -659,50 +659,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T08:00:00+00:00</news:publication_date>
       <news:title>Samsung Galaxy SmartTag3: Mai mic, mai ușor și cu baterie record</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-kodak-slidetag-retro-tracker/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T03:00:00+00:00</news:publication_date>
-      <news:title>Kodak SlideTag: A Retro Digital Photo Frame and Tracker</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-kodak-slidetag-retro-tracker/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T03:00:00+00:00</news:publication_date>
-      <news:title>Kodak SlideTag: Ramă foto digitală și tracker într-un format retro</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-anthropic-ipo-investor-success/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:25:53+00:00</news:publication_date>
-      <news:title>Anthropic IPO: How Investors Bet Big and Won</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-anthropic-ipo-investor-success/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:25:53+00:00</news:publication_date>
-      <news:title>Anthropic: Cum au pariat investitorii pe succesul AI</news:title>
     </news:news>
   </url>
 </urlset>
