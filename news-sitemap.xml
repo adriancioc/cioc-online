@@ -90,6 +90,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:12:42+00:00</news:publication_date>
+      <news:title>Microsoft Declares Internal &#x27;Code Red&#x27; After Massive Outlook Outage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:12:42+00:00</news:publication_date>
+      <news:title>Microsoft declară &#x27;Code Red&#x27; după o avarie uriașă în Outlook</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</loc>
     <news:news>
       <news:publication>

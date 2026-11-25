@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-apple-testing-macos-on-ipad_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Microsoft Declares Internal &#x27;Code Red&#x27; After Massive Outlook Outage</title>
+    <link>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</guid>
+    <description>Microsoft triggers internal Code Red following a nearly 24-hour Exchange Online &amp; Outlook outage caused by a hidden gateway bug sitting since July.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-microsoft-code-red-outlook-exchange-outage_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Threads App for iPad Now Available: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-google-gemini-api-file-slicing/</guid>
     <description>Google introduces native file slicing and MS Office support in Gemini API, lowering token spend for developers. Read full technical breakdown on cioc.online.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-google-gemini-api-file-slicing_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Avengers: Doomsday Final Trailer: RDJ and Multiverse Chaos</title>
-    <link>https://cioc.online/en/posts/2026-11-23-avengers-doomsday-final-trailer-marvel/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-avengers-doomsday-final-trailer-marvel/</guid>
-    <description>Marvel Studios drops the final trailer for Avengers: Doomsday, bringing together the Fantastic Four, X-Men, and Doctor Doom.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-avengers-doomsday-final-trailer-marvel_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
