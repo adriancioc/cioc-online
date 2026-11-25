@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-watch-health-impact/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:00:00+00:00</news:publication_date>
+      <news:title>Can a Smartwatch Save Lives? Samsung&#x27;s Perspective</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-samsung-galaxy-watch-health-impact/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:00:00+00:00</news:publication_date>
+      <news:title>Poate un smartwatch să salveze vieți? Lecția Samsung</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-iphone-18-pro-max-battery-life/</loc>
     <news:news>
       <news:publication>
@@ -571,72 +593,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T21:28:39+00:00</news:publication_date>
       <news:title>Ted Lasso revine: Apple confirmă sezonul 5 pentru serialul hit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-apple-reviving-product-red-homepod-airpods/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T20:35:57+00:00</news:publication_date>
-      <news:title>Apple Set to Revive (PRODUCT)RED for HomePod Mini 2 &amp; AirPods Max</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-apple-reviving-product-red-homepod-airpods/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T20:35:57+00:00</news:publication_date>
-      <news:title>Apple readuce seria (PRODUCT)RED: HomePod mini 2 și AirPods Max 2</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T20:34:51+00:00</news:publication_date>
-      <news:title>Why is a routine ISS supply mission now a state secret?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-roscosmos-secrecy-iss-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T20:34:51+00:00</news:publication_date>
-      <news:title>De ce a devenit secretă o lansare NASA-Roscosmos către ISS?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-russia-nuclear-space-weapon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T19:28:30+00:00</news:publication_date>
-      <news:title>Russia May Launch Nuclear Weapon Into Orbit Next Month</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-russia-nuclear-space-weapon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T19:28:30+00:00</news:publication_date>
-      <news:title>Rusia ar putea lansa o armă nucleară în spațiu luna viitoare</news:title>
     </news:news>
   </url>
 </urlset>
