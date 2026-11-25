@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple Tests macOS on iPad Internally But Refuses Public Launch</title>
+    <link>https://cioc.online/en/posts/2026-11-25-apple-testing-macos-on-ipad-internally/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-apple-testing-macos-on-ipad-internally/</guid>
+    <description>Apple has iPads running macOS inside its labs, but Bloomberg reports no plans to release the desktop OS for iPad consumers.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-apple-testing-macos-on-ipad-internally_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Threads App for iPad Now Available: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-f1-las-vegas-2026-tech-race/</guid>
     <description>A deep dive into the F1 Las Vegas Grand Prix: 352 overtakes, battery starvation issues, and Google Play US perks.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-f1-las-vegas-2026-tech-race_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>iPhone Air 2 May Keep the Original Dynamic Island Cutout</title>
-    <link>https://cioc.online/en/posts/2026-11-23-iphone-air-2-dynamic-island-rumors/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-iphone-air-2-dynamic-island-rumors/</guid>
-    <description>Leaked dummy units suggest iPhone Air 2 won&#x27;t get a smaller Dynamic Island. Space constraints for the second rear camera could be the main reason.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-iphone-air-2-dynamic-island-rumors_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

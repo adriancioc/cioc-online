@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-25-apple-testing-macos-on-ipad-internally",
+    "slug_ro": "apple-testeaza-macos-pe-ipad-intern",
+    "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
+    "category": "GADGETURI",
+    "virality_score": 8,
+    "focus_keyword_ro": "macOS pe iPad",
+    "focus_keyword_en": "macOS on iPad",
+    "title_ro": "Apple testează macOS pe iPad în secret: De ce refuză lansarea",
+    "title_en": "Apple Tests macOS on iPad Internally But Refuses Public Launch",
+    "summary": "Apple has iPads running macOS inside its labs, but Bloomberg reports no plans to release the desktop OS for iPad consumers.",
+    "summary_ro": "Apple are prototipuri de iPad care rulează macOS intern, însă refuză să lanseze funcția pentru public. Află motivele din spatele deciziei.",
+    "summary_en": "Apple has iPads running macOS inside its labs, but Bloomberg reports no plans to release the desktop OS for iPad consumers.",
+    "body_ro": "<h2>Marea dilemă Apple: De ce nu avem macOS pe iPad?</h2><p>De ani de zile, utilizatorii din România și din întreaga lume solicită un lucru simplu: posibilitatea de a rula un sistem de operare complet pe tabletele iPad Pro. Cu procesoare din seria M precum M2, M3 sau M4, dispozitivele mobile de la Apple au o putere de calcul similară sau chiar superioară multor laptopuri de pe piață. Totuși, iPadOS rămâne un sistem limitat de paradigmele mobile.</p><p>Informațiile recente apărute prin intermediul jurnalistului Mark Gurman de la Bloomberg confirmă un detaliu fascinant: Apple are în laboratoarele sale interne prototipuri de iPad care rulează versiuni complete de macOS. Proiectul funcționează de ceva timp, dovedind că din punct de vedere tehnic nu există nicio barieră. Cu toate acestea, gigantul din Cupertino nu intenționează să aducă macOS pe iPad pentru consumatorii finali.</p><h2>Strategia comercială și teama de cannibalizare</h2><p>Principalul motiv pentru care Apple refuză să unească cele două platforme este unul strict financiar. Dacă un iPad Pro ar putea rula macOS, mulți utilizatori nu ar mai cumpăra un MacBook Air sau MacBook Pro. În acest moment, un iPad Pro de 13 inchi echipat cu Magic Keyboard depășește lejer pragul de 1.500 EUR (aproximativ 7.500 RON), un preț similar cu al unui laptop premium.</p><p>În loc să unească sistemele de operare, Apple a ales o strategie de adopție treptată. Compania portrază aplicații profesionale din mediul Mac pe iPadOS — cum este cazul Final Cut Pro sau Logic Pro — oferind utilizatorilor funcții avansate, dar menținând totodată interfața bazată pe atingere și limitările de multitasking specifice tabletelor.</p><h2>Impactul reglementărilor din Uniunea Europeană</h2><p>Un alt aspect esențial subliniat de analiză este cadrul legislativ european. Reglementările Digital Markets Act (DMA) impun reguli stricte pentru sistemele de operare calificate drept „gatekeepers”. În prezent, iPadOS și macOS sunt tratate ca platforme distincte de către comisiile de la Bruxelles.</p><p>Dacă Apple ar uni cele două platforme sau ar permite rularea macOS pe iPad, ar risca să extindă obligațiile privind magazinele terțe de aplicații și motoarele de căutare pe o platformă unificată mult mai mare. Menținerea distincției clare între iPadOS și macOS oferă companiei un scut juridic important în Europa.</p><h2>Ce înseamnă acest lucru pentru utilizatorii din România</h2><p>Pentru consumatorii din România care sperau că viitorul iPad va putea înlocui definitiv un MacBook în activitățile de birou complexe, veștile nu sunt încurajatoare. Investiția într-un iPad Pro trebuie făcută strict pe baza capabilităților actuale ale iPadOS, fără a aștepta o transformare miraculoasă în laptop prin update de software.</p><p>Apple va continua să îmbunătățească iPadOS cu fiecare versiune majoră de iOS, însă granița dintre tabletă și Mac rămâne ferm trasată în viziunea companiei din Cupertino.</p>",
+    "body_en": "<h2>The iPad Hardware Power Paradox</h2><p>For years, power users have questioned why Apple equips its flagship iPad Pro models with desktop-class M-series Apple Silicon chips while restricting the hardware to iPadOS. With performance numbers matching or exceeding standard laptops, the iPad hardware is more than capable of handling desktop workflows.</p><p>According to a report from Bloomberg's Mark Gurman, Apple engineers have indeed built and tested internal prototypes of iPads running full macOS. The experiments have been ongoing inside Apple's headquarters for quite some time, proving that hardware constraints are not the bottleneck blocking a desktop experience on Apple tablets.</p><h2>Protecting MacBook Revenue Streams</h2><p>Despite internal technical feasibility, Apple reportedly has zero plans to bring macOS to commercial iPads. The core decision relies on product segmentation and hardware margins. Allowing an iPad Pro to run macOS would directly cannibalize sales of the MacBook Air and MacBook Pro lineups.</p><p>When paired with a Magic Keyboard, a high-end iPad Pro already costs around $1,500 / €1,500. Apple prefers customers to buy both a Mac for desktop multitasking and an iPad for modular touch-first tasks. Instead of merging operating systems, Apple's official stance is to slowly port pro apps like Final Cut Pro and Logic Pro over to iPadOS piece by piece.</p><h2>EU Regulatory Strategy and System Distinction</h2><p>Beyond sales numbers, antitrust policy plays a significant role in Apple's current software philosophy. Under the European Union's Digital Markets Act (DMA), regulatory bodies assess platforms individually based on user thresholds and market dominance.</p><p>By maintaining a strict boundary between iPadOS and macOS, Apple manages separate regulatory classifications in Europe. Merging the operating systems or introducing dual-boot capabilities could expose iPadOS to broader mandatory open-ecosystem rules, such as alternative app stores and browser engines, which Apple actively limits where possible.</p><h2>Final Takeaway for Consumers</h2><p>If you are planning to purchase an iPad Pro with the expectation that Apple will eventually unlock a full desktop operating system, current internal policies indicate that will not happen anytime soon. The iPad will remain a touch-first device running iPadOS, keeping the Mac as Apple's sole desktop platform.</p>",
+    "highlights_ro": [
+      "Mark Gurman dezvăluie că Apple rulează de ceva timp macOS pe iPad în laboratoarele interne.",
+      "Proiectul nu va fi comercializat; prețul unui iPad Pro cu tastatură depășește deja 1.500 EUR / 7.500 RON.",
+      "Verdict cioc.online: Apple își protejează vânzările de MacBook și evită complicațiile legislative din UE."
+    ],
+    "highlights_en": [
+      "Bloomberg's Mark Gurman reports Apple has had iPads running macOS internally for some time.",
+      "No work is being done to bring macOS to consumers, keeping iPad hardware priced up to $1,500/€1,500 bound to iPadOS.",
+      "cioc.online verdict: Apple is protecting Mac hardware sales while maneuvering around strict EU regulations."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-25T12:55:37+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-25-apple-testing-macos-on-ipad-internally_1.jpg",
+      "assets/images/2026-11-25-apple-testing-macos-on-ipad-internally_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-threads-native-ipad-app-launched",
     "slug_ro": "threads-lansat-nativ-pe-ipad",
     "url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
