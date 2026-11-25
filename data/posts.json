@@ -34,6 +34,46 @@
     ]
   },
   {
+    "slug": "2026-11-25-jensen-huang-nvidia-return-scandal",
+    "slug_ro": "jensen-huang-reinstalat-nvidia-scandal",
+    "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "Jensen Huang Nvidia",
+    "focus_keyword_en": "Jensen Huang Nvidia",
+    "title_ro": "Jensen Huang revine la Nvidia: Scandal, politică și securitate",
+    "title_en": "Jensen Huang Returns to Nvidia Amidst Political Scandal",
+    "summary": "Jensen Huang is back as Nvidia CEO following intense political lobbying. We analyze the security risks and the ongoing congressional investigations.",
+    "summary_ro": "Jensen Huang a fost reinstalat la șefia Nvidia în urma presiunilor politice. Află detaliile scandalului și riscurile de securitate națională.",
+    "summary_en": "Jensen Huang is back as Nvidia CEO following intense political lobbying. We analyze the security risks and the ongoing congressional investigations.",
+    "body_ro": "<h2>O revenire controversată la vârful Nvidia</h2><p>Într-o mișcare ce a șocat industria tehnologică, Jensen Huang a fost reinstalat oficial în funcția de CEO al Nvidia, la mai puțin de două săptămâni după ce a demisionat în urma unui scandal de proporții. Situația, care a implicat acuzații de relații cu o presupusă spioană chineză și încălcarea codului de conduită al companiei, a devenit rapid o problemă de securitate națională pentru Statele Unite.</p><p>Revenirea lui Huang nu a fost un proces intern obișnuit. Surse indică faptul că o echipă de aliați din Silicon Valley a făcut lobby intens, implicându-l direct pe președintele Donald Trump și pe vicepreședintele JD Vance pentru a convinge consiliul de administrație al Nvidia să îl accepte înapoi. Argumentul principal a fost rolul critic pe care Huang îl joacă în economia americană și în avansul tehnologic în domeniul AI.</p><h2>Politica și „adevărul” despre reinstalare</h2><p>În timp ce președintele Trump a declarat public că a fost „total implicat” în procesul de readucere a lui Huang la cârma companiei, CEO-ul Nvidia a adoptat o poziție diferită în fața angajaților. Într-o ședință internă, Huang a negat că politica ar fi jucat vreun rol, susținând că decizia a aparținut exclusiv consiliului de administrație după evaluarea riscurilor de securitate. Această discrepanță între declarațiile Casei Albe și cele ale lui Huang adâncește misterul din jurul acestei „salvări” corporative.</p><p>Huang a recunoscut că a făcut „greșeli teribile” și a menționat că urmează terapie, încercând să restabilească încrederea angajaților. Totuși, compania se află într-o poziție fragilă. Deși valoarea de piață a Nvidia a crescut semnificativ imediat după anunț, acțiunile rămân cu aproximativ 20% sub nivelul de acum o lună.</p><h2>Ce urmează pentru Nvidia și securitatea AI?</h2><p>Problemele nu s-au încheiat odată cu revenirea lui Huang. Nvidia este în prezent subiectul unor investigații desfășurate de FBI și SEC, iar Congresul SUA a programat audieri publice pentru luna decembrie. Comisiile de Informații și Afaceri Externe vor analiza legăturile lui Huang cu persoane acuzate de facilitarea transferului ilegal de cipuri Nvidia către China.</p><p>Pentru investitori și utilizatori, miza este uriașă. Nvidia controlează infrastructura hardware care alimentează revoluția AI globală. Orice instabilitate la nivelul managementului sau noi dovezi de compromitere a securității ar putea bloca lanțurile de aprovizionare și ar putea declanșa restricții și mai severe la export. Rămâne de văzut dacă „cel mai apolitic” CEO, așa cum se autointitulează Huang, va reuși să supraviețuiască scrutinului legislativ care urmează.</p>",
+    "body_en": "<h2>A Controversial Comeback at Nvidia</h2><p>In a move that has stunned the tech industry, Jensen Huang has been officially reinstated as CEO of Nvidia, less than two weeks after resigning amidst a massive scandal. The situation, involving allegations of relationships with an alleged Chinese spy and violations of the company's code of conduct, quickly escalated into a national security issue for the United States.</p><p>Huang's return was far from a standard internal process. Reports indicate that a team of Silicon Valley allies lobbied heavily, involving President Donald Trump and Vice President JD Vance to persuade Nvidia's board to bring him back. The core argument was Huang's critical role in the U.S. economy and the broader AI industry.</p><h2>Politics vs. Corporate Reality</h2><p>While President Trump publicly stated he was \"totally involved\" in the process of bringing Huang back, the Nvidia CEO took a different stance during an all-hands meeting. Huang denied that politics played a role, claiming the board made the decision after evaluating national security risks. This discrepancy between White House statements and Huang's narrative deepens the mystery surrounding this corporate rescue.</p><p>Huang admitted to making \"terrible mistakes\" and mentioned he is in therapy, attempting to rebuild employee trust. However, the company remains in a fragile position. Despite a significant stock market bump following the news, Nvidia's valuation remains roughly 20% lower than it was a month ago.</p><h2>The Future of Nvidia and AI Security</h2><p>The troubles are far from over. Nvidia is currently under investigation by the FBI and the SEC, and the U.S. Congress has scheduled public hearings for December. Intelligence and Foreign Affairs committees will scrutinize Huang's connections to individuals accused of facilitating the illegal transfer of Nvidia chips to China.</p><p>For investors and the tech sector, the stakes are immense. Nvidia controls the hardware infrastructure powering the global AI revolution. Any management instability or further evidence of security compromises could disrupt supply chains and trigger even stricter export controls. It remains to be seen if Huang can survive the upcoming legislative scrutiny and maintain his grip on the world's most valuable AI company.</p>",
+    "highlights_ro": [
+      "Jensen Huang a revenit ca CEO Nvidia după doar două săptămâni de la demisie, în urma unui scandal de spionaj și relații personale.",
+      "Președintele Trump a recunoscut implicarea în negocieri, deși Huang neagă influența politică asupra deciziei consiliului de administrație.",
+      "Nvidia rămâne sub lupa FBI și a Congresului SUA pentru riscuri de securitate națională și posibile scurgeri de tehnologie către China."
+    ],
+    "highlights_en": [
+      "Jensen Huang has been reinstated as Nvidia CEO two weeks after resigning over a spying and misconduct scandal.",
+      "President Trump confirmed his involvement in lobbying for Huang's return, contradicting the CEO's claims of apolitical board decisions.",
+      "Nvidia faces ongoing FBI and Congressional probes regarding national security and alleged illegal chip diversion to China."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T00:10:27+00:00",
+    "source_names": [
+      "TechCrunch",
+      "The Verge",
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-25-jensen-huang-nvidia-return-scandal_1.jpg",
+      "assets/images/2026-11-25-jensen-huang-nvidia-return-scandal_2.jpg",
+      "assets/images/2026-11-25-jensen-huang-nvidia-return-scandal_3.jpg",
+      "assets/images/2026-11-25-jensen-huang-nvidia-return-scandal_4.jpg",
+      "assets/images/2026-11-25-jensen-huang-nvidia-return-scandal_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-best-tech-gifts-2026-guide",
     "slug_ro": "cele-mai-bune-gadgeturi-cadou-2026",
     "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
