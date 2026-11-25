@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-24-google-mozilla-criticize-apple-browser-rules_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Tidal to Delete 27 Million AI-Generated Tracks</title>
+    <link>https://cioc.online/en/posts/2026-11-24-tidal-deletes-ai-music/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-tidal-deletes-ai-music/</guid>
+    <description>Tidal is banning fully AI-generated music starting December 9 to protect human artists. 27 million tracks will be removed from the platform.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-tidal-deletes-ai-music_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>NYT Warns Photographers to Avoid Photoshop 2027 AI</title>
     <link>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-samsung-galaxy-smarttag3-official/</guid>
     <description>Samsung unveils the Galaxy SmartTag3. Discover the specs, the massive 790-day battery life, and why it matters for the SmartThings ecosystem.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-samsung-galaxy-smarttag3-official_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Kodak SlideTag: A Retro Digital Photo Frame and Tracker</title>
-    <link>https://cioc.online/en/posts/2026-11-23-kodak-slidetag-retro-tracker/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-kodak-slidetag-retro-tracker/</guid>
-    <description>Kodak introduces the SlideTag, a keychain with an E Ink display that doubles as a Bluetooth tracker. Is it worth the hype?</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-kodak-slidetag-retro-tracker_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

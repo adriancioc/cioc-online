@@ -35,6 +35,45 @@
     ]
   },
   {
+    "slug": "2026-11-24-tidal-deletes-ai-music",
+    "slug_ro": "tidal-sterge-muzica-generata-ai",
+    "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+    "category": "TECH",
+    "virality_score": 9,
+    "focus_keyword_ro": "Tidal elimină muzica AI",
+    "focus_keyword_en": "Tidal bans AI music",
+    "title_ro": "Tidal declară război muzicii AI: 27 milioane de piese șterse",
+    "title_en": "Tidal to Delete 27 Million AI-Generated Tracks",
+    "summary": "Tidal is banning fully AI-generated music starting December 9 to protect human artists. 27 million tracks will be removed from the platform.",
+    "summary_ro": "Tidal elimină complet muzica generată 100% de AI începând cu 9 decembrie. Află de ce 27 de milioane de piese dispar și cum afectează asta artiștii.",
+    "summary_en": "Tidal is banning fully AI-generated music starting December 9 to protect human artists. 27 million tracks will be removed from the platform.",
+    "body_ro": "<h2>Tidal face curățenie: Adio muzică generată de AI</h2><p>Într-o mișcare radicală care ar putea schimba standardele industriei de streaming, Tidal a anunțat că va elimina definitiv din catalogul său toate piesele create integral cu ajutorul inteligenței artificiale. Măsura, programată să intre în vigoare pe 9 decembrie, vizează nu mai puțin de 27 de milioane de melodii, reprezentând aproximativ 6,3% din totalul bibliotecii platformei.</p><p>Decizia vine după ce Tidal a observat o creștere alarmantă a conținutului de tip „AI slop”. În ultimele 90 de zile, nu mai puțin de 43% din noile încărcări pe platformă au fost identificate ca fiind generate complet de modele AI. Mai mult, pe 6 noiembrie, acest procent a atins un vârf de 60%, transformând platforma într-un depozit de zgomot digital care nu aduce valoare ascultătorilor.</p><h2>De ce a luat Tidal această decizie drastică?</h2><p>Deși Tidal a încercat inițial o abordare mai blândă, introducând etichetarea și demonetizarea pieselor AI în iulie 2026, rezultatele au fost nesatisfăcătoare. „Ceva mai drastic trebuia făcut”, a explicat conducerea Tidal. Problema principală nu este doar calitatea îndoielnică a acestor piese, ci faptul că 96% dintre melodiile etichetate ca fiind AI nu au înregistrat nicio redare în ultimele trei luni.</p><p>Acest tip de conținut „inundă” platforma și îngreunează descoperirea artiștilor reali, pe care utilizatorii Tidal îi caută activ. În plus, există riscul ca acești „creatori” de conținut AI să încerce să deturneze drepturile de autor, o problemă pe care Tidal a combătut-o deja prin eliminarea a 66.000 de piese care imitau artiști consacrați.</p><h2>Ce se schimbă pentru utilizatori și artiști?</h2><p>Tidal a clarificat faptul că interdicția vizează doar muzica generată 100% de AI. Artiștii pot folosi în continuare unelte bazate pe inteligență artificială pentru a-și îmbunătăți procesul creativ, atâta timp cât produsul final conține elemente umane esențiale. Distribuitorii care încarcă muzică pe Tidal vor fi obligați să respecte aceste noi reguli, iar platforma va respinge automat orice piesă a cărei metadate indică o origine pur sintetică.</p><p>În timp ce Spotify și YouTube Music au ales până acum o abordare mai permisivă, limitându-se la etichetarea conținutului, Tidal se aliniază unor platforme precum Bandcamp, care au adoptat o poziție fermă împotriva automatizării excesive. Pentru utilizatorii din România și Europa, această decizie înseamnă o experiență de ascultare mai curată, unde calitatea și autenticitatea primează în fața cantității generate algoritmic.</p>",
+    "body_en": "<h2>Tidal Takes a Stand: The End of AI-Generated Tracks</h2><p>In a major shift for the music streaming industry, Tidal has announced it will purge its platform of all music generated entirely by artificial intelligence. Starting December 9, the service will delete 27 million tracks, accounting for 6.3% of its total catalog, in an effort to combat the influx of low-quality AI content.</p><p>The decision follows a surge in automated uploads. Over the past three months, 43% of all new tracks uploaded to Tidal were identified as fully AI-generated. On November 6 alone, that figure spiked to 60%. Tidal executives noted that this flood of content is not only cluttering the platform but also actively burying the work of human artists that subscribers actually want to discover.</p><h2>Why Demonetization Wasn't Enough</h2><p>Tidal previously attempted to manage the issue by labeling and demonetizing AI-generated songs earlier in 2026. However, the measure failed to deter the trend. The platform reported that 96% of the AI-labeled tracks on its service had zero streams in the last 90 days, proving that this content offers no value to listeners while potentially siphoning royalty payments away from legitimate creators.</p><p>Beyond the quality issue, Tidal is also concerned about bad actors attempting to impersonate real artists to steal royalties. The platform has already removed 66,000 tracks for impersonation, a practice that violates its core policies. By implementing a total ban, Tidal aims to restore the focus to human artistry.</p><h2>The Future of AI in Music</h2><p>Tidal is careful to distinguish between \"fully AI-generated\" music and \"AI-assisted\" music. The platform will continue to accept songs where AI is used as a tool, provided the final product contains significant human elements. This nuance is critical for modern producers who leverage technology to enhance their creative workflow.</p><p>While larger competitors like Spotify and YouTube Music have opted for a softer approach—primarily focusing on labeling—Tidal’s move mirrors the stricter stance taken by platforms like Bandcamp. For the global music community, this signals a potential turning point where streaming services prioritize the integrity of the artist-listener relationship over the sheer volume of content. As of December 9, distributors will be required to ensure that all submissions meet these new authenticity standards.</p>",
+    "highlights_ro": [
+      "Tidal va șterge 27 de milioane de piese generate integral de AI începând cu 9 decembrie.",
+      "Peste 43% din încărcările recente au fost conținut AI, inundând platforma și îngropând artiștii reali.",
+      "Decizia protejează veniturile creatorilor umani, Tidal permițând în continuare doar asistența AI, nu generarea totală."
+    ],
+    "highlights_en": [
+      "Tidal will delete 27 million fully AI-generated tracks starting December 9.",
+      "Over 43% of recent uploads were AI-generated, burying human artists' content.",
+      "Tidal will still allow AI-assisted music, but will reject 100% AI-generated submissions."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-24T17:34:34+00:00",
+    "source_names": [
+      "Ars Technica",
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-24-tidal-deletes-ai-music_1.jpg",
+      "assets/images/2026-11-24-tidal-deletes-ai-music_2.jpg",
+      "assets/images/2026-11-24-tidal-deletes-ai-music_3.jpg",
+      "assets/images/2026-11-24-tidal-deletes-ai-music_4.jpg",
+      "assets/images/2026-11-24-tidal-deletes-ai-music_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-nyt-warns-photographers-against-photoshop-2027",
     "slug_ro": "nyt-interzice-photoshop-2027-marcare-ai",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",

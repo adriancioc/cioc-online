@@ -24,6 +24,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-tidal-deletes-ai-music/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T17:34:34+00:00</news:publication_date>
+      <news:title>Tidal to Delete 27 Million AI-Generated Tracks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-tidal-deletes-ai-music/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T17:34:34+00:00</news:publication_date>
+      <news:title>Tidal declară război muzicii AI: 27 milioane de piese șterse</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</loc>
     <news:news>
       <news:publication>
