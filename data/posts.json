@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-24-google-mozilla-criticize-apple-browser-rules",
+    "slug_ro": "google-mozilla-ataca-apple-browser-ue",
+    "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
+    "category": "SECURITATE",
+    "virality_score": 8,
+    "focus_keyword_ro": "Apple browser engine UE",
+    "focus_keyword_en": "Apple iOS browser engine EU",
+    "title_ro": "Google și Mozilla atacă Apple: „Alegere pe hârtie, nu în practică”",
+    "title_en": "Google and Mozilla Call Apple's Browser Rules 'Choice on Paper'",
+    "summary": "Google and Mozilla claim Apple's restrictions make alternative browser engines on iOS unworkable in the EU. Here is the breakdown of the conflict.",
+    "summary_ro": "Google și Mozilla critică restricțiile Apple privind motoarele de browser pe iOS în UE. De ce nu avem încă alternative reale la Safari?",
+    "summary_en": "Google and Mozilla claim Apple's restrictions make alternative browser engines on iOS unworkable in the EU. Here is the breakdown of the conflict.",
+    "body_ro": "<h2>Conflictul browserelor pe iOS: De ce Safari rămâne singura opțiune reală</h2><p>La aproape trei ani de la implementarea Digital Markets Act (DMA) în Uniunea Europeană, utilizatorii de iPhone încă nu au parte de o competiție reală între browsere. Deși Apple a fost forțată să permită motoare de randare alternative, Google și Mozilla susțin că aceste schimbări există doar pe hârtie.</p><p>Echipa Chrome for Developers a susținut recent plângerea depusă de Mozilla, afirmând că restricțiile impuse de Apple fac lansarea unui motor de browser alternativ practic imposibilă. Problema principală? Apple obligă dezvoltatorii să creeze aplicații complet separate pentru utilizatorii din UE, forțând utilizatorii să își migreze manual datele, un proces pe care majoritatea nu îl vor parcurge.</p><h2>De ce nu putem folosi Gecko sau Blink pe iPhone?</h2><p>Mozilla a explicat că pentru a aduce motorul Gecko (cel din Firefox) pe iOS, ar trebui să lanseze o aplicație separată, indisponibilă pentru restul lumii. Această fragmentare a ecosistemului este considerată inacceptabilă de către dezvoltatori. În schimb, Apple susține că aceste reguli sunt necesare pentru siguranța utilizatorilor și că Google și Mozilla ar avea deja toate instrumentele necesare pentru a lansa aceste browsere, dar aleg să nu o facă.</p><p>Google a experimentat cu un prototip bazat pe motorul Blink, dar a declarat oficial că acesta nu va fi lansat pentru public. Această poziție ambiguă a gigantului din Mountain View ridică semne de întrebare privind dorința reală de a concura cu Safari pe platforma Apple.</p><h2>Ce urmează pentru utilizatorii din România?</h2><p>Comisia Europeană a confirmat că se află în discuții cu Apple pentru a clarifica aceste restricții. Pentru utilizatorii din România, acest lucru înseamnă că, pe termen scurt, Safari va continua să domine piața iOS. Dacă presiunea autorităților europene va duce la eliminarea obligativității aplicațiilor separate, am putea vedea în sfârșit o integrare nativă a motoarelor Chrome sau Firefox pe iPhone.</p><p>Până atunci, rămânem cu browsere care, deși arată diferit la suprafață, folosesc în spate același motor WebKit impus de Apple. Această situație subliniază limitele legislației DMA în fața unui ecosistem închis, unde controlul asupra experienței utilizatorului este prioritatea absolută a producătorului.</p>",
+    "body_en": "<h2>The Browser Engine Standoff: Why Safari Still Rules iOS</h2><p>Nearly three years after the Digital Markets Act (DMA) mandated that Apple allow alternative browser engines on iOS in the European Union, the landscape remains largely unchanged. Google and Mozilla have both publicly criticized Apple, labeling the current compliance as 'choice on paper, not in practice.'</p><p>The core of the dispute lies in Apple's technical requirements. To use an engine like Mozilla's Gecko or Google's Blink, developers must release entirely separate applications that are exclusive to the EU. This forces users to manually migrate their data, bookmarks, and passwords to a new app—a friction point that effectively kills adoption rates before they even begin.</p><h2>Is Apple Blocking Innovation?</h2><p>Mozilla has been vocal about these 'unworkable' conditions. They argue that Apple is technically compliant with the letter of the law but violates its spirit by creating barriers that no major browser maker can realistically overcome. Apple, however, maintains that its requirements are essential for maintaining user security and privacy on the platform.</p><p>Interestingly, Google has been cautious. While their Chrome team publicly agreed with Mozilla's stance, they did not sign the open letter to the European Commission. Google previously developed a prototype of Chromium for iOS using the Blink engine but stated it would not be released to the public, suggesting that the business case for fighting Apple on this front remains complicated.</p><h2>The European Commission's Role</h2><p>Following the recent outcry, the European Commission confirmed it is actively engaging with Apple regarding these restrictions. They are currently consulting with Mozilla and other industry players to determine how rival browsers can compete on a level playing field. For now, European iPhone users are still restricted to WebKit-based browsers, regardless of the app icon on their home screen.</p><p>As the legal battle continues, the question remains: will Apple be forced to allow full-featured, non-WebKit browsers, or will the current stalemate persist? For users, the wait for a truly competitive mobile browsing experience on iOS continues.</p>",
+    "highlights_ro": [
+      "Google și Mozilla acuză Apple că blochează intenționat lansarea motoarelor de browser alternative prin condiții imposibile.",
+      "Deși DMA obligă Apple să permită motoare terțe, nicio companie nu a reușit să migreze utilizatorii fără a crea aplicații noi.",
+      "Apple susține că oferă tot ce este necesar, însă Comisia Europeană a început deja consultări pentru a forța schimbarea."
+    ],
+    "highlights_en": [
+      "Google and Mozilla are challenging Apple's restrictions on alternative browser engines in the EU.",
+      "Apple requires separate apps for alternative engines, making user migration nearly impossible.",
+      "The European Commission is currently consulting with stakeholders to force potential changes."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-24T22:07:06+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-24-google-mozilla-criticize-apple-browser-rules_1.jpg",
+      "assets/images/2026-11-24-google-mozilla-criticize-apple-browser-rules_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-24-nyt-warns-photographers-against-photoshop-2027",
     "slug_ro": "nyt-interzice-photoshop-2027-marcare-ai",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",

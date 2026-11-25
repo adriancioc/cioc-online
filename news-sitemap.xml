@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-google-mozilla-criticize-apple-browser-rules/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:07:06+00:00</news:publication_date>
+      <news:title>Google and Mozilla Call Apple&#x27;s Browser Rules &#x27;Choice on Paper&#x27;</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-google-mozilla-criticize-apple-browser-rules/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:07:06+00:00</news:publication_date>
+      <news:title>Google și Mozilla atacă Apple: „Alegere pe hârtie, nu în practică”</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</loc>
     <news:news>
       <news:publication>
@@ -615,72 +637,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T01:25:53+00:00</news:publication_date>
       <news:title>Anthropic: Cum au pariat investitorii pe succesul AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-global-it-infrastructure-instability/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:48:02+00:00</news:publication_date>
-      <news:title>Official Warning: Global IT Infrastructure Remains Unstable</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-global-it-infrastructure-instability/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:48:02+00:00</news:publication_date>
-      <news:title>Avertisment oficial: Infrastructura IT globală rămâne instabilă</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-elizabeth-holmes-documentary-box-office-success/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:42:48+00:00</news:publication_date>
-      <news:title>Elizabeth Holmes documentary hits $100M box office milestone</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-elizabeth-holmes-documentary-box-office-success/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:42:48+00:00</news:publication_date>
-      <news:title>Documentarul despre Elizabeth Holmes depășește 100 milioane dolari</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:14:07+00:00</news:publication_date>
-      <news:title>OpenAI Proposes Speed Limits for AI Development</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-22-openai-proposes-ai-development-speed-limits/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:14:07+00:00</news:publication_date>
-      <news:title>OpenAI propune o „limită de viteză” pentru dezvoltarea AI</news:title>
     </news:news>
   </url>
 </urlset>
