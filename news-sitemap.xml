@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:10:54+00:00</news:publication_date>
+      <news:title>Threads App for iPad Now Available: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-threads-native-ipad-app-launched/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:10:54+00:00</news:publication_date>
+      <news:title>Threads se lansează nativ pe iPad: Ce aduce prima versiune</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-smarttag3-launch/</loc>
     <news:news>
       <news:publication>
@@ -659,72 +681,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T13:09:32+00:00</news:publication_date>
       <news:title>Moto Tag 3 apare pe Amazon UK înainte de lansare: Ce aduce nou?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-apple-namedrop-patent-lawsuit-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T11:33:48+00:00</news:publication_date>
-      <news:title>Apple Faces iPhone Sales Ban in India Over NameDrop</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-apple-namedrop-patent-lawsuit-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T11:33:48+00:00</news:publication_date>
-      <news:title>Apple, dat în judecată în India din cauza funcției NameDrop</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-meta-muse-walmart-ai-shopping/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T11:00:00+00:00</news:publication_date>
-      <news:title>Meta Muse Can Now Shop on Walmart: AI Agents Take Over</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-meta-muse-walmart-ai-shopping/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T11:00:00+00:00</news:publication_date>
-      <news:title>Meta Muse va face cumpărături pe Walmart: AI-ul devine agent de achiziții</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-23-macbook-neo-annual-update-cycle/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:50:49+00:00</news:publication_date>
-      <news:title>MacBook Neo to Move to Annual Update Cycle</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-23-macbook-neo-annual-update-cycle/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:50:49+00:00</news:publication_date>
-      <news:title>MacBook Neo trece la un ciclu de actualizare anual</news:title>
     </news:news>
   </url>
 </urlset>
