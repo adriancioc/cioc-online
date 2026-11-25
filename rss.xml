@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>1Password Security Breach: What You Need to Know</title>
+    <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</guid>
+    <description>1Password confirms a security breach. Learn what data was exposed, if your passwords are safe, and how to protect yourself from phishing attempts.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-1password-security-breach-explained_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Can a Smartwatch Save Lives? Samsung&#x27;s Perspective</title>
     <link>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-watch-health-impact/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-watch-health-impact/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</guid>
     <description>NASA is refusing to provide details on a Russian Progress launch to the ISS. We examine the geopolitical shift behind this lack of transparency.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-roscosmos-secrecy-iss-launch_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Russia May Launch Nuclear Weapon Into Orbit Next Month</title>
-    <link>https://cioc.online/en/posts/2026-11-23-russia-nuclear-space-weapon/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-russia-nuclear-space-weapon/</guid>
-    <description>Reports suggest Russia is preparing to launch a nuclear-armed satellite, threatening global satellite networks and space security.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-russia-nuclear-space-weapon_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

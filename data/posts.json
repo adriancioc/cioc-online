@@ -1,5 +1,42 @@
 [
   {
+    "slug": "2026-11-25-1password-security-breach-explained",
+    "slug_ro": "breach-securitate-1password-date-expuse",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "1Password breach",
+    "focus_keyword_en": "1Password security breach",
+    "title_ro": "Breach de securitate la 1Password: Ce date au fost expuse",
+    "title_en": "1Password Security Breach: What You Need to Know",
+    "summary": "1Password confirms a security breach. Learn what data was exposed, if your passwords are safe, and how to protect yourself from phishing attempts.",
+    "summary_ro": "1Password a confirmat un incident de securitate. Află ce date au fost compromise, dacă parola ta este în siguranță și cum să te ferești de phishing.",
+    "summary_en": "1Password confirms a security breach. Learn what data was exposed, if your passwords are safe, and how to protect yourself from phishing attempts.",
+    "body_ro": "<h2>Incident de securitate la 1Password: Ce trebuie să știi</h2><p>1Password, unul dintre cei mai populari manageri de parole la nivel global, a confirmat recent un incident de securitate care a ridicat semne de întrebare în rândul utilizatorilor. Deși compania a precizat că vault-urile (seifurile) clienților nu au fost compromise, atacul subliniază vulnerabilitățile la care sunt expuse chiar și cele mai sigure platforme.</p><p>Incidentul a început pe 19 noiembrie, când un atacator a obținut acces la contul de GitHub al unui angajat. Folosind acest acces, hackerul a reușit să introducă cod malițios în sistemele backend, permițându-i să extragă date despre clienți. Printre informațiile compromise se numără numele utilizatorilor, adresele de email asociate conturilor, chei publice și identificatori de cont.</p><h2>Sunt parolele mele în siguranță?</h2><p>Vestea bună, confirmată de 1Password, este că datele stocate în seifurile utilizatorilor – adică parolele propriu-zise, cardurile bancare și alte secrete – au rămas inaccesibile atacatorului. 1Password utilizează o arhitectură de tip zero-knowledge, ceea ce înseamnă că nici măcar compania nu are acces la cheile secrete ale utilizatorilor. Prin urmare, chiar și în cazul unei breșe la nivel de sistem, datele criptate rămân protejate.</p><p>Totuși, faptul că adresele de email și numele au fost expuse reprezintă un risc semnificativ de securitate. Această bază de date poate fi utilizată de atacatori pentru campanii țintite de phishing. Este esențial să fii extrem de precaut cu orice mesaj, email sau apel telefonic care pretinde a fi din partea 1Password.</p><h2>Cum să te protejezi după acest incident</h2><p>Compania a luat deja măsuri pentru a securiza infrastructura, inclusiv dezactivarea contului GitHub compromis și rotirea credențialelor interne. Mai mult, 1Password a actualizat sistemul de recuperare a contului, mărind lungimea codurilor numerice la 10 caractere alfanumerice pentru a preveni atacurile de tip brute-force.</p><ul><li><strong>Nu oferi niciodată parola principală:</strong> 1Password nu îți va cere niciodată parola sau cheia secretă prin email sau SMS.</li><li><strong>Verifică sursa:</strong> Dacă primești un link de recuperare sau o invitație neașteptată, nu da click. Accesează direct site-ul oficial 1Password.</li><li><strong>Activează 2FA:</strong> Asigură-te că ai activat autentificarea în doi pași pe toate conturile importante, nu doar în managerul de parole.</li></ul><p>Deși acest incident nu a dus la pierderea parolelor, el servește drept reamintire că nicio platformă nu este imună. Menținerea unei igiene digitale riguroase și vigilența constantă rămân cele mai bune metode de protecție în fața atacurilor cibernetice moderne.</p>",
+    "body_en": "<h2>1Password Security Incident: The Facts</h2><p>1Password, a leading password manager, recently confirmed a security breach that has caused concern among its millions of users. While the company has stated that customer vaults remain secure, the incident highlights the ongoing risks inherent in managing sensitive data, even for top-tier security firms.</p><p>The breach was detected on November 19th, when an attacker gained unauthorized access to an employee's corporate GitHub account. By leveraging this access, the attacker pushed malicious code to backend services, allowing them to download specific customer data. The exposed information includes customer names, email addresses, public keys, and account identifiers.</p><h2>Are Your Passwords Safe?</h2><p>The critical takeaway is that customer vaults—where passwords, payment details, and other sensitive information are stored—were never accessed. 1Password uses a zero-knowledge architecture, meaning the company itself does not have access to your master password or secret key. Therefore, even with backend system access, the attacker could not decrypt the user data.</p><p>However, the exposure of names and email addresses is a serious concern. This data is a goldmine for attackers looking to launch sophisticated phishing campaigns. Users should be on high alert for any communication that claims to be from 1Password, especially those involving account recovery or invitations.</p><h2>Protecting Your Account</h2><p>1Password has taken immediate steps to remediate the situation, including disabling the compromised GitHub account and rotating internal credentials. Additionally, they have upgraded their recovery link system to use 10-character alphanumeric codes, making them significantly harder to guess.</p><ul><li><strong>Never share your Master Password:</strong> 1Password will never ask for your master password or secret key via email, text, or phone.</li><li><strong>Verify communication:</strong> If you receive an unexpected recovery link, do not click it. Always navigate to the official 1Password website manually.</li><li><strong>Enable 2FA:</strong> Ensure multi-factor authentication is active on all your critical accounts, not just your password manager.</li></ul><p>While this breach did not result in stolen passwords, it serves as a stark reminder that security is a continuous process. Vigilance and robust digital hygiene are your best defenses against evolving cyber threats.</p>",
+    "highlights_ro": [
+      "Un atacator a accesat sistemele interne 1Password prin contul GitHub al unui angajat.",
+      "Nicio parolă sau vault nu a fost compromis, dar nume și adrese de email au fost furate.",
+      "Rămâi vigilent la tentativele de phishing; 1Password nu îți va cere niciodată parola prin email."
+    ],
+    "highlights_en": [
+      "An attacker accessed 1Password internal systems via a compromised employee GitHub account.",
+      "No passwords or vaults were compromised, but names and email addresses were exposed.",
+      "Stay alert for phishing; 1Password will never ask for your master password via email."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T19:10:15+00:00",
+    "source_names": [
+      "The Verge",
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-1password-security-breach-explained_1.jpg",
+      "assets/images/2026-11-25-1password-security-breach-explained_2.jpg",
+      "assets/images/2026-11-25-1password-security-breach-explained_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-samsung-galaxy-watch-health-impact",
     "slug_ro": "samsung-galaxy-watch-poveste-medic",
     "url": "https://news.samsung.com/global/video-voices-of-galaxy-meet-the-physician-from-mexico-whose-galaxy-watch-helped-him-care-for-his-mother-and-himself",
