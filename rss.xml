@@ -26,6 +26,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-halide-update-iphone-duo-fill-light_1.jpg" medium="image" />
   </item>
   <item>
+    <title>GTA VI vs Anthropic: The End of Human-Made Gaming?</title>
+    <link>https://cioc.online/en/posts/2026-11-26-gta-vi-vs-anthropic-ai/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-gta-vi-vs-anthropic-ai/</guid>
+    <description>GTA VI broke records without AI, while Anthropic went public. Is AI efficiency the enemy of art? We analyze the future of human-led creativity.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-gta-vi-vs-anthropic-ai_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Developing Giant Foldable iPad Costing Up to $5,000</title>
     <link>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</guid>
     <description>Microsoft triggers internal Code Red following a nearly 24-hour Exchange Online &amp; Outlook outage caused by a hidden gateway bug sitting since July.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-microsoft-code-red-outlook-exchange-outage_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Threads App for iPad Now Available: What You Need to Know</title>
-    <link>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</guid>
-    <description>Meta releases a native Threads app for iPad on the App Store. Explore the new layout, v1 limitations, and added cashtag functionality.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-threads-native-ipad-app-launched_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
