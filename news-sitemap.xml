@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:08:39+00:00</news:publication_date>
+      <news:title>Apple Developing Giant Foldable iPad Costing Up to $5,000</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-26-apple-developing-giant-foldable-ipad/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:08:39+00:00</news:publication_date>
+      <news:title>Apple lucrează la un iPad pliabil gigant de 5.000 dolari</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-26-apple-opens-new-store-india/</loc>
     <news:news>
       <news:publication>
@@ -725,72 +747,6 @@
       </news:publication>
       <news:publication_date>2026-11-24T15:51:07+00:00</news:publication_date>
       <news:title>Amazon cumpără Decart: O mutare strategică împotriva Nvidia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-24-google-flow-ai-filmmaking-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T14:00:00+00:00</news:publication_date>
-      <news:title>Google Flow: Empowering Independent Filmmakers with AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-24-google-flow-ai-filmmaking-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T14:00:00+00:00</news:publication_date>
-      <news:title>Google Flow: Cum AI-ul democratizează producția de film</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-24-iphone-18e-camera-redesign-leak/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:30:12+00:00</news:publication_date>
-      <news:title>iPhone 18e Leak: New iPad Pro-Style Camera Design</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-24-iphone-18e-camera-redesign-leak/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:30:12+00:00</news:publication_date>
-      <news:title>iPhone 18e: Apple pregătește o schimbare radicală a camerei</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T11:15:54+00:00</news:publication_date>
-      <news:title>Meta Launches Muse Personal AI Agent in the UK via WhatsApp</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T11:15:54+00:00</news:publication_date>
-      <news:title>Meta lansează agentul AI Muse în Europa: Ce face pe WhatsApp</news:title>
     </news:news>
   </url>
 </urlset>

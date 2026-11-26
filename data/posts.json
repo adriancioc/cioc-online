@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-26-apple-developing-giant-foldable-ipad",
+    "slug_ro": "apple-lucreaza-la-ipad-pliabil-gigant",
+    "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
+    "category": "GADGETURI",
+    "virality_score": 6,
+    "focus_keyword_ro": "iPad pliabil Apple",
+    "focus_keyword_en": "foldable iPad",
+    "title_ro": "Apple lucrează la un iPad pliabil gigant de 5.000 dolari",
+    "title_en": "Apple Developing Giant Foldable iPad Costing Up to $5,000",
+    "summary": "Apple is still working on a 20-inch foldable iPad, codenamed J312. Discover the technical challenges and the potential 2029 launch timeline.",
+    "summary_ro": "Apple continuă dezvoltarea unui iPad pliabil de 20 inch, dar lansarea rămâne incertă. Află detaliile despre proiectul J312 și provocările tehnice.",
+    "summary_en": "Apple is still working on a 20-inch foldable iPad, codenamed J312. Discover the technical challenges and the potential 2029 launch timeline.",
+    "body_ro": "<h2>Un iPad pliabil de 20 inch: realitate sau experiment costisitor?</h2><p>Apple nu a renunțat la ideea unui dispozitiv pliabil de mari dimensiuni. Conform celor mai recente informații furnizate de Mark Gurman, gigantul din Cupertino continuă să lucreze la un proiect cunoscut intern sub numele de cod <strong>J312</strong>. Acesta nu este un simplu telefon, ci un iPad pliabil cu o diagonală impresionantă de 19 până la 20 de inch, care ar putea schimba complet modul în care interacționăm cu tabletele.</p><h2>Provocări tehnice și un preț pe măsură</h2><p>Deși entuziasmul este mare, realitatea din spatele proiectului este complicată. Apple se lovește de obstacole majore în ceea ce privește randamentul producției ecranelor și greutatea dispozitivului. Un ecran de asemenea dimensiuni, care trebuie să fie pliabil, ridică probleme serioase de durabilitate și portabilitate. Mai mult, prețul vehiculat este unul prohibitiv pentru consumatorul obișnuit: între 3.000 și 5.000 de dolari. La acest nivel de preț, dispozitivul s-ar poziționa mai degrabă ca o unealtă de nișă pentru profesioniști decât ca un gadget de larg consum.</p><h2>Incertitudinea software și calendarul lansării</h2><p>Un alt punct critic este sistemul de operare. Apple încă nu a decis dacă acest dispozitiv va rula o versiune de iPadOS, macOS sau o platformă complet nouă, creată special pentru acest format. Această indecizie software, combinată cu dificultățile hardware, a împins constant data lansării. Dacă inițial se vorbea despre 2027, acum orizontul de așteptare a fost mutat spre 2029. Există, de asemenea, posibilitatea ca acest proiect să rămână doar un experiment tehnologic care nu va ajunge niciodată pe rafturile magazinelor.</p><h2>Concluzia cioc.online</h2><p>În timp ce concurența lansează telefoane pliabile care devin tot mai accesibile, Apple pare să exploreze un teritoriu extrem de riscant. Un iPad de 20 de inch care costă cât o mașină second-hand este o declarație de forță, dar și un pariu periculos. Până când Apple nu va rezolva problemele de greutate și nu va oferi un motiv clar pentru care am avea nevoie de un ecran atât de mare în buzunar, rămânem sceptici cu privire la succesul comercial al acestui dispozitiv.</p>",
+    "body_en": "<h2>The 20-inch Foldable iPad: Apple's Risky Bet</h2><p>Apple is still exploring the foldable market, but not in the way most expected. According to recent reports, the company is actively developing a massive foldable iPad, internally referred to as <strong>Project J312</strong>. This device would feature a display measuring between 19 and 20 inches, essentially acting as a giant, foldable canvas for creative professionals and power users.</p><h2>Technical Hurdles and High Costs</h2><p>The development process is far from smooth. Apple is currently battling significant technical challenges, primarily regarding display manufacturing yields and the overall weight of the device. Creating a foldable screen of this scale that remains durable and portable is a massive engineering feat. Furthermore, the projected price tag is staggering, ranging from $3,000 to $5,000. This places the device firmly in the luxury, niche category, far beyond the reach of the average consumer.</p><h2>Software Dilemmas and Timeline Shifts</h2><p>Beyond the hardware, Apple is struggling to define the software experience. It remains unclear whether this device would run iPadOS, a modified version of macOS, or an entirely new operating system. This lack of software direction, combined with hardware complexities, has caused the launch timeline to slip repeatedly. While 2027 was the original target, it has been pushed back to 2029, and there is no guarantee that the product will ever reach mass production.</p><h2>The cioc.online Verdict</h2><p>While the tech world is fascinated by the prospect of a giant foldable, Apple’s approach seems cautious and experimental. A $5,000 foldable iPad is a bold vision, but it faces an uphill battle in terms of utility and market demand. Until Apple can prove that such a device offers a tangible advantage over a standard MacBook or iPad Pro, it remains an expensive, unreleased concept that may never see the light of day.</p>",
+    "highlights_ro": [
+      "Apple dezvoltă intern un iPad pliabil de 19-20 inch, sub numele de cod J312.",
+      "Prețul estimat este între 3.000 și 5.000 USD, cu o lansare posibilă abia în 2029.",
+      "Proiectul se confruntă cu probleme de producție, greutate și incertitudine software."
+    ],
+    "highlights_en": [
+      "Apple is developing a 19-20 inch foldable iPad internally known as Project J312.",
+      "Estimated pricing sits between $3,000 and $5,000 with a potential 2029 release.",
+      "Development is hindered by display yield issues, weight, and software uncertainty."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-26T13:08:39+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-26-apple-developing-giant-foldable-ipad_1.jpg",
+      "assets/images/2026-11-26-apple-developing-giant-foldable-ipad_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-apple-opens-new-store-india",
     "slug_ro": "apple-deschide-magazin-nou-india",
     "url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
