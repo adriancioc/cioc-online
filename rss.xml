@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-apple-developing-giant-foldable-ipad_1.jpg" medium="image" />
   </item>
   <item>
+    <title>iPhone 20 Pro May Feature Ceramic in Limited-Edition Model</title>
+    <link>https://cioc.online/en/posts/2026-11-26-iphone-20-pro-ceramic-limited-edition/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-iphone-20-pro-ceramic-limited-edition/</guid>
+    <description>Apple is rumored to be testing ceramic components for a limited-edition 20th-anniversary iPhone 20 Pro. Here is what we know about the potential design.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-iphone-20-pro-ceramic-limited-edition_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>42 AGs Block Character.AI from Selling User Chat Histories</title>
     <link>https://cioc.online/en/posts/2026-11-26-character-ai-data-sale-block/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-character-ai-data-sale-block/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-jensen-huang-nvidia-return-scandal/</guid>
     <description>Jensen Huang is back as Nvidia CEO. We break down the political pressure, the espionage allegations, and the future of the AI giant.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Launches Humanity&#x27;s First Exam to Test AI Reliability</title>
-    <link>https://cioc.online/en/posts/2026-11-24-google-deepmind-humanitys-first-exam/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-google-deepmind-humanitys-first-exam/</guid>
-    <description>Google DeepMind introduces Humanity&#x27;s First Exam on Kaggle to measure how reliably LLMs handle everyday tasks. Discover the details.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-google-deepmind-humanitys-first-exam_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

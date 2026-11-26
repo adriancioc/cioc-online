@@ -35,6 +35,41 @@
     ]
   },
   {
+    "slug": "2026-11-26-iphone-20-pro-ceramic-limited-edition",
+    "slug_ro": "iphone-20-pro-carcasa-ceramica",
+    "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
+    "category": "TELEFOANE",
+    "virality_score": 7,
+    "focus_keyword_ro": "iPhone 20 Pro ceramică",
+    "focus_keyword_en": "iPhone 20 Pro ceramic",
+    "title_ro": "iPhone 20 Pro ar putea primi o ediție limitată din ceramică",
+    "title_en": "iPhone 20 Pro May Feature Ceramic in Limited-Edition Model",
+    "summary": "Apple is rumored to be testing ceramic components for a limited-edition 20th-anniversary iPhone 20 Pro. Here is what we know about the potential design.",
+    "summary_ro": "Apple ar putea lansa o ediție aniversară iPhone 20 Pro cu carcasă din ceramică. Află detaliile despre acest zvon și ce înseamnă pentru designul viitor.",
+    "summary_en": "Apple is rumored to be testing ceramic components for a limited-edition 20th-anniversary iPhone 20 Pro. Here is what we know about the potential design.",
+    "body_ro": "<h2>O revenire spectaculoasă a ceramicii pe iPhone?</h2><p>Lumea zvonurilor tech s-a pus în mișcare odată cu informațiile apărute pe platforma Weibo, venite din partea leaker-ului Fixed Focus Digital. Se pare că Apple lucrează la un proiect ambițios pentru viitorul iPhone aniversar, supranumit în prezent iPhone 20 Pro, care ar putea include elemente din ceramică. Această mișcare ar marca o schimbare majoră de design pentru smartphone-urile companiei din Cupertino.</p><h2>Ce știm despre acest proiect</h2><p>Conform informațiilor scurse, Apple ar fi intrat deja în faza de validare inginerească (EVT) pentru componentele ceramice. Spre deosebire de utilizarea actuală a „Ceramic Shield” — care este un amestec de sticlă cu cristale ceramice pentru protecția ecranului — noul proiect vizează materialul în sine ca parte a carcasei exterioare. Se speculează că Apple ar putea lansa o ediție extrem de limitată, similară cu modelele Apple Watch Edition care au fost extrem de apreciate pentru finisajul lor alb sau albastru perlat.</p><h2>Ceramica vs. Titanul actual</h2><p>În prezent, Apple folosește titanul pentru modelele sale Pro, oferind un echilibru între greutate și rezistență. Ceramica, deși mai greu de prelucrat și mai predispusă la crăpare în cazul șocurilor punctuale, oferă o senzație tactilă superioară și o rezistență la zgârieturi aproape imbatabilă. Dacă Apple va reuși să integreze acest material într-un șasiu curbat, așa cum sugerează zvonurile despre designul quad-curved, am putea asista la cel mai luxos iPhone produs vreodată.</p><h2>Ce înseamnă acest lucru pentru utilizatori</h2><p>Dacă acest model va ajunge pe piață, ne putem aștepta la un preț premium, mult peste nivelul actual al seriei Pro. De asemenea, disponibilitatea ar putea fi extrem de redusă, transformând acest iPhone într-un obiect de colecție. Până la confirmările oficiale din toamna anului 2027, rămâne de văzut dacă Apple va alege să folosească ceramica pentru tot spatele telefonului sau doar pentru accente estetice. Un lucru este cert: Apple caută constant modalități de a diferenția modelele aniversare de restul gamei, iar ceramica este un candidat ideal pentru acest rol.</p>",
+    "body_en": "<h2>Could Ceramic Return to the iPhone?</h2><p>Rumors regarding Apple's upcoming 20th-anniversary iPhone, often referred to as the iPhone 20 Pro, have taken an interesting turn. Reports from the leaker Fixed Focus Digital suggest that Apple is experimenting with ceramic components for this milestone device. This would represent a significant shift in material science for Apple's smartphone lineup, potentially moving away from the current titanium-focused design language.</p><h2>The Engineering Challenge</h2><p>According to the leak, the project is currently in the engineering validation testing (EVT) phase. While Apple has used ceramic in the past for Apple Watch Edition models, scaling this material to the size of a modern smartphone chassis is a massive manufacturing challenge. The leaker suggests that production capacity would be very low, indicating that if this device launches, it will likely be a highly exclusive, limited-edition model rather than a mass-market product.</p><h2>Why Ceramic Matters</h2><p>Ceramic offers a unique set of properties that differentiate it from glass or metal. It is incredibly hard, making it highly resistant to scratches, and it provides a distinct, premium feel that is often described as warmer and more substantial than cold metal. With rumors pointing toward a radical quad-curved display design for the 20th-anniversary model, a ceramic enclosure could provide the perfect high-end finish to complement such an advanced display.</p><h2>Looking Ahead to 2027</h2><p>While the industry is currently focused on the next iteration of the iPhone, the 20th-anniversary model expected in 2027 is shaping up to be a major pivot point for Apple. Whether the company decides to skip the \"iPhone 19\" branding to highlight the anniversary remains to be seen. However, the prospect of a ceramic iPhone is clearly designed to generate buzz and cater to the luxury market. As we wait for more concrete evidence, it is worth remembering that engineering validation does not always lead to mass production, but it certainly highlights Apple's interest in pushing the boundaries of material design.</p>",
+    "highlights_ro": [
+      "Un leaker susține că Apple testează componente ceramice pentru viitorul iPhone aniversar.",
+      "Producția ar fi extrem de limitată, similară cu modelele Apple Watch Edition.",
+      "Ceramica ar putea înlocui sau completa titanul, oferind un aspect premium și durabilitate sporită."
+    ],
+    "highlights_en": [
+      "Leaker claims Apple is testing ceramic components for the upcoming anniversary iPhone.",
+      "Production is expected to be very low, targeting a limited-edition luxury market.",
+      "Ceramic could offer a unique aesthetic and scratch resistance compared to titanium."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-26T12:24:29+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-26-iphone-20-pro-ceramic-limited-edition_1.jpg",
+      "assets/images/2026-11-26-iphone-20-pro-ceramic-limited-edition_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-character-ai-data-sale-block",
     "slug_ro": "character-ai-date-personale-vanzare",
     "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
