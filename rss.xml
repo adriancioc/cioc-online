@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-apple-developing-giant-foldable-ipad_1.jpg" medium="image" />
   </item>
   <item>
+    <title>42 AGs Block Character.AI from Selling User Chat Histories</title>
+    <link>https://cioc.online/en/posts/2026-11-26-character-ai-data-sale-block/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-character-ai-data-sale-block/</guid>
+    <description>42 US Attorneys General are fighting to stop Character.AI from selling private chat data of 21 million users, including minors, during bankruptcy.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-character-ai-data-sale-block_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Expands Retail Footprint with New Hyderabad Store</title>
     <link>https://cioc.online/en/posts/2026-11-26-apple-opens-new-store-india/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-apple-opens-new-store-india/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-google-deepmind-humanitys-first-exam/</guid>
     <description>Google DeepMind introduces Humanity&#x27;s First Exam on Kaggle to measure how reliably LLMs handle everyday tasks. Discover the details.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-google-deepmind-humanitys-first-exam_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Tidal to Delete 27 Million AI-Generated Tracks</title>
-    <link>https://cioc.online/en/posts/2026-11-24-tidal-removes-ai-generated-music/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-tidal-removes-ai-generated-music/</guid>
-    <description>Tidal is taking a stand against AI slop. Starting December 9, the platform will remove 27 million fully AI-generated songs to protect human artists.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-tidal-removes-ai-generated-music_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
