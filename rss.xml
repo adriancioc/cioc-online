@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-best-travel-gadgets-2026-gift-guide_1.jpg" medium="image" />
   </item>
   <item>
+    <title>1Password Security Breach: What You Need to Know</title>
+    <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</guid>
+    <description>1Password confirmed a security incident. Find out what data was accessed, if your vaults are safe, and the security steps you should take now.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-1password-security-breach-explained_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>SpaceX Starmind: FCC Approves 1 Million AI Satellites</title>
     <link>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-nyt-warns-photographers-against-photoshop-2027/</guid>
     <description>The New York Times instructs photographers not to update to Photoshop 2027 over automatic AI metadata tags flagging images as AI-edited.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-nyt-warns-photographers-against-photoshop-2027_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Gemini Becomes Official AI Partner of Golden State</title>
-    <link>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</guid>
-    <description>Google expands its partnership with Golden State. Gemini is now the official AI assistant for the Warriors, Valkyries, and Chase Center.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-google-gemini-golden-state-partnership_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

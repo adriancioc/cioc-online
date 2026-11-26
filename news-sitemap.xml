@@ -90,6 +90,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:32:02+00:00</news:publication_date>
+      <news:title>1Password Security Breach: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-1password-security-breach-explained/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:32:02+00:00</news:publication_date>
+      <news:title>Breșă de securitate 1Password: Ce date au fost expuse?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</loc>
     <news:news>
       <news:publication>
