@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Samsung Global Goals: Turning Galaxy Phones into Tools for Good</title>
+    <link>https://cioc.online/en/posts/2026-11-26-samsung-global-goals-impact-app/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-samsung-global-goals-impact-app/</guid>
+    <description>Discover how the Samsung Global Goals app allows Galaxy users to support UN development projects directly from their smartphones.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-samsung-global-goals-impact-app_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Developing Giant Foldable iPad Costing Up to $5,000</title>
     <link>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-google-mozilla-challenge-apple-ios-browsers/</guid>
     <description>Google and Mozilla claim Apple&#x27;s browser rules in the EU are &#x27;choice on paper&#x27; only. Here is why alternative engines are still missing on iOS.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-google-mozilla-challenge-apple-ios-browsers_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Jensen Huang Returns to Nvidia Amidst Global Controversy</title>
-    <link>https://cioc.online/en/posts/2026-11-24-jensen-huang-nvidia-return-scandal/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-jensen-huang-nvidia-return-scandal/</guid>
-    <description>Jensen Huang is back as Nvidia CEO. We break down the political pressure, the espionage allegations, and the future of the AI giant.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
