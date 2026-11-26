@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-ios-28-notification-revamp_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Jensen Huang Admits Breaking Nvidia&#x27;s Code of Conduct</title>
+    <link>https://cioc.online/en/posts/2026-11-25-jensen-huang-breaks-nvidia-conduct-code/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-jensen-huang-breaks-nvidia-conduct-code/</guid>
+    <description>Jensen Huang admits to violating Nvidia&#x27;s code of conduct. We explore the cultural risks and the impact on employee morale at the AI giant.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-jensen-huang-breaks-nvidia-conduct-code_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>1Password Security Breach: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-kagi-mail-privacy-focused-gmail-alternative/</guid>
     <description>Kagi Mail enters public beta. Discover this new ad-free, surveillance-free email service designed for those looking to move away from Google.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-kagi-mail-privacy-focused-gmail-alternative_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Search AI Mode Connects to Wallet and Google Drive</title>
-    <link>https://cioc.online/en/posts/2026-11-23-google-search-ai-mode-wallet-drive/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-google-search-ai-mode-wallet-drive/</guid>
-    <description>Google expands AI Mode in Search by integrating Google Wallet, Drive, and Gemini. Learn what changes and how to control your personal data.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-google-search-ai-mode-wallet-drive_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

@@ -145,6 +145,40 @@
     ]
   },
   {
+    "slug": "2026-11-25-jensen-huang-breaks-nvidia-conduct-code",
+    "slug_ro": "jensen-huang-incalca-codul-conduita",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "Jensen Huang Nvidia cod conduita",
+    "focus_keyword_en": "Jensen Huang Nvidia code of conduct",
+    "title_ro": "Jensen Huang a încălcat codul de conduită Nvidia: Ce urmează?",
+    "title_en": "Jensen Huang Admits Breaking Nvidia's Code of Conduct",
+    "summary": "Jensen Huang admits to violating Nvidia's code of conduct. We explore the cultural risks and the impact on employee morale at the AI giant.",
+    "summary_ro": "Jensen Huang a recunoscut încălcarea codului de conduită Nvidia. Analizăm riscurile culturale și impactul asupra angajaților gigantului AI.",
+    "summary_en": "Jensen Huang admits to violating Nvidia's code of conduct. We explore the cultural risks and the impact on employee morale at the AI giant.",
+    "body_ro": "<h2>O criză de integritate la vârful Nvidia</h2><p>Într-o mișcare neașteptată, Jensen Huang, CEO-ul Nvidia, a abordat direct subiectul codului de conduită al companiei în timpul unei întâlniri cu angajații. Într-o recunoaștere rară, acesta a admis că a încălcat regulile interne, subliniind însă că nicio încălcare nu atrage automat concedierea. Această abordare a ridicat semne de întrebare privind cultura organizațională a unuia dintre cei mai valoroși jucători din industria AI.</p><h2>Codul de conduită: Regulă sau sugestie?</h2><p>Pentru majoritatea companiilor, codul de conduită reprezintă coloana vertebrală a eticii profesionale. Experții în resurse umane avertizează că, atunci când liderii ignoră aceste reguli fără consecințe, riscul principal nu este unul legal, ci unul cultural. Angajații tind să devină deziluzionați atunci când standardele etice sunt aplicate selectiv. Matt Plass, expert în conformitate, subliniază că noua generație de angajați pune un preț imens pe etica angajatorului.</p><h2>Riscul „zeului” în tehnologie</h2><p>Nvidia se confruntă cu o problemă unică: Jensen Huang nu este doar un CEO, ci figura centrală care a definit succesul companiei. Într-o astfel de structură, separarea liderului de companie devine aproape imposibilă. În timp ce alte firme ar fi forțat o schimbare la nivel executiv, Nvidia se află într-o poziție în care succesul său viitor este strâns legat de prezența lui Huang. Această dependență face ca orice abatere de la reguli să fie mult mai greu de gestionat intern.</p><h2>Concluzia cioc.online</h2><p>Deși moralul angajaților pare să rămână ridicat în prezent, pe măsură ce presiunea asupra Nvidia crește, erodarea mândriei angajaților ar putea deveni o problemă reală. Compania trebuie să decidă dacă vrea să fie guvernată de principii clare sau de aura liderului său. Rămâne de văzut cum va evolua această tensiune într-o industrie unde reputația este la fel de valoroasă ca tehnologia produsă.</p>",
+    "body_en": "<h2>A crisis of integrity at Nvidia's helm</h2><p>In a surprising move, Nvidia CEO Jensen Huang addressed the company's code of conduct during an all-hands meeting. In a rare admission, he acknowledged violating the internal rules while emphasizing that no one is exempt, yet noting that not every violation results in immediate termination. This stance has sparked a debate regarding corporate culture at one of the world's most valuable AI companies.</p><h2>Code of conduct: Rulebook or suggestion?</h2><p>For most organizations, a code of conduct acts as the bedrock of professional ethics. HR experts warn that when leaders bypass these rules without consequences, the primary risk is not legal, but cultural. Employees often become disillusioned when ethical standards are applied selectively. Matt Plass, a compliance expert, notes that today's workforce is increasingly mindful of corporate ethical standards, and leadership failures can lead to significant internal resentment.</p><h2>The 'Godhead' dilemma in tech</h2><p>Nvidia faces a unique challenge: Jensen Huang is not merely a CEO; he is the central figure who has defined the company's meteoric rise. In such structures, separating the leader from the company is nearly impossible. While other firms might force an executive change after such an admission, Nvidia is in a position where its future success is inextricably linked to Huang's presence. This dependency makes managing such ethical breaches significantly more complex.</p><h2>The cioc.online verdict</h2><p>While employee morale currently appears stable, the long-term pressure on Nvidia could reveal cracks in the company's culture. The firm must decide whether it will be governed by consistent principles or the aura of its leader. As the company continues to dominate the AI landscape, its ability to maintain employee pride despite these executive stumbles will be a critical metric to watch.</p>",
+    "highlights_ro": [
+      "Jensen Huang a admis public că a încălcat codul de conduită intern al Nvidia, susținând că regulile nu se aplică automat prin concediere.",
+      "Experții avertizează că astfel de incidente pot eroda cultura organizațională și mândria angajaților, chiar dacă succesul financiar continuă.",
+      "Cioc.online consideră că Nvidia se află într-o poziție delicată, unde figura CEO-ului este prea strâns legată de succesul companiei pentru a fi înlocuit."
+    ],
+    "highlights_en": [
+      "Nvidia CEO Jensen Huang publicly admitted to violating the company's internal code of conduct, stating that violations don't always mean termination.",
+      "Experts warn that executive rule-breaking can lead to employee shame and cultural decay, regardless of the company's market success.",
+      "Cioc.online believes Nvidia faces a unique dilemma where the CEO's godhead status makes traditional accountability nearly impossible."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T19:54:57+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-jensen-huang-breaks-nvidia-conduct-code_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-1password-security-breach-what-you-need",
     "slug_ro": "breach-securitate-1password-ce-trebuie-sa",
     "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
