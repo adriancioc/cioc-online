@@ -47,6 +47,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-samsung-galaxy-watch-health-impact_1.jpg" medium="image" />
   </item>
   <item>
+    <title>FCC Authorizes SpaceX to Deploy 1 Million Satellites</title>
+    <link>https://cioc.online/en/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</guid>
+    <description>The FCC has granted SpaceX conditional approval to launch 1 million Starmind satellites. Discover the scale and implications of this massive project.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-spacex-authorized-for-one-million-satellites_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>iPhone 18 Pro Max Battery: Apple Promises Up to 45 Hours</title>
     <link>https://cioc.online/en/posts/2026-11-25-iphone-18-pro-max-battery-life/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-iphone-18-pro-max-battery-life/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</guid>
     <description>Anthropic introduces Claude Ship, a suite of AI agents automating code reviews, fixes, and approvals for software development teams.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-anthropic-launches-claude-ship_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Samsung Odyssey G6: World&#x27;s First 1100Hz Gaming Monitor</title>
-    <link>https://cioc.online/en/posts/2026-11-23-samsung-odyssey-g6-1100hz-review/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-samsung-odyssey-g6-1100hz-review/</guid>
-    <description>Samsung unveils the Odyssey G6, the world&#x27;s first 1100Hz gaming monitor. Discover the specs, Dual Mode features, and what this means for eSports.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-samsung-odyssey-g6-1100hz-review_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

@@ -216,6 +216,42 @@
     ]
   },
   {
+    "slug": "2026-11-25-spacex-authorized-for-one-million-satellites",
+    "slug_ro": "spacex-autorizata-pentru-un-milion-de",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+    "category": "TECH",
+    "virality_score": 9,
+    "focus_keyword_ro": "SpaceX sateliți Starmind",
+    "focus_keyword_en": "SpaceX Starmind satellite constellation",
+    "title_ro": "SpaceX a primit undă verde pentru 1 milion de sateliți-server",
+    "title_en": "FCC Authorizes SpaceX to Deploy 1 Million Satellites",
+    "summary": "The FCC has granted SpaceX conditional approval to launch 1 million Starmind satellites. Discover the scale and implications of this massive project.",
+    "summary_ro": "FCC a autorizat SpaceX să lanseze o constelație de 1 milion de sateliți-server. Află ce înseamnă acest proiect industrial masiv pentru viitorul tehnologiei.",
+    "summary_en": "The FCC has granted SpaceX conditional approval to launch 1 million Starmind satellites. Discover the scale and implications of this massive project.",
+    "body_ro": "<h2>O nouă frontieră în infrastructura de date</h2><p>Într-o decizie care va marca istoria explorării spațiale și a infrastructurii digitale, Comisia Federală de Comunicații (FCC) din SUA a autorizat oficial SpaceX să desfășoare o constelație de până la 1 milion de sateliți. Acești sateliți, denumiți Starmind, nu sunt doar simple relee de comunicații, ci sunt concepuți să funcționeze ca centre de date orbitale. Dacă planul va fi dus la bun sfârșit, numărul obiectelor artificiale de pe orbita Pământului va crește de 50 de ori.</p><h2>Termene și condiții de implementare</h2><p>Proiectul este unul de o anvergură fără precedent. SpaceX are la dispoziție un calendar strict, dar generos, pentru a pune în funcțiune acest sistem. Compania trebuie să lanseze primul satelit operațional în următorii șapte ani, atingând pragul de 100.000 de unități până în noiembrie 2035. Finalizarea întregii constelații este programată pentru anul 2040, oferind SpaceX o fereastră de 14 ani pentru a demonstra viabilitatea economică și tehnică a acestor centre de date spațiale.</p><p>Deși autorizația oferă multă libertate, există și limitări. SpaceX a solicitat permisiunea de a debarasa sateliții retrași din uz pe orbite solare sau de depozitare, în loc să îi ardă în atmosferă. FCC a respins momentan această cerere, solicitând mai multe dovezi tehnice privind siguranța acestor metode alternative de eliminare.</p><h2>Controverse și impactul asupra mediului</h2><p>Decizia FCC nu a fost lipsită de critici. Numeroase organizații astronomice și fundații de securitate spațială au avertizat cu privire la riscurile de coliziune, poluarea atmosferică cauzată de reintrarea sateliților și impactul negativ asupra observațiilor astronomice. Cu toate acestea, FCC a adoptat o poziție permisivă, argumentând că multe dintre aceste preocupări, cum ar fi emisiile rezultate din lansări, depășesc competența comisiei.</p><p>Mai mult, printr-o schimbare de politică adoptată recent, FCC a concluzionat că activitățile spațiale care au loc în afara teritoriului SUA nu necesită o evaluare riguroasă conform Legii Naționale de Mediu. Această abordare a permis SpaceX să evite o analiză comprehensivă a impactului ecologic, stârnind nemulțumirea comunității științifice.</p><h2>Ce urmează?</h2><p>Rămâne de văzut dacă infrastructura de date în spațiu este viabilă din punct de vedere economic. Costurile de lansare și mentenanță pentru 1 milion de sateliți sunt astronomice, iar latența datelor între orbită și sol ar putea reprezenta o provocare tehnică majoră. Totuși, autorizația oferă SpaceX un avantaj strategic imens în cursa pentru dominanța infrastructurii digitale globale.</p>",
+    "body_en": "<h2>A New Frontier for Data Infrastructure</h2><p>In a decision that will redefine space exploration and global digital infrastructure, the US Federal Communications Commission (FCC) has officially authorized SpaceX to deploy a constellation of up to 1 million satellites. These units, branded as Starmind, are designed to function as orbital data centers. If fully realized, this project would increase the number of artificial objects in orbit by approximately 50-fold.</p><h2>Deployment Timeline and Regulatory Runway</h2><p>The scale of this project is unprecedented. SpaceX has been granted a 14-year regulatory runway to bring the system to full capacity. The company is required to deploy its first operational Starmind satellite within seven years, with a milestone of 100,000 satellites by November 2035. The full constellation is slated for completion by November 2040, providing SpaceX with significant flexibility to refine the technology.</p><p>While the FCC has been lenient, the authorization is conditional. SpaceX requested a waiver to dispose of retired satellites in heliocentric or alternative Earth orbits rather than atmospheric reentry. The FCC denied this request, citing insufficient information regarding the safety and compliance of these alternative disposal methods, meaning SpaceX must still prove its disposal strategy before deployment.</p><h2>Environmental and Scientific Concerns</h2><p>The approval process was marked by significant pushback from various organizations, including the American Astronomical Society. Critics raised alarms about collision risks, orbital debris, and the potential for atmospheric pollution from the incineration of thousands of satellites. However, the FCC maintained that many of these concerns, particularly regarding rocket launch emissions, fall outside its regulatory purview.</p><p>Furthermore, the FCC cited a recent policy change, concluding that space-based activities occurring beyond US territory do not trigger the same environmental review requirements as domestic actions. This interpretation allowed the agency to bypass a comprehensive environmental assessment, a move that has drawn sharp criticism from environmental advocates and the scientific community.</p><h2>The Road Ahead</h2><p>The technical and economic viability of orbital data centers remains an open question. While SpaceX has secured the regulatory green light, the challenges of maintaining such a massive constellation—and the latency issues inherent in space-to-ground data transmission—are substantial. Regardless, this authorization cements SpaceX's position as the primary architect of the future's orbital infrastructure.</p>",
+    "highlights_ro": [
+      "FCC a autorizat SpaceX să desfășoare până la 1 milion de sateliți-server (Starmind) în orbită.",
+      "Proiectul se va întinde pe 14 ani, cu termene limită clare pentru implementarea constelației.",
+      "Decizia ignoră îngrijorările privind poluarea atmosferică și riscurile de coliziuni orbitale."
+    ],
+    "highlights_en": [
+      "The FCC authorized SpaceX to deploy up to 1 million Starmind satellites as orbital data centers.",
+      "The project has a 14-year timeline, with full constellation deployment expected by 2040.",
+      "Environmental concerns regarding orbital debris and atmospheric pollution were largely dismissed."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T18:22:38+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-25-spacex-authorized-for-one-million-satellites_1.jpg",
+      "assets/images/2026-11-25-spacex-authorized-for-one-million-satellites_2.jpg",
+      "assets/images/2026-11-25-spacex-authorized-for-one-million-satellites_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-iphone-18-pro-max-battery-life",
     "slug_ro": "iphone-18-pro-max-autonomie-baterie",
     "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",

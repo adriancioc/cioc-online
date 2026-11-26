@@ -134,6 +134,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:22:38+00:00</news:publication_date>
+      <news:title>FCC Authorizes SpaceX to Deploy 1 Million Satellites</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:22:38+00:00</news:publication_date>
+      <news:title>SpaceX a primit undă verde pentru 1 milion de sateliți-server</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-iphone-18-pro-max-battery-life/</loc>
     <news:news>
       <news:publication>
