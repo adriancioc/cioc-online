@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>iOS 28 Rumor: Apple to Overhaul iPhone Notifications</title>
+    <link>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</guid>
+    <description>New rumors suggest Apple is planning a major revamp of the iPhone notification system in iOS 28 to reduce clutter and spam.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-ios-28-notification-revamp_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>1Password Security Breach: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-apple-reviving-product-red-homepod-airpods/</guid>
     <description>Apple is reportedly bringing back (PRODUCT)RED for HomePod mini 2 and AirPods Max 2 on World AIDS Day. Here are the leaked design details and pricing.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-apple-reviving-product-red-homepod-airpods_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Why is a routine ISS supply mission now a state secret?</title>
-    <link>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-roscosmos-secrecy-iss-launch/</guid>
-    <description>NASA is refusing to provide details on a Russian Progress launch to the ISS. We examine the geopolitical shift behind this lack of transparency.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-roscosmos-secrecy-iss-launch_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

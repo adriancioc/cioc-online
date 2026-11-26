@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-25-ios-28-notification-revamp",
+    "slug_ro": "ios-28-schimbari-notificari",
+    "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
+    "category": "APLICAȚII",
+    "virality_score": 7,
+    "focus_keyword_ro": "iOS 28 notificări",
+    "focus_keyword_en": "iOS 28 notifications",
+    "title_ro": "iOS 28: Apple pregătește o schimbare majoră pentru notificări",
+    "title_en": "iOS 28 Rumor: Apple to Overhaul iPhone Notifications",
+    "summary": "New rumors suggest Apple is planning a major revamp of the iPhone notification system in iOS 28 to reduce clutter and spam.",
+    "summary_ro": "Zvonurile indică o revizuire completă a sistemului de notificări în iOS 28. Află ce ar putea aduce Apple pentru a elimina reclamele din notificări.",
+    "summary_en": "New rumors suggest Apple is planning a major revamp of the iPhone notification system in iOS 28 to reduce clutter and spam.",
+    "body_ro": "<h2>O schimbare mult așteptată pentru utilizatorii de iPhone</h2><p>Lumea tehnologiei este în alertă după ce noi zvonuri au apărut cu privire la viitorul sistem de operare Apple. Conform rapoartelor recente, iOS 28 ar putea aduce o revizuire completă a modului în care iPhone-ul gestionează notificările. Deși Apple a fost criticată în trecut pentru modul în care permite aplicațiilor să trimită alerte publicitare, se pare că gigantul din Cupertino a decis să ia măsuri concrete.</p><h2>Ce ar putea aduce iOS 28?</h2><p>Detaliile sunt încă puține, dar sursele indică o schimbare semnificativă la nivelul Centrului de Notificări. În prezent, utilizatorii se confruntă cu o listă lungă și adesea dezordonată de alerte, care amestecă mesajele importante cu promoțiile inutile. O abordare similară cu cea de pe Android 16, care permite sortarea automată pe categorii precum Știri, Promoții și Social, ar fi un pas imens pentru experiența utilizatorului.</p><ul><li><strong>Filtrare inteligentă:</strong> Posibilitatea de a ascunde automat notificările de tip spam.</li><li><strong>Organizare pe categorii:</strong> Gruparea alertelor pentru a prioritiza ce contează cu adevărat.</li><li><strong>Control sporit:</strong> Apple ar putea impune reguli mai stricte dezvoltatorilor de aplicații.</li></ul><h2>De ce contează pentru utilizatorii din România?</h2><p>În România, utilizatorii de iPhone sunt foarte activi, iar aglomerația notificărilor a devenit o problemă reală. Dacă Apple va implementa aceste schimbări, vom vedea o reducere drastică a zgomotului digital. Această actualizare ar putea alinia iOS la standardele de eficiență pe care utilizatorii le așteaptă de ani de zile. Rămâne de văzut dacă Apple va reuși să păstreze echilibrul între funcționalitate și intimitate, un aspect critic în ecosistemul lor.</p><h2>Verdictul Cioc.online</h2><p>Deși este vorba despre un zvon, ideea unei revizuiri a notificărilor este binevenită. Apple trebuie să recupereze terenul pierdut în fața competiției Android, care a demonstrat deja că filtrarea inteligentă este viitorul. Vom monitoriza orice informație oficială și vom reveni cu detalii despre cum poți configura aceste noi opțiuni imediat ce vor fi disponibile în versiunile beta.</p>",
+    "body_en": "<h2>A long-overdue change for iPhone users</h2><p>The tech world is buzzing with rumors regarding Apple's upcoming software plans. According to recent reports, iOS 28 is expected to bring a significant revamp to the iPhone's notification system. While Apple has faced criticism for its lax enforcement of notification rules, it seems the company is finally ready to address the growing issue of notification clutter.</p><h2>What to expect from iOS 28?</h2><p>While specific details remain scarce, sources suggest that the Notification Center will undergo a major transformation. Currently, iPhone users struggle with a chaotic stream of alerts that mix important messages with unwanted promotional content. By introducing a system similar to Android 16, which categorizes notifications into News, Promotions, and Social, Apple could drastically improve the daily user experience.</p><ul><li><strong>Smart Filtering:</strong> Automatically hiding or grouping promotional spam.</li><li><strong>Categorized Alerts:</strong> Better organization to prioritize essential communications.</li><li><strong>Stricter Developer Rules:</strong> Apple may finally enforce its own guidelines on app notifications.</li></ul><h2>Why this matters for the global market</h2><p>For users worldwide, notification fatigue is a real problem. If Apple implements these changes, it will represent a major shift in how we interact with our devices. This update would align iOS with the efficiency standards that users have been demanding for years. The challenge for Apple will be maintaining its privacy-first approach while providing the smart filtering that users crave.</p><h2>The Cioc.online Verdict</h2><p>Although this is currently just a rumor, the prospect of a notification overhaul is exciting. Apple has a history of refining features over time, and the notification system is arguably the most cluttered part of the current iOS experience. We will be keeping a close eye on any further leaks or official announcements regarding iOS 28 and will provide a full guide on how to optimize these features once they arrive.</p>",
+    "highlights_ro": [
+      "Surse neconfirmate indică o schimbare majoră a Centrului de Notificări în iOS 28.",
+      "Apple ar putea introduce filtrarea automată a notificărilor, similar cu Android 16.",
+      "Cioc.online consideră că o astfel de funcție este esențială pentru a reduce aglomerația digitală."
+    ],
+    "highlights_en": [
+      "Unconfirmed reports suggest a major Notification Center overhaul for iOS 28.",
+      "Apple may introduce smart categorization to filter out advertising clutter.",
+      "Cioc.online believes this is a necessary step to improve the iOS user experience."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-25T20:12:36+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-25-ios-28-notification-revamp_1.jpg",
+      "assets/images/2026-11-25-ios-28-notification-revamp_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-1password-security-breach-explained",
     "slug_ro": "breach-securitate-1password-date-expuse",
     "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
