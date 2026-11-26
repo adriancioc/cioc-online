@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-google-15-years-colombia-investment_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Halide Adds Fill Light Feature for iPhone Duo</title>
+    <link>https://cioc.online/en/posts/2026-11-26-halide-update-iphone-duo-fill-light/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-halide-update-iphone-duo-fill-light/</guid>
+    <description>Halide 3.4 brings a new Fill Light feature to the iPhone Duo, using the outer display for soft lighting. Read our breakdown of the update.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-halide-update-iphone-duo-fill-light_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Developing Giant Foldable iPad Costing Up to $5,000</title>
     <link>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-apple-developing-giant-foldable-ipad/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</guid>
     <description>Meta releases a native Threads app for iPad on the App Store. Explore the new layout, v1 limitations, and added cashtag functionality.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-threads-native-ipad-app-launched_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Samsung Galaxy SmartTag3: Advanced Pet Tracking Features</title>
-    <link>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-smarttag3-launch/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-smarttag3-launch/</guid>
-    <description>Samsung introduces Galaxy SmartTag3 with enhanced SmartThings Pet Care integration. Track your pet&#x27;s activity, sleep, and location with ease.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-samsung-galaxy-smarttag3-launch_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

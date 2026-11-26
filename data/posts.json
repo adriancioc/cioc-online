@@ -70,6 +70,41 @@
     ]
   },
   {
+    "slug": "2026-11-26-halide-update-iphone-duo-fill-light",
+    "slug_ro": "halide-update-iphone-duo-fill-light",
+    "url": "https://www.macrumors.com/2026/11/26/halide-adds-fill-light-feature-for-iphone-duo/",
+    "category": "APLICAȚII",
+    "virality_score": 6,
+    "focus_keyword_ro": "Halide iPhone Duo",
+    "focus_keyword_en": "Halide iPhone Duo",
+    "title_ro": "Halide aduce funcția Fill Light pe iPhone Duo",
+    "title_en": "Halide Adds Fill Light Feature for iPhone Duo",
+    "summary": "Halide 3.4 brings a new Fill Light feature to the iPhone Duo, using the outer display for soft lighting. Read our breakdown of the update.",
+    "summary_ro": "Aplicația Halide 3.4 introduce funcția Fill Light pentru iPhone Duo, folosind ecranul extern pentru fotografii mai bune. Află cum funcționează.",
+    "summary_en": "Halide 3.4 brings a new Fill Light feature to the iPhone Duo, using the outer display for soft lighting. Read our breakdown of the update.",
+    "body_ro": "<h2>O nouă abordare pentru fotografia mobilă</h2><p>Aplicația de referință pentru pasionații de fotografie, Halide, a ajuns la versiunea 3.4, aducând o funcție inovatoare pentru posesorii de iPhone Duo. În loc să se bazeze exclusiv pe blițul LED, care poate fi adesea prea dur sau nenatural, Halide folosește acum ecranul extern al dispozitivului pliabil ca o sursă de lumină difuză.</p><h2>Cum funcționează Fill Light</h2><p>Funcția Fill Light transformă ecranul extern al lui iPhone Duo într-un panou luminos, oferind o iluminare mult mai soft pentru subiectele fotografiate atunci când telefonul este deschis. Această abordare este ideală pentru portrete sau fotografii de aproape, unde lumina ambientală este insuficientă. Utilizatorii pot ajusta luminozitatea ecranului pentru a obține rezultatul dorit, transformând practic telefonul într-un mic studio portabil.</p><p>Mai mult, Halide permite acum afișarea unui preview al camerei pe ecranul extern, oferind subiectului posibilitatea de a se vedea în timp real. Această funcție este extrem de utilă pentru cei care își fac singuri poze sau pentru creatorii de conținut care vor să se asigure că încadrarea este perfectă.</p><h2>Alte îmbunătățiri în versiunea 3.4</h2><p>Pe lângă funcțiile dedicate lui iPhone Duo, update-ul aduce îmbunătățiri și pentru restul gamei iPhone. Vizorul de pe ecranul interior a fost mărit, oferind o experiență de compoziție mai imersivă. De asemenea, dezvoltatorii au ascultat feedback-ul comunității și au reintrodus temporizatorul pentru declanșare, alături de histogramele de culoare și luminanță, instrumente esențiale pentru orice fotograf care dorește un control total asupra expunerii.</p><h2>Verdictul cioc.online</h2><p>Halide continuă să demonstreze de ce este considerată cea mai bună aplicație pentru cei care vor să scoată tot ce e mai bun din senzorii Apple. Deși funcția Fill Light pare simplă, implementarea ei inteligentă pe un dispozitiv pliabil arată atenția la detalii a echipei de dezvoltare. Dacă ești un utilizator de iPhone Duo, acest update este esențial pentru a-ți îmbunătăți workflow-ul fotografic.</p>",
+    "body_en": "<h2>Redefining Mobile Lighting</h2><p>Halide has released version 3.4, introducing a clever feature for the iPhone Duo that leverages its foldable form factor. By utilizing the outer display as a soft light source, Halide aims to replace the harsh, often unflattering LED flash with a more diffused, professional-looking glow.</p><h2>The Fill Light Advantage</h2><p>The new Fill Light feature allows the iPhone Duo's outer screen to act as a makeshift studio light. When the device is unfolded, the outer display illuminates the subject, providing a softer, more natural look that is particularly effective for portrait photography. Users are encouraged to maximize screen brightness to get the best results, effectively turning the phone into a portable lighting rig.</p><p>Additionally, the update enables a camera preview on the outer display, allowing subjects to see themselves in real-time. This is a massive quality-of-life improvement for solo creators or those looking to ensure their composition is perfect before hitting the shutter.</p><h2>Expanded Capabilities</h2><p>Beyond the Duo-specific features, Halide 3.4 brings significant updates to the wider iPhone lineup. The inner-screen viewfinder has been enlarged, providing a better canvas for framing shots. Furthermore, the developers have brought back the shutter timer, along with color and luminance histograms, giving users the precise data needed to master their exposure settings.</p><h2>cioc.online Verdict</h2><p>Halide remains the gold standard for mobile photography enthusiasts. By finding creative ways to use hardware features like the iPhone Duo's outer screen, the team behind Halide proves that software can significantly enhance the utility of modern smartphones. For any serious iPhone photographer, this update is a must-have.</p>",
+    "highlights_ro": [
+      "Halide 3.4 folosește ecranul extern al lui iPhone Duo ca sursă de lumină difuză pentru portrete.",
+      "Update-ul este disponibil gratuit pentru utilizatorii existenți; preț abonament/licență în RO aprox. 15-60 EUR.",
+      "O soluție ingenioasă care înlocuiește blițul agresiv cu o lumină moale, ideală pentru creatorii de conținut."
+    ],
+    "highlights_en": [
+      "Halide 3.4 uses the iPhone Duo's outer display as a soft light source for subjects.",
+      "The update is available now; standard pricing applies (approx. $12-$60 depending on license).",
+      "A clever software implementation that proves foldable form factors have unique photography advantages."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-26T16:17:32+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-26-halide-update-iphone-duo-fill-light_1.jpg",
+      "assets/images/2026-11-26-halide-update-iphone-duo-fill-light_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-apple-developing-giant-foldable-ipad",
     "slug_ro": "apple-lucreaza-la-ipad-pliabil-gigant",
     "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
