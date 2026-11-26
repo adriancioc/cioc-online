@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-macbook-air-oled-2027-2028-rumor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T23:30:14+00:00</news:publication_date>
+      <news:title>MacBook Air with OLED: When is the big redesign coming?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-macbook-air-oled-2027-2028-rumor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T23:30:14+00:00</news:publication_date>
+      <news:title>MacBook Air cu ecran OLED: Când vine marea schimbare?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
     <news:news>
       <news:publication>
