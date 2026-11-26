@@ -685,6 +685,43 @@
     ]
   },
   {
+    "slug": "2026-11-25-character-ai-bankruptcy-data-sale",
+    "slug_ro": "character-ai-faliment-date-private",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "Character.AI faliment date utilizatori",
+    "focus_keyword_en": "Character.AI bankruptcy user data",
+    "title_ro": "Character.AI vrea să vândă chat-urile private: Ce trebuie să știi",
+    "title_en": "Character.AI Bankruptcy: The Fight to Protect Your Private Chats",
+    "summary": "Character.AI plans to auction off 21 million user chat histories during bankruptcy. 42 AGs are fighting to stop the sale of sensitive user data.",
+    "summary_ro": "Character.AI încearcă să își vândă baza de date cu 21 milioane de utilizatori în faliment. Află riscurile pentru confidențialitatea ta.",
+    "summary_en": "Character.AI plans to auction off 21 million user chat histories during bankruptcy. 42 AGs are fighting to stop the sale of sensitive user data.",
+    "body_ro": "<h2>Un precedent periculos pentru intimitatea ta</h2><p>Industria AI trece printr-o perioadă de consolidare brutală, iar Character.AI, odată unul dintre cele mai populare startup-uri de chatbot, a ajuns în pragul falimentului. Însă, vestea cu adevărat șocantă nu este închiderea platformei, ci modul în care compania intenționează să își lichideze activele: prin vânzarea la licitație a istoricului conversațiilor private a peste 21 de milioane de utilizatori.</p><p>O coaliție de 42 de procurori generali din Statele Unite a intervenit oficial în procedurile de faliment pentru a opri această tranzacție. Problema centrală este că datele includ conversații sensibile, adrese IP și informații personale ale peste 2,1 milioane de minori. În ciuda promisiunilor anterioare de protecție a datelor, Character.AI pare dispusă să ignore politicile de confidențialitate pentru a satisface creditorii.</p><h2>Cine vrea datele tale?</h2><p>Singurul ofertant cunoscut până în prezent este o entitate misterioasă numită Smirks and Pangs Acquisition LLC, înființată în Delaware cu doar câteva zile înainte de licitație. Lipsa unui istoric corporativ sau a unor investitori clari ridică semne de întrebare majore cu privire la scopul utilizării acestor date. Procurorii avertizează că, odată vândute, aceste chat-uri nu mai sunt protejate de politicile Character.AI, iar cumpărătorul le-ar putea revinde sau utiliza fără nicio restricție.</p><h2>Impactul asupra utilizatorilor și legislația viitoare</h2><p>Această situație scoate la iveală fragilitatea datelor noastre în fața startup-urilor tech. Deși Character.AI a susținut că datele vor fi protejate, realitatea juridică a falimentului (Chapter 11) tinde să prevaleze asupra promisiunilor de marketing. Mai mult, state precum California, Colorado și New York au adoptat legi privind siguranța chatbot-urilor care intră în vigoare la 1 ianuarie 2027. Vânzarea acestor date ar putea declanșa încălcări legale masive imediat după ce noile reglementări devin active.</p><p>Pentru utilizatorii din România și Europa, acest caz este un semnal de alarmă. Chiar dacă legislația GDPR oferă un grad de protecție mai ridicat, utilizarea serviciilor AI americane implică riscuri pe care puțini le conștientizează până când compania respectivă nu mai există. Dacă ai folosit Character.AI, este recomandat să verifici setările contului și, dacă este posibil, să soliciți ștergerea definitivă a istoricului, deși în contextul actual, succesul unei astfel de cereri rămâne incert.</p>",
+    "body_en": "<h2>The Dark Side of AI Bankruptcy</h2><p>The rapid rise and fall of AI startups is creating a new, dangerous landscape for user privacy. Character.AI, once a darling of the chatbot world, has filed for Chapter 11 bankruptcy. However, the company's plan to settle its debts involves auctioning off the private chat histories of over 21 million users. This move has triggered an immediate backlash from a bipartisan coalition of 42 state attorneys general, who are fighting to stop the sale.</p><p>The scale of the data at risk is massive. The AGs report that the dataset includes conversations from over 2.1 million accounts belonging to minors, alongside sensitive personal information like IP addresses. The core issue is that the sale comes with zero safeguards. Once the data is sold, the buyer is not required to honor Character.AI’s original privacy policy, meaning your most intimate conversations could be resold, analyzed, or leaked without your consent.</p><h2>The Mystery Buyer</h2><p>The situation is further complicated by the identity of the primary bidder: Smirks and Pangs Acquisition LLC. This entity was incorporated in Delaware just weeks before the auction, with no clear business plan or parent company. The lack of transparency regarding who will own these millions of chat logs is exactly what the attorneys general are highlighting as a major security and legal risk.</p><h2>Why This Matters for Global Privacy</h2><p>Character.AI previously assured users that their information would remain protected. Now, that promise is being discarded in the face of bankruptcy. This case serves as a critical test for AI regulation. With new chatbot safety laws set to take effect in several US states on January 1, 2027, the sale could lead to immediate legal violations. For European and global users, this is a wake-up call: when you feed personal data into a proprietary AI model, you are trusting a company that may eventually be sold off in pieces.</p><p>If you have used Character.AI, the best course of action is to assume your data is already compromised. While GDPR and other regulations provide some protection, the reality of bankruptcy proceedings often creates loopholes that are difficult to close. Always review the privacy policies of the AI tools you use, and consider the potential long-term consequences of sharing sensitive information with any cloud-based chatbot service.</p>",
+    "highlights_ro": [
+      "Character.AI încearcă să scoată la licitație istoricul conversațiilor a 21 milioane de utilizatori în cadrul procedurii de faliment.",
+      "42 de procurori generali din SUA blochează vânzarea, invocând lipsa protecției pentru datele minorilor și încălcarea promisiunilor de confidențialitate.",
+      "Verdict: O lecție dură despre cât valorează promisiunile de confidențialitate ale startup-urilor AI când banii se termină."
+    ],
+    "highlights_en": [
+      "Character.AI is attempting to auction off the private chat histories of 21 million users as part of its Chapter 11 bankruptcy proceedings.",
+      "A coalition of 42 state attorneys general is intervening to block the sale, citing risks to minors and broken privacy promises.",
+      "Verdict: A stark reminder that your AI chat data is an asset that can be sold to the highest bidder when a company fails."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T17:35:58+00:00",
+    "source_names": [
+      "TechCrunch",
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-25-character-ai-bankruptcy-data-sale_1.jpg",
+      "assets/images/2026-11-25-character-ai-bankruptcy-data-sale_2.jpg",
+      "assets/images/2026-11-25-character-ai-bankruptcy-data-sale_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-iphone-18-pro-max-battery-life",
     "slug_ro": "iphone-18-pro-max-baterie-noua",
     "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
