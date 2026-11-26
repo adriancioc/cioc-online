@@ -285,6 +285,41 @@
     ]
   },
   {
+    "slug": "2026-11-26-apple-investigated-misleading-ai-ads",
+    "slug_ro": "apple-investigata-reclama-inselatoare-ai",
+    "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "Apple Intelligence reclamă înșelătoare",
+    "focus_keyword_en": "Apple Intelligence misleading advertising",
+    "title_ro": "Apple, investigată pentru reclamă înșelătoare la iPhone 16 și AI",
+    "title_en": "Apple Faces Investigation Over Misleading iPhone 16 AI Ads",
+    "summary": "Apple is under investigation in South Korea for misleading advertising regarding Apple Intelligence features on the iPhone 16. Get the full story.",
+    "summary_ro": "Autoritățile din Coreea de Sud investighează Apple pentru publicitate înșelătoare privind funcțiile Apple Intelligence pe iPhone 16. Află detaliile.",
+    "summary_en": "Apple is under investigation in South Korea for misleading advertising regarding Apple Intelligence features on the iPhone 16. Get the full story.",
+    "body_ro": "<h2>Apple sub lupa autorităților din Coreea de Sud</h2><p>Gigantul din Cupertino se confruntă cu o nouă problemă legală majoră. De data aceasta, Comisia pentru Comerț Echitabil din Coreea de Sud a demarat o investigație oficială împotriva Apple Korea, acuzând compania de publicitate înșelătoare în campania pentru iPhone 16 și Apple Intelligence.</p><p>Problema centrală vizează discrepanța dintre promisiunile de marketing și disponibilitatea reală a funcțiilor AI. Utilizatorii au fost atrași de funcții precum Genmoji, Image Playground și capacitățile avansate ale Siri, însă multe dintre acestea au întârziat luni sau chiar ani de zile față de calendarul anunțat inițial.</p><h2>O istorie a promisiunilor amânate</h2><p>Cazul din Coreea de Sud nu este un incident izolat. Autoritățile au evidențiat faptul că Siri, cu capacitatea sa de a înțelege contextul personal, a fost promovată pentru piața coreeană cu o disponibilitate estimată pentru aprilie 2025, însă funcția a ajuns la utilizatori abia în octombrie 2026. Această întârziere de 18 luni a creat frustrări masive în rândul clienților care au achiziționat dispozitivele bazându-se pe aceste specificații.</p><p>Apple a răspuns oficial, declarând că dezaprobă concluziile raportului preliminar și că a colaborat constant cu autoritățile. Totuși, compania are un istoric problematic în acest sens. În SUA, Apple a fost deja nevoită să plătească o înțelegere de 250 de milioane de dolari într-un proces colectiv similar, după ce a fost acuzată că a indus în eroare cumpărătorii cu privire la disponibilitatea funcțiilor AI la lansarea iPhone 16 în 2024.</p><h2>Impactul asupra consumatorului</h2><p>Pentru utilizatorii din România și Europa, acest caz este un semnal de alarmă. Deși legislația europeană (DMA) este mult mai strictă, tacticile de marketing agresive rămân o constantă. Apple a fost forțată anterior să elimine mențiunea „disponibil acum” de pe paginile sale de produs, după ce organismele de supraveghere au considerat că notele de subsol nu sunt suficient de clare pentru consumatorul mediu.</p><p>Este esențial să fim sceptici atunci când companiile tech promit funcții revoluționare „în viitorul apropiat”. Istoria recentă ne arată că hardware-ul este gata, dar software-ul AI este adesea un șantier deschis. Înainte de a investi într-un nou flagship, verificați întotdeauna dacă funcțiile promovate sunt active în regiunea dumneavoastră și în limba română.</p>",
+    "body_en": "<h2>Apple's Marketing Under Scrutiny in South Korea</h2><p>Apple is facing a significant legal challenge in South Korea, as the country's Fair Trade Commission (FTC) has launched a formal investigation into the company's advertising practices for the iPhone 16 and Apple Intelligence. The core allegation is that Apple misled consumers by advertising features that were not available at the time of purchase.</p><p>The investigation focuses on key Apple Intelligence tools, including Genmoji, Image Playground, and Siri's advanced personal context awareness. Regulators argue that Apple failed to clearly communicate the phased rollout, leading customers to believe these features were ready for use upon launch.</p><h2>A Pattern of Delayed Promises</h2><p>The Korean regulator's report highlights a stark example: Siri's personal-context capabilities were marketed for Korean availability in early April 2025, but the feature did not actually arrive until October 2026. This 18-month delay is at the heart of the probe, as it directly contradicts the marketing materials used to drive iPhone 16 sales.</p><p>Apple has officially disagreed with the Examiner's Report, stating that they value their relationship with Korean customers and have been cooperating with the investigation. However, this is not the first time Apple has faced such scrutiny. In the United States, the company settled a $250 million class-action lawsuit in May 2026 over similar claims regarding misleading advertising of AI features during the iPhone 16's initial release.</p><h2>The Broader Tech Industry Context</h2><p>This situation highlights a growing tension between tech giants and regulators. As AI becomes the primary selling point for new hardware, companies are under immense pressure to promise features that are still in development. The National Advertising Division in the U.S. previously forced Apple to remove \"available now\" claims from its website, noting that footnotes explaining delays were insufficient.</p><p>For global users, this serves as a reminder to look past the marketing hype. While Apple Intelligence is undeniably powerful, the gap between promotional promises and actual software performance remains a significant issue. Always verify the current availability of advertised features in your specific region before making a purchase based on AI capabilities.</p>",
+    "highlights_ro": [
+      "Apple este vizată de o investigație oficială în Coreea de Sud din cauza promisiunilor nerespectate privind disponibilitatea funcțiilor AI.",
+      "Utilizatorii au așteptat 18 luni pentru funcții Siri promise inițial, similar cu situația din SUA.",
+      "Cioc.online consideră că Apple forțează limitele marketingului, ignorând experiența reală a utilizatorului."
+    ],
+    "highlights_en": [
+      "Apple faces a formal probe in South Korea over allegations that iPhone 16 AI features were marketed as available but delayed.",
+      "Siri's personal context capabilities arrived 18 months later than initially advertised to Korean users.",
+      "Cioc.online verdict: Apple's aggressive marketing continues to clash with actual software delivery timelines."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-26T11:19:46+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-26-apple-investigated-misleading-ai-ads_1.jpg",
+      "assets/images/2026-11-26-apple-investigated-misleading-ai-ads_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-character-ai-data-sale-block",
     "slug_ro": "character-ai-date-personale-vanzare",
     "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
