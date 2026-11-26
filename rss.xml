@@ -61,6 +61,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-jensen-huang-breaks-nvidia-conduct-code_1.jpg" medium="image" />
   </item>
   <item>
+    <title>US Army Detonates Lead Azide Stockpile in Iowa: The Full Story</title>
+    <link>https://cioc.online/en/posts/2026-11-25-lead-azide-detonation-iowa-explained/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-lead-azide-detonation-iowa-explained/</guid>
+    <description>The US Army destroyed 4.4 tons of unstable lead azide in Iowa. Read about the safety measures, EPA findings, and the risks of aging munitions.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-lead-azide-detonation-iowa-explained_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>1Password Security Breach: What You Need to Know</title>
     <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</guid>
     <description>Google expands partnership with Golden State. Gemini will power fan experiences and internal operations for the Warriors and Valkyries.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-google-gemini-golden-state-partnership_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Google Launches Gemini 4 Neon and Hydrogen Models</title>
-    <link>https://cioc.online/en/posts/2026-11-24-google-gemini-4-neon-hydrogen-launch/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-google-gemini-4-neon-hydrogen-launch/</guid>
-    <description>Google introduces Gemini 4 Neon and Hydrogen. Discover how these new AI models handle complex reasoning and rapid agentic workflows.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-google-gemini-4-neon-hydrogen-launch_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

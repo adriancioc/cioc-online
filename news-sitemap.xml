@@ -178,6 +178,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-lead-azide-detonation-iowa-explained/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:45:51+00:00</news:publication_date>
+      <news:title>US Army Detonates Lead Azide Stockpile in Iowa: The Full Story</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-lead-azide-detonation-iowa-explained/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:45:51+00:00</news:publication_date>
+      <news:title>Detonare controlată de azidă de plumb în Iowa: Ce s-a întâmplat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</loc>
     <news:news>
       <news:publication>
