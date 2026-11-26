@@ -96,6 +96,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-25-1password-security-breach-explained_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Kagi Mail: A Privacy-Focused Paid Alternative to Gmail</title>
+    <link>https://cioc.online/en/posts/2026-11-25-kagi-mail-privacy-focused-gmail-rival/</link>
+    <guid>https://cioc.online/en/posts/2026-11-25-kagi-mail-privacy-focused-gmail-rival/</guid>
+    <description>Kagi launches Kagi Mail, a subscription-based email service promising data sovereignty, no ads, and optional AI features.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-25-kagi-mail-privacy-focused-gmail-rival_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>SpaceX Starmind: FCC Approves 1 Million AI Satellites</title>
     <link>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</link>
     <guid>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-apple-testing-macos-on-ipad/</guid>
     <description>Mark Gurman reveals Apple runs macOS on iPads internally, but consumer release is blocked by business strategy and EU regulations.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-apple-testing-macos-on-ipad_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Microsoft Declares Internal &#x27;Code Red&#x27; After Massive Outlook Outage</title>
-    <link>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</guid>
-    <description>Microsoft triggers internal Code Red following a nearly 24-hour Exchange Online &amp; Outlook outage caused by a hidden gateway bug sitting since July.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-microsoft-code-red-outlook-exchange-outage_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

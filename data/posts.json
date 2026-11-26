@@ -462,6 +462,42 @@
     ]
   },
   {
+    "slug": "2026-11-25-kagi-mail-privacy-focused-gmail-rival",
+    "slug_ro": "kagi-mail-alternativa-privacy-gmail",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+    "category": "APLICAȚII",
+    "virality_score": 7,
+    "focus_keyword_ro": "Kagi Mail",
+    "focus_keyword_en": "Kagi Mail",
+    "title_ro": "Kagi Mail: O alternativă plătită pentru Gmail axată pe privacy",
+    "title_en": "Kagi Mail: A Privacy-Focused Paid Alternative to Gmail",
+    "summary": "Kagi launches Kagi Mail, a subscription-based email service promising data sovereignty, no ads, and optional AI features.",
+    "summary_ro": "Kagi lansează Kagi Mail, un serviciu de email bazat pe abonament care promite control total, fără reclame și funcții AI opționale.",
+    "summary_en": "Kagi launches Kagi Mail, a subscription-based email service promising data sovereignty, no ads, and optional AI features.",
+    "body_ro": "<h2>O nouă eră pentru email-ul tău?</h2><p>Kagi, compania cunoscută pentru motorul de căutare bazat pe abonament, a făcut un pas important prin lansarea Kagi Mail. Într-o piață dominată de Gmail, unde utilizatorul a devenit produsul, Kagi propune un model de business transparent: plătești pentru serviciu, deci ești clientul, nu marfa de schimb pentru agenții de publicitate.</p><h2>Ce oferă Kagi Mail?</h2><p>Serviciul se află în prezent în fază de beta public și pune accent pe o interfață minimalistă, controlată prin comenzi de la tastatură. Printre funcțiile cheie se numără:</p><ul><li><strong>Confidențialitate totală:</strong> Fără reclame și fără scanarea conținutului pentru profilare publicitară.</li><li><strong>Control avansat:</strong> Suport pentru alias-uri nelimitate și domenii personalizate.</li><li><strong>Integrare AI:</strong> Funcții AI opționale pentru căutarea în istoricul mesajelor sau filtrare, dar care sunt dezactivate implicit.</li><li><strong>Stocare:</strong> 50GB incluși în abonament.</li></ul><p>Spre deosebire de Gmail, unde Gemini este integrat agresiv, Kagi păstrează o abordare conservatoare. Totuși, serviciul este încă la început. În acest moment, Kagi Mail este disponibil doar prin interfața web, aplicațiile native pentru Android și iOS fiind programate abia pentru finalul anului viitor.</p><h2>Merită să plătești pentru email?</h2><p>Aceasta este întrebarea de un milion de dolari. Gmail este gratuit și extrem de performant. Totuși, pentru cei preocupați de suveranitatea datelor, Kagi Mail se poziționează ca un rival direct pentru Proton Mail sau Tuta. Prețul de 9 USD pe lună nu este neglijabil, dar pentru utilizatorii care vor să evite modelul de business bazat pe reclame al Google, este o investiție în liniștea digitală. Dacă ești deja abonat la Kagi Ultimate, serviciul este inclus în pachetul de 25 USD.</p><p>În concluzie, Kagi Mail este un produs promițător pentru entuziaști, dar va avea nevoie de rafinări majore, cum ar fi un manager de contacte (programat pentru 2027) și aplicații mobile, pentru a convinge utilizatorul obișnuit să renunțe la confortul ecosistemului Google.</p>",
+    "body_en": "<h2>A New Challenger in Email</h2><p>Kagi, the Palo Alto-based company famous for its subscription-based search engine, has officially entered the email arena with Kagi Mail. In a landscape dominated by Google's Gmail, where user data fuels ad revenue, Kagi is doubling down on its core philosophy: if you pay for the product, you are the customer, not the product.</p><h2>Key Features and Privacy</h2><p>Currently in public beta, Kagi Mail is designed for power users who prioritize speed and privacy. The interface is minimalist, emphasizing keyboard shortcuts and a clean, ad-free environment. Key offerings include:</p><ul><li><strong>Data Sovereignty:</strong> No ad-based profiling or scanning of your private emails.</li><li><strong>Advanced Customization:</strong> Unlimited aliases and custom domain support.</li><li><strong>Optional AI:</strong> Kagi includes AI features for searching email history or rule-based filtering, but they are off by default.</li><li><strong>Storage:</strong> 50GB of storage included.</li></ul><p>While Google has been aggressively pushing Gemini into Gmail, Kagi takes a more conservative approach. The AI tools are there if you want them, but they never get in the way. However, the service is still in its infancy. It is currently web-only, with native iOS and Android apps not expected until late next year.</p><h2>Is It Worth the Price?</h2><p>The biggest hurdle for Kagi Mail is the price tag. At $9 per month or $99 per year, it is a significant step up from the 'free' Gmail. However, for those who have already moved to Kagi Search, it is a logical extension of their privacy-focused workflow. It is also included in the $25/month Kagi Ultimate subscription.</p><p>Compared to competitors like Proton Mail or Tuta, Kagi Mail offers a unique balance of utility and privacy. While it currently lacks a contacts address book—expected in 2027—it is a solid choice for those who are tired of Google's business incentives. Whether it can unseat Gmail remains to be seen, but it is certainly a step in the right direction for those seeking alternatives to Big Tech.</p>",
+    "highlights_ro": [
+      "Kagi a lansat oficial Kagi Mail, un serviciu de email axat pe confidențialitate și controlul datelor.",
+      "Abonamentul costă 9 USD/lună sau 99 USD/an, fiind inclus și în planul Kagi Ultimate de 25 USD/lună.",
+      "O alternativă solidă pentru cei care vor să scape de ecosistemul publicitar Google, deși momentan este web-only."
+    ],
+    "highlights_en": [
+      "Kagi has officially launched Kagi Mail, an email service focused on privacy and data sovereignty.",
+      "Pricing starts at $9/month or $99/year, also included in the $25/month Kagi Ultimate plan.",
+      "A strong contender for those looking to exit the Google ad-ecosystem, though currently web-only."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-25T20:57:09+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-25-kagi-mail-privacy-focused-gmail-rival_1.jpg",
+      "assets/images/2026-11-25-kagi-mail-privacy-focused-gmail-rival_2.jpg",
+      "assets/images/2026-11-25-kagi-mail-privacy-focused-gmail-rival_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-spacex-starmind-ai-satellites",
     "slug_ro": "spacex-starmind-sateliti-ai-spatiu",
     "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
