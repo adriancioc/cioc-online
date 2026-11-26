@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-26-google-familiar-faces-onn-update",
+    "slug_ro": "google-familiar-faces-camera-onn",
+    "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+    "category": "GADGETURI",
+    "virality_score": 5,
+    "focus_keyword_ro": "Google Home Familiar Faces",
+    "focus_keyword_en": "Google Home Familiar Faces",
+    "title_ro": "Google extinde funcția Familiar Faces pe camerele Onn",
+    "title_en": "Google Brings Familiar Faces to Budget Onn Cameras",
+    "summary": "Google Home's Familiar Faces feature is now available on Walmart's Onn cameras, provided you have a premium subscription.",
+    "summary_ro": "Google aduce recunoașterea facială pe camerele accesibile Onn din Walmart, dar subscripția Nest Aware rămâne obligatorie. Află detaliile.",
+    "summary_en": "Google Home's Familiar Faces feature is now available on Walmart's Onn cameras, provided you have a premium subscription.",
+    "body_ro": "<h2>Extinderea funcției Familiar Faces</h2><p>Google continuă să integreze ecosistemul său de securitate inteligentă cu hardware terț, anunțând că funcția <strong>Familiar Faces</strong> este acum disponibilă pentru modelele de camere de supraveghere Onn, comercializate de Walmart în Statele Unite. Această mișcare marchează un pas important în democratizarea tehnologiei de recunoaștere facială, care până acum era rezervată exclusiv dispozitivelor din gama Nest.</p><h2>Detalii despre compatibilitate și costuri</h2><p>Modelele care primesc acest suport sunt <em>Onn Outdoor Camera Plug-In</em> (35$) și <em>Onn Floodlight Camera Hardwired</em> (77$). Deși prețul hardware-ului este extrem de competitiv, utilizatorii trebuie să ia în calcul un aspect esențial: funcția de detecție a persoanelor cunoscute necesită în continuare un abonament activ <strong>Google Home Premium</strong> (cunoscut anterior sub numele de Nest Aware). Fără acesta, camerele vor funcționa doar ca dispozitive standard de monitorizare.</p><h2>Funcții noi în aplicația Google Home</h2><p>Pe lângă recunoașterea facială, Google a introdus o funcție de control la distanță pentru sirena de securitate. Aceasta permite utilizatorilor să activeze sau să oprească manual o alarmă de 30 de secunde direct din fluxul video live din aplicația Google Home. Această funcționalitate este disponibilă atât pentru camerele Onn menționate, cât și pentru modelul Nest Cam Outdoor (wired, 2nd gen).</p><h2>Perspective pentru utilizatorii din România</h2><p>Deși știrea este interesantă pentru pasionații de smart home, relevanța pentru piața din România este scăzută. Brandul Onn este specific rețelei Walmart, nefiind disponibil oficial în magazinele locale. Totuși, integrarea acestor funcții în aplicația Google Home demonstrează direcția strategică a Google: transformarea aplicației într-un hub centralizat, capabil să gestioneze securitatea casei indiferent de producătorul camerei, atâta timp cât acesta respectă standardele impuse de Google.</p><p>În plus, Google a confirmat că Gemini Live primește îmbunătățiri ale arhitecturii de procesare vocală, promițând timpi de răspuns mai rapizi și o interacțiune mai fluidă. Aceste actualizări vor permite controlul mai eficient al dispozitivelor smart home, precum setarea timerelor sau gestionarea iluminatului, direct prin comenzi vocale naturale.</p>",
+    "body_en": "<h2>Familiar Faces Comes to Budget Hardware</h2><p>Google is expanding the reach of its <strong>Familiar Faces</strong> AI feature, bringing it to budget-friendly smart home cameras sold at Walmart. The update covers the 35$ Onn Outdoor Camera Plug-In and the 77$ Onn Floodlight Camera Hardwired. This integration signifies Google's ongoing effort to unify its smart home ecosystem under the Google Home app, regardless of the specific camera brand.</p><h2>The Cost of Intelligence</h2><p>While the hardware itself is priced aggressively, the Familiar Faces feature is not free. Users are still required to maintain a <strong>Google Home Premium</strong> subscription to unlock the facial recognition capabilities. Without the subscription, these cameras function as standard motion-detection devices, lacking the ability to identify specific individuals.</p><h2>New Security Features</h2><p>In addition to facial recognition, Google has rolled out a new remote control feature within the Google Home app. Users can now trigger or stop a 30-second security siren while viewing the live feed. This feature is available on the new Onn cameras and the 2nd generation Nest Cam Outdoor (wired). It provides an extra layer of deterrence, allowing users to react instantly to suspicious activity detected on their property.</p><h2>Broader Ecosystem Updates</h2><p>Google also announced that <strong>Gemini Live</strong> is receiving a significant upgrade to its speech-to-speech architecture. The company claims this will result in faster response times and a more natural conversational experience. These improvements will also extend to smart home control, allowing users to manage lights and timers more effectively through voice commands. As Google continues to refine its software, the distinction between premium Nest hardware and third-party devices becomes increasingly blurred, provided the user is willing to pay for the software services.</p>",
+    "highlights_ro": [
+      "Google a extins funcția Familiar Faces pe camerele Onn de 35$ și 77$ din rețeaua Walmart.",
+      "Funcția necesită un abonament Google Home Premium (Nest Aware) pentru a fi activată.",
+      "O actualizare utilă, dar limitată de disponibilitatea hardware-ului în afara SUA."
+    ],
+    "highlights_en": [
+      "Google expanded Familiar Faces support to Walmart's Onn outdoor and floodlight cameras.",
+      "A Google Home Premium subscription is mandatory to access the facial recognition feature.",
+      "New remote siren controls added to Google Home app for select cameras."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-26T00:04:34+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-26-google-familiar-faces-onn-update_1.jpg",
+      "assets/images/2026-11-26-google-familiar-faces-onn-update_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-best-travel-gadgets-2026-gift-guide",
     "slug_ro": "cele-mai-bune-gadgeturi-calatori-2026",
     "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
