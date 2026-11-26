@@ -266,6 +266,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:35:17+00:00</news:publication_date>
+      <news:title>US Army detonates 4.4 tons of unstable lead azide in Iowa</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:35:17+00:00</news:publication_date>
+      <news:title>Detonare controlată de 4,4 tone de azidă de plumb în Iowa</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-amazon-meta-muse-ai-negotiations/</loc>
     <news:news>
       <news:publication>

@@ -430,6 +430,45 @@
     ]
   },
   {
+    "slug": "2026-11-25-controlled-lead-azide-detonation-iowa",
+    "slug_ro": "detonare-controlata-azida-plumb-iowa",
+    "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+    "category": "SECURITATE",
+    "virality_score": 6,
+    "focus_keyword_ro": "detonare azida de plumb",
+    "focus_keyword_en": "lead azide detonation",
+    "title_ro": "Detonare controlată de 4,4 tone de azidă de plumb în Iowa",
+    "title_en": "US Army detonates 4.4 tons of unstable lead azide in Iowa",
+    "summary": "The US Army conducted a controlled detonation of 4.4 tons of lead azide in Iowa. EPA reports zero airborne lead levels following the blast.",
+    "summary_ro": "Armata SUA a detonat 4,4 tone de azidă de plumb instabilă în Iowa. Află riscurile de mediu și rezultatele monitorizării EPA în acest incident.",
+    "summary_en": "The US Army conducted a controlled detonation of 4.4 tons of lead azide in Iowa. EPA reports zero airborne lead levels following the blast.",
+    "body_ro": "<h2>O operațiune riscantă în inima statului Iowa</h2><p>Într-o operațiune de amploare desfășurată la uzina de muniții Iowa Army Ammunition Plant (IAAAP), armata americană a executat o detonare controlată a 68 de butoaie conținând aproximativ 4,4 tone de azidă de plumb. Această substanță, utilizată istoric în detonatoare și capse, a devenit extrem de instabilă în timp, riscând o explozie spontană necontrolată.</p><p>Decizia a venit după ce, în luna martie, inspectorii ATF au descoperit cristalizarea periculoasă a substanței pe exteriorul recipientelor. Deși armata a cunoscut situația de luni de zile, populația locală a fost informată abia recent, provocând o undă de șoc și îngrijorare în rândul rezidenților din Middletown și a comunităților învecinate.</p><h2>Riscuri de mediu și monitorizarea EPA</h2><p>Plumbul este un neurotoxin persistent care nu se descompune în mediul înconjurător, reprezentând un risc major pentru copii și femeile însărcinate. În zilele premergătoare detonării, modelele de dispersie sugerau că norul toxic ar putea acoperi sute de mile pătrate. Totuși, autoritățile au luat măsuri de atenuare, înconjurând containerele cu nisip, var și folosind tunuri cu apă pentru a reduce praful.</p><p>Agenția pentru Protecția Mediului (EPA) a monitorizat constant zona. Conform declarațiilor oficiale transmise la o oră după explozie, senzorii de aer nu au detectat particule de plumb în regiune. Generalul-maior Eric Shirley a declarat că riscul pentru sănătatea publică a fost redus la minimul posibil prin această metodă controlată.</p><h2>Moștenirea munițiilor vechi</h2><p>Acest incident ridică semne de întrebare privind gestionarea stocurilor de muniție veche. Azida de plumb a fost utilizată timp de aproape un secol, însă tranziția către materiale mai sigure a început acum 15 ani. Stocul distrus în Iowa reprezenta practic ultima cantitate semnificativă de acest tip din Statele Unite.</p><p>Deși rezultatele imediate par să indice o reușită, comunitatea științifică și localnicii rămân vigilenți. Analizele solului și ale aerului vor continua pe termen lung pentru a asigura că nu există contaminare reziduală. Este un memento dur despre cum tehnologia militară din secolul trecut poate deveni o povară ecologică neașteptată în prezent.</p>",
+    "body_en": "<h2>A high-stakes operation in Middletown</h2><p>The US Army successfully conducted a controlled detonation of 9,700 pounds (4.4 tons) of lead azide at the Iowa Army Ammunition Plant. The operation was deemed necessary to neutralize the highly unstable compound, which had begun to crystallize and posed a significant risk of spontaneous, unmitigated explosion.</p><p>The material, used in igniters and blasting caps, had been stored for decades. Following an inspection by the ATF in March that revealed significant degradation, officials decided that destruction was the only safe path forward. The event caused significant alarm among local residents, who were only notified shortly before the scheduled blast.</p><h2>Environmental impact and EPA monitoring</h2><p>Lead is a potent neurotoxin that does not break down in the environment, posing long-term health risks, particularly for vulnerable populations. In preparation for the detonation, the Army implemented several safety measures, including the use of fire-suppressant foam, sand-and-lime fill, and water misters to suppress dust and potential toxic plumes.</p><p>The Environmental Protection Agency (EPA) deployed real-time air monitors across the region. According to their post-detonation report, there was zero detection of airborne lead an hour after the blast. Major General Eric Shirley stated that the operation was designed to reduce risks to the community to the absolute lowest level possible.</p><h2>The legacy of legacy munitions</h2><p>This event serves as a stark reminder of the challenges associated with managing aging military stockpiles. While the US military began transitioning away from lead azide about 15 years ago due to its volatility and storage difficulties, this stockpile represented the final remnants of that era.</p><p>While the immediate threat of a spontaneous explosion has been removed, the long-term environmental monitoring of the site will continue. The incident underscores the complexities of decommissioning hazardous materials that were developed nearly a century ago, highlighting the ongoing need for rigorous safety protocols in military logistics and environmental protection.</p>",
+    "highlights_ro": [
+      "Armata SUA a detonat 4,4 tone de azidă de plumb degradată pentru a preveni o explozie spontană.",
+      "EPA a raportat zero particule de plumb în aer imediat după eveniment, în ciuda îngrijorărilor locale.",
+      "Incidentul subliniază riscurile pe termen lung ale stocării munițiilor vechi și instabile."
+    ],
+    "highlights_en": [
+      "The US Army destroyed 9,700 pounds of degraded lead azide to prevent spontaneous detonation.",
+      "EPA monitoring reported zero detection of airborne lead in the region shortly after the event.",
+      "The incident highlights the dangers of storing century-old unstable munitions."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T15:35:17+00:00",
+    "source_names": [
+      "Ars Technica",
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_1.jpg",
+      "assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_2.jpg",
+      "assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_3.jpg",
+      "assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_4.jpg",
+      "assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-amazon-meta-muse-ai-negotiations",
     "slug_ro": "amazon-meta-negocieri-ai-muse",
     "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
