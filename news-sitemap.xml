@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:48:00+00:00</news:publication_date>
+      <news:title>Best Tech Gifts for Travelers in 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:48:00+00:00</news:publication_date>
+      <news:title>Top gadgeturi pentru călători: Ce să oferi cadou în 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</loc>
     <news:news>
       <news:publication>
