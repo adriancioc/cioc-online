@@ -159,6 +159,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-24-jensen-huang-nvidia-return-scandal_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Launches Humanity&#x27;s First Exam to Test AI Reliability</title>
+    <link>https://cioc.online/en/posts/2026-11-24-google-deepmind-humanitys-first-exam/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-google-deepmind-humanitys-first-exam/</guid>
+    <description>Google DeepMind introduces Humanity&#x27;s First Exam on Kaggle to measure how reliably LLMs handle everyday tasks. Discover the details.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-google-deepmind-humanitys-first-exam_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Tidal to Delete 27 Million AI-Generated Tracks</title>
     <link>https://cioc.online/en/posts/2026-11-24-tidal-removes-ai-generated-music/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-tidal-removes-ai-generated-music/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-24-iphone-18e-camera-redesign-leak/</guid>
     <description>Leaked CAD files suggest the iPhone 18e will feature a redesigned camera housing inspired by the iPad Pro. Here is what we know about the 2027 entry-level…</description>
     <media:content url="https://cioc.online/assets/images/2026-11-24-iphone-18e-camera-redesign-leak_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Meta Launches Muse Personal AI Agent in the UK via WhatsApp</title>
-    <link>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</link>
-    <guid>https://cioc.online/en/posts/2026-11-24-meta-launches-muse-personal-ai-agent/</guid>
-    <description>Meta expands its Muse AI agent to the UK with WhatsApp integration and autonomous payment features. Here is what you need to know about safety and rollout.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-24-meta-launches-muse-personal-ai-agent_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
