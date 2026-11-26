@@ -486,6 +486,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T16:00:00+00:00</news:publication_date>
+      <news:title>Google Gemini Named Official AI Partner of Golden State</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-24-google-gemini-golden-state-partnership/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T16:00:00+00:00</news:publication_date>
+      <news:title>Google Gemini devine asistentul AI oficial al echipei Golden State</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-24-google-gemini-4-neon-hydrogen-launch/</loc>
     <news:news>
       <news:publication>

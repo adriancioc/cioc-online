@@ -159,6 +159,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-24-nyt-warns-photographers-against-photoshop-2027_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Gemini Named Official AI Partner of Golden State</title>
+    <link>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</link>
+    <guid>https://cioc.online/en/posts/2026-11-24-google-gemini-golden-state-partnership/</guid>
+    <description>Google expands partnership with Golden State. Gemini will power fan experiences and internal operations for the Warriors and Valkyries.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-24-google-gemini-golden-state-partnership_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Launches Gemini 4 Neon and Hydrogen Models</title>
     <link>https://cioc.online/en/posts/2026-11-24-google-gemini-4-neon-hydrogen-launch/</link>
     <guid>https://cioc.online/en/posts/2026-11-24-google-gemini-4-neon-hydrogen-launch/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-23-google-search-ai-mode-wallet-drive/</guid>
     <description>Google expands AI Mode in Search by integrating Google Wallet, Drive, and Gemini. Learn what changes and how to control your personal data.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-23-google-search-ai-mode-wallet-drive_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Anthropic Launches Claude Ship: AI Agents That Approve Code</title>
-    <link>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</link>
-    <guid>https://cioc.online/en/posts/2026-11-23-anthropic-launches-claude-ship/</guid>
-    <description>Anthropic introduces Claude Ship, a suite of AI agents automating code reviews, fixes, and approvals for software development teams.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-23-anthropic-launches-claude-ship_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
