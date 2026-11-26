@@ -145,6 +145,46 @@
     ]
   },
   {
+    "slug": "2026-11-25-whatsapp-scheduled-messages-launch",
+    "slug_ro": "whatsapp-mesaje-programate-lansare",
+    "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+    "category": "APLICAȚII",
+    "virality_score": 9,
+    "focus_keyword_ro": "mesaje programate WhatsApp",
+    "focus_keyword_en": "WhatsApp scheduled messages",
+    "title_ro": "WhatsApp introduce oficial mesajele programate: Cum funcționează",
+    "title_en": "WhatsApp Officially Rolls Out Scheduled Messages",
+    "summary": "WhatsApp is finally adding scheduled messages. Learn how to schedule texts, photos, and videos up to two weeks in advance on iOS and Android.",
+    "summary_ro": "WhatsApp lansează funcția de programare a mesajelor. Află cum poți trimite texte, poze și video-uri cu până la 2 săptămâni înainte.",
+    "summary_en": "WhatsApp is finally adding scheduled messages. Learn how to schedule texts, photos, and videos up to two weeks in advance on iOS and Android.",
+    "body_ro": "<h2>WhatsApp recuperează terenul pierdut</h2><p>După ani de așteptare și numeroase cereri din partea comunității, Meta a anunțat oficial lansarea funcției de programare a mesajelor pe WhatsApp. Această actualizare, disponibilă treptat pentru toți utilizatorii de iOS și Android la nivel global, transformă modul în care gestionăm comunicarea zilnică, fie că vorbim de conversații private sau grupuri.</p><h2>Cum funcționează programarea mesajelor</h2><p>Noul instrument este integrat direct în interfața de chat. După ce scrii mesajul sau selectezi fișierul media (fotografii sau clipuri video), tot ce trebuie să faci este să <strong>apeși lung pe butonul de trimitere</strong>. Se va deschide un meniu care îți permite să alegi data și ora exactă la care dorești ca mesajul să ajungă la destinatar.</p><ul><li><strong>Interval de programare:</strong> Poți seta trimiterea între 10 minute și 14 zile în viitor.</li><li><strong>Flexibilitate:</strong> Funcția este disponibilă atât pentru chat-urile individuale, cât și pentru cele de grup.</li><li><strong>Control total:</strong> Ai acces la o listă cu toate mesajele programate, pe care le poți șterge oricând înainte de ora stabilită.</li></ul><h2>Ce trebuie să știi despre securitate și disponibilitate</h2><p>Un aspect esențial este că mesajele programate rămân protejate prin <strong>criptare end-to-end</strong>, exact ca orice altă conversație obișnuită. Mai mult, Meta a confirmat că mesajele vor fi trimise automat la ora programată, indiferent dacă telefonul tău este oprit, descărcat sau nu are conexiune la internet în acel moment critic.</p><p>Deși WhatsApp a întârziat cu această funcție comparativ cu rivali precum Telegram sau Signal, implementarea este binevenită pentru utilizatorii care doresc să trimită felicitări la timp sau să coordoneze echipe de lucru fără a fi nevoiți să fie prezenți în aplicație la ore incomode. Această noutate este un pas important pentru a menține WhatsApp relevant în fața competiției care oferea deja opțiuni similare de mult timp.</p>",
+    "body_en": "<h2>WhatsApp Finally Adds Scheduling Capabilities</h2><p>Meta has officially started rolling out one of the most requested features for WhatsApp: the ability to schedule messages. This update is arriving globally for both iOS and Android users, bringing the platform closer to feature parity with competitors like Telegram and Signal.</p><h2>How to Schedule Your Messages</h2><p>The implementation is straightforward and integrated into the standard chat experience. Once you have composed your message or selected your media—including photos and videos—simply <strong>long-press the send button</strong>. This action triggers a menu where you can select the precise date and time for delivery.</p><ul><li><strong>Scheduling Window:</strong> Messages can be scheduled between 10 minutes and 14 days in advance.</li><li><strong>Versatility:</strong> The feature is fully supported in both one-on-one chats and group conversations.</li><li><strong>Management:</strong> You can view all your pending scheduled messages and delete them if your plans change before the scheduled time.</li></ul><h2>Reliability and Privacy</h2><p>Meta has emphasized that scheduled messages remain fully <strong>end-to-end encrypted</strong>, ensuring that no third party, including the company itself, can access the content. A significant technical advantage is that the messages are handled by the server, meaning they will be delivered at the chosen time even if your phone is powered off or disconnected from the network.</p><p>While WhatsApp is arguably late to the game, this feature is a significant quality-of-life improvement. Whether it is for sending birthday wishes on time or managing professional communications across different time zones, the new scheduling tool provides a much-needed layer of convenience for the app's 3 billion users. Keep an eye out for the update in your app store over the coming weeks.</p>",
+    "highlights_ro": [
+      "WhatsApp a introdus oficial funcția de programare a mesajelor pentru utilizatorii de iOS și Android.",
+      "Poți programa texte, poze și video-uri cu până la 14 zile în avans, chiar și cu telefonul închis.",
+      "O funcție utilă care aduce WhatsApp la nivelul Telegram, disponibilă global în următoarele săptămâni."
+    ],
+    "highlights_en": [
+      "WhatsApp is rolling out a native scheduled messaging feature for all users.",
+      "Users can schedule text, photos, and videos up to 14 days in advance.",
+      "The feature works even if your device is offline, maintaining end-to-end encryption."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-25T20:31:48+00:00",
+    "source_names": [
+      "The Verge",
+      "MacRumors",
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-whatsapp-scheduled-messages-launch_1.jpg",
+      "assets/images/2026-11-25-whatsapp-scheduled-messages-launch_2.jpg",
+      "assets/images/2026-11-25-whatsapp-scheduled-messages-launch_3.jpg",
+      "assets/images/2026-11-25-whatsapp-scheduled-messages-launch_4.jpg",
+      "assets/images/2026-11-25-whatsapp-scheduled-messages-launch_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-ios-28-notification-revamp",
     "slug_ro": "ios-28-schimbari-notificari",
     "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
