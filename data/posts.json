@@ -38,6 +38,43 @@
     ]
   },
   {
+    "slug": "2026-11-25-spacex-starmind-ai-satellites",
+    "slug_ro": "spacex-starmind-sateliti-ai-orbit",
+    "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "category": "TECH",
+    "virality_score": 9,
+    "focus_keyword_ro": "SpaceX Starmind",
+    "focus_keyword_en": "SpaceX Starmind",
+    "title_ro": "SpaceX Starmind: FCC aprobă 1 milion de sateliți AI pe orbită",
+    "title_en": "SpaceX Starmind: FCC Approves 1 Million AI Satellites",
+    "summary": "The FCC has authorized SpaceX's Starmind project. Here is how 1 million AI-equipped satellites will reshape global data infrastructure.",
+    "summary_ro": "FCC a dat undă verde proiectului SpaceX Starmind. Află cum 1 milion de sateliți cu cipuri AI vor schimba infrastructura de date globală.",
+    "summary_en": "The FCC has authorized SpaceX's Starmind project. Here is how 1 million AI-equipped satellites will reshape global data infrastructure.",
+    "body_ro": "<h2>Revoluția AI se mută în spațiu: SpaceX Starmind primește undă verde</h2><p>Într-o mișcare ce pare desprinsă din romanele science-fiction, Comisia Federală pentru Comunicații (FCC) din SUA a oferit aprobarea condiționată pentru SpaceX de a desfășura o constelație masivă de până la 1 milion de sateliți. Proiectul, cunoscut sub numele de <strong>Starmind</strong>, reprezintă cea mai îndrăzneață încercare de până acum de a muta infrastructura critică de date AI în afara atmosferei terestre.</p><p>Scopul declarat al lui Elon Musk este de a utiliza acești sateliți pentru a capta energie solară direct în spațiu, folosind-o pentru a alimenta cipuri AI de înaltă performanță. Datele procesate ar urma să fie transmise înapoi pe Pământ prin conexiuni laser de mare viteză, integrate în rețeaua Starlink existentă. Această abordare ar putea, teoretic, să elimine limitările energetice și termice ale centrelor de date terestre.</p><h2>Provocări tehnice și opoziția industriei</h2><p>Deși aprobarea FCC este o victorie politică majoră, drumul până la implementare este plin de obstacole. Companii precum Amazon și Viasat, alături de Societatea Astronomică Americană, au contestat vehement planul. Principalele îngrijorări vizează aglomerarea orbitei terestre, riscul crescut de coliziuni și interferențele radio care ar putea afecta cercetarea științifică.</p><p>SpaceX se confruntă, de asemenea, cu provocări inginerești monumentale. Cum răcești procesoarele AI în vidul spațial? Cum reduci costurile de fabricație pentru 1 milion de unități? Mai mult, FCC a refuzat momentan cererea SpaceX de a abandona sateliții pe orbite „cimitir” la finalul misiunii, solicitând detalii suplimentare despre procesul de eliminare a deșeurilor spațiale.</p><h2>Competiția pentru „Computing” spațial</h2><p>SpaceX nu este singura entitate care privește spre stele pentru viitorul AI. Google a lansat deja „Project Suncatcher”, un satelit server AI, iar Blue Origin, compania lui Jeff Bezos, pregătește lansări grele pentru a susține această infrastructură. Cursa pentru a stabili cine va deține „serverele orbitale” ale viitorului a început oficial.</p><p>Pentru utilizatorii din România și Europa, acest proiect înseamnă o evoluție a modului în care datele vor fi procesate la scară globală în viitorul deceniu. Deși implementarea completă este estimată pentru anul 2040, primii pași sunt deja făcuți. Rămâne de văzut dacă SpaceX va reuși să transforme această ambiție într-o realitate economică viabilă sau dacă va rămâne doar un proiect de cercetare costisitor.</p>",
+    "body_en": "<h2>AI Goes Orbital: SpaceX Starmind Gets FCC Approval</h2><p>In a move that sounds like science fiction, the US Federal Communications Commission (FCC) has granted conditional approval for SpaceX to deploy a massive constellation of up to 1 million satellites. The project, dubbed <strong>Starmind</strong>, represents the most ambitious attempt yet to move critical AI data infrastructure off-planet.</p><p>Elon Musk’s vision involves using these satellites to capture solar energy directly in space, powering high-performance AI chips. The processed data would then be beamed back to Earth using high-speed lasers, integrated into the existing Starlink network. This approach aims to bypass the massive energy and cooling constraints currently facing terrestrial data centers.</p><h2>Technical Hurdles and Industry Pushback</h2><p>While the FCC approval is a significant regulatory victory, the path to implementation is fraught with challenges. Competitors like Amazon and Viasat, along with the American Astronomical Society, have strongly opposed the plan. Their concerns center on orbital congestion, collision risks, and radiofrequency interference that could disrupt scientific research.</p><p>SpaceX faces monumental engineering hurdles as well. How do you cool AI processors in the vacuum of space? How do you scale manufacturing for 1 million units? Furthermore, the FCC has currently denied SpaceX’s request to dispose of satellites in 'graveyard' orbits, demanding more rigorous plans for orbital debris mitigation.</p><h2>The Race for Space Computing</h2><p>SpaceX is not alone in looking to the stars for the future of AI. Google has already launched its 'Project Suncatcher' AI server satellite, and Jeff Bezos’ Blue Origin is preparing heavy-lift launches to support such infrastructure. The race to establish the orbital server farms of the future has officially begun.</p><p>For the global tech landscape, this project signals a shift in how data processing might evolve over the next decade. While the full 1 million satellite milestone is targeted for 2040, the regulatory framework is now in place. Whether SpaceX can turn this ambition into a viable economic reality remains the multi-billion dollar question.</p>",
+    "highlights_ro": [
+      "FCC a autorizat SpaceX să lanseze până la 1 milion de sateliți echipați cu cipuri AI pentru proiectul Starmind.",
+      "Proiectul vizează captarea energiei solare în spațiu pentru a alimenta procesarea AI, cu date transmise prin lasere către Starlink.",
+      "O inițiativă ambițioasă, dar cu provocări tehnice imense: răcirea cipurilor în vid și gestionarea deșeurilor spațiale."
+    ],
+    "highlights_en": [
+      "The FCC authorized SpaceX to deploy up to 1 million AI-equipped satellites for the Starmind initiative.",
+      "The project aims to capture solar energy in space to power AI, transmitting data via high-speed lasers to Starlink.",
+      "Major technical hurdles remain, including orbital debris management and cooling processors in space."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-25T20:56:44+00:00",
+    "source_names": [
+      "TechCrunch",
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-25-spacex-starmind-ai-satellites_1.jpg",
+      "assets/images/2026-11-25-spacex-starmind-ai-satellites_2.jpg",
+      "assets/images/2026-11-25-spacex-starmind-ai-satellites_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-ios-28-notification-revamp",
     "slug_ro": "ios-28-schimbari-notificari",
     "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
