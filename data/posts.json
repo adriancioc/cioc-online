@@ -1330,6 +1330,40 @@
     ]
   },
   {
+    "slug": "2026-11-25-x-launches-vertical-video-tools",
+    "slug_ro": "x-lanseaza-unelte-video-vertical",
+    "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+    "category": "APLICAȚII",
+    "virality_score": 6,
+    "focus_keyword_ro": "X video vertical creatori",
+    "focus_keyword_en": "X vertical video creator tools",
+    "title_ro": "X lansează noi unelte pentru video vertical: Competiție pentru TikTok",
+    "title_en": "X Launches New Vertical Video Tools to Challenge TikTok",
+    "summary": "X introduces an advanced in-app video editor and new creator features, aiming to compete with TikTok and Instagram's vertical video dominance.",
+    "summary_ro": "X introduce un editor video avansat și funcții noi pentru creatori, încercând să recupereze terenul pierdut în fața TikTok și Instagram.",
+    "summary_en": "X introduces an advanced in-app video editor and new creator features, aiming to compete with TikTok and Instagram's vertical video dominance.",
+    "body_ro": "<h2>X încearcă să devină o platformă pentru creatori</h2><p>Platforma X, cunoscută anterior sub numele de Twitter, a anunțat o serie de actualizări menite să transforme experiența creatorilor de conținut. Accentul principal cade pe formatul video vertical, o mișcare strategică prin care compania încearcă să concureze direct cu giganții din domeniu, TikTok și Instagram Reels. Aceste unelte sunt concepute pentru a permite utilizatorilor să înregistreze, editeze și publice conținut profesional direct din aplicație.</p><h2>Ce aduce nou editorul media de pe X</h2><p>Printre cele mai importante noutăți se numără un editor media complet revizuit. Acesta permite acum capturarea video în segmente, utilizarea efectelor de green-screen și ajustarea materialului filmat fără a părăsi aplicația. Creatorii pot converti clipuri orizontale în format vertical, pot adăuga automat subtitrări și pot aplica suprapuneri de text sau miniaturi personalizate. Această abordare reduce dependența de aplicații terțe de editare, simplificând fluxul de lucru pentru cei care postează frecvent.</p><h2>Monetizare și interacțiune</h2><p>Dincolo de editare, X a introdus funcții care facilitează interacțiunea, precum „React with Video”, similară cu funcția „stitch” de pe TikTok. De asemenea, au fost lansate oportunități de monetizare, cum ar fi „Video Kickstart Bonus”, un program pilot prin care creatorii selectați sunt recompensați pentru conținutul video vertical original, sub trei minute și fără watermark. Totodată, grupurile de chat pentru abonați oferă o nouă cale de a construi comunități private, fiind disponibile pentru creatorii cu până la 800 de abonați.</p><h2>Verdictul cioc.online</h2><p>Deși aceste funcții sunt binevenite, rămâne întrebarea dacă X poate atrage creatorii care au deja audiențe consolidate pe Instagram sau TikTok. Algoritmul platformei și cultura utilizatorilor de pe X sunt fundamental diferite, iar efortul de a „copia” funcționalitățile rivalilor ar putea fi prea mic și prea târziu. Pentru utilizatorii din România, disponibilitatea acestor funcții variază, iar monetizarea rămâne un subiect sensibil, fiind limitată la programe pilot și invitații specifice.</p>",
+    "body_en": "<h2>X pivots to short-form video</h2><p>X has officially announced a suite of new creation tools, heavily focused on short-form vertical video. This move is part of a broader strategy to compete with platforms like YouTube and Instagram, which have dominated the creator economy for years. By integrating professional-grade editing tools directly into the X app, the company hopes to reduce the friction creators face when producing content.</p><h2>Advanced editing capabilities</h2><p>The core of this update is a revamped media editor. Creators can now capture video in segments, apply green-screen effects, and perform post-production tasks without leaving the platform. Key features include the ability to convert horizontal footage to vertical, automatic caption generation, and custom thumbnail selection. These tools are designed to help creators produce polished, high-quality content that fits the current vertical-first consumption habits of social media users.</p><h2>Monetization and community building</h2><p>X is also doubling down on monetization and community engagement. The \"Video Kickstart Bonus\" is an invitation-only pilot program designed to incentivize creators to publish original, watermark-free vertical videos under three minutes. Furthermore, the introduction of \"Subscriber-only Group Chats\" allows creators to foster deeper connections with their paying audience, providing a space for real-time, private conversations. These features are currently being rolled out, though availability may vary by region.</p><h2>The cioc.online perspective</h2><p>While these updates represent a significant improvement for the X ecosystem, the platform faces a steep challenge. The creator economy is heavily fragmented, and convincing creators to migrate their workflows from established giants like TikTok is no small feat. For European users, the impact will depend on how quickly these features are localized and whether the monetization programs expand beyond the current pilot phase. Whether this is enough to revitalize X as a video-first destination remains to be seen.</p>",
+    "highlights_ro": [
+      "X a lansat un editor video integrat pentru conținut vertical, incluzând efecte de green-screen și editare post-producție.",
+      "Funcțiile sunt disponibile gradual, iar monetizarea este legată de bonusuri pentru conținut original fără watermark.",
+      "O mișcare disperată pentru a atrage creatorii de conținut, dar platforma rămâne în urma rivalilor principali."
+    ],
+    "highlights_en": [
+      "X rolled out a built-in vertical video editor featuring green-screen effects and post-production tools.",
+      "New monetization programs like the Video Kickstart Bonus reward original, watermark-free content.",
+      "A strategic push to retain creators, though X faces an uphill battle against established short-form platforms."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T17:28:29+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-x-launches-vertical-video-tools_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-iphone-18-pro-max-battery-life",
     "slug_ro": "iphone-18-pro-max-baterie-noua",
     "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
