@@ -107,6 +107,40 @@
     ]
   },
   {
+    "slug": "2026-11-26-x-finally-launches-parental-controls",
+    "slug_ro": "x-introduce-control-parental-dupa-20",
+    "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+    "category": "SECURITATE",
+    "virality_score": 9,
+    "focus_keyword_ro": "control parental X",
+    "focus_keyword_en": "X parental controls",
+    "title_ro": "X introduce în sfârșit control parental după 20 de ani",
+    "title_en": "X Finally Launches Parental Controls After 20 Years",
+    "summary": "X introduces new parental controls for teenagers. Learn about the new safety features, time limits, and content restrictions now available on the platform.",
+    "summary_ro": "Platforma X lansează funcții de control parental pentru adolescenți. Află ce pot restricționa părinții și cum funcționează setările de siguranță.",
+    "summary_en": "X introduces new parental controls for teenagers. Learn about the new safety features, time limits, and content restrictions now available on the platform.",
+    "body_ro": "<h2>O schimbare istorică pentru X</h2><p>După două decenii de existență, platforma cunoscută anterior sub numele de Twitter face un pas major către siguranța minorilor. X a introdus oficial instrumente de control parental, o funcție care a lipsit cu desăvârșire până acum, într-un context în care platforma a fost adesea criticată pentru conținutul nefiltrat și riscurile la care sunt expuși tinerii.</p><h2>Ce pot face părinții acum?</h2><p>Noile funcții sunt concepute pentru a oferi părinților și tutorilor un nivel de supraveghere fără a încălca complet intimitatea adolescenților. Printre opțiunile disponibile se numără:</p><ul><li><strong>Gestionarea timpului:</strong> Părinții pot vedea cât timp petrec adolescenții pe platformă și pot seta limite zilnice.</li><li><strong>Filtrarea conținutului:</strong> Limitarea recomandărilor și a videoclipurilor doar la conturile urmărite, precum și filtrarea cuvintelor sensibile.</li><li><strong>Controlul interacțiunilor:</strong> Aprobarea noilor urmăritori și restricționarea persoanelor care pot trimite mesaje directe (DM).</li><li><strong>Mod protejat:</strong> Conturile utilizatorilor cu vârste între 13 și 17 ani vor fi setate automat pe „mod protejat”, eliminând reclamele targetate și conținutul sensibil.</li></ul><p>Este important de menționat că, spre deosebire de alte platforme, X păstrează un echilibru: părinții nu pot citi mesajele private ale adolescenților și nici nu pot vedea istoricul complet de căutare, oferind tinerilor o formă de autonomie digitală.</p><h2>Echilibrul dintre siguranță și libertate</h2><p>Michael O’Herlihy, șeful departamentului de siguranță de la X, a declarat că scopul a fost crearea unor „garduri de protecție” care să se potrivească nevoilor fiecărei familii. Totuși, criticii subliniază că această măsură vine după luni de presiuni intense, în special după scandalurile legate de chatbot-ul AI al platformei, care a fost utilizat pentru a genera imagini sexualizate cu minori.</p><p>Deși platforma impune o vârstă minimă de 13 ani, un studiu recent a arătat că aproape o treime din copiii din generația Alpha au deja un cont pe X. Această nouă actualizare este un pas necesar, dar rămâne de văzut dacă va reuși să curețe platforma de problemele cronice precum dezinformarea, boții AI și materialele inadecvate care circulă liber pe rețea.</p><p>Pentru utilizatorii din România și Europa, aceste funcții sunt esențiale în contextul reglementărilor stricte privind siguranța online (DSA). Dacă ești părinte, recomandăm activarea imediată a acestor setări din meniul de confidențialitate al contului copilului tău.</p>",
+    "body_en": "<h2>A Long-Awaited Safety Update</h2><p>After 20 years of operation, X (formerly Twitter) has finally implemented parental controls. This update aims to provide guardians with the tools necessary to manage what teenagers see and interact with on the platform, addressing long-standing concerns about the safety of minors in a digital environment often criticized for its lack of moderation.</p><h2>Key Features of the New System</h2><p>The new controls are designed to strike a balance between parental oversight and teenage autonomy. Unlike some platforms that offer total surveillance, X’s implementation allows teens to see exactly what restrictions have been applied to their accounts. Key features include:</p><ul><li><strong>Screen Time Management:</strong> Parents can view weekly usage stats and set daily time limits.</li><li><strong>Content Filtering:</strong> Restricting feed recommendations and videos to accounts already followed by the teen.</li><li><strong>Interaction Controls:</strong> Requiring parental approval for new followers and specifying who can send direct messages.</li><li><strong>Default Protection:</strong> Accounts for users aged 13-17 are now set to “protected mode” by default, blocking targeted ads and sensitive media.</li></ul><p>Crucially, X has stated that parents cannot read their teen’s private messages, nor can they view search history or post on their teen’s behalf. This approach aims to maintain a level of trust while providing necessary guardrails.</p><h2>The Context Behind the Change</h2><p>This update arrives after intense scrutiny regarding the platform's safety protocols. X has faced significant backlash for its handling of child sexual abuse material, misinformation, and the misuse of its AI chatbot to generate inappropriate content. With a 2024 study suggesting that nearly one-third of Gen Alpha kids have an X account, the platform's previous hands-off approach was becoming increasingly untenable.</p><p>Michael O’Herlihy, head of safety at X, emphasized that the goal was to build a system where families can set the guardrails that fit their home while teens keep ownership of their accounts. While this is a positive step, the effectiveness of these tools will depend heavily on parental engagement and the platform's ability to enforce its own policies against the broader issues of bots and harmful content that continue to plague the network.</p><p>For European users, these tools align with the broader push for safer digital spaces under the Digital Services Act (DSA). Parents are encouraged to review these settings immediately to ensure their teenagers are navigating the platform within safe parameters.</p>",
+    "highlights_ro": [
+      "X a lansat oficial un set de instrumente de control parental pentru conturile utilizatorilor cu vârste între 13 și 17 ani.",
+      "Părinții pot seta limite de timp, filtra conținutul și aproba urmăritorii, fără a avea acces la mesajele private ale adolescenților.",
+      "O schimbare mult așteptată, dar care ridică semne de întrebare privind eficiența în fața conținutului problematic de pe platformă."
+    ],
+    "highlights_en": [
+      "X has officially rolled out parental control tools for users aged 13-17.",
+      "Parents can manage screen time, filter content, and approve followers without accessing private DMs.",
+      "The move follows significant criticism regarding child safety and AI-generated content on the platform."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-26T19:31:50+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-26-x-finally-launches-parental-controls_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-ford-gt41-hypercar-le-mans-2027",
     "slug_ro": "ford-gt41-hypercar-le-mans-2027",
     "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
