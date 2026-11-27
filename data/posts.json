@@ -1,5 +1,41 @@
 [
   {
+    "slug": "2026-11-27-iphone-market-share-us-2026",
+    "slug_ro": "cota-piata-iphone-sua-2026",
+    "url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+    "category": "TELEFOANE",
+    "virality_score": 5,
+    "focus_keyword_ro": "cota de piata iPhone",
+    "focus_keyword_en": "iPhone market share",
+    "title_ro": "iPhone domină piața din SUA: 57% cotă în ciuda declinului general",
+    "title_en": "iPhone Hits 57% US Market Share as Rivals Struggle",
+    "summary": "Apple reaches 57% market share in the US in Q3 2026, as rising memory costs hit Android manufacturers hard.",
+    "summary_ro": "Apple atinge 57% cotă de piață în SUA în Q3 2026, în timp ce restul producătorilor scad din cauza costurilor mari ale componentelor.",
+    "summary_en": "Apple reaches 57% market share in the US in Q3 2026, as rising memory costs hit Android manufacturers hard.",
+    "body_ro": "<h2>Dominanța Apple pe piața americană</h2><p>Datele recente furnizate de Counterpoint Research pentru al treilea trimestru al anului 2026 arată o schimbare majoră în peisajul smartphone-urilor din Statele Unite. În timp ce piața totală a suferit o contracție de 9% față de anul precedent, Apple a reușit să își crească cota de la 50% la un impresionant 57%. Această performanță plasează compania din Cupertino într-o poziție de lider incontestabil, fiind singurul mare producător care nu a raportat o scădere a livrărilor.</p><h2>De ce suferă producătorii Android?</h2><p>Problema principală a pieței în 2026 este creșterea costurilor pentru componentele de memorie. Producătorii de telefoane Android, în special cei care activează pe segmentul de buget, au fost loviți cel mai dur. Marjele de profit subțiri nu le-au permis să absoarbă aceste costuri fără a crește prețul final către consumator, ceea ce a dus inevitabil la o scădere a volumului de vânzări.</p><ul><li><strong>Samsung:</strong> A reușit să se mențină la 25% cotă de piață, susținută de seriile Galaxy S și Z, dar și de gama accesibilă Galaxy A.</li><li><strong>Motorola:</strong> A înregistrat cea mai mare scădere, pierzând 4 puncte procentuale, ajungând la 8% cotă, fiind direct afectată de segmentul low-end.</li><li><strong>Google:</strong> Lansarea seriei Pixel 11 nu a fost suficient de puternică pentru a compensa declinul general, înregistrând o ușoară scădere.</li></ul><h2>Ce înseamnă acest lucru pentru consumatori?</h2><p>Trendul observat în SUA indică o schimbare de comportament. Consumatorii amână achizițiile, așteptând perioadele cu promoții agresive, ceea ce a dus la o scădere a vânzărilor prin operatori cu 4% în Q3. Pentru piața din România și Europa, acest fenomen subliniază importanța alegerii unui dispozitiv cu o valoare de revânzare ridicată și suport software pe termen lung, aspecte unde Apple continuă să dețină un avantaj competitiv clar față de alternativele Android care se luptă cu presiunile economice ale lanțului de aprovizionare.</p>",
+    "body_en": "<h2>Apple's Growing US Dominance</h2><p>New data from Counterpoint Research for the third quarter of 2026 reveals a significant shift in the US smartphone landscape. While the overall market contracted by 9% year-over-year, Apple managed to grow its market share from 50% to an impressive 57%. This performance establishes the company as the undisputed leader, standing out as the only major manufacturer to avoid a decline in shipments during the quarter.</p><h2>The Android Dilemma</h2><p>The primary driver behind the market's decline is the rising cost of memory components. Android manufacturers, particularly those focusing on the budget segment, have been hit the hardest. Thin profit margins have left these vendors with little room to absorb higher component prices without raising retail prices, which has inevitably led to lower sales volumes.</p><ul><li><strong>Samsung:</strong> Held steady at 25% market share, supported by its flagship Galaxy S and Z series, alongside the budget-friendly Galaxy A-series.</li><li><strong>Motorola:</strong> Suffered the biggest hit, losing 4 percentage points to reach 8% share, as memory costs squeezed its large low-end lineup.</li><li><strong>Google:</strong> The Pixel 11 launch failed to prevent a slight decline in market share, reflecting the broader challenges in the mid-range segment.</li></ul><h2>Consumer Behavior Shifts</h2><p>The trends observed in the US indicate a shift in consumer behavior. Shoppers are increasingly timing their purchases around major sales events, leading to a 4% decline in carrier sales during Q3. For the European market, this underscores the importance of choosing devices with high resale value and long-term software support, areas where Apple continues to maintain a clear competitive advantage over Android alternatives currently struggling with supply chain economic pressures.</p>",
+    "highlights_ro": [
+      "Apple a ajuns la 57% cotă de piață în SUA, fiind singurul producător care a evitat scăderea livrărilor.",
+      "Piața generală a scăzut cu 9%, fiind afectată de creșterea costurilor pentru memoriile RAM și stocare.",
+      "Analiza noastră arată că strategia Apple de a controla marjele de profit îi protejează mai bine decât pe rivalii Android."
+    ],
+    "highlights_en": [
+      "Apple reached 57% market share in the US, being the only major manufacturer to avoid shipment declines.",
+      "The overall market fell by 9% due to rising memory costs impacting low-end Android devices.",
+      "Our analysis confirms that Apple's premium strategy provides a buffer against supply chain volatility."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-27T11:53:24+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-27-iphone-market-share-us-2026_1.jpg",
+      "assets/images/2026-11-27-iphone-market-share-us-2026_2.jpg",
+      "assets/images/2026-11-27-iphone-market-share-us-2026_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-iphone-20-pro-3d-printed-titanium",
     "slug_ro": "iphone-20-pro-cadru-titan-printat",
     "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
