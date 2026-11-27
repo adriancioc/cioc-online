@@ -46,6 +46,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-intel-nvidia-us-government-pressure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:05:01+00:00</news:publication_date>
+      <news:title>Intel and Nvidia Under Siege: The New Era of Corporate Coercion</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-intel-nvidia-us-government-pressure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:05:01+00:00</news:publication_date>
+      <news:title>Intel și Nvidia sub asediu: Cum forțează Casa Albă controlul companiilor</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-iphone-market-share-us-2026/</loc>
     <news:news>
       <news:publication>
