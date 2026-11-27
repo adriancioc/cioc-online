@@ -1187,6 +1187,40 @@
     ]
   },
   {
+    "slug": "2026-11-25-openai-merges-chatgpt-limits",
+    "slug_ro": "openai-unifica-limite-chatgpt",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "category": "AI",
+    "virality_score": 8,
+    "focus_keyword_ro": "limite ChatGPT Pro",
+    "focus_keyword_en": "ChatGPT usage limits",
+    "title_ro": "OpenAI unifică limitele ChatGPT: Ce înseamnă pentru utilizatorii Pro",
+    "title_en": "OpenAI Merges ChatGPT Limits: What Pro Users Need to Know",
+    "summary": "OpenAI is merging Chat and Work usage limits in ChatGPT. Learn how this affects your Pro subscription and which models remain unlimited.",
+    "summary_ro": "OpenAI introduce o limită comună pentru Chat și Work în ChatGPT. Află cum te afectează noile restricții de utilizare și ce modele rămân nelimitate.",
+    "summary_en": "OpenAI is merging Chat and Work usage limits in ChatGPT. Learn how this affects your Pro subscription and which models remain unlimited.",
+    "body_ro": "<h2>O schimbare majoră în modul de utilizare ChatGPT</h2><p>OpenAI a început implementarea unei schimbări semnificative pentru abonații săi Pro: unificarea limitelor de utilizare între funcțiile de chat obișnuite și cele de tip Work. Această decizie, confirmată pentru un grup restrâns de utilizatori, a stârnit deja îngrijorări în comunitatea tech, mulți abonați temându-se că vor avea acces mai limitat la modelele avansate de raționament, în ciuda faptului că plătesc același abonament lunar.</p><h2>Cum funcționează noul sistem de contorizare</h2><p>Până în prezent, utilizatorii puteau naviga între diferite moduri de lucru fără a se îngrijora constant de un contor global. Sub noul sistem, OpenAI introduce un singur contor partajat pentru toate interacțiunile din cadrul platformei. Reprezentanții companiei au precizat că, deși majoritatea utilizatorilor nu vor observa o schimbare drastică, o mică fracțiune dintre cei mai activi utilizatori ar putea atinge limitele de utilizare mai rapid decât până acum.</p><p>Totuși, există și vești bune: conversațiile care utilizează modelul <strong>Instant</strong> vor rămâne complet nelimitate. Acestea nu vor fi luate în calcul la consumul alocat, permițând utilizatorilor să continue sarcinile de bază chiar și după ce limita pentru modelele avansate a fost epuizată.</p><h2>De ce face OpenAI această schimbare?</h2><p>Presiunea asupra infrastructurii de calcul este tot mai mare. Pe măsură ce cererea pentru modele de AI capabile crește, costurile operaționale devin o provocare majoră pentru companiile din domeniu. Prin unificarea interfeței, OpenAI nu doar că încearcă să eficientizeze resursele, dar dorește să ofere o experiență mai fluidă, permițând utilizatorilor să treacă rapid de la sarcini de chat simple la fluxuri de lucru complexe, fără a schimba tab-urile din browser.</p><h2>Verdictul Cioc.online</h2><p>Această mișcare este un semnal clar că epoca resurselor nelimitate pentru AI-ul generativ se apropie de final. Pentru utilizatorii din România care folosesc ChatGPT în scop profesional, recomandăm monitorizarea atentă a consumului în luna decembrie, când schimbarea va fi implementată la scară largă. Dacă ești un utilizator intens, s-ar putea să fii nevoit să optimizezi prompt-urile pentru a folosi modelul Instant mai des, rezervând modelele avansate doar pentru sarcinile critice care necesită raționament complex.</p>",
+    "body_en": "<h2>The New Reality of ChatGPT Usage</h2><p>OpenAI has officially started rolling out a unified experience for Chat and Work within ChatGPT. This update, aimed at streamlining the user interface, brings a shared usage meter for subscribers. While the goal is to simplify the workflow, the move has sparked criticism from power users who fear that merging these limits could restrict their access to advanced reasoning models while paying the same subscription fees.</p><h2>What Changes for Subscribers?</h2><p>Under the previous system, users often managed separate usage expectations for different tasks. The new system consolidates these into a single allowance. According to an OpenAI spokesperson, while the vast majority of users are not expected to face more frequent resets, the heaviest users—those who push the limits of the AI daily—might find themselves hitting their caps sooner than before.</p><p>Crucially, the <strong>Instant</strong> model remains exempt from this shared allowance. Users can continue to utilize this model even after exhausting their limits for more advanced reasoning tasks, ensuring that basic productivity tasks are not completely interrupted.</p><h2>Infrastructure and Efficiency</h2><p>This shift comes as AI companies face mounting infrastructure costs and an insatiable demand for computing power. By consolidating tools into a single interface, OpenAI aims to allow users to move between simple chats and complex work tasks without switching tabs, while simultaneously managing the heavy load on their server clusters. This mirrors similar moves by competitors like Anthropic, who integrated their conversational and work-focused tools earlier this year.</p><h2>Cioc.online Perspective</h2><p>The consolidation of usage limits is a clear indicator that AI providers are prioritizing infrastructure sustainability. For professional users, this means efficiency is now a key skill. If you are a power user, you should start planning your workflows to leverage the Instant model for routine tasks, saving your advanced model quota for high-stakes reasoning. As the rollout expands in December, keep an eye on your usage dashboard to see how these changes impact your specific daily routine.</p>",
+    "highlights_ro": [
+      "OpenAI a început unificarea contorului de utilizare pentru funcțiile Chat și Work în ChatGPT.",
+      "Utilizatorii Pro ar putea atinge limitele mai rapid, deși modelul 'Instant' rămâne nelimitat.",
+      "O schimbare necesară pentru eficiența infrastructurii, dar care pune presiune pe utilizatorii avansați."
+    ],
+    "highlights_en": [
+      "OpenAI is rolling out a unified usage meter for Chat and Work features in ChatGPT.",
+      "Heavy Pro users may hit limits sooner, but the 'Instant' model remains unlimited.",
+      "A strategic move to manage infrastructure costs amid rising AI demand."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T20:03:27+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-openai-merges-chatgpt-limits_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-jensen-huang-breaks-nvidia-code-of",
     "slug_ro": "jensen-huang-incalca-codul-conduita-nvidia",
     "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
