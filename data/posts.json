@@ -1628,6 +1628,40 @@
     ]
   },
   {
+    "slug": "2026-11-25-dario-amodei-anthropic-ai-control",
+    "slug_ro": "dario-amodei-anthropic-control-ai",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "category": "AI",
+    "virality_score": 7,
+    "focus_keyword_ro": "Anthropic control AI",
+    "focus_keyword_en": "Anthropic AI control",
+    "title_ro": "Dario Amodei (Anthropic): Acuzațiile privind controlul AI sunt absurde",
+    "title_en": "Anthropic CEO Dario Amodei Calls AI Control Accusations 'Absurd'",
+    "summary": "Anthropic CEO Dario Amodei pushes back against claims of surrendering human control to AI, sparking a debate on recursive self-improvement.",
+    "summary_ro": "CEO-ul Anthropic, Dario Amodei, respinge criticile privind pierderea controlului uman în fața sistemelor AI, într-o dezbatere aprinsă cu rivalii.",
+    "summary_en": "Anthropic CEO Dario Amodei pushes back against claims of surrendering human control to AI, sparking a debate on recursive self-improvement.",
+    "body_ro": "<h2>O confruntare de ideologii în inima Silicon Valley</h2><p>Într-o mișcare neașteptată, Dario Amodei, CEO-ul Anthropic, a ieșit public pentru a respinge vehement acuzațiile conform cărora compania sa ar promova ideea de a 'ceda liberul arbitru' sistemelor de inteligență artificială. Într-o postare extinsă pe platforma X, Amodei a catalogat aceste sugestii drept 'absurde', subliniind că legitimitatea și autodeterminarea umană nu trebuie sacrificate pe altarul eficienței tehnologice.</p><h2>Linia roșie: Auto-îmbunătățirea recursivă</h2><p>Disputa nu este doar una retorică. În centrul dezbaterii se află conceptul de auto-îmbunătățire recursivă (RSI) – capacitatea unui sistem AI de a-și îmbunătăți propriul cod fără intervenție umană. Deși criticii, inclusiv lideri de la OpenAI și Meta, avertizează că acest proces ar putea duce inevitabil la pierderea controlului, Anthropic însăși integrează AI-ul în propriile procese de dezvoltare. Datele arată că modelul Claude a scris peste 80% din codul integrat în baza de date a companiei în luna iunie.</p><h2>Jocul de culise: Marketing sau etică?</h2><p>Amodei a acuzat competitorii de poziționare comercială bazată pe 'vibrații' (vibes-based positioning), sugerând că aceștia folosesc termeni precum 'control uman' și 'agenție' doar pentru a câștiga capital politic, în timp ce continuă să lanseze modele din ce în ce mai capabile de automatizare totală. În realitate, toate marile companii de AI urmează aceeași cale, încercând să echilibreze progresul rapid cu promisiunea unor mecanisme de siguranță.</p><h2>Verdictul cioc.online</h2><p>Această dispută publică arată că industria AI a intrat într-o fază de maturitate tensionată. În timp ce liderii se ceartă pe principii filosofice, realitatea tehnică este că sistemele devin atât de complexe încât auditarea lor umană devine o provocare majoră. Pentru utilizatorii din România, acest lucru înseamnă că, indiferent de retorica companiilor, integrarea AI în viața cotidiană va continua să accelereze, cu sau fără garanții absolute de control.</p>",
+    "body_en": "<h2>A clash of ideologies in Silicon Valley</h2><p>In a sharp pushback against critics, Anthropic CEO Dario Amodei has rejected claims that his company believes in 'surrendering human free will' to AI systems. In a detailed post on X, Amodei called the suggestion 'absurd,' emphasizing that human legitimacy and self-determination should never be sacrificed for the sake of efficiency or security.</p><h2>The red line: Recursive self-improvement</h2><p>The debate is more than just rhetoric. At its core lies the concept of recursive self-improvement (RSI)—the ability of an AI system to improve its own code without human assistance. While rivals from OpenAI and Meta warn that RSI could lead to a loss of human control, Anthropic is actively using AI in its own R&D. Reports indicate that Claude authored over 80% of the code merged into Anthropic’s codebase as of June.</p><h2>Behind the scenes: Marketing or ethics?</h2><p>Amodei accused competitors of engaging in 'vibes-based commercial positioning,' suggesting they use buzzwords like 'human agency' to gain political leverage while simultaneously releasing models increasingly capable of end-to-end automation. Every major AI company is currently walking the same tightrope, attempting to balance rapid capability progress with the promise of safety guardrails.</p><h2>The cioc.online verdict</h2><p>This public spat confirms that the AI industry has entered a phase of tense maturity. While leaders argue over philosophical principles, the technical reality is that systems are becoming so complex that human auditing is struggling to keep pace. For the global user, this means that regardless of corporate rhetoric, the integration of AI into daily tasks will continue to accelerate, with or without absolute guarantees of human control.</p>",
+    "highlights_ro": [
+      "Dario Amodei a catalogat drept 'absurde' acuzațiile că Anthropic ar dori să cedeze liberul arbitru uman către AI.",
+      "Disputa vizează limitele automatizării și riscurile auto-îmbunătățirii recursive (RSI) a modelelor AI.",
+      "Cioc.online consideră că această confruntare publică maschează o cursă comercială acerbă pentru dominanța automatizării."
+    ],
+    "highlights_en": [
+      "Dario Amodei labeled accusations of Anthropic surrendering human free will to AI as 'absurd'.",
+      "The debate centers on recursive self-improvement (RSI) and the ethics of autonomous development.",
+      "Cioc.online notes that this public spat highlights the intense commercial race behind AI safety rhetoric."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T19:44:24+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-25-dario-amodei-anthropic-ai-control_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-1password-security-breach-what-you-need",
     "slug_ro": "breach-securitate-1password-ce-trebuie-sa",
     "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
