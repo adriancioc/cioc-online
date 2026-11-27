@@ -112,6 +112,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-best-black-friday-tech-deals-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:39:32+00:00</news:publication_date>
+      <news:title>Black Friday 2026: Tech Deals Analysis</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-best-black-friday-tech-deals-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:39:32+00:00</news:publication_date>
+      <news:title>Black Friday 2026: Analiza ofertelor tech din SUA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-intel-forced-stake-us-government/</loc>
     <news:news>
       <news:publication>
@@ -813,292 +835,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T21:32:02+00:00</news:publication_date>
       <news:title>Breșă de securitate 1Password: Ce date au fost expuse?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-kagi-mail-privacy-focused-gmail-alternative/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:57:09+00:00</news:publication_date>
-      <news:title>Kagi Mail: A Privacy-Focused Paid Alternative to Gmail</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-kagi-mail-privacy-focused-gmail-alternative/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:57:09+00:00</news:publication_date>
-      <news:title>Kagi Mail: O alternativă plătită la Gmail axată pe privacy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-spacex-starmind-ai-satellites/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:56:44+00:00</news:publication_date>
-      <news:title>SpaceX Starmind: FCC Approves 1 Million AI Satellites</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-spacex-starmind-ai-satellites/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:56:44+00:00</news:publication_date>
-      <news:title>SpaceX Starmind: FCC aprobă 1 milion de sateliți AI în spațiu</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-whatsapp-scheduled-messages-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:31:48+00:00</news:publication_date>
-      <news:title>WhatsApp Officially Rolls Out Scheduled Messages</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-whatsapp-scheduled-messages-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:31:48+00:00</news:publication_date>
-      <news:title>WhatsApp introduce oficial mesajele programate: Cum funcționează</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:12:36+00:00</news:publication_date>
-      <news:title>iOS 28 Rumor: Apple to Overhaul iPhone Notifications</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-ios-28-notification-revamp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:12:36+00:00</news:publication_date>
-      <news:title>iOS 28: Apple pregătește o schimbare majoră pentru notificări</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-openai-merges-chatgpt-limits/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:03:27+00:00</news:publication_date>
-      <news:title>OpenAI Merges ChatGPT Limits: What Pro Users Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-openai-merges-chatgpt-limits/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:03:27+00:00</news:publication_date>
-      <news:title>OpenAI unifică limitele ChatGPT: Ce înseamnă pentru utilizatorii Pro</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-jensen-huang-breaks-nvidia-code-of/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:54:57+00:00</news:publication_date>
-      <news:title>Jensen Huang Admits to Breaking Nvidia&#x27;s Code of Conduct</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-jensen-huang-breaks-nvidia-code-of/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:54:57+00:00</news:publication_date>
-      <news:title>Jensen Huang a încălcat codul de conduită Nvidia: Ce urmează?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-tesla-cybertruck-fastest-selling-used-truck/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:54:32+00:00</news:publication_date>
-      <news:title>Tesla Cybertruck Is the Fastest-Selling Used Truck</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-tesla-cybertruck-fastest-selling-used-truck/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:54:32+00:00</news:publication_date>
-      <news:title>Tesla Cybertruck devine cel mai căutat camion second-hand</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-lead-azide-detonation-iowa-explained/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:45:51+00:00</news:publication_date>
-      <news:title>US Army Detonates Lead Azide Stockpile in Iowa: The Full Story</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-lead-azide-detonation-iowa-explained/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:45:51+00:00</news:publication_date>
-      <news:title>Detonare controlată de azidă de plumb în Iowa: Ce s-a întâmplat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-dario-amodei-anthropic-ai-control/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:44:24+00:00</news:publication_date>
-      <news:title>Anthropic CEO Dario Amodei Calls AI Control Accusations &#x27;Absurd&#x27;</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-dario-amodei-anthropic-ai-control/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:44:24+00:00</news:publication_date>
-      <news:title>Dario Amodei (Anthropic): Acuzațiile privind controlul AI sunt absurde</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:10:15+00:00</news:publication_date>
-      <news:title>1Password Security Breach: What You Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-1password-security-breach-what-you-need/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:10:15+00:00</news:publication_date>
-      <news:title>Breach de securitate la 1Password: Ce date au fost expuse?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-watch-health-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:00:00+00:00</news:publication_date>
-      <news:title>Can a Smartwatch Save Lives? Samsung&#x27;s Perspective</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-samsung-galaxy-watch-health-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:00:00+00:00</news:publication_date>
-      <news:title>Poate un smartwatch să salveze vieți? Lecția Samsung</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T18:22:38+00:00</news:publication_date>
-      <news:title>FCC Authorizes SpaceX to Deploy 1 Million Satellites</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T18:22:38+00:00</news:publication_date>
-      <news:title>SpaceX a primit undă verde pentru 1 milion de sateliți-server</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-ai-toys-banned-new-york/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T18:11:46+00:00</news:publication_date>
-      <news:title>New York Bans AI Chatbot Toys: A Warning for Parents</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-ai-toys-banned-new-york/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T18:11:46+00:00</news:publication_date>
-      <news:title>Jucăriile cu AI, interzise în New York: Un avertisment pentru părinți</news:title>
     </news:news>
   </url>
 </urlset>
