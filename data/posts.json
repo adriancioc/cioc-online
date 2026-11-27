@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-27-oura-ring-android-11-data-loss",
+    "slug_ro": "risc-pierdere-date-oura-android-11",
+    "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+    "category": "SECURITATE",
+    "virality_score": 8,
+    "focus_keyword_ro": "Oura Ring Android 11",
+    "focus_keyword_en": "Oura Ring Android 11 support",
+    "title_ro": "Atenție: Oura Ring șterge datele de sănătate pe Android 11",
+    "title_en": "Oura Ring to drop Android 11 support: Save your data now",
+    "summary": "Oura is ending Android 11 support on December 8, 2026. Learn how to back up your health data before you lose access to your historical records.",
+    "summary_ro": "Oura oprește suportul pentru Android 11 pe 8 decembrie 2026. Află cum să-ți salvezi istoricul de sănătate înainte de a pierde accesul la date.",
+    "summary_en": "Oura is ending Android 11 support on December 8, 2026. Learn how to back up your health data before you lose access to your historical records.",
+    "body_ro": "<h2>O decizie controversată pentru utilizatorii Oura</h2><p>Dacă folosești un inel inteligent Oura și ai rămas blocat pe un telefon cu Android 11, te confrunți cu o problemă neașteptată. Începând cu data de 8 decembrie 2026, Oura va înceta oficial suportul pentru acest sistem de operare. Deși încetarea suportului pentru versiuni vechi de software este o practică comună în industrie, situația de față este diferită și mult mai gravă: utilizatorii riscă să piardă complet accesul la datele istorice de sănătate.</p><h2>De ce este acest lucru o problemă majoră?</h2><p>În mod normal, atunci când o aplicație nu mai primește actualizări pentru un sistem de operare vechi, utilizatorul pierde doar accesul la funcții noi sau la patch-uri de securitate. În cazul Oura, compania a anunțat că, dacă nu faci trecerea la Android 12 sau o versiune superioară înainte de termenul limită, datele tale istorice s-ar putea să nu fie transferate sau accesibile. Mai mult, Oura nu a oferit o explicație tehnică clară pentru care aceste date nu pot fi păstrate în cloud sau migrate ulterior.</p><h2>Ce trebuie să faci imediat pentru a-ți proteja datele</h2><p>Nu aștepta până în ultimul moment. Dacă telefonul tău nu poate fi actualizat la o versiune mai nouă de Android, ai la dispoziție o singură soluție sigură pentru a nu pierde lunile sau anii de monitorizare a somnului și activității fizice:</p><ul><li>Accesează imediat <strong>Oura Membership Hub</strong> din contul tău.</li><li>Folosește funcția de export pentru a descărca toate datele tale istorice.</li><li>Păstrează acest backup într-o locație sigură, cum ar fi un serviciu de cloud sau un alt dispozitiv.</li></ul><p>Această măsură este singura cale de a te asigura că munca ta de monitorizare a sănătății nu dispare odată cu actualizarea aplicației. Este un moment bun să evaluezi dacă dispozitivul tău mai este capabil să ruleze aplicații moderne de sănătate în condiții de siguranță.</p><h2>Verdictul nostru</h2><p>Oura a pus utilizatorii într-o poziție dificilă. Deși Android 11 a fost lansat în 2020 și este considerat învechit, ștergerea datelor de sănătate ale utilizatorilor este o măsură extremă. Recomandăm tuturor posesorilor de Oura să verifice versiunea de Android și să facă backup-ul menționat mai sus chiar astăzi.</p>",
+    "body_en": "<h2>The Oura Android 11 Deadline</h2><p>Oura users still running Android 11 on their smartphones are facing a ticking clock. On December 8, 2026, the company will officially drop support for this OS version. While software support cycles are standard, Oura's approach here is particularly harsh: users who fail to upgrade to Android 12 or higher risk losing access to their historical health data entirely.</p><h2>Why this is a critical issue</h2><p>Typically, when an app drops support for an older OS, users might miss out on new features or security patches. However, Oura has explicitly stated that if you do not upgrade your smartphone system, your historical data may not carry over. The company has provided no technical justification for why this data cannot be preserved or migrated, which has left many users frustrated.</p><h2>How to secure your data</h2><p>If you are unable to update your phone to a newer Android version, you must take action before the December 8 deadline to avoid losing your health insights. Follow these steps immediately:</p><ul><li>Log in to your <strong>Oura Membership Hub</strong>.</li><li>Locate the data export tool.</li><li>Download and save your historical health data to a secure location or a newer device.</li></ul><p>This is the only way to ensure that your long-term health tracking remains intact. If you have been considering a phone upgrade, this is a clear sign that your current device may no longer meet the software requirements for modern wearable health applications.</p><h2>Final thoughts</h2><p>While Android 11 is now several years old, the threat of losing personal health data is a significant blow to user trust. Oura should have provided a smoother migration path for its users. Until then, manual backups are your only safety net.</p>",
+    "highlights_ro": [
+      "Oura încetează suportul pentru Android 11 pe 8 decembrie 2026, riscând pierderea datelor istorice.",
+      "Utilizatorii trebuie să facă upgrade la Android 12+ sau să exporte datele din hub-ul de membru.",
+      "O decizie tehnică discutabilă care pune în pericol istoricul de sănătate al utilizatorilor."
+    ],
+    "highlights_en": [
+      "Oura ends Android 11 support on December 8, 2026, risking historical data loss.",
+      "Users must upgrade to Android 12+ or export data via the membership hub.",
+      "A questionable move that forces users to upgrade hardware to keep health records."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-27T19:44:19+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-27-oura-ring-android-11-data-loss_1.jpg",
+      "assets/images/2026-11-27-oura-ring-android-11-data-loss_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-black-friday-macbook-pro-m6-proled",
     "slug_ro": "reduceri-black-friday-macbook-pro-m6",
     "url": "https://www.macrumors.com/2026/11/27/m6-and-proled-macbook-pro-black-friday/",

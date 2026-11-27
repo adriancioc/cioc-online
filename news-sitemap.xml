@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-oura-ring-android-11-data-loss/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T19:44:19+00:00</news:publication_date>
+      <news:title>Oura Ring to drop Android 11 support: Save your data now</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-oura-ring-android-11-data-loss/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T19:44:19+00:00</news:publication_date>
+      <news:title>Atenție: Oura Ring șterge datele de sănătate pe Android 11</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-black-friday-macbook-pro-m6-proled/</loc>
     <news:news>
       <news:publication>
