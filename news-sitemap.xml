@@ -273,7 +273,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-26T12:24:29+00:00</news:publication_date>
-      <news:title>iPhone 20 Pro May Feature Ceramic in Limited-Edition Model</news:title>
+      <news:title>iPhone 20 Pro: Apple Rumored to Launch Limited Ceramic Edition</news:title>
     </news:news>
   </url>
   <url>
@@ -284,7 +284,7 @@
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-26T12:24:29+00:00</news:publication_date>
-      <news:title>iPhone 20 Pro ar putea primi o ediție limitată din ceramică</news:title>
+      <news:title>iPhone 20 Pro: Apple ar putea lansa o ediție limitată din ceramică</news:title>
     </news:news>
   </url>
   <url>
@@ -879,28 +879,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T11:10:54+00:00</news:publication_date>
       <news:title>Threads se lansează nativ pe iPad: Ce aduce prima versiune</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-samsung-galaxy-smarttag3-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Advanced Pet Tracking Features</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-samsung-galaxy-smarttag3-launch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T08:00:00+00:00</news:publication_date>
-      <news:title>Samsung Galaxy SmartTag3: Monitorizare avansată pentru animale</news:title>
     </news:news>
   </url>
 </urlset>
