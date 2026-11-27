@@ -12,6 +12,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-samsung-global-goals-impact-review_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Nvidia Halts AI Chip Shipments to Southeast Asia</title>
+    <link>https://cioc.online/en/posts/2026-11-26-nvidia-halts-ai-chip-shipments-asia/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-nvidia-halts-ai-chip-shipments-asia/</guid>
+    <description>Nvidia pauses server shipments to Southeast Asia to close a loophole allowing Chinese firms to access AI computing power via remote data centers.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-nvidia-halts-ai-chip-shipments-asia_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Celebrates 15 Years in Colombia with AI Funding</title>
     <link>https://cioc.online/en/posts/2026-11-26-google-15-years-colombia-investment/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-google-15-years-colombia-investment/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-military-attacks-cloud-data-centers/</guid>
     <description>Data centers are now kinetic targets in war zone conflicts. Discover how low-cost drone strikes threaten global cloud resilience on cioc.online.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-military-attacks-cloud-data-centers_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Is Your iPhone Becoming a Billboard? The Notification Problem</title>
-    <link>https://cioc.online/en/posts/2026-11-25-iphone-notification-ad-problem/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-iphone-notification-ad-problem/</guid>
-    <description>Apps are ignoring Apple&#x27;s rules and spamming users with ads. Here is why your iPhone notifications are getting out of control and how to fix it.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-iphone-notification-ad-problem_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
