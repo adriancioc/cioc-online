@@ -1306,6 +1306,43 @@
     ]
   },
   {
+    "slug": "2026-11-25-hera-mission-analyzes-dart-impact",
+    "slug_ro": "misiunea-hera-analizeaza-impactul-dart",
+    "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "category": "TECH",
+    "virality_score": 6,
+    "focus_keyword_ro": "misiunea Hera asteroid",
+    "focus_keyword_en": "Hera mission asteroid",
+    "title_ro": "Misiunea Hera a ajuns la asteroidul lovit de NASA: Ce a găsit?",
+    "title_en": "ESA Hera Mission Reaches Asteroid Impact Site",
+    "summary": "The European Hera spacecraft has reached the Didymos-Dimorphos system. Discover what it found after the historic DART asteroid impact.",
+    "summary_ro": "Sonda europeană Hera a ajuns la asteroidul Dimorphos. Află ce a descoperit după impactul istoric DART și cum ne protejăm de asteroizi.",
+    "summary_en": "The European Hera spacecraft has reached the Didymos-Dimorphos system. Discover what it found after the historic DART asteroid impact.",
+    "body_ro": "<h2>O nouă etapă în apărarea planetară</h2><p>La patru ani după ce misiunea DART a NASA a demonstrat că putem devia un asteroid prin forță brută, sonda europeană Hera a ajuns la fața locului pentru a evalua daunele. Rezultatele inițiale sunt fascinante și mult mai complexe decât anticipau oamenii de știință. Dimorphos, asteroidul care a servit drept țintă, nu mai este corpul ceresc pe care îl știam.</p><h2>Un crater de mărimea unui stadion</h2><p>Imaginile transmise de Hera confirmă că impactul de 10 miliarde de jouli a fost devastator. Sonda a identificat un crater masiv, comparabil ca dimensiuni cu un stadion, care a modificat radical forma asteroidului. Practic, DART nu a lăsat doar o urmă, ci a remodelat structura geologică a obiectului. Mai mult, Dimorphos a început să se rotească haotic pe orbita sa în jurul lui Didymos, un comportament care pune la încercare modelele actuale de fizică orbitală.</p><h2>Debris și surprize în spațiu</h2><p>Cea mai mare surpriză a venit din cantitatea de resturi detectate. În jurul sistemului de asteroizi plutesc sute de bolovani, unii de dimensiunea unei mașini de spălat. Oamenii de știință încearcă acum să determine dacă aceste fragmente au fost ejectate în urma impactului din 2022 sau dacă sunt rămășițe din formarea antică a sistemului. Hera va lansa în curând doi sateliți de mici dimensiuni pentru a analiza compoziția internă a asteroidului.</p><h2>De ce contează pentru noi</h2><p>Deși Didymos și Dimorphos nu reprezintă un pericol pentru Pământ, datele colectate de Hera sunt vitale. Înțelegerea modului în care diferite tipuri de asteroizi reacționează la impact ne va permite să construim strategii de apărare planetară mult mai precise. Dacă vreodată un obiect periculos se va îndrepta spre planeta noastră, succesul acestor misiuni va fi diferența dintre o catastrofă și o deviere controlată.</p>",
+    "body_en": "<h2>A New Chapter in Planetary Defense</h2><p>Four years after NASA's DART mission proved that humanity could deflect an asteroid through kinetic impact, the European Space Agency's Hera probe has arrived to assess the damage. The initial findings are far more complex than scientists anticipated, revealing that Dimorphos has been fundamentally altered.</p><h2>A Stadium-Sized Scar</h2><p>Hera's first images confirm that the 10-billion-joule impact was catastrophic. The probe identified a massive crater, nearly as large as the asteroid itself, which has radically changed its shape. DART did not just leave a mark; it reshaped the asteroid's geology. Furthermore, Dimorphos is now tumbling wildly in its orbit around Didymos, a behavior that challenges current orbital physics models.</p><h2>Debris and Space Surprises</h2><p>The most significant surprise was the sheer volume of debris. Hundreds of boulders, ranging from the size of a football to a washing machine, are swarming the system. Scientists are currently investigating whether these fragments were ejected during the 2022 impact or if they are relics from the ancient formation of the asteroid. Hera will soon deploy two small sub-satellites to analyze the asteroid's internal composition.</p><h2>Why This Matters</h2><p>While the Didymos-Dimorphos system poses no threat to Earth, the data collected by Hera is vital. Understanding how different types of asteroids react to impact allows us to build more precise planetary defense strategies. If a dangerous object ever heads toward our planet, the success of these missions will be the difference between catastrophe and a controlled deflection.</p>",
+    "highlights_ro": [
+      "Sonda ESA Hera a ajuns la sistemul de asteroizi Didymos-Dimorphos pentru a analiza urmele impactului DART din 2022.",
+      "Impactul a creat un crater de mărimea unui stadion, iar Dimorphos a început să se rotească haotic în spațiu.",
+      "Cioc.online: Această misiune este crucială pentru a rafina modelele de apărare planetară împotriva amenințărilor viitoare."
+    ],
+    "highlights_en": [
+      "ESA's Hera probe has arrived at the Didymos-Dimorphos system to analyze the aftermath of the 2022 DART impact.",
+      "The impact created a stadium-sized crater and left Dimorphos tumbling chaotically in its orbit.",
+      "Cioc.online: This mission is essential for refining planetary defense models against future threats."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-25T22:36:45+00:00",
+    "source_names": [
+      "Ars Technica"
+    ],
+    "images": [
+      "assets/images/2026-11-25-hera-mission-analyzes-dart-impact_1.jpg",
+      "assets/images/2026-11-25-hera-mission-analyzes-dart-impact_2.jpg",
+      "assets/images/2026-11-25-hera-mission-analyzes-dart-impact_3.jpg",
+      "assets/images/2026-11-25-hera-mission-analyzes-dart-impact_4.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-25-best-travel-gadgets-2026-gift-guide",
     "slug_ro": "cele-mai-bune-gadgeturi-calatori-2026",
     "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",

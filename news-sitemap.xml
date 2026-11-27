@@ -794,6 +794,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-hera-mission-analyzes-dart-impact/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T22:36:45+00:00</news:publication_date>
+      <news:title>ESA Hera Mission Reaches Asteroid Impact Site</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-hera-mission-analyzes-dart-impact/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T22:36:45+00:00</news:publication_date>
+      <news:title>Misiunea Hera a ajuns la asteroidul lovit de NASA: Ce a găsit?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
     <news:news>
       <news:publication>
