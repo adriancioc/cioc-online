@@ -310,6 +310,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-26-why-apple-store-is-down/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:50:09+00:00</news:publication_date>
+      <news:title>Why is the Apple Store Down? No New Products</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-26-why-apple-store-is-down/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:50:09+00:00</news:publication_date>
+      <news:title>De ce este picat Apple Store? Nu sunt produse noi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</loc>
     <news:news>
       <news:publication>
