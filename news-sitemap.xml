@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-iphone-20-pro-3d-printed-titanium/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T10:19:12+00:00</news:publication_date>
+      <news:title>iPhone 20 Pro: Apple Rumored to Adopt 3D-Printed Titanium Frames</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-iphone-20-pro-3d-printed-titanium/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T10:19:12+00:00</news:publication_date>
+      <news:title>iPhone 20 Pro: Apple ar putea trece la cadre din titan printate 3D</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-volvo-xc60-xc90-2028-hybrid-update/</loc>
     <news:news>
       <news:publication>
@@ -945,50 +967,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T12:55:37+00:00</news:publication_date>
       <news:title>Apple are iPad-uri cu macOS în teste: De ce nu le lansează</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:12:42+00:00</news:publication_date>
-      <news:title>Microsoft Declares Internal &#x27;Code Red&#x27; After Massive Outlook Outage</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-microsoft-code-red-outlook-exchange-outage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:12:42+00:00</news:publication_date>
-      <news:title>Microsoft declară &#x27;Code Red&#x27; după o avarie uriașă în Outlook</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-threads-native-ipad-app-launched/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:10:54+00:00</news:publication_date>
-      <news:title>Threads App for iPad Now Available: What You Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-threads-native-ipad-app-launched/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:10:54+00:00</news:publication_date>
-      <news:title>Threads se lansează nativ pe iPad: Ce aduce prima versiune</news:title>
     </news:news>
   </url>
 </urlset>

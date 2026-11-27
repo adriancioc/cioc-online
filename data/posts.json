@@ -1,5 +1,40 @@
 [
   {
+    "slug": "2026-11-27-iphone-20-pro-3d-printed-titanium",
+    "slug_ro": "iphone-20-pro-cadru-titan-printat",
+    "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+    "category": "TELEFOANE",
+    "virality_score": 6,
+    "focus_keyword_ro": "iPhone 20 Pro titan",
+    "focus_keyword_en": "iPhone 20 Pro titanium",
+    "title_ro": "iPhone 20 Pro: Apple ar putea trece la cadre din titan printate 3D",
+    "title_en": "iPhone 20 Pro: Apple Rumored to Adopt 3D-Printed Titanium Frames",
+    "summary": "New reports suggest the iPhone 20 Pro may feature 3D-printed titanium frames, aiming for improved durability and complex structural design.",
+    "summary_ro": "Zvonurile indică faptul că iPhone 20 Pro ar putea folosi titan printat 3D pentru șasiu, promițând durabilitate sporită și design complex.",
+    "summary_en": "New reports suggest the iPhone 20 Pro may feature 3D-printed titanium frames, aiming for improved durability and complex structural design.",
+    "body_ro": "<h2>O schimbare majoră de producție pentru iPhone 20 Pro</h2><p>Industria telefoanelor mobile privește deja spre viitor, iar cele mai recente informații din lanțul de aprovizionare sugerează că Apple pregătește o schimbare radicală pentru viitoarea generație iPhone 20 Pro. Conform unor surse din China, compania ar putea implementa o tehnologie de printare 3D cu laser pentru a crea șasiul din titan al dispozitivelor.</p><p>Această metodă, care implică topirea straturilor de pulbere de titan cu ajutorul laserelor, nu este complet nouă pentru Apple. Compania a început deja să utilizeze acest proces pentru carcasele modelelor Apple Watch Ultra și pentru anumite componente ale altor dispozitive. Trecerea la această tehnologie pentru un dispozitiv de dimensiunea unui iPhone ar putea marca cea mai mare schimbare în procesul de fabricație a seriei Pro de la lansarea modelului iPhone X.</p><h2>Avantajele și provocările titanului printat 3D</h2><p>Principalul avantaj al printării 3D este flexibilitatea structurală. Apple ar putea crea forme complexe care sunt imposibil de obținut prin metodele tradiționale de frezare CNC. Acest lucru este esențial pentru viziunea Apple de a lansa un iPhone cu un design complet din sticlă, cu margini curbate și bezeli aproape invizibile. În plus, procesul reduce semnificativ risipa de material, un aspect important pentru obiectivele de sustenabilitate ale gigantului din Cupertino.</p><p>Totuși, există provocări tehnice notabile. Titanul are proprietăți de disipare a căldurii diferite față de aluminiul utilizat în prezent pe modelele Pro. Într-o eră în care puterea de procesare a cipurilor Apple Silicon atinge cote maxime, gestionarea termică este critică. Rămâne de văzut cum va reuși Apple să echilibreze durabilitatea titanului cu necesitatea unei răciri eficiente a componentelor interne.</p><h2>Ce înseamnă acest lucru pentru utilizatori?</h2><p>Dacă zvonurile se confirmă, iPhone 20 Pro ar putea fi cel mai rezistent și avansat telefon produs vreodată de Apple. Totuși, trebuie să privim aceste informații cu prudență. Deși leakerii sunt încrezători, planurile Apple se pot schimba până la lansarea oficială, programată pentru toamna anului 2027. Până atunci, rămâne întrebarea dacă această tehnologie va fi rezervată exclusiv modelelor Pro sau dacă va fi extinsă și către alte game din portofoliul Apple.</p>",
+    "body_en": "<h2>A New Manufacturing Era for iPhone 20 Pro</h2><p>The rumor mill is already turning towards the future of Apple's smartphone lineup. According to recent reports from supply chain sources, the upcoming iPhone 20 Pro could feature a significant shift in manufacturing, utilizing a laser-based 3D printing process to construct its titanium frame. This move would represent a major evolution in how Apple approaches hardware design.</p><p>Apple is no stranger to this technology. The company has already integrated 3D-printed titanium components into the Apple Watch Ultra and Series 12 lineups. By scaling this process to the iPhone, Apple aims to achieve structural designs that are simply not possible with traditional CNC milling. This could be the key to unlocking the rumored 'all-glass' 20th-anniversary iPhone design, characterized by curved glass and virtually invisible display bezels.</p><h2>The Engineering Trade-offs</h2><p>While 3D printing offers immense design flexibility and reduced material waste, it is not without its challenges. One of the most critical factors is thermal management. Aluminum, which is currently used in many Pro models, has superior heat dissipation properties compared to titanium. As Apple continues to push the limits of its A-series chips, ensuring that the device stays cool under heavy loads is paramount. Engineers will need to find a way to bridge this gap to ensure the iPhone 20 Pro maintains peak performance.</p><h2>Looking Ahead to 2027</h2><p>The transition to 3D-printed titanium is expected to be part of the biggest overhaul of the Pro line since the iPhone X. While the leaker 'Fixed Focus Digital' is highly confident in these claims, it is important to remember that the device is not expected until the fall of 2027. Apple's naming conventions and final hardware specifications are still subject to change. Whether this technology will be a game-changer for durability or just another marketing talking point will depend on how Apple handles the thermal and structural integration.</p>",
+    "highlights_ro": [
+      "iPhone 20 Pro ar putea adopta o tehnologie de printare 3D cu laser pentru șasiul din titan.",
+      "Tehnologia este deja testată pe Apple Watch Ultra și ar putea permite un design all-glass revoluționar.",
+      "Cioc.online consideră că Apple caută soluții pentru a compensa disiparea termică a titanului față de aluminiu."
+    ],
+    "highlights_en": [
+      "iPhone 20 Pro is rumored to utilize laser-based 3D printing for its titanium chassis.",
+      "The technology, already used in Apple Watch Ultra, could enable a radical all-glass design.",
+      "Cioc.online notes that thermal management remains the biggest hurdle for titanium compared to aluminum."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-27T10:19:12+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-27-iphone-20-pro-3d-printed-titanium_1.jpg",
+      "assets/images/2026-11-27-iphone-20-pro-3d-printed-titanium_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-volvo-xc60-xc90-2028-hybrid-update",
     "slug_ro": "volvo-xc60-xc90-2028-hibrid-autonomie",
     "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",

@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>iPhone 20 Pro: Apple Rumored to Adopt 3D-Printed Titanium Frames</title>
+    <link>https://cioc.online/en/posts/2026-11-27-iphone-20-pro-3d-printed-titanium/</link>
+    <guid>https://cioc.online/en/posts/2026-11-27-iphone-20-pro-3d-printed-titanium/</guid>
+    <description>New reports suggest the iPhone 20 Pro may feature 3D-printed titanium frames, aiming for improved durability and complex structural design.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-27-iphone-20-pro-3d-printed-titanium_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Volvo Updates XC60 and XC90 for 2028: Bigger Batteries</title>
     <link>https://cioc.online/en/posts/2026-11-27-volvo-xc60-xc90-2028-hybrid-update/</link>
     <guid>https://cioc.online/en/posts/2026-11-27-volvo-xc60-xc90-2028-hybrid-update/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-whatsapp-scheduled-messages-launch/</guid>
     <description>WhatsApp is finally adding scheduled messages. Learn how to schedule texts, photos, and videos up to two weeks in advance on iOS and Android.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-whatsapp-scheduled-messages-launch_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>iOS 28 Rumor: Apple to Overhaul iPhone Notifications</title>
-    <link>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-ios-28-notification-revamp/</guid>
-    <description>New rumors suggest Apple is planning a major revamp of the iPhone notification system in iOS 28 to reduce clutter and spam.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-ios-28-notification-revamp_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
