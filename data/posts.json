@@ -70,6 +70,41 @@
     ]
   },
   {
+    "slug": "2026-11-26-google-forces-developer-address-disclosure",
+    "slug_ro": "google-obliga-dezvoltatori-adresa-publica",
+    "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+    "category": "SECURITATE",
+    "virality_score": 8,
+    "focus_keyword_ro": "Google Play Store adresa dezvoltatori",
+    "focus_keyword_en": "Google Play Store developer address",
+    "title_ro": "Google obligă dezvoltatorii Android să-și publice adresa privată",
+    "title_en": "Google Forces Android Developers to Publicly List Home Addresses",
+    "summary": "Google mandates that Android developers publish their physical address and phone number globally. Here is why developers are concerned.",
+    "summary_ro": "Google impune dezvoltatorilor Android să publice adresa și numărul de telefon. Află cum afectează asta confidențialitatea și ce spune legea UE.",
+    "summary_en": "Google mandates that Android developers publish their physical address and phone number globally. Here is why developers are concerned.",
+    "body_ro": "<h2>O schimbare controversată pentru ecosistemul Android</h2><p>Google a anunțat o modificare majoră a politicilor pentru Google Play Store care va intra în vigoare începând cu anul 2027. Dezvoltatorii independenți care generează venituri din aplicații vor fi obligați să își facă publice adresa fizică și numărul de telefon. Această decizie, deși justificată prin necesitatea conformității cu Digital Services Act (DSA) din Uniunea Europeană, a stârnit un val de îngrijorare în rândul comunității de programatori.</p><h2>De ce este această măsură problematică?</h2><p>Spre deosebire de Apple, care a implementat măsuri similare pentru a respecta legislația europeană, Google a ales o abordare mult mai restrictivă. În timp ce Apple permite utilizarea unei căsuțe poștale (PO Box) și limitează vizibilitatea datelor doar pentru utilizatorii din Europa, Google intenționează să publice aceste informații la nivel global. Mai mult, Google refuză acceptarea adreselor de tip PO Box, ceea ce înseamnă că dezvoltatorii care lucrează de acasă vor fi nevoiți să își expună adresa personală pe internet.</p><h2>Impactul asupra dezvoltatorilor independenți</h2><p>Mulți dezvoltatori consideră că această măsură este o intruziune nejustificată în viața privată. Pentru a evita publicarea adresei de acasă, aceștia sunt acum forțați să caute soluții alternative costisitoare, cum ar fi închirierea unor birouri virtuale sau plata serviciilor de agenți înregistrați. Această povară financiară și logistică ar putea descuraja micii creatori de aplicații, afectând diversitatea ecosistemului Android.</p><h2>Diferența dintre Google și Apple</h2><p>Este interesant de observat cum doi giganți tech interpretează aceeași lege europeană în moduri diametral opuse. Apple oferă o protecție sporită, permițând dezvoltatorilor să își păstreze anonimatul față de publicul larg prin utilizarea unor adrese poștale verificate, în timp ce Google pare să prioritizeze transparența totală, ignorând riscurile de securitate la care își expune partenerii. Rămâne de văzut dacă presiunea comunității va forța Google să revizuiască această politică înainte de termenul limită din 1 martie 2027.</p>",
+    "body_en": "<h2>A New Privacy Challenge for Android Developers</h2><p>Google has announced a significant policy shift for the Play Store, set to take effect in early 2027. Independent Android developers who earn revenue from their apps will be required to publicly disclose their physical address and phone number. While Google states this is to comply with the European Union's Digital Services Act (DSA), the policy will be applied globally, raising serious privacy concerns.</p><h2>Why Developers Are Worried</h2><p>The core issue lies in Google's implementation compared to its competitors. Apple, which is subject to the same EU regulations, has adopted a more developer-friendly approach. Apple restricts the visibility of developer addresses to European users and allows the use of PO boxes, provided they are verified. Google, conversely, intends to make this data public worldwide and currently does not accept PO boxes for payment profile addresses.</p><h2>The Burden on Independent Creators</h2><p>For independent developers working from home, this mandate creates a difficult choice: expose their private home address to the entire world or incur the cost of renting a virtual office or hiring a registered agent service. This adds an unnecessary barrier to entry for small-scale developers and hobbyists who have successfully monetized their work. Many in the community are already calling for Google to reconsider its stance on PO boxes and regional data visibility.</p><h2>Regulatory Interpretation Differences</h2><p>The situation highlights a stark contrast in how tech giants interpret European regulations. While the DSA aims to protect consumers by ensuring they can contact the entities behind the software they use, the implementation should not compromise the safety of the developers themselves. As the March 1st, 2027 deadline approaches, the tech industry is watching closely to see if Google will align its policy with Apple's more privacy-conscious framework.</p>",
+    "highlights_ro": [
+      "Google va cere dezvoltatorilor care generează venituri să-și publice adresa fizică și numărul de telefon în Play Store.",
+      "Măsura vine pentru conformitatea cu Digital Services Act (DSA) din UE, dar se aplică global.",
+      "Spre deosebire de Apple, Google refuză momentan utilizarea căsuțelor poștale, forțând expunerea adreselor de acasă."
+    ],
+    "highlights_en": [
+      "Google will require commercial Android developers to display their physical address and phone number.",
+      "The change aims to comply with the EU Digital Services Act but applies to all global listings.",
+      "Unlike Apple, Google currently forbids PO boxes, forcing many to expose their home addresses."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-26T17:06:24+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-26-google-forces-developer-address-disclosure_1.jpg",
+      "assets/images/2026-11-26-google-forces-developer-address-disclosure_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-iphone-duo-one-month-review",
     "slug_ro": "experienta-iphone-duo-dupa-o-luna",
     "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",

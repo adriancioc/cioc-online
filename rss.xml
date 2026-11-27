@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-google-15-years-colombia-investment_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Google Forces Android Developers to Publicly List Home Addresses</title>
+    <link>https://cioc.online/en/posts/2026-11-26-google-forces-developer-address-disclosure/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-google-forces-developer-address-disclosure/</guid>
+    <description>Google mandates that Android developers publish their physical address and phone number globally. Here is why developers are concerned.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-google-forces-developer-address-disclosure_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>A Month with the iPhone Duo: Is It Worth It?</title>
     <link>https://cioc.online/en/posts/2026-11-26-iphone-duo-one-month-review/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-iphone-duo-one-month-review/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-iphone-notification-ad-problem/</guid>
     <description>Apps are ignoring Apple&#x27;s rules and spamming users with ads. Here is why your iPhone notifications are getting out of control and how to fix it.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-iphone-notification-ad-problem_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>US Army detonates 4.4 tons of unstable lead azide in Iowa</title>
-    <link>https://cioc.online/en/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</guid>
-    <description>The US Army conducted a controlled detonation of 4.4 tons of lead azide in Iowa. EPA reports zero airborne lead levels following the blast.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-controlled-lead-azide-detonation-iowa_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
