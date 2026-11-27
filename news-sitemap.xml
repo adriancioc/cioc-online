@@ -31,7 +31,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-27T13:48:42+00:00</news:publication_date>
-      <news:title>iPhone 18 Production Delays Could Impact Launch Schedule</news:title>
+      <news:title>iPhone 18 Production Delays Could Impact Launch Inventory</news:title>
     </news:news>
   </url>
   <url>
@@ -42,7 +42,7 @@
         <news:language>ro</news:language>
       </news:publication>
       <news:publication_date>2026-11-27T13:48:42+00:00</news:publication_date>
-      <news:title>iPhone 18: Probleme în producție și riscuri pentru lansare</news:title>
+      <news:title>Probleme în producția iPhone 18: Apple riscă stocuri limitate</news:title>
     </news:news>
   </url>
   <url>
@@ -989,94 +989,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T17:16:43+00:00</news:publication_date>
       <news:title>iPhone 18 Pro Max: Apple laudă autonomia noii baterii</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-whatsapp-schedule-messages-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:57:51+00:00</news:publication_date>
-      <news:title>WhatsApp Now Lets You Schedule Messages in All Chats</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-whatsapp-schedule-messages-feature/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:57:51+00:00</news:publication_date>
-      <news:title>WhatsApp permite în sfârșit programarea mesajelor în chat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-military-attacks-cloud-data-centers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:47:14+00:00</news:publication_date>
-      <news:title>Military Attacks on Cloud Data Centers: A Growing Global Threat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-military-attacks-cloud-data-centers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:47:14+00:00</news:publication_date>
-      <news:title>Atacuri militare asupra centrelor de date cloud: Risc global</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-iphone-notification-ad-problem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:30:01+00:00</news:publication_date>
-      <news:title>Is Your iPhone Becoming a Billboard? The Notification Problem</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-iphone-notification-ad-problem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T16:30:01+00:00</news:publication_date>
-      <news:title>iPhone-ul tău a devenit panou publicitar? Problema notificărilor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:35:17+00:00</news:publication_date>
-      <news:title>US Army detonates 4.4 tons of unstable lead azide in Iowa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-controlled-lead-azide-detonation-iowa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:35:17+00:00</news:publication_date>
-      <news:title>Detonare controlată de 4,4 tone de azidă de plumb în Iowa</news:title>
     </news:news>
   </url>
 </urlset>
