@@ -970,6 +970,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-25-ai-toys-banned-new-york/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:11:46+00:00</news:publication_date>
+      <news:title>New York Bans AI Chatbot Toys: A Warning for Parents</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-25-ai-toys-banned-new-york/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:11:46+00:00</news:publication_date>
+      <news:title>Jucăriile cu AI, interzise în New York: Un avertisment pentru părinți</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-25-character-ai-bankruptcy-data-sale/</loc>
     <news:news>
       <news:publication>
