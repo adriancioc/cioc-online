@@ -33,6 +33,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-nvidia-pauses-asia-server-shipments_1.jpg" medium="image" />
   </item>
   <item>
+    <title>The Nvidia Scandal: Is Jensen Huang Caught in a Spy Plot?</title>
+    <link>https://cioc.online/en/posts/2026-11-26-nvidia-jensen-huang-spy-scandal/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-nvidia-jensen-huang-spy-scandal/</guid>
+    <description>We analyze the Nvidia scandal involving Jensen Huang, the spy allegations against Alice Huang, and what it means for the future of the tech giant.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-nvidia-jensen-huang-spy-scandal_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>X Finally Launches Parental Controls for Teens</title>
     <link>https://cioc.online/en/posts/2026-11-26-x-launches-parental-controls/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-x-launches-parental-controls/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-lead-azide-detonation-iowa-explained/</guid>
     <description>The US Army destroyed 4.4 tons of unstable lead azide in Iowa. Read about the safety measures, EPA findings, and the risks of aging munitions.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-lead-azide-detonation-iowa-explained_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>1Password Security Breach: What You Need to Know</title>
-    <link>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-1password-security-breach-what-you-need/</guid>
-    <description>1Password confirmed a security breach. Learn what data was exposed, if your passwords are safe, and what steps you should take to protect your account.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-1password-security-breach-what-you-need_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
