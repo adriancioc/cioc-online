@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-iphone-18-production-delays/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T13:48:42+00:00</news:publication_date>
+      <news:title>iPhone 18 Production Delays Could Impact Launch Schedule</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-iphone-18-production-delays/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T13:48:42+00:00</news:publication_date>
+      <news:title>iPhone 18: Probleme în producție și riscuri pentru lansare</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-iphone-market-share-us-2026/</loc>
     <news:news>
       <news:publication>
@@ -1011,50 +1033,6 @@
       </news:publication>
       <news:publication_date>2026-11-25T15:35:17+00:00</news:publication_date>
       <news:title>Detonare controlată de 4,4 tone de azidă de plumb în Iowa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-amazon-meta-muse-ai-negotiations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T14:12:33+00:00</news:publication_date>
-      <news:title>Amazon in Talks with Meta to Unblock Muse AI Shopping Agent</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-amazon-meta-muse-ai-negotiations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T14:12:33+00:00</news:publication_date>
-      <news:title>Amazon și Meta negociază deblocarea agentului AI Muse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-apple-testing-macos-on-ipad/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T12:55:37+00:00</news:publication_date>
-      <news:title>Apple Has iPads Running macOS Internally: Why It Won&#x27;t Launch</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-apple-testing-macos-on-ipad/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T12:55:37+00:00</news:publication_date>
-      <news:title>Apple are iPad-uri cu macOS în teste: De ce nu le lansează</news:title>
     </news:news>
   </url>
 </urlset>
