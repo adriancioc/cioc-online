@@ -222,6 +222,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T14:00:32+00:00</news:publication_date>
+      <news:title>Kodak SlideTag: E-Ink Display Item Tracker</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T14:00:32+00:00</news:publication_date>
+      <news:title>Kodak SlideTag: Trackerul cu ecran E-Ink pentru poze</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</loc>
     <news:news>
       <news:publication>

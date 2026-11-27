@@ -75,6 +75,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-26-gta-vi-vs-anthropic-ai_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Kodak SlideTag: E-Ink Display Item Tracker</title>
+    <link>https://cioc.online/en/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</link>
+    <guid>https://cioc.online/en/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</guid>
+    <description>Kodak introduces the SlideTag, a Find My-compatible tracker featuring a color E-Ink screen for personal photos. Check out the specs.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-26-kodak-slidetag-e-ink-tracker_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Apple Developing Giant 20-inch Foldable iPad for $5,000</title>
     <link>https://cioc.online/en/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</link>
     <guid>https://cioc.online/en/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-25-spacex-authorized-for-one-million-satellites/</guid>
     <description>The FCC has granted SpaceX conditional approval to launch 1 million Starmind satellites. Discover the scale and implications of this massive project.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-25-spacex-authorized-for-one-million-satellites_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Character.AI Bankruptcy: The Fight to Protect Your Private Chats</title>
-    <link>https://cioc.online/en/posts/2026-11-25-character-ai-bankruptcy-data-sale/</link>
-    <guid>https://cioc.online/en/posts/2026-11-25-character-ai-bankruptcy-data-sale/</guid>
-    <description>Character.AI plans to auction off 21 million user chat histories during bankruptcy. 42 AGs are fighting to stop the sale of sensitive user data.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-25-character-ai-bankruptcy-data-sale_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>

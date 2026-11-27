@@ -357,6 +357,41 @@
     ]
   },
   {
+    "slug": "2026-11-26-kodak-slidetag-e-ink-tracker",
+    "slug_ro": "kodak-slidetag-tracker-ecran-e-ink",
+    "url": "https://www.macrumors.com/2026/11/26/kodak-launches-airtag-rival/",
+    "category": "GADGETURI",
+    "virality_score": 7,
+    "focus_keyword_ro": "Kodak SlideTag",
+    "focus_keyword_en": "Kodak SlideTag",
+    "title_ro": "Kodak SlideTag: Trackerul cu ecran E-Ink pentru poze",
+    "title_en": "Kodak SlideTag: E-Ink Display Item Tracker",
+    "summary": "Kodak introduces the SlideTag, a Find My-compatible tracker featuring a color E-Ink screen for personal photos. Check out the specs.",
+    "summary_ro": "Kodak lansează SlideTag, un tracker compatibil cu Apple Find My ce dispune de un ecran E-Ink color pentru fotografii. Află detaliile aici.",
+    "summary_en": "Kodak introduces the SlideTag, a Find My-compatible tracker featuring a color E-Ink screen for personal photos. Check out the specs.",
+    "body_ro": "<h2>Un tracker care iese din tipare</h2><p>Piața trackerelor de obiecte a fost dominată mult timp de Apple AirTag, însă Kodak, prin intermediul licențiatului Reto, propune o abordare diferită. Noul SlideTag nu este doar un simplu dispozitiv de localizare, ci un accesoriu care pune accent pe estetică, integrând un ecran E-Ink color de 1.54 inch.</p><h2>Design și funcționalitate</h2><p>Designul dispozitivului amintește de ramele diapozitivelor Kodachrome, oferind un aer retro. Ecranul E-Ink are o rezoluție de 240x240 pixeli și poate afișa până la 12 imagini transferate prin Bluetooth via aplicația Kodak Memory Link. Avantajul tehnologiei E-Ink este consumul redus de energie, imaginea rămânând vizibilă chiar și fără alimentare constantă.</p><p>Pe lângă funcția de afișare a fotografiilor, ecranul poate fi configurat pentru a arăta informații de contact, coduri QR sau liste de sarcini, transformând trackerul într-un mic instrument utilitar. Dispozitivul este alimentat de o baterie CR2032 înlocuibilă, ceea ce facilitează mentenanța pe termen lung.</p><h2>Integrare și limitări</h2><p>SlideTag se integrează în rețeaua Apple Find My și suportă, de asemenea, Google Find Hub. Totuși, spre deosebire de AirTag, acesta nu dispune de tehnologia Ultra Wideband (UWB) pentru Precision Finding, ceea ce înseamnă că nu vei primi ghidaj direcțional precis către obiectul pierdut. De asemenea, ratingul IP54 oferă protecție doar împotriva stropilor de apă, fiind mai puțin robust decât standardul IP67 al competitorului de la Apple.</p><h2>Verdictul Cioc.online</h2><p>Kodak SlideTag este un produs de nișă, destinat celor care vor un tracker cu personalitate. Deși nu atinge performanțele tehnice ale unui AirTag în ceea ce privește localizarea de precizie, funcția de personalizare vizuală și designul retro îl fac un accesoriu atractiv. Pentru utilizatorii din România, disponibilitatea va fi limitată la magazinul online al producătorului, fiind un produs mai degrabă pentru colecționari decât pentru uzul cotidian intensiv.</p>",
+    "body_en": "<h2>A New Take on Item Tracking</h2><p>The item tracker market has been largely standardized by Apple's AirTag, but Kodak is shaking things up with the new SlideTag. Developed by Kodak licensee Reto, this device combines standard tracking capabilities with a 1.54-inch color E-Ink screen, allowing users to display personal photos or vital information on their keychain.</p><h2>Retro Design Meets Modern Tech</h2><p>The SlideTag draws inspiration from classic Kodachrome slide mounts. The E-Ink display supports six ink colors and a 240x240 resolution. Because it uses E-Ink technology, the screen retains a static image without needing continuous power, which is a clever way to maintain battery life. Users can manage up to 12 images via the Kodak Memory Link app, making it a highly customizable accessory.</p><p>Beyond aesthetics, the device serves as a functional tracker. It is compatible with Apple's Find My network and supports Google's Find Hub. It also includes a built-in buzzer to help locate items in close proximity. The device is powered by a standard CR2032 battery, ensuring easy replacement.</p><h2>Performance Trade-offs</h2><p>While the SlideTag is visually unique, it does make some compromises compared to the industry-standard AirTag. Most notably, it lacks Ultra Wideband (UWB) technology, meaning users do not get the directional \"Precision Finding\" guidance found on Apple's trackers. Additionally, its IP54 rating provides basic splash resistance, falling short of the IP67 immersion protection offered by the AirTag.</p><h2>The Cioc.online Perspective</h2><p>The Kodak SlideTag is clearly marketed as a collectible item. Its ability to display photos or contact info makes it a great conversation starter, but those prioritizing pure tracking performance and water resistance might still prefer the more robust AirTag. If you value style and personalization over raw precision, the SlideTag is a fascinating addition to the market.</p>",
+    "highlights_ro": [
+      "Kodak a lansat SlideTag, un tracker compatibil cu rețeaua Find My, dotat cu un ecran E-Ink de 1.54 inch.",
+      "Prețul este de 34.99 USD, disponibil momentan prin magazinul online al producătorului Reto.",
+      "O alternativă vizuală interesantă la AirTag, dar fără Precision Finding (UWB) și cu rezistență IP54."
+    ],
+    "highlights_en": [
+      "Kodak launched the SlideTag, a Find My-compatible tracker with a 1.54-inch color E-Ink display.",
+      "Retails for $34.99 via Reto's online store, featuring replaceable CR2032 batteries.",
+      "A stylish alternative to AirTag, though it lacks UWB precision finding and has lower water resistance."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-26T14:00:32+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-26-kodak-slidetag-e-ink-tracker_1.jpg",
+      "assets/images/2026-11-26-kodak-slidetag-e-ink-tracker_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-26-apple-giant-foldable-ipad-rumors",
     "slug_ro": "apple-ipad-pliabil-gigant-zvonuri",
     "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
