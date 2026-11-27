@@ -244,6 +244,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-26-judge-blocks-fcc-abc-license/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:38:00+00:00</news:publication_date>
+      <news:title>Judge Blocks FCC from Early Review of ABC Licenses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-26-judge-blocks-fcc-abc-license/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:38:00+00:00</news:publication_date>
+      <news:title>Un judecător blochează FCC în conflictul cu ABC privind licențele</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-26-halide-update-iphone-duo-fill-light/</loc>
     <news:news>
       <news:publication>
