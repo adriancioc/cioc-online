@@ -1,5 +1,39 @@
 [
   {
+    "slug": "2026-11-28-sakana-ai-sawara-sovereignty",
+    "slug_ro": "sakana-ai-suveranitate-japonia",
+    "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "category": "AI",
+    "virality_score": 6,
+    "focus_keyword_ro": "Sakana AI",
+    "focus_keyword_en": "Sakana AI",
+    "title_ro": "Sakana AI dezvoltă Sawara: Suveranitate digitală pentru Japonia",
+    "title_en": "Sakana AI develops Sawara: Digital sovereignty for Japan",
+    "summary": "Sakana AI is building Sawara to reduce Japan's reliance on foreign AI models, focusing on security, manufacturing, and local infrastructure.",
+    "summary_ro": "Sakana AI vrea să reducă dependența Japoniei de modelele AI străine prin noul proiect Sawara, axat pe securitate și industrie.",
+    "summary_en": "Sakana AI is building Sawara to reduce Japan's reliance on foreign AI models, focusing on security, manufacturing, and local infrastructure.",
+    "body_ro": "<h2>De ce Japonia își dorește propriul AI</h2><p>Sakana AI, startup-ul japonez care a atras atenția prin abordările sale inovatoare, a confirmat planurile pentru dezvoltarea unui model de bază propriu, numit Sawara. Această mișcare nu este doar o ambiție comercială, ci o strategie deliberată de a oferi Japoniei o alternativă locală la modelele dominante din SUA și China. Într-o lume în care inteligența artificială devine o resursă critică, suveranitatea digitală a devenit o prioritate națională.</p><p>David Ha, co-fondator și CEO al Sakana AI, subliniază că modelele actuale, precum cele de la Meta sau OpenAI, sunt adesea antrenate cu un bias cultural și politic specific creatorilor lor. Pentru o țară precum Japonia, acest lucru poate fi problematic în sectoarele sensibile, unde nuanțele culturale și politice locale sunt esențiale.</p><h2>Sawara: Securitate și on-premises</h2><p>Proiectul Sawara se concentrează pe două direcții principale: industrie și securitate națională. Spre deosebire de modelele cloud-based, Sawara va fi optimizat pentru implementări <em>on-premises</em>. Aceasta este o cerință critică pentru agențiile guvernamentale și companiile de producție care nu pot permite ca datele lor sensibile să părăsească infrastructura proprie.</p><p>Colaborarea cu Ministerul Apărării din Japonia a oferit echipei Sakana lecții valoroase despre rigorile auditului și securității. Aceste cerințe stricte au modelat arhitectura Sawara, transformând-o într-o soluție capabilă să detecteze dezinformarea și să integreze date guvernamentale complexe fără a compromite confidențialitatea.</p><h2>Viitorul Sakana AI</h2><p>Deși speculațiile recente din presă sugerau un posibil IPO, David Ha a clarificat că nu există planuri imediate în acest sens. Startup-ul se concentrează pe finalizarea modelului Sawara, cu o versiune de dimensiuni mai mici programată pentru începutul anului 2027, urmată de o iterație mai complexă. În timp ce Japonia va continua să utilizeze tehnologii americane pentru diverse aplicații, dezvoltarea unei infrastructuri AI proprii este văzută ca un pas vital pentru reziliența națională.</p><p>Sakana AI demonstrează că viitorul AI nu va fi doar despre modele gigantice, ci despre specializare și control. Pentru companiile europene, exemplul japonez ar putea servi drept studiu de caz pentru importanța dezvoltării unor soluții AI care respectă contextul local și cerințele stricte de securitate.</p>",
+    "body_en": "<h2>Why Japan is seeking AI sovereignty</h2><p>Sakana AI, the Japanese startup that has gained attention for its innovative approaches, has confirmed plans to develop its own foundation model, called Sawara. This move is not just a commercial ambition but a deliberate strategy to provide Japan with a local alternative to dominant models from the US and China. In a world where artificial intelligence is becoming a critical resource, digital sovereignty has become a national priority.</p><p>David Ha, co-founder and CEO of Sakana AI, emphasizes that current models, such as those from Meta or OpenAI, are often trained with a cultural and political bias specific to their creators. For a country like Japan, this can be problematic in sensitive sectors where local cultural and political nuances are essential.</p><h2>Sawara: Security and on-premises deployment</h2><p>The Sawara project focuses on two main areas: industry and national security. Unlike cloud-based models, Sawara will be optimized for on-premises deployment. This is a critical requirement for government agencies and manufacturing companies that cannot allow their sensitive data to leave their own infrastructure.</p><p>Collaboration with Japan's Ministry of Defense has provided the Sakana team with valuable lessons about the rigors of auditing and security. These strict requirements have shaped Sawara's architecture, turning it into a solution capable of detecting disinformation and integrating complex government data without compromising confidentiality.</p><h2>The future of Sakana AI</h2><p>Although recent media speculation suggested a possible IPO, David Ha clarified that there are no immediate plans for this. The startup is focusing on completing the Sawara model, with a smaller version scheduled for early 2027, followed by a more complex iteration. While Japan will continue to use US technologies for various applications, the development of its own AI infrastructure is seen as a vital step for national resilience.</p><p>Sakana AI demonstrates that the future of AI will not just be about giant models, but about specialization and control. For European companies, the Japanese example could serve as a case study for the importance of developing AI solutions that respect local context and strict security requirements.</p>",
+    "highlights_ro": [
+      "Sakana AI a anunțat modelul Sawara pentru a oferi Japoniei independență tehnologică în AI.",
+      "Proiectul vizează sectoarele de securitate, producție și apărare, cu lansări programate pentru 2027.",
+      "Compania respinge zvonurile despre un IPO iminent, concentrându-se pe dezvoltarea infrastructurii locale."
+    ],
+    "highlights_en": [
+      "Sakana AI announced the Sawara model to provide Japan with technological independence in AI.",
+      "The project targets security, manufacturing, and defense sectors, with releases planned for 2027.",
+      "The company denies immediate IPO rumors, focusing on building local AI infrastructure."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-28T14:00:00+00:00",
+    "source_names": [
+      "TechCrunch"
+    ],
+    "images": [
+      "assets/images/2026-11-28-sakana-ai-sawara-sovereignty_1.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-28-black-friday-deals-still-happening",
     "slug_ro": "reduceri-black-friday-inca-valabile",
     "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",

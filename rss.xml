@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Sakana AI develops Sawara: Digital sovereignty for Japan</title>
+    <link>https://cioc.online/en/posts/2026-11-28-sakana-ai-sawara-sovereignty/</link>
+    <guid>https://cioc.online/en/posts/2026-11-28-sakana-ai-sawara-sovereignty/</guid>
+    <description>Sakana AI is building Sawara to reduce Japan&#x27;s reliance on foreign AI models, focusing on security, manufacturing, and local infrastructure.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-28-sakana-ai-sawara-sovereignty_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Black Friday Deals: What is Still Available This Weekend</title>
     <link>https://cioc.online/en/posts/2026-11-28-black-friday-deals-still-happening/</link>
     <guid>https://cioc.online/en/posts/2026-11-28-black-friday-deals-still-happening/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-26-nvidia-jensen-huang-spy-scandal/</guid>
     <description>We analyze the spy allegations involving Nvidia CEO Jensen Huang and the geopolitical implications of his controversial return.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-26-nvidia-jensen-huang-spy-scandal_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>X Finally Launches Parental Controls for Teens</title>
-    <link>https://cioc.online/en/posts/2026-11-26-x-launches-parental-controls/</link>
-    <guid>https://cioc.online/en/posts/2026-11-26-x-launches-parental-controls/</guid>
-    <description>After 20 years, X introduces parental controls. Learn how parents can manage teen accounts, set time limits, and filter content on the platform.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-26-x-launches-parental-controls_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
