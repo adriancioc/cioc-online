@@ -903,48 +903,4 @@
       <news:title>Turbăriile și clima: De ce drenarea lor accelerează încălzirea globală</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-minimalist-vs-maximalist-home-offices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:00:14+00:00</news:publication_date>
-      <news:title>Minimalist or Maximalist? Inside Tech Experts&#x27; Home Offices</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-minimalist-vs-maximalist-home-offices/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:00:14+00:00</news:publication_date>
-      <news:title>Minimalist sau maximalist? Cum arată birourile experților tech</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-apple-investigated-misleading-iphone-16-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T11:19:46+00:00</news:publication_date>
-      <news:title>Apple Faces Regulator Probe Over Misleading iPhone 16 AI Ads</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-apple-investigated-misleading-iphone-16-ai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T11:19:46+00:00</news:publication_date>
-      <news:title>Apple, anchetată pentru reclame înșelătoare la iPhone 16</news:title>
-    </news:news>
-  </url>
 </urlset>

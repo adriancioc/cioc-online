@@ -8536,6 +8536,44 @@
     ]
   },
   {
+    "slug": "2026-10-27-apple-creator-studio-ai-update",
+    "slug_ro": "apple-creator-studio-update-ai",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+    "category": "APLICAȚII",
+    "virality_score": 9,
+    "focus_keyword_ro": "Apple Creator Studio AI",
+    "focus_keyword_en": "Apple Creator Studio AI",
+    "title_ro": "Apple Creator Studio primește AI: Final Cut Pro și Logic Pro",
+    "title_en": "Apple Creator Studio Gets Major AI Features",
+    "summary": "Apple announces massive updates to Creator Studio, bringing AI to Final Cut Pro, Logic Pro, and more. Available this November.",
+    "summary_ro": "Apple lansează update-uri majore pentru Creator Studio: AI în Final Cut Pro, Logic Pro și Pixelmator Pro. Află ce noutăți vin în noiembrie.",
+    "summary_en": "Apple announces massive updates to Creator Studio, bringing AI to Final Cut Pro, Logic Pro, and more. Available this November.",
+    "body_ro": "<h2>Revoluția AI în suita Apple Creator Studio</h2><p>Apple a anunțat astăzi o serie de actualizări transformatoare pentru <strong>Apple Creator Studio</strong>, colecția sa de aplicații creative destinate utilizatorilor de Mac, iPad și iPhone. Această mișcare marchează un pas important în integrarea inteligenței artificiale direct în fluxurile de lucru profesionale, oferind instrumente avansate de editare video, producție muzicală și design grafic.</p><h2>Final Cut Pro și integrarea MotionVFX</h2><p>Cea mai notabilă schimbare vine pentru <strong>Final Cut Pro</strong>, care integrează acum nativ <strong>MotionVFX</strong>. Utilizatorii au acces direct la o bibliotecă vastă de efecte vizuale, tranziții, titluri și grafică în mișcare. Mai mult, Content Hub-ul a fost extins cu active video, permițând editorilor să găsească resurse fără a părăsi aplicația. O altă funcție esențială este <strong>Pixelmator Pro Generate Fill</strong>, care permite editarea imaginilor folosind limbaj natural, direct din timeline-ul video.</p><h2>Logic Pro: Asistent inteligent și Stem Splitter</h2><p>Producătorii muzicali beneficiază de un nou asistent inteligent în <strong>Logic Pro</strong>, capabil să ajute la configurarea pieselor și rafinarea proiectelor. Funcția <strong>Stem Splitter</strong> a fost îmbunătățită, oferind o separare mai precisă a instrumentelor, inclusiv a tobelor. Browserul a fost complet redesenat, folosind analiza audio on-device pentru a clasifica automat sunetele, facilitând găsirea rapidă a sample-urilor potrivite.</p><h2>Productivitate și disponibilitate</h2><p>Aplicațiile <strong>Keynote, Pages și Numbers</strong> primesc, de asemenea, funcții AI în beta, inclusiv asistenți care înțeleg contextul documentelor și suport pentru <strong>Model Context Protocol (MCP)</strong>, optimizând automatizarea fluxurilor de lucru. Toate aceste noutăți vor fi disponibile în App Store începând cu luna noiembrie, sub formă de update gratuit pentru abonații actuali. Pentru utilizatorii din România, aceste funcții vor fi disponibile în aceleași condiții, fără costuri suplimentare, consolidând poziția ecosistemului Apple ca standard în industria creativă.</p>",
+    "body_en": "<h2>Apple Creator Studio Goes AI-Powered</h2><p>Apple today introduced transformative updates to <strong>Apple Creator Studio</strong>, the powerful collection of creative apps designed for Mac, iPad, and iPhone users. This update signifies a major leap in integrating generative AI into professional creative workflows, aiming to streamline production from video editing to music composition.</p><h2>Final Cut Pro and MotionVFX Integration</h2><p><strong>Final Cut Pro for Mac</strong> now features built-in <strong>MotionVFX</strong>, providing editors with an expansive collection of visual effects, plug-ins, and motion graphics tools. The Content Hub has been updated to include video assets, and the integration with <strong>Pixelmator Pro</strong> allows for seamless round-trip editing. With the new <strong>Generate Fill</strong> capability, creators can transform image areas using simple text descriptions, matching the lighting and perspective of the original footage.</p><h2>Logic Pro: Intelligent Assistant and Stem Splitter</h2><p>Music creators using <strong>Logic Pro</strong> now gain a new intelligent assistant in beta, designed to help navigate production workflows and refine active projects. The enhanced <strong>Stem Splitter</strong> now offers even better isolation for drums and other elements. Additionally, a redesigned Browser incorporates music understanding technology, automatically tagging and classifying sounds to make finding the perfect loop faster than ever.</p><h2>Productivity and Availability</h2><p>Beyond media creation, <strong>Keynote, Pages, and Numbers</strong> introduce new AI features in beta, including context-aware assistants and <strong>Model Context Protocol (MCP)</strong> support for workflow automation. These updates will be available on the App Store this November as a free update for existing subscribers. Whether you are a professional filmmaker or a hobbyist musician, these tools represent a significant shift in how creative software interacts with user intent, setting a new standard for the industry.</p>",
+    "highlights_ro": [
+      "Apple a anunțat actualizări majore pentru suita Creator Studio, incluzând integrarea MotionVFX în Final Cut Pro și asistenți AI în Logic Pro.",
+      "Update-ul va fi disponibil gratuit în noiembrie pentru abonații existenți; prețul abonamentului rămâne neschimbat în Europa.",
+      "Verdict: Un pas uriaș pentru creatorii de conținut care vor să accelereze fluxul de lucru prin automatizare inteligentă."
+    ],
+    "highlights_en": [
+      "Apple introduced transformative AI updates to Creator Studio, including MotionVFX in Final Cut Pro and AI assistants in Logic Pro.",
+      "The update arrives in November as a free release for existing subscribers; no pricing changes for EU/US markets.",
+      "Verdict: A game-changing suite update that brings professional-grade AI automation to all creative workflows."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-10-27T12:58:45+00:00",
+    "source_names": [
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-10-27-apple-creator-studio-ai-update_1.jpg",
+      "assets/images/2026-10-27-apple-creator-studio-ai-update_2.jpg",
+      "assets/images/2026-10-27-apple-creator-studio-ai-update_3.jpg",
+      "assets/images/2026-10-27-apple-creator-studio-ai-update_4.jpg",
+      "assets/images/2026-10-27-apple-creator-studio-ai-update_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-10-26-new-ipad-mini-oled-a20-pro",
     "slug_ro": "noul-ipad-mini-oled-a20-pro",
     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
