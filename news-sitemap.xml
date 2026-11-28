@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-m5-macbook-air-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:30:00+00:00</news:publication_date>
+      <news:title>M5 MacBook Air Black Friday Deal: Is It Worth It?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-m5-macbook-air-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:30:00+00:00</news:publication_date>
+      <news:title>Reducere MacBook Air M5: Merită efortul de import?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-byd-whale-900km-range/</loc>
     <news:news>
       <news:publication>
@@ -923,28 +945,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T09:54:40+00:00</news:publication_date>
       <news:title>Character.AI vrea să vândă istoricul chat-urilor: 42 de state intervin</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-apple-opens-new-store-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T04:17:15+00:00</news:publication_date>
-      <news:title>Apple Expands Retail Footprint with New Hyderabad Store</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-apple-opens-new-store-india/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T04:17:15+00:00</news:publication_date>
-      <news:title>Apple extinde prezența în India cu un nou magazin în Hyderabad</news:title>
     </news:news>
   </url>
 </urlset>
