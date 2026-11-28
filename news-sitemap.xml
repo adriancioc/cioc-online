@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-pixel-11-pro-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T17:15:00+00:00</news:publication_date>
+      <news:title>Google Pixel 11 Pro Black Friday Deals: Is It Worth It?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-pixel-11-pro-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T17:15:00+00:00</news:publication_date>
+      <news:title>Google Pixel 11 Pro la reducere: Merită atenția în România?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-rival-new-womens-sports-app/</loc>
     <news:news>
       <news:publication>
@@ -857,28 +879,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T18:00:29+00:00</news:publication_date>
       <news:title>Ford GT41: Noua mașină de curse pentru Le Mans 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-google-celebrates-15-years-colombia/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T18:00:00+00:00</news:publication_date>
-      <news:title>Google Celebrates 15 Years in Colombia with AI Education Funding</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-google-celebrates-15-years-colombia/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T18:00:00+00:00</news:publication_date>
-      <news:title>Google marchează 15 ani în Columbia cu investiții în educație AI</news:title>
     </news:news>
   </url>
 </urlset>
