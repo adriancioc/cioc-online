@@ -72,6 +72,42 @@
     ]
   },
   {
+    "slug": "2026-11-28-optimize-new-tv-settings",
+    "slug_ro": "setari-tv-imagine-optima",
+    "url": "https://www.theverge.com/tech/1042700/change-these-tv-settings",
+    "category": "GADGETURI",
+    "virality_score": 5,
+    "focus_keyword_ro": "setări TV imagine",
+    "focus_keyword_en": "optimize tv picture settings",
+    "title_ro": "Cum să setezi corect noul tău televizor pentru cea mai bună imagine",
+    "title_en": "How to calibrate your new TV for the best picture quality",
+    "summary": "Don't settle for factory defaults. Follow these essential steps to optimize your new TV's picture settings for a cinematic experience.",
+    "summary_ro": "Ai cumpărat un televizor nou? Află ce setări trebuie să schimbi imediat pentru a obține o calitate a imaginii cinematografică și a evita efectele artificiale.",
+    "summary_en": "Don't settle for factory defaults. Follow these essential steps to optimize your new TV's picture settings for a cinematic experience.",
+    "body_ro": "<h2>De ce televizorul tău nou nu arată așa cum te așteptai</h2><p>După ce ai adus acasă noul televizor cumpărat la reducere, entuziasmul poate scădea rapid când pornești dispozitivul. De multe ori, imaginea pare prea saturată, nenaturală sau pur și simplu „greșită”. Problema nu este televizorul, ci setările implicite cu care acesta vine din fabrică. Producătorii sunt obligați să respecte standarde stricte de consum energetic, motiv pentru care majoritatea televizoarelor sunt setate pe moduri „Eco” sau „Economisire energie” care sacrifică calitatea imaginii.</p><h2>Primii pași pentru o imagine de cinema</h2><p>Primul lucru pe care trebuie să-l faci este să schimbi modul de imagine. Evită cu orice preț modurile „Vivid” sau „Dynamic”, care forțează luminozitatea și culorile reci, obositoare pentru ochi. Caută în meniu opțiuni precum <strong>Filmmaker Mode</strong>, <strong>Cinema</strong> sau <strong>Movie</strong>. Acestea oferă o temperatură de culoare mult mai caldă și mai realistă, eliminând procesarea inutilă care face ca filmele să arate ca niște emisiuni TV ieftine.</p><p>Un alt inamic al calității este senzorul de lumină ambientală. Deși sună util, acesta ajustează constant luminozitatea în funcție de camera ta, provocând fluctuații deranjante. Îl poți găsi de obicei în meniul „General” sau „Economisire energie”. După ce îl dezactivezi, poți regla manual luminozitatea (backlight) în funcție de preferințele tale și de cât de luminată este camera în timpul zilei.</p><h2>Efectul de „telenovelă” și setările de gaming</h2><p>Cea mai detestată setare de către pasionații de cinema este „motion smoothing” sau interpolarea cadrelor. Aceasta încearcă să facă mișcarea mai fluidă, dar rezultatul este acel „efect de telenovelă” care distruge atmosfera cinematografică. Asigură-te că este oprită. Dacă ești gamer, activează obligatoriu <strong>Game Mode</strong> pentru a reduce latența (input lag) și asigură-te că portul HDMI este setat pe „Enhanced” sau „HDMI Signal Format” pentru a beneficia de lățime de bandă maximă și rate de refresh ridicate.</p><p>Investiția într-un televizor modern este semnificativă, iar aceste mici ajustări îți vor permite să te bucuri cu adevărat de tehnologia pentru care ai plătit. Nu lăsa setările din fabrică să îți limiteze experiența vizuală.</p>",
+    "body_en": "<h2>Why your new TV doesn't look right out of the box</h2><p>Most modern televisions do not perform at their best right out of the box. While you might expect a premium experience from your new purchase, you are often met with overly bright, artificial-looking images. This is primarily because manufacturers prioritize energy consumption standards, forcing TVs into 'Eco' or 'Energy Saving' modes that negatively impact picture quality.</p><h2>Essential tweaks for cinematic quality</h2><p>The most impactful change you can make is switching your picture mode. Avoid 'Vivid' or 'Dynamic' settings at all costs; these are designed to blast brightness and create unnatural, blue-tinted images. Instead, look for <strong>Filmmaker Mode</strong>, <strong>Cinema</strong>, or <strong>Movie</strong>. These modes provide a more accurate color temperature and disable unnecessary processing that ruins the director's intent.</p><p>Another setting to address immediately is the ambient light sensor. While the concept of adjusting brightness based on room light sounds logical, it often leads to distracting, constant brightness shifts. You can usually find this in the 'General' or 'Power Saving' menus. Once disabled, you can manually set the backlight to a level that suits your room's lighting conditions.</p><h2>Eliminating the soap opera effect</h2><p>Motion smoothing is perhaps the most controversial feature in modern TVs. By using frame interpolation, it creates extra frames that make movies look like low-budget soap operas. Turning this off is essential for a true cinematic experience. If you are a gamer, ensure you switch to <strong>Game Mode</strong> to minimize input lag and check your HDMI settings. Ensure your HDMI signal format is set to 'Enhanced' to allow for full bandwidth, which is crucial for high refresh rate gaming and HDR content.</p><p>Your new TV is a significant investment. By spending a few minutes navigating these menus, you ensure that you are actually getting the performance you paid for. These small adjustments will transform your viewing experience for years to come.</p>",
+    "highlights_ro": [
+      "Televizoarele noi vin setate din fabrică pentru a economisi energie, nu pentru calitate.",
+      "Dezactivarea modului Eco și a procesării de mișcare îmbunătățește drastic experiența vizuală.",
+      "Cioc.online recomandă folosirea modului Filmmaker și setarea HDMI pe Enhanced pentru gaming."
+    ],
+    "highlights_en": [
+      "Most TVs ship with energy-saving modes that compromise picture quality.",
+      "Disabling motion smoothing and ambient sensors is key to a natural look.",
+      "Cioc.online recommends Filmmaker mode and Enhanced HDMI settings for gaming."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-28T13:00:00+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-28-optimize-new-tv-settings_1.jpg",
+      "assets/images/2026-11-28-optimize-new-tv-settings_2.jpg",
+      "assets/images/2026-11-28-optimize-new-tv-settings_3.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-28-2026-kindle-paperwhite-review",
     "slug_ro": "noul-kindle-paperwhite-2026",
     "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
