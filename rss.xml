@@ -26,6 +26,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-27-ipad-mini-2026-black-friday-deal_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Allstate Facing Major 5-Day System Outage</title>
+    <link>https://cioc.online/en/posts/2026-11-27-allstate-major-outage-analysis/</link>
+    <guid>https://cioc.online/en/posts/2026-11-27-allstate-major-outage-analysis/</guid>
+    <description>Allstate&#x27;s digital services have been down for five days. We analyze the impact on customers and the fragility of modern corporate IT infrastructure.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-27-allstate-major-outage-analysis_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Akai MPC Sample 1.4 Firmware Opens Up Modding Possibilities</title>
     <link>https://cioc.online/en/posts/2026-11-27-akai-mpc-sample-firmware-1-4/</link>
     <guid>https://cioc.online/en/posts/2026-11-27-akai-mpc-sample-firmware-1-4/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-26-a-month-with-iphone-duo-review/</guid>
     <description>After a full month with Apple&#x27;s iPhone Duo, here is how the foldable screen changes multitasking, app layouts, and daily mobile habits on cioc.online.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-26-a-month-with-iphone-duo-review_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Judge Blocks FCC from Early Review of ABC Licenses</title>
-    <link>https://cioc.online/en/posts/2026-11-26-judge-blocks-fcc-abc-license/</link>
-    <guid>https://cioc.online/en/posts/2026-11-26-judge-blocks-fcc-abc-license/</guid>
-    <description>A federal judge has blocked the FCC from conducting an early review of ABC&#x27;s broadcast licenses, citing potential First Amendment retaliation.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-26-judge-blocks-fcc-abc-license_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
