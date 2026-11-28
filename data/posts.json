@@ -8496,5 +8496,43 @@
     "images": [
       "assets/images/2026-11-03-galaxy-ring-sleep-apnea_1.jpg"
     ]
+  },
+  {
+    "slug": "2026-10-26-new-ipad-mini-oled-a20-pro",
+    "slug_ro": "noul-ipad-mini-oled-a20-pro",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "category": "GADGETURI",
+    "virality_score": 10,
+    "focus_keyword_ro": "iPad mini OLED",
+    "focus_keyword_en": "iPad mini OLED",
+    "title_ro": "Noul iPad mini: Ecran OLED și cip A20 Pro pentru performanță",
+    "title_en": "New iPad mini: OLED Display and A20 Pro Chip Power",
+    "summary": "Apple unveils the new iPad mini featuring an 8.5-inch OLED display, A20 Pro chip, and IP67 water resistance. Discover the most powerful compact tablet.",
+    "summary_ro": "Apple lansează noul iPad mini cu ecran OLED de 8.5 inch, cip A20 Pro și rezistență IP67. Află totul despre cea mai puternică tabletă compactă.",
+    "summary_en": "Apple unveils the new iPad mini featuring an 8.5-inch OLED display, A20 Pro chip, and IP67 water resistance. Discover the most powerful compact tablet.",
+    "body_ro": "<h2>O revoluție pentru iPad mini</h2><p>Apple a surprins piața cu cea mai mare actualizare adusă vreodată gamei iPad mini. Noul model nu este doar o iterație, ci un salt tehnologic major, integrând un ecran OLED și puterea brută a cipului A20 Pro într-un șasiu incredibil de subțire de 5.4 mm.</p><h2>Ecran OLED și design îmbunătățit</h2><p>Piesa centrală a noului dispozitiv este ecranul OLED de 8.5 inch. Datorită marginilor cu 24% mai subțiri, Apple a reușit să mărească suprafața de afișare fără a crește dimensiunile fizice ale tabletei. Cu o luminozitate de vârf de 1200 niți și tehnologie nano-texture opțională, noul iPad mini oferă o claritate impecabilă chiar și în condiții de lumină puternică.</p><h2>Performanță de top cu A20 Pro</h2><p>Sub carcasă, cipul A20 Pro schimbă regulile jocului. Construit pe procesul de 2 nanometri, acesta aduce o creștere de 4.5x a performanței AI și o grafică cu 2.7x mai rapidă față de generația anterioară. Această putere este esențială pentru rularea modelelor AI locale și pentru sarcini grafice complexe, precum editarea video sau gaming-ul de ultimă generație.</p><h2>Rezistență și conectivitate</h2><p>Pentru prima dată, iPad mini primește certificarea IP67, fiind rezistent la apă și praf. Această schimbare, alături de noul sistem audio Acoustic Display, face ca tableta să fie extrem de versatilă pentru utilizatorii din teren, creatori de conținut sau simpli entuziaști care doresc un dispozitiv portabil, dar extrem de capabil.</p><ul><li>Ecran OLED de 8.5 inch cu contrast 2,000,000:1</li><li>Cip A20 Pro cu Neural Engine avansat</li><li>Certificare IP67 pentru durabilitate</li><li>Cameră frontală optimizată pentru apeluri video</li></ul><p>Disponibilitatea începe pe 6 noiembrie, iar prețurile vor reflecta segmentul premium în care se poziționează acest dispozitiv. Rămâne de văzut cum se va integra noul iPad mini în ecosistemul Apple Intelligence, dar premisele sunt extrem de solide.</p>",
+    "body_en": "<h2>A Massive Leap for the iPad mini</h2><p>Apple has officially unveiled the most significant update to the iPad mini lineup to date. The new model represents a major technological leap, featuring a stunning OLED display and the raw power of the A20 Pro chip, all packed into an incredibly thin 5.4 mm chassis.</p><h2>OLED Display and Refined Design</h2><p>The centerpiece of the new device is the 8.5-inch OLED display. By reducing bezels by 24%, Apple has expanded the display area without increasing the tablet's physical footprint. With a peak brightness of 1200 nits and an optional nano-texture finish, the new iPad mini delivers impeccable clarity even in bright environments.</p><h2>A20 Pro Performance</h2><p>Under the hood, the A20 Pro chip changes the game. Built on the latest 2-nanometer process, it brings a 4.5x boost in AI performance and 2.7x faster graphics compared to the previous generation. This power is essential for running local AI models and handling complex graphics tasks, from high-end video editing to next-gen gaming.</p><h2>Durability and Connectivity</h2><p>For the first time, the iPad mini receives an IP67 rating, making it resistant to water and dust. This change, combined with the new Acoustic Display audio system, makes the tablet extremely versatile for field workers, content creators, and enthusiasts who need a portable yet highly capable device.</p><ul><li>8.5-inch OLED display with 2,000,000:1 contrast ratio</li><li>A20 Pro chip with advanced Neural Engine</li><li>IP67 rating for water and dust resistance</li><li>Landscape-oriented front camera for video calls</li></ul><p>Availability begins on November 6, with pre-orders starting October 28. The new iPad mini is a compelling value for those who need full iPad power in a palm-sized package.</p>",
+    "highlights_ro": [
+      "Apple a lansat iPad mini cu ecran OLED de 8.5 inch și procesor A20 Pro.",
+      "Disponibil din noiembrie, prețurile în Europa vor începe probabil de la 649 EUR (aprox. 3250 RON).",
+      "Cea mai mare actualizare a gamei mini, transformând tableta într-o stație de lucru portabilă."
+    ],
+    "highlights_en": [
+      "Apple launched the new iPad mini with an 8.5-inch OLED display and A20 Pro chip.",
+      "Available starting November 6, pricing starts at $499/€649.",
+      "The biggest update yet, turning the mini into a high-performance portable powerhouse."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-10-26T13:00:22+00:00",
+    "source_names": [
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_1.jpg",
+      "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_2.jpg",
+      "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_3.jpg",
+      "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_4.jpg",
+      "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_5.jpg"
+    ]
   }
 ]
