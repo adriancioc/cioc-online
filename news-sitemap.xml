@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-2026-kindle-paperwhite-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T12:00:20+00:00</news:publication_date>
+      <news:title>2026 Kindle Paperwhite Review: Buttons Are Back, At A Cost</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-2026-kindle-paperwhite-review/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T12:00:20+00:00</news:publication_date>
+      <news:title>Noul Kindle Paperwhite 2026: Butoane fizice, dar la ce preț?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-homepod-mini-2-red-rumor/</loc>
     <news:news>
       <news:publication>
@@ -857,50 +879,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T13:08:39+00:00</news:publication_date>
       <news:title>Apple lucrează la un iPad pliabil de 20 inch: preț de 5.000 dolari</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-iphone-20-pro-ceramic-limited-edition/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:24:29+00:00</news:publication_date>
-      <news:title>iPhone 20 Pro: Apple Rumored to Launch Limited Ceramic Edition</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-iphone-20-pro-ceramic-limited-edition/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:24:29+00:00</news:publication_date>
-      <news:title>iPhone 20 Pro: Apple ar putea lansa o ediție limitată din ceramică</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-peatlands-drainage-climate-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:15:42+00:00</news:publication_date>
-      <news:title>Peatlands and Climate: The Hidden Cost of Draining Wetlands</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-peatlands-drainage-climate-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:15:42+00:00</news:publication_date>
-      <news:title>Turbăriile și clima: De ce drenarea lor accelerează încălzirea globală</news:title>
     </news:news>
   </url>
 </urlset>
