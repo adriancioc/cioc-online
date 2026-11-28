@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-27-ipad-mini-2026-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T22:30:00+00:00</news:publication_date>
+      <news:title>iPad Mini 2026: First Major Black Friday Discount</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-27-ipad-mini-2026-black-friday-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T22:30:00+00:00</news:publication_date>
+      <news:title>iPad Mini 2026: Prima reducere majoră de Black Friday</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-oura-ring-android-11-data-loss/</loc>
     <news:news>
       <news:publication>
@@ -813,116 +835,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T00:04:34+00:00</news:publication_date>
       <news:title>Google extinde funcția Familiar Faces pe camerele Onn de la Walmart</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-macbook-air-oled-2027-2028-rumor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T23:30:14+00:00</news:publication_date>
-      <news:title>MacBook Air with OLED: When is the big redesign coming?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-macbook-air-oled-2027-2028-rumor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T23:30:14+00:00</news:publication_date>
-      <news:title>MacBook Air cu ecran OLED: Când vine marea schimbare?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-nvidia-faces-credit-downgrade-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:44:32+00:00</news:publication_date>
-      <news:title>Nvidia Faces Potential Credit Downgrade Over Governance Risks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-nvidia-faces-credit-downgrade-risk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:44:32+00:00</news:publication_date>
-      <news:title>Nvidia sub lupă: S&amp;P ia în calcul scăderea ratingului de credit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-hera-mission-analyzes-dart-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:36:45+00:00</news:publication_date>
-      <news:title>ESA Hera Mission Reaches Asteroid Impact Site</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-hera-mission-analyzes-dart-impact/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:36:45+00:00</news:publication_date>
-      <news:title>Misiunea Hera a ajuns la asteroidul lovit de NASA: Ce a găsit?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:48:00+00:00</news:publication_date>
-      <news:title>Best Tech Gifts for Travelers in 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-best-travel-gadgets-2026-gift-guide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:48:00+00:00</news:publication_date>
-      <news:title>Top gadgeturi pentru călători: Ce să oferi cadou în 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-25-1password-security-breach-explained/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:32:02+00:00</news:publication_date>
-      <news:title>1Password Security Breach: What You Need to Know</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-25-1password-security-breach-explained/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:32:02+00:00</news:publication_date>
-      <news:title>Breșă de securitate 1Password: Ce date au fost expuse?</news:title>
     </news:news>
   </url>
 </urlset>
