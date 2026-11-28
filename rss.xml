@@ -5,6 +5,13 @@
   <link>https://cioc.online/en/</link>
   <description>Technology news and AI updates</description>
   <item>
+    <title>Apple vs OpenAI: The Legal War Escalates</title>
+    <link>https://cioc.online/en/posts/2026-11-28-apple-openai-legal-war/</link>
+    <guid>https://cioc.online/en/posts/2026-11-28-apple-openai-legal-war/</guid>
+    <description>OpenAI countersues Apple, alleging unlawful pressure on vendors. Discover how this tech rivalry impacts the future of AI integration.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-28-apple-openai-legal-war_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Google Pixel 11 Pro Black Friday Deals: Is It Worth It?</title>
     <link>https://cioc.online/en/posts/2026-11-28-pixel-11-pro-black-friday-deal/</link>
     <guid>https://cioc.online/en/posts/2026-11-28-pixel-11-pro-black-friday-deal/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-27-intel-forced-stake-us-government/</guid>
     <description>Leaked court documents reveal how the Trump administration coerced Intel into handing over a 10% equity stake to secure CHIPS Act funding.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-27-intel-forced-stake-us-government_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>Apple iPhone Market Share Hits 57% in the US</title>
-    <link>https://cioc.online/en/posts/2026-11-27-iphone-market-share-us-2026/</link>
-    <guid>https://cioc.online/en/posts/2026-11-27-iphone-market-share-us-2026/</guid>
-    <description>Apple captures 57% of the US smartphone market as rivals struggle with rising memory costs and declining shipments. Read the full analysis.</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-27-iphone-market-share-us-2026_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
