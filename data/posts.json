@@ -8462,5 +8462,39 @@
       "assets/images/2026-11-10-apple-tv-sign-language-feature_4.jpg",
       "assets/images/2026-11-10-apple-tv-sign-language-feature_5.jpg"
     ]
+  },
+  {
+    "slug": "2026-11-03-galaxy-ring-sleep-apnea",
+    "slug_ro": "detectare-apnee-galaxy-ring",
+    "url": "https://news.samsung.com/global/upgraded-sleep-apnea-feature-now-available-on-galaxy-ring-following-regulatory-approvals-from-us-fda-and-korea-mfds",
+    "category": "GADGETURI",
+    "virality_score": 9,
+    "focus_keyword_ro": "detectare apnee Galaxy Ring",
+    "focus_keyword_en": "Galaxy Ring sleep apnea",
+    "title_ro": "Galaxy Ring primește funcția de detectare a apneei în somn",
+    "title_en": "Galaxy Ring Gets Official Sleep Apnea Detection Feature",
+    "summary": "Samsung's Galaxy Ring and Watch now support sleep apnea detection after FDA and MFDS approval. Here's what you need to know about this health update.",
+    "summary_ro": "Samsung aduce funcția de detectare a apneei pe Galaxy Ring și Watch după aprobările FDA și MFDS. Află cum funcționează și disponibilitatea în România.",
+    "summary_en": "Samsung's Galaxy Ring and Watch now support sleep apnea detection after FDA and MFDS approval. Here's what you need to know about this health update.",
+    "body_ro": "<h2>O nouă eră pentru monitorizarea sănătății la încheietură și pe deget</h2><p>Samsung a anunțat oficial că funcția de detectare a apneei în somn, mult așteptată de utilizatori, este acum disponibilă pentru Galaxy Ring și gama Galaxy Watch. Această actualizare vine după ce tehnologia a primit undă verde de la Administrația pentru Alimente și Medicamente din SUA (FDA), fiind urmată recent de aprobarea Ministerului Siguranței Alimentelor și Medicamentelor din Coreea de Sud (MFDS).</p><p>Apneea în somn este o afecțiune subdiagnosticată care poate duce la complicații cardiovasculare grave. Prin integrarea acestui algoritm în dispozitivele purtabile, Samsung oferă utilizatorilor posibilitatea de a monitoriza semnele clinice direct de acasă, fără a fi nevoie de echipamente medicale complexe în prima fază.</p><h2>Cum funcționează tehnologia Samsung</h2><p>Spre deosebire de monitoarele de fitness obișnuite, acest algoritm analizează variațiile nivelului de oxigen din sânge în timpul somnului. Dispozitivul monitorizează respirația pe parcursul a două nopți consecutive, iar dacă datele indică riscuri, utilizatorul este notificat să consulte un medic. Este esențial de reținut că, deși inelul și ceasul sunt extrem de precise, ele nu înlocuiesc un diagnostic medical oficial, ci servesc drept instrument de screening.</p><p>Pentru utilizatorii din România, disponibilitatea depinde de reglementările locale și de aprobările suplimentare din partea agențiilor europene de sănătate. Samsung a confirmat că lucrează activ pentru a extinde aceste funcții la nivel global, aliniindu-se la standardele stricte ale Uniunii Europene privind dispozitivele medicale.</p><h2>De ce contează pentru utilizatorii Galaxy</h2><p>Această mișcare plasează Samsung în fața competiției. În timp ce majoritatea producătorilor se concentrează pe pași și calorii, Samsung transformă ecosistemul Galaxy într-un centru de sănătate preventivă. Utilizatorii care dețin deja un Galaxy Ring sau un Galaxy Watch compatibil vor primi actualizarea prin intermediul aplicației Samsung Health.</p><p>Dacă ești utilizator de Galaxy Ring, asigură-te că aplicația ta este actualizată la ultima versiune. În articolul nostru detaliat de pe cioc.online, am explicat pas cu pas cum se configurează corect monitorizarea și care sunt limitările tehnice de care trebuie să ții cont pentru a obține cele mai precise rezultate în timpul nopții.</p>",
+    "body_en": "<h2>Samsung's Wearables Get a Medical Upgrade</h2><p>Samsung Electronics has officially announced that its advanced Sleep Apnea detection feature is now available for the Galaxy Ring and the Galaxy Watch series. This milestone follows the clearance from the United States Food and Drug Administration (FDA) back in July and the most recent approval from Korea’s Ministry of Food and Drug Safety (MFDS). This makes Samsung one of the first companies to successfully integrate medical-grade apnea screening into consumer-grade wearables.</p><p>Sleep apnea is a significant health concern that often goes undiagnosed. By leveraging the sensors already present in the Galaxy Ring and Watch, Samsung aims to provide users with actionable insights into their sleep quality, potentially identifying risks that would otherwise go unnoticed until symptoms become severe.</p><h2>The Science Behind the Feature</h2><p>The feature works by monitoring blood oxygen levels during sleep over a two-night period. The algorithm detects patterns consistent with moderate to severe obstructive sleep apnea. If the data suggests a risk, the Samsung Health app prompts the user to seek professional medical advice. It is a proactive approach to healthcare that bridges the gap between daily fitness tracking and clinical diagnostics.</p><p>While the feature is currently live in the US and Korea, the global rollout is expected to follow as Samsung navigates regional regulatory frameworks. For users in Europe, the company is working to ensure compliance with local health authority standards, which is a necessary step for any medical-grade software feature.</p><h2>A Strategic Shift for Samsung Health</h2><p>This update is more than just a software patch; it is a strategic shift. Samsung is clearly positioning its wearable ecosystem as a serious health companion rather than just a notification hub. By providing users with data that can actually be used in a clinical setting, Samsung adds significant value to the Galaxy Ring and Watch hardware.</p><p>For those interested in the technical requirements and the specific setup process, we have compiled a deep dive on cioc.online. We cover the compatibility list, how to ensure your sensor data is accurate, and what to do if you receive a notification from the app. Check out our full guide to master your sleep tracking capabilities.</p>",
+    "highlights_ro": [
+      "Samsung a activat oficial funcția de detectare a apneei în somn pe Galaxy Ring și seria Galaxy Watch.",
+      "Disponibilă inițial în SUA și Coreea de Sud, urmează extinderea globală și în UE.",
+      "O funcție medicală reală care transformă inelul dintr-un gadget de fitness într-un dispozitiv de monitorizare a sănătății."
+    ],
+    "highlights_en": [
+      "Samsung officially launched sleep apnea detection for Galaxy Ring and Galaxy Watch.",
+      "The feature is currently rolling out in the US and South Korea, with EU expansion pending.",
+      "A major step in turning wearable tech into a reliable medical screening tool."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-03T21:00:00+00:00",
+    "source_names": [
+      "Samsung Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-03-galaxy-ring-sleep-apnea_1.jpg"
+    ]
   }
 ]
