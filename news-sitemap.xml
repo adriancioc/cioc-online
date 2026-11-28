@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-apple-black-friday-deals-analysis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T15:07:22+00:00</news:publication_date>
+      <news:title>Are US Apple Black Friday Deals Worth the Effort?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-apple-black-friday-deals-analysis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T15:07:22+00:00</news:publication_date>
+      <news:title>Merită să cauți oferte Apple de Black Friday în SUA?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-alexa-photo-frame-review/</loc>
     <news:news>
       <news:publication>
@@ -813,94 +835,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T17:06:24+00:00</news:publication_date>
       <news:title>Google obligă dezvoltatorii Android să-și publice adresa personală</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-a-month-with-iphone-duo-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:00:00+00:00</news:publication_date>
-      <news:title>A Month with iPhone Duo: How Apple&#x27;s Foldable Changes Mobile Routines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-a-month-with-iphone-duo-review/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T17:00:00+00:00</news:publication_date>
-      <news:title>O lună cu iPhone Duo: Cum schimbă telefonul pliabil Apple rutina</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-judge-blocks-fcc-abc-license/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:38:00+00:00</news:publication_date>
-      <news:title>Judge Blocks FCC from Early Review of ABC Licenses</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-judge-blocks-fcc-abc-license/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:38:00+00:00</news:publication_date>
-      <news:title>Un judecător blochează FCC în conflictul cu ABC privind licențele</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-halide-update-iphone-duo-fill-light/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:17:32+00:00</news:publication_date>
-      <news:title>Halide Adds Fill Light Feature for iPhone Duo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-halide-update-iphone-duo-fill-light/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:17:32+00:00</news:publication_date>
-      <news:title>Halide aduce funcția Fill Light pe noul iPhone Duo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-gta-vi-the-end-of-human/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:00:00+00:00</news:publication_date>
-      <news:title>GTA VI: Why Massive Success Rejects the AI Era</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-gta-vi-the-end-of-human/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T16:00:00+00:00</news:publication_date>
-      <news:title>GTA VI: De ce succesul colosal este un refuz al erei AI</news:title>
     </news:news>
   </url>
 </urlset>

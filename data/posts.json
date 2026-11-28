@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-28-apple-black-friday-deals-analysis",
+    "slug_ro": "oferte-apple-black-friday-sua",
+    "url": "https://www.macrumors.com/2026/11/28/best-apple-black-friday-leftover-deals/",
+    "category": "GADGETURI",
+    "virality_score": 5,
+    "focus_keyword_ro": "reduceri Apple Black Friday",
+    "focus_keyword_en": "Apple Black Friday deals",
+    "title_ro": "Merită să cauți oferte Apple de Black Friday în SUA?",
+    "title_en": "Are US Apple Black Friday Deals Worth the Effort?",
+    "summary": "We analyze the post-Black Friday Apple deals in the US. Are these discounts worth the import hassle for international buyers?",
+    "summary_ro": "Analizăm ofertele post-Black Friday de la Apple din SUA. Află de ce reducerile americane nu se aplică direct în România și ce alternative ai.",
+    "summary_en": "We analyze the post-Black Friday Apple deals in the US. Are these discounts worth the import hassle for international buyers?",
+    "body_ro": "<h2>De ce ofertele de Black Friday din SUA sunt capcane pentru români</h2><p>Black Friday a trecut, dar în Statele Unite, retailerii precum Amazon continuă să afișeze reduceri agresive pentru produsele Apple. De la AirPods Pro 3 la prețuri de 149 dolari, până la reduceri de 100 de dolari pentru noile modele de iPad mini 8, tentația de a cumpăra din afara Europei este mare. Totuși, pentru un utilizator din România, aceste oferte vin cu o serie de riscuri care pot anula orice economie aparentă.</p><h2>Problema garanției și a taxelor vamale</h2><p>Primul aspect de luat în calcul este logistica. Produsele achiziționate din SUA nu beneficiază de garanția europeană standard de 2 ani. În cazul unei defecțiuni, va trebui să trimiți dispozitivul înapoi în SUA, ceea ce implică costuri de transport și timp de așteptare considerabil. Mai mult, la intrarea în țară, orice produs electronic din afara UE este supus taxelor vamale și TVA-ului de 19%, ceea ce ridică prețul final aproape de cel practicat în magazinele locale.</p><h2>Ce ar trebui să urmărești în schimb</h2><p>În loc să cauți oferte pe site-uri americane, este mult mai eficient să monitorizezi campaniile locale din România. Retailerii mari și operatorii telecom oferă constant promoții la gama Apple, cu avantajul unei garanții locale și a conformității cu legislația UE. Dacă totuși ești tentat de un preț mic, asigură-te că incluzi în calcul:</p><ul><li>Costul transportului internațional.</li><li>Taxele vamale și TVA-ul aplicabil.</li><li>Riscul de a nu beneficia de service autorizat în România.</li></ul><p>În concluzie, deși reducerile de peste ocean par spectaculoase, ele sunt destinate exclusiv pieței americane. Pentru consumatorul român, siguranța unei achiziții locale, cu garanție inclusă și suport tehnic, rămâne cea mai bună investiție pe termen lung.</p>",
+    "body_en": "<h2>The Reality of US-Based Apple Deals</h2><p>Black Friday has concluded, but US retailers are keeping the momentum alive with significant discounts on Apple hardware. With AirPods Pro 3 dropping to $149 and substantial markdowns on the latest MacBook Air and iPad mini models, international shoppers often wonder if they can capitalize on these savings. However, there is a significant gap between the advertised price and the final cost for a global consumer.</p><h2>Hidden Costs and Warranty Limitations</h2><p>The primary hurdle for international buyers is the lack of a global warranty policy for many Apple products. Purchasing a device in the US means that service and support are tied to that region. If a defect occurs, shipping the device back to the US for repair is often cost-prohibitive. Furthermore, importing electronics into the EU involves mandatory import duties and VAT, which can easily negate the initial $100 or $200 discount.</p><h2>Strategic Shopping for Global Consumers</h2><p>Instead of chasing US-only deals, it is more prudent to monitor regional sales events. European retailers and authorized resellers frequently offer competitive pricing that includes local tax compliance and full warranty support. When evaluating any deal, consider the following:</p><ul><li>Import duties and local VAT requirements.</li><li>The absence of international warranty coverage.</li><li>Shipping logistics and potential customs delays.</li></ul><p>Ultimately, while the US market sees the most aggressive price drops, these are designed for the local economy. For most global users, the peace of mind provided by local consumer protection laws and authorized service centers far outweighs the temporary savings found on US-based affiliate sites.</p>",
+    "highlights_ro": [
+      "Retailerii din SUA mențin reduceri post-Black Friday la AirPods, MacBook și iPad.",
+      "Prețurile sunt exprimate în USD, fără taxe locale și fără suport pentru garanția europeană.",
+      "Verdict: Atenție la costurile de import și lipsa garanției oficiale în România."
+    ],
+    "highlights_en": [
+      "US retailers are extending Black Friday discounts on AirPods, MacBooks, and iPads.",
+      "Prices are in USD, excluding local taxes and international warranty support.",
+      "Verdict: International buyers should prioritize local warranty and import costs."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-28T15:07:22+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-28-apple-black-friday-deals-analysis_1.jpg",
+      "assets/images/2026-11-28-apple-black-friday-deals-analysis_2.jpg",
+      "assets/images/2026-11-28-apple-black-friday-deals-analysis_3.jpg",
+      "assets/images/2026-11-28-apple-black-friday-deals-analysis_4.jpg",
+      "assets/images/2026-11-28-apple-black-friday-deals-analysis_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-28-alexa-photo-frame-review",
     "slug_ro": "alexa-photo-frame-review",
     "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
