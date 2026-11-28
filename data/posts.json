@@ -8498,6 +8498,44 @@
     ]
   },
   {
+    "slug": "2026-10-27-apple-announces-macbook-pro-14-m6",
+    "slug_ro": "apple-lanseaza-macbook-pro-14-m6",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "category": "GADGETURI",
+    "virality_score": 10,
+    "focus_keyword_ro": "MacBook Pro 14 M6",
+    "focus_keyword_en": "MacBook Pro 14 M6",
+    "title_ro": "Apple lansează noul MacBook Pro 14 cu cip M6: Performanță și AI",
+    "title_en": "Apple Announces New 14-inch MacBook Pro with M6 Chip",
+    "summary": "Apple introduces the 14-inch MacBook Pro featuring the M6 chip, enhanced AI capabilities, and 24-hour battery life.",
+    "summary_ro": "Apple a anunțat noul MacBook Pro 14 cu cip M6. Află ce aduce nou, performanța în AI și autonomia de până la 24 de ore.",
+    "summary_en": "Apple introduces the 14-inch MacBook Pro featuring the M6 chip, enhanced AI capabilities, and 24-hour battery life.",
+    "body_ro": "<h2>O nouă eră pentru MacBook Pro 14</h2><p>Apple a surprins piața cu anunțul noului MacBook Pro de 14 inch, echipat cu cipul M6. Această actualizare nu este doar o simplă creștere de frecvență, ci o regândire a modului în care laptopul gestionează sarcinile complexe de inteligență artificială și fluxurile de lucru profesionale.</p><h2>Performanță brută și AI local</h2><p>Cipul M6 integrează un procesor cu 12 nuclee și un GPU capabil de performanțe grafice cu 30% mai mari față de generația anterioară. Inovația majoră constă în acceleratoarele neuronale dedicate, care permit rularea modelelor de limbaj (LLM) direct pe dispozitiv, asigurând totodată confidențialitatea datelor utilizatorului. Apple Intelligence și noua versiune Siri AI sunt acum mult mai rapide și mai capabile să înțeleagă contextul personal al utilizatorului.</p><h2>Autonomie și conectivitate</h2><p>Unul dintre punctele forte rămâne autonomia, care atinge acum pragul impresionant de 24 de ore. Această eficiență energetică este susținută de arhitectura pe 3 nanometri și de optimizările macOS 27. În plus, utilizatorii beneficiază acum de standardele Wi-Fi 7 și Bluetooth 6, asigurând o conectivitate de ultimă generație pentru transferuri rapide de fișiere mari.</p><h2>Disponibilitate și preț</h2><p>Noul MacBook Pro 14 cu M6 va fi disponibil în culorile Space Black și Silver. Precomenzile încep pe 28 octombrie, iar primele unități vor ajunge la clienți începând cu 6 noiembrie. Prețul de pornire în Europa este estimat în jurul valorii de 2.000 EUR, variind în funcție de configurația memoriei unificate și a stocării SSD. Este, fără îndoială, un upgrade esențial pentru cei care încă lucrează pe arhitecturi mai vechi sau pe procesoare Intel.</p>",
+    "body_en": "<h2>The Next Evolution of MacBook Pro</h2><p>Apple has officially announced the new 14-inch MacBook Pro featuring the M6 chip. This latest iteration focuses on delivering massive performance gains for professionals, creators, and students, while doubling down on on-device AI capabilities.</p><h2>M6 Chip: Power and Efficiency</h2><p>The M6 chip features a 12-core CPU and a 12-core GPU, providing up to 30 percent faster graphics compared to the M5. The inclusion of dedicated Neural Accelerators and a Dual 16-core Neural Engine makes this machine a powerhouse for AI tasks, from local LLM processing to advanced image generation. Apple Intelligence is deeply integrated, allowing for a more conversational and context-aware Siri experience.</p><h2>Unmatched Battery Life</h2><p>With up to 24 hours of battery life, the new MacBook Pro sets a new standard for mobile performance. Whether users are compiling code, editing 8K video, or running complex AI models, the device maintains consistent performance regardless of whether it is plugged in or operating on battery power.</p><h2>Availability and Pricing</h2><p>The new 14-inch MacBook Pro comes in space black and silver. Pre-orders open on October 28, with general availability starting November 6. Pricing starts at $1,999, positioning it as a premium tool for users who demand high-end performance in a portable form factor. With Wi-Fi 7 and Bluetooth 6 support, it is built to handle the connectivity demands of the coming years.</p>",
+    "highlights_ro": [
+      "Apple a lansat oficial MacBook Pro 14 cu noul cip M6, aducând îmbunătățiri majore de CPU și GPU.",
+      "Disponibil la precomandă din 28 octombrie, cu prețuri ce pornesc de la aproximativ 2.000 EUR în Europa.",
+      "Un upgrade masiv pentru utilizatorii de M1, cu accent pe procesarea locală de AI și eficiență energetică."
+    ],
+    "highlights_en": [
+      "Apple officially unveiled the 14-inch MacBook Pro powered by the new M6 chip.",
+      "Pre-orders start October 28, with pricing starting at approximately $1,999/€1,999.",
+      "Features significant AI performance gains and industry-leading battery life."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-10-27T12:59:39+00:00",
+    "source_names": [
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-10-27-apple-announces-macbook-pro-14-m6_1.jpg",
+      "assets/images/2026-10-27-apple-announces-macbook-pro-14-m6_2.jpg",
+      "assets/images/2026-10-27-apple-announces-macbook-pro-14-m6_3.jpg",
+      "assets/images/2026-10-27-apple-announces-macbook-pro-14-m6_4.jpg",
+      "assets/images/2026-10-27-apple-announces-macbook-pro-14-m6_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-10-26-new-ipad-mini-oled-a20-pro",
     "slug_ro": "noul-ipad-mini-oled-a20-pro",
     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
