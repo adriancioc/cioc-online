@@ -90,6 +90,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-sakana-ai-japan-sovereign-ai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T14:00:00+00:00</news:publication_date>
+      <news:title>Sakana AI Aims for Digital Sovereignty with Sawara Model</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-sakana-ai-japan-sovereign-ai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T14:00:00+00:00</news:publication_date>
+      <news:title>Sakana AI vrea suveranitate digitală pentru Japonia cu modelul Sawara</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-alexa-photo-frame-review/</loc>
     <news:news>
       <news:publication>
@@ -109,28 +131,6 @@
       </news:publication>
       <news:publication_date>2026-11-28T14:00:00+00:00</news:publication_date>
       <news:title>Alexa Photo Frame: Rama foto inteligentă fără reclame</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-28-sakana-ai-sawara-sovereignty/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T14:00:00+00:00</news:publication_date>
-      <news:title>Sakana AI develops Sawara: Digital sovereignty for Japan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-28-sakana-ai-sawara-sovereignty/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-28T14:00:00+00:00</news:publication_date>
-      <news:title>Sakana AI dezvoltă Sawara: Suveranitate digitală pentru Japonia</news:title>
     </news:news>
   </url>
   <url>
