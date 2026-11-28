@@ -76,6 +76,41 @@
     ]
   },
   {
+    "slug": "2026-11-27-akai-mpc-sample-firmware-1-4",
+    "slug_ro": "akai-mpc-sample-update-firmware",
+    "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+    "category": "GADGETURI",
+    "virality_score": 5,
+    "focus_keyword_ro": "Akai MPC Sample 1.4",
+    "focus_keyword_en": "Akai MPC Sample 1.4 firmware",
+    "title_ro": "Akai MPC Sample 1.4: Update-ul care deschide porțile modding-ului",
+    "title_en": "Akai MPC Sample 1.4 Firmware Opens Up Modding Possibilities",
+    "summary": "Akai releases firmware 1.4 for the MPC Sample, introducing official SDK support, custom plugin integration, and advanced developer tools.",
+    "summary_ro": "Akai lansează firmware-ul 1.4 pentru MPC Sample, oferind suport oficial pentru SDK, plugin-uri custom și modding pentru producători.",
+    "summary_en": "Akai releases firmware 1.4 for the MPC Sample, introducing official SDK support, custom plugin integration, and advanced developer tools.",
+    "body_ro": "<h2>O nouă eră pentru MPC Sample</h2><p>Akai a surprins comunitatea de producători muzicali prin lansarea firmware-ului 1.4 pentru MPC Sample. În loc să restricționeze modificările neoficiale, compania a ales să îmbrățișeze creativitatea utilizatorilor, oferind acum un suport oficial pentru dezvoltatori. Această decizie transformă un sampler deja popular într-o platformă versatilă pentru experimente sonore.</p><h2>Ce aduce nou versiunea 1.4</h2><p>Cea mai importantă schimbare este introducerea unui SDK dedicat și a modului Developer. Posesorii de MPC Sample pot acum să ruleze scripturi direct de pe cardul microSD sau să acceseze sistemul de fișiere intern prin USB. Plugin-urile de tip Knob Effects sunt recunoscute automat, permițând integrarea rapidă a efectelor personalizate care apar direct în meniul dispozitivului.</p><p>Pe lângă funcțiile pentru developeri, Akai a adăugat îmbunătățiri practice pentru fluxul de lucru zilnic:</p><ul><li><strong>Flatten Pad:</strong> Simplifică procesul de resampling, permițând aplicarea efectelor direct pe pad-uri.</li><li><strong>Sequence Record Autoplay:</strong> O funcție care aduce o experiență similară cu un looper dedicat.</li><li><strong>Scale Mode:</strong> Acum poți seta 16-levels pe scale specifice (ex: E minor pentatonic), nu doar cromatic.</li><li><strong>Remote Screen Viewer:</strong> Posibilitatea de a oglindi ecranul pe un monitor extern.</li></ul><h2>De ce contează pentru producători</h2><p>MPC Sample a fost mereu apreciat pentru portabilitate și prețul accesibil. Prin acest update, Akai elimină barierele dintre hardware-ul lor și dorința producătorilor de a-și personaliza instrumentele. Dacă până acum modding-ul era o zonă gri, acum devine o caracteristică oficială. Această deschidere înseamnă că vom vedea tot mai multe efecte și workflow-uri unice create de comunitate, care vor putea fi instalate simplu prin copierea fișierelor pe cardul SD.</p><p>Pentru utilizatorii din România, acest update confirmă faptul că un echipament muzical nu trebuie să fie învechit după doi ani. Dacă ești pasionat de sound design, posibilitatea de a rula scripturi custom îți oferă un avantaj creativ major, transformând MPC-ul dintr-un simplu sampler într-un instrument de performanță complex.</p>",
+    "body_en": "<h2>Embracing the Modding Community</h2><p>Akai has taken a bold step with the release of the MPC Sample 1.4 firmware. Instead of fighting the modding community that has grown around its most affordable sampler, the company has decided to support it. This update officially opens the device to third-party developers, turning the MPC Sample into a playground for custom firmware and effects.</p><h2>Key Features in the 1.4 Update</h2><p>The core of this update is the new SDK and Developer Mode. Users can now run scripts directly from their microSD cards or access the internal filesystem via USB. This makes it significantly easier to install and manage custom add-ons. Furthermore, any Knob Effects plugins placed in the designated folder are automatically recognized by the system.</p><p>Beyond the developer-focused features, Akai has introduced several quality-of-life improvements:</p><ul><li><strong>Flatten Pad:</strong> Accelerates the resampling process by baking effects directly into individual pads.</li><li><strong>Sequence Record Autoplay:</strong> Adds a looper-like experience for faster recording sessions.</li><li><strong>Advanced Scale Options:</strong> The 16-levels pad mode now supports specific musical scales, such as E minor pentatonic or B major.</li><li><strong>Remote Screen Viewer:</strong> Allows users to mirror the device display on an external monitor.</li></ul><h2>Why This Matters</h2><p>The MPC Sample has always been a favorite for its balance of price and performance. By officially supporting modding, Akai is extending the lifecycle of the hardware. Producers are no longer limited to the factory feature set; they can now leverage community-created tools to tailor the device to their specific workflow. Whether you are into experimental sound design or just want a more efficient way to record sequences, this firmware update provides the tools to make it happen.</p><p>This update is a clear signal that Akai values its user base's creativity. As more developers start building for the platform, the value of the MPC Sample will only increase. For those who enjoy tinkering with their gear, this is the update we have been waiting for.</p>",
+    "highlights_ro": [
+      "Akai a lansat firmware-ul 1.4 pentru MPC Sample, deschizând oficial dispozitivul către dezvoltatori și comunitatea de modding.",
+      "Update-ul este gratuit și disponibil global pentru toți posesorii de MPC Sample prin site-ul oficial Akai.",
+      "O mișcare excelentă care prelungește viața produsului prin funcții de tip 'vibe-coded' și control avansat."
+    ],
+    "highlights_en": [
+      "Akai released the 1.4 firmware update, officially opening the MPC Sample to third-party developers and modders.",
+      "The update is free for all users and adds SDK support, custom Knob Effects, and a new Developer Mode.",
+      "A smart move that empowers the community to create custom 'vibe-coded' firmwares and effects."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-27T20:48:04+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-27-akai-mpc-sample-firmware-1-4_1.jpg",
+      "assets/images/2026-11-27-akai-mpc-sample-firmware-1-4_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-oura-ring-android-11-data-loss",
     "slug_ro": "risc-pierdere-date-oura-android-11",
     "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",

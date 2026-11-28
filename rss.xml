@@ -19,6 +19,13 @@
     <media:content url="https://cioc.online/assets/images/2026-11-27-ipad-mini-2026-black-friday-deal_1.jpg" medium="image" />
   </item>
   <item>
+    <title>Akai MPC Sample 1.4 Firmware Opens Up Modding Possibilities</title>
+    <link>https://cioc.online/en/posts/2026-11-27-akai-mpc-sample-firmware-1-4/</link>
+    <guid>https://cioc.online/en/posts/2026-11-27-akai-mpc-sample-firmware-1-4/</guid>
+    <description>Akai releases firmware 1.4 for the MPC Sample, introducing official SDK support, custom plugin integration, and advanced developer tools.</description>
+    <media:content url="https://cioc.online/assets/images/2026-11-27-akai-mpc-sample-firmware-1-4_1.jpg" medium="image" />
+  </item>
+  <item>
     <title>Oura Ring to drop Android 11 support: Save your data now</title>
     <link>https://cioc.online/en/posts/2026-11-27-oura-ring-android-11-data-loss/</link>
     <guid>https://cioc.online/en/posts/2026-11-27-oura-ring-android-11-data-loss/</guid>
@@ -206,13 +213,6 @@
     <guid>https://cioc.online/en/posts/2026-11-26-halide-update-iphone-duo-fill-light/</guid>
     <description>Halide 3.4 introduces a clever Fill Light feature for iPhone Duo using the external display as a soft light source for better portraits.</description>
     <media:content url="https://cioc.online/assets/images/2026-11-26-halide-update-iphone-duo-fill-light_1.jpg" medium="image" />
-  </item>
-  <item>
-    <title>GTA VI: Why Massive Success Rejects the AI Era</title>
-    <link>https://cioc.online/en/posts/2026-11-26-gta-vi-the-end-of-human/</link>
-    <guid>https://cioc.online/en/posts/2026-11-26-gta-vi-the-end-of-human/</guid>
-    <description>GTA VI shattered records. Is this the last major game created 100% by humans without generative AI?</description>
-    <media:content url="https://cioc.online/assets/images/2026-11-26-gta-vi-the-end-of-human_1.jpg" medium="image" />
   </item>
 </channel>
 </rss>
