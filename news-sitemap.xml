@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-homepod-mini-2-red-rumor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:50:55+00:00</news:publication_date>
+      <news:title>HomePod mini 2 (PRODUCT)RED Rumored for December Launch</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-homepod-mini-2-red-rumor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T03:50:55+00:00</news:publication_date>
+      <news:title>HomePod mini 2 (PRODUCT)RED: Zvonuri despre lansarea iminentă</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-m5-macbook-air-black-friday-deal/</loc>
     <news:news>
       <news:publication>
