@@ -1,5 +1,43 @@
 [
   {
+    "slug": "2026-11-28-byd-whale-900km-range",
+    "slug_ro": "byd-whale-autonomie-record",
+    "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+    "category": "AUTO_TECH",
+    "virality_score": 5,
+    "focus_keyword_ro": "BYD Whale autonomie",
+    "focus_keyword_en": "BYD Whale electric minivan",
+    "title_ro": "BYD Whale: Minivanul electric cu 900 km autonomie",
+    "title_en": "BYD Whale: The 900km Range Electric Minivan",
+    "summary": "BYD unveils the Whale, an electric minivan with 900km range and ultra-fast charging capabilities. Here is what you need to know.",
+    "summary_ro": "BYD lansează Whale, un minivan electric cu 900 km autonomie și încărcare ultra-rapidă. Află detaliile despre noul model chinezesc.",
+    "summary_en": "BYD unveils the Whale, an electric minivan with 900km range and ultra-fast charging capabilities. Here is what you need to know.",
+    "body_ro": "<h2>O nouă eră pentru transportul electric</h2><p>Piața vehiculelor electrice din China continuă să surprindă prin specificații care par desprinse din viitor. Cel mai nou exemplu este BYD Whale, un minivan de dimensiuni generoase care promite să redefinească standardele de autonomie pentru vehiculele de familie. Cu o lungime de peste 5,2 metri, acest „people-mover” nu doar că oferă spațiu pentru șapte pasageri, dar introduce și tehnologii de baterii care fac concurența occidentală să pară depășită.</p><h2>Performanță și tehnologie de încărcare</h2><p>Cea mai impresionantă cifră asociată modelului Whale este autonomia de 900 km, calculată conform standardului CLTC. Deși testele reale vor oferi probabil o cifră mai conservatoare, capacitatea de a parcurge distanțe lungi fără oprire este un avantaj major. Mai mult, BYD susține că tehnologia de încărcare a bateriei permite trecerea de la 10% la 97% în doar nouă minute, o performanță care ar putea elimina anxietatea de autonomie pentru mulți utilizatori.</p><ul><li><strong>Dimensiuni:</strong> 5.270mm lungime, 1.996mm lățime, 1.815mm înălțime.</li><li><strong>Dotări:</strong> Senzor LiDAR integrat pentru sisteme avansate de conducere autonomă.</li><li><strong>Variante:</strong> Disponibil și în versiune plug-in hybrid cu 400 km autonomie electrică.</li></ul><h2>Disponibilitate și contextul pieței</h2><p>Deși BYD Whale este un produs extrem de competitiv la un preț de aproximativ 42.000 EUR, lansarea sa este programată inițial doar pentru piața din China, începând cu primul trimestru al anului 2027. În acest moment, nu există planuri oficiale pentru exportul acestui model în Europa sau România. Totuși, succesul unor astfel de vehicule ar putea forța producătorii europeni să accelereze dezvoltarea propriilor soluții electrice de familie, care în prezent se confruntă cu limitări de autonomie mult mai stricte.</p><p>Rămâne de văzut dacă BYD va reuși să aducă acest model și pe piețele internaționale, având în vedere barierele comerciale și cerințele de omologare specifice Uniunii Europene. Până atunci, Whale rămâne o dovadă a avansului tehnologic rapid al Chinei în sectorul auto.</p>",
+    "body_en": "<h2>Redefining Electric Utility</h2><p>The Chinese electric vehicle market is pushing boundaries once again with the introduction of the BYD Whale. This massive electric minivan aims to solve the primary drawback of current family EVs: the trade-off between passenger capacity and range. Measuring over 5.2 meters in length, the Whale is positioned as a flagship vehicle designed to carry seven passengers and their luggage across significant distances without frequent charging stops.</p><h2>Technical Specifications and Charging</h2><p>The standout feature of the BYD Whale is its 900 km (CLTC) range. While real-world driving conditions will likely yield different results, the sheer engineering effort behind this battery capacity is noteworthy. Additionally, the vehicle features ultra-fast charging capabilities, with the company claiming a 10% to 97% charge in just nine minutes, and a 10% to 70% charge in five minutes. This level of performance could significantly alter the perception of electric minivans.</p><ul><li><strong>Dimensions:</strong> 5,270mm length, 1,996mm width, 1,815mm height.</li><li><strong>Tech:</strong> Integrated LiDAR sensor array for advanced hands-free driving capabilities.</li><li><strong>Options:</strong> A plug-in hybrid version offering 400 km of electric-only range will also be available.</li></ul><h2>Market Impact and Future Outlook</h2><p>With an estimated price tag around $45,000, the BYD Whale represents a highly competitive offering in the Chinese market, where it is expected to launch in Q1 2027. Currently, there are no official plans to bring this model to North American or European markets. The arrival of such vehicles highlights the rapid pace of innovation coming from Chinese manufacturers, potentially putting pressure on global automakers to improve their own electric family vehicle lineups.</p><p>Whether the Whale will ever reach international roads depends on various regulatory and market factors. For now, it serves as a clear indicator of where the electric vehicle industry is heading, prioritizing high-capacity batteries and rapid-charging infrastructure to meet consumer demands for long-distance utility.</p>",
+    "highlights_ro": [
+      "BYD a anunțat modelul Whale, un minivan electric capabil de 900 km autonomie (CLTC).",
+      "Prețul estimat este de aproximativ 42.000 EUR (300.000 yuani), lansare în China în Q1 2027.",
+      "O realizare tehnică impresionantă, dar disponibilitatea în Europa rămâne incertă."
+    ],
+    "highlights_en": [
+      "BYD announced the Whale, an electric minivan with an estimated 900km (CLTC) range.",
+      "Priced around $45,000 (approx. 42,000 EUR), launching in China in Q1 2027.",
+      "A technical milestone, though international availability remains unconfirmed."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-28T00:02:49+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-28-byd-whale-900km-range_1.jpg",
+      "assets/images/2026-11-28-byd-whale-900km-range_2.jpg",
+      "assets/images/2026-11-28-byd-whale-900km-range_3.jpg",
+      "assets/images/2026-11-28-byd-whale-900km-range_4.jpg",
+      "assets/images/2026-11-28-byd-whale-900km-range_5.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-black-friday-robot-vacuum-deals",
     "slug_ro": "reduceri-robot-aspirator-black-friday",
     "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",

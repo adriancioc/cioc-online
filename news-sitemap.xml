@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-byd-whale-900km-range/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T00:02:49+00:00</news:publication_date>
+      <news:title>BYD Whale: The 900km Range Electric Minivan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-byd-whale-900km-range/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T00:02:49+00:00</news:publication_date>
+      <news:title>BYD Whale: Minivanul electric cu 900 km autonomie</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-27-black-friday-robot-vacuum-deals/</loc>
     <news:news>
       <news:publication>
@@ -923,28 +945,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T04:17:15+00:00</news:publication_date>
       <news:title>Apple extinde prezența în India cu un nou magazin în Hyderabad</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-google-familiar-faces-onn-cameras/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:04:34+00:00</news:publication_date>
-      <news:title>Google Brings Familiar Faces to Budget Onn Cameras</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-google-familiar-faces-onn-cameras/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:04:34+00:00</news:publication_date>
-      <news:title>Google extinde funcția Familiar Faces pe camerele Onn de la Walmart</news:title>
     </news:news>
   </url>
 </urlset>
