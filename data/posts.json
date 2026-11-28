@@ -112,6 +112,41 @@
     ]
   },
   {
+    "slug": "2026-11-27-iphone-18-and-air-2-rumors",
+    "slug_ro": "zvonuri-iphone-18-si-air-2",
+    "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
+    "category": "TELEFOANE",
+    "virality_score": 6,
+    "focus_keyword_ro": "iPhone 18 zvonuri",
+    "focus_keyword_en": "iPhone 18 rumors",
+    "title_ro": "iPhone 18 și iPhone Air 2: Primele detalii despre viitorul Apple",
+    "title_en": "iPhone 18 and iPhone Air 2: Early Leaks and Expectations",
+    "summary": "Get the latest insights on the upcoming iPhone 18 series and iPhone Air 2, including expected specs, camera upgrades, and design changes for 2027.",
+    "summary_ro": "Află ultimele zvonuri despre gama iPhone 18 și iPhone Air 2: specificații hardware, camere foto și schimbări de design așteptate în 2027.",
+    "summary_en": "Get the latest insights on the upcoming iPhone 18 series and iPhone Air 2, including expected specs, camera upgrades, and design changes for 2027.",
+    "body_ro": "<h2>Viitorul iPhone: Ce știm despre gama 18</h2><p>Pe măsură ce ne apropiem de anul 2027, zvonurile despre următoarea generație de smartphone-uri Apple încep să prindă contur. Cele mai recente informații, discutate în cadrul podcastului MacRumors, conturează o imagine clară pentru iPhone 18, iPhone 18e și mult așteptatul iPhone Air 2. Aceste dispozitive promit să aducă inovații semnificative, în special în ceea ce privește eficiența energetică și capabilitățile camerei foto.</p><h2>iPhone Air 2: Evoluția designului ultra-subțire</h2><p>Modelul Air 2 este, probabil, cel mai interesant punct al noii serii. După o primă generație care a avut parte de o primire mixtă, Apple pare pregătită să corecteze principalele neajunsuri. Se zvonește că dispozitivul va primi o cameră Ultra Wide de 48 megapixeli, aliniată orizontal cu senzorul principal, oferind astfel o versatilitate sporită. Mai mult, integrarea unei baterii de 3.500mAh și a unui sistem de răcire cu cameră de vapori ar trebui să transforme acest model într-o opțiune mult mai atractivă pentru utilizatorii care pun preț pe performanță și portabilitate.</p><h2>Performanță brută cu tehnologia de 2nm</h2><p>Toată gama iPhone 18 este așteptată să facă trecerea la cipul A20, construit pe un proces de fabricație de 2nm. Această schimbare este esențială pentru a susține noile funcții de inteligență artificială on-device, cum ar fi dictarea avansată și controlul expresivității vocii pentru Siri. În timp ce analiștii sunt împărțiți cu privire la cantitatea de memorie RAM — între 9GB și 12GB — este clar că Apple dorește să ofere un salt de putere necesar pentru a menține relevanța în fața competiției Android.</p><h2>Ce se întâmplă cu iPhone 18 și 18e?</h2><p>Modelul standard iPhone 18 va păstra probabil designul actual, concentrându-se pe upgrade-uri interne precum modemul C2 și eficiența termică. Pe de altă parte, iPhone 18e ar putea adopta un design inspirat de iPad Pro, cu un modul de cameră grupat, păstrând în același timp un ecran de 60Hz pentru a menține un preț mai accesibil. Aceste detalii, deși neconfirmate oficial, sugerează o strategie clară a Apple de a segmenta piața prin funcții hardware specifice, oferind opțiuni pentru fiecare tip de utilizator.</p>",
+    "body_en": "<h2>The Next Generation: iPhone 18 Series Leaks</h2><p>As we look toward 2027, the rumor mill surrounding Apple's next flagship lineup is heating up. Recent reports suggest that the upcoming iPhone 18, iPhone 18e, and iPhone Air 2 will focus heavily on internal hardware improvements and refined camera systems. While these details are still speculative, they offer a glimpse into Apple's strategy for maintaining its competitive edge in the smartphone market.</p><h2>iPhone Air 2: Refined Thinness</h2><p>The iPhone Air 2 is shaping up to be the most significant update in the series. Reports indicate that Apple is looking to address the shortcomings of the original model by adding a 48-megapixel Ultra Wide camera, bringing it closer to the Pro-level experience. Additionally, the inclusion of a 3,500mAh battery and a vapor chamber cooling system suggests that Apple is prioritizing thermal management to support the device's ultra-thin design.</p><h2>The Power of 2nm Architecture</h2><p>The core of the iPhone 18 experience will likely be the A20 chip, manufactured using a 2nm process. This shift is critical for handling advanced on-device AI tasks, such as enhanced Siri vocal expressiveness and real-time dictation. Whether the devices come with 9GB or 12GB of RAM, the move to 2nm architecture promises a significant boost in both performance and power efficiency, which is essential for the next generation of iOS features.</p><h2>Standard Models and Market Positioning</h2><p>The standard iPhone 18 is expected to maintain a design language similar to its predecessor, focusing on internal upgrades like the C2 modem and improved haptic engines. Meanwhile, the iPhone 18e is rumored to adopt a new housing style reminiscent of the iPad Pro, potentially offering a more distinct look while keeping the price point accessible. By diversifying the hardware configurations across the 18, 18e, and Air 2, Apple aims to cater to a wider range of users, from those seeking raw power to those prioritizing form factor and value.</p>",
+    "highlights_ro": [
+      "Noi detalii despre gama iPhone 18 și iPhone Air 2 au apărut în mediul online.",
+      "Modelul Air 2 ar putea primi o cameră Ultra Wide de 48MP și răcire cu cameră de vapori.",
+      "Apple mizează pe cipuri de 2nm și îmbunătățiri de memorie RAM pentru eficiență."
+    ],
+    "highlights_en": [
+      "New leaks reveal early details about the 2027 iPhone 18 lineup.",
+      "iPhone Air 2 is expected to feature a 48MP Ultra Wide camera and vapor chamber cooling.",
+      "The entire series will likely transition to 2nm A20 chips for improved efficiency."
+    ],
+    "story_type": "rumor_leak",
+    "published_at": "2026-11-27T17:21:07+00:00",
+    "source_names": [
+      "MacRumors"
+    ],
+    "images": [
+      "assets/images/2026-11-27-iphone-18-and-air-2-rumors_1.jpg",
+      "assets/images/2026-11-27-iphone-18-and-air-2-rumors_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-27-apple-store-brisbane-reopening",
     "slug_ro": "redeschidere-apple-store-brisbane",
     "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/",
