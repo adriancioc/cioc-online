@@ -8424,5 +8424,43 @@
       "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_4.jpg",
       "assets/images/2026-11-16-apple-launches-research-study-to-explore-the-use-of-ai-for-health_5.jpg"
     ]
+  },
+  {
+    "slug": "2026-11-10-apple-tv-sign-language-feature",
+    "slug_ro": "apple-tv-interpretare-limbaj-semne",
+    "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+    "category": "APLICAȚII",
+    "virality_score": 7,
+    "focus_keyword_ro": "Apple TV limbaj semne",
+    "focus_keyword_en": "Apple TV sign language",
+    "title_ro": "Apple TV introduce interpretare în limbaj semne pentru filme",
+    "title_en": "Apple TV Adds Sign Language Interpretation Feature",
+    "summary": "Apple TV introduces ASL and BSL interpretation for Apple Original titles. Learn how this accessibility feature works and what movies are supported.",
+    "summary_ro": "Apple TV adaugă suport pentru limbajul semnelor (ASL și BSL) în filmele Apple Original. Află cum se activează și ce titluri sunt disponibile.",
+    "summary_en": "Apple TV introduces ASL and BSL interpretation for Apple Original titles. Learn how this accessibility feature works and what movies are supported.",
+    "body_ro": "<h2>O nouă eră a accesibilității pe Apple TV</h2><p>Apple a anunțat o actualizare semnificativă pentru aplicația Apple TV, menită să îmbunătățească experiența de vizionare pentru persoanele cu deficiențe de auz. Începând cu 13 noiembrie, utilizatorii vor putea accesa filme și seriale cu interpretare în limbajul semnelor, o funcție dezvoltată în colaborare directă cu comunitatea Deaf.</p><p>Această inițiativă nu este doar o adiție tehnică, ci un efort de a aduce conținutul original Apple mai aproape de toți utilizatorii. Interpretarea va fi disponibilă inițial pentru American Sign Language (ASL) și British Sign Language (BSL).</p><h2>Ce titluri beneficiază de noua funcție?</h2><p>Primul titlu care va beneficia de această opțiune este <strong>Being Heumann</strong>, un film biografic despre activista pentru drepturile persoanelor cu dizabilități, Judy Heumann. Ulterior, Apple a confirmat că și filmul <em>F1</em> va primi suport pentru limbajul semnelor, urmat de titluri precum <em>Way of the Warrior Kid</em> și <em>Greyhound</em>.</p><ul><li><strong>Activare simplă:</strong> Utilizatorii pot activa opțiunea direct din setările aplicației Apple TV.</li><li><strong>Identificare rapidă:</strong> Titlurile compatibile vor purta o pictogramă specifică „Sign Language”.</li><li><strong>Căutare intuitivă:</strong> Apple a introdus colecții dedicate, precum „Movies & Shows with American Sign Language”.</li></ul><h2>Design creat de și pentru comunitatea Deaf</h2><p>Apple a pus un accent deosebit pe autenticitate. Interpretările nu sunt simple suprapuneri video, ci performanțe atent corelate cu ritmul și emoția filmului original. Daniel Durant, care a regizat interpretarea pentru <em>Being Heumann</em>, subliniază importanța reprezentării corecte a limbajului semnelor, asigurându-se că fiecare traducere captează esența poveștii.</p><p>Această mișcare consolidează poziția Apple în domeniul accesibilității, după succesul filmului <em>CODA</em>, care a fost primul film cu o distribuție predominant surdă ce a câștigat premiul Oscar pentru cel mai bun film. Apple continuă să demonstreze că tehnologia poate fi un instrument de incluziune socială reală.</p>",
+    "body_en": "<h2>Apple TV Enhances Accessibility with Sign Language Support</h2><p>Apple has announced a major accessibility update for the Apple TV app, introducing sign language interpretation for select Apple Original titles. Starting November 13, viewers will have the option to watch films with American Sign Language (ASL) and British Sign Language (BSL) interpretation, marking a significant step forward in inclusive entertainment.</p><p>The feature debuts alongside the global premiere of <em>Being Heumann</em>, a film based on the life of disability rights activist Judy Heumann. This addition reflects Apple's ongoing commitment to making content accessible to the Deaf community, ensuring that storytelling is inclusive for all audiences.</p><h2>How It Works</h2><p>The implementation is designed to be seamless. Once enabled in the Apple TV app settings, the Sign Language option becomes available for supported titles. Users can easily identify these films via a dedicated Sign Language icon and a new collection titled \"Movies & Shows with American Sign Language.\"</p><ul><li><strong>Seamless Integration:</strong> The interpretation is crafted to complement the film's pacing and emotional tone.</li><li><strong>Broad Support:</strong> Starting with <em>Being Heumann</em> and <em>F1</em>, with more titles like <em>Way of the Warrior Kid</em> coming soon.</li><li><strong>Enhanced Discovery:</strong> Simple search queries like \"with ASL\" will surface compatible content instantly.</li></ul><h2>Designed by Native Signers</h2><p>Apple emphasized that this feature was designed and tested by Deaf and native signers. Daniel Durant, who directed the sign language interpretation for <em>Being Heumann</em>, noted that the process required immense care to ensure that the language was authentically represented onscreen. This level of detail ensures that the interpretation is not just functional, but artistically aligned with the original production.</p><p>Following the historic success of <em>CODA</em>, which brought Deaf culture to the forefront of mainstream cinema, Apple continues to lead in accessibility. By integrating these features directly into the Apple TV ecosystem, the company is setting a new standard for how streaming services should approach inclusive viewing experiences globally.</p>",
+    "highlights_ro": [
+      "Apple TV lansează o funcție de accesibilitate pentru interpretare în limbajul semnelor (ASL/BSL).",
+      "Funcția debutează pe 13 noiembrie odată cu filmul 'Being Heumann'.",
+      "Un pas important pentru incluziune, demonstrând angajamentul Apple față de accesibilitate."
+    ],
+    "highlights_en": [
+      "Apple TV adds native sign language interpretation for Apple Original content.",
+      "Feature launches November 13 with the premiere of 'Being Heumann'.",
+      "A major accessibility milestone for the streaming industry."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-11-10T16:00:26+00:00",
+    "source_names": [
+      "Apple Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-11-10-apple-tv-sign-language-feature_1.jpg",
+      "assets/images/2026-11-10-apple-tv-sign-language-feature_2.jpg",
+      "assets/images/2026-11-10-apple-tv-sign-language-feature_3.jpg",
+      "assets/images/2026-11-10-apple-tv-sign-language-feature_4.jpg",
+      "assets/images/2026-11-10-apple-tv-sign-language-feature_5.jpg"
+    ]
   }
 ]
