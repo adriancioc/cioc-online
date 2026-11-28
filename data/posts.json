@@ -73,6 +73,41 @@
     ]
   },
   {
+    "slug": "2026-11-28-meta-india-protests-censorship-row",
+    "slug_ro": "proteste-violente-meta-india-cenzura",
+    "url": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
+    "category": "SECURITATE",
+    "virality_score": 8,
+    "focus_keyword_ro": "cenzura Meta India",
+    "focus_keyword_en": "Meta India censorship",
+    "title_ro": "Proteste violente la sediul Meta din India: Acuzații de cenzură",
+    "title_en": "Meta India offices hit by protests over censorship allegations",
+    "summary": "Police use water cannons on protesters outside Meta's India offices. Discover the details of the censorship row and the ongoing legal battle.",
+    "summary_ro": "Poliția a intervenit cu tunuri cu apă împotriva protestatarilor la sediul Meta din India. Află detaliile conflictului politic și acuzațiile de cenzură.",
+    "summary_en": "Police use water cannons on protesters outside Meta's India offices. Discover the details of the censorship row and the ongoing legal battle.",
+    "body_ro": "<h2>Tensiuni maxime între Meta și opoziția din India</h2><p>Situația din India devine tot mai tensionată pentru gigantul Meta, după ce protestele membrilor partidului de opoziție au degenerat în intervenții ale forțelor de ordine. Conform informațiilor recente, poliția din statul Haryana a utilizat tunuri cu apă pentru a dispersa manifestanții adunați în fața birourilor Meta, un gest care subliniază gravitatea conflictului dintre platformele sociale și autoritățile politice.</p><p>Protestele sunt organizate de aripa de tineret a Partidului Congresului, care acuză Meta că cedează presiunilor exercitate de Partidul Bharatiya Janata (BJP), aflat la guvernare sub conducerea premierului Narendra Modi. Nemulțumirea principală a opoziției vizează cenzurarea conturilor liderilor politici, pe care aceștia o consideră o tentativă deliberată de a reduce la tăcere vocile critice.</p><h2>Acuzații de cenzură și încălcarea libertății de exprimare</h2><p>Conflictul a luat amploare săptămâna trecută, când protestatarii au reușit să pătrundă în sediul Meta din Delhi. Deși o parte din conturile restricționate au fost ulterior restabilite, reprezentanții partidului susțin că mii de alte conturi rămân blocate. Aceștia susțin că noile reglementări indiene privind eliminarea conținutului considerat ilegal sunt folosite, în realitate, ca un instrument de suprimare a exprimării politice legitime.</p><p>Meta a refuzat să comenteze incidentele recente sau escaladarea intervențiilor polițienești, menținând o poziție rezervată în fața acestui scandal internațional. Între timp, Partidul Congresului a trecut la acțiuni legale, depunând un proces împotriva Meta și a guvernului indian, solicitând clarificări privind colaborarea dintre platformă și autorități în procesul de moderare.</p><h2>Ce înseamnă acest conflict pentru utilizatorii globali</h2><p>Acest caz nu este doar o problemă locală, ci un semnal de alarmă pentru utilizatorii de rețele sociale din întreaga lume. Modul în care Meta gestionează presiunile politice ridică semne de întrebare privind independența algoritmilor de moderare și transparența proceselor de blocare a conturilor. În contextul actual, unde reglementările precum Digital Services Act (DSA) din Uniunea Europeană pun un accent tot mai mare pe responsabilitatea platformelor, situația din India ar putea deveni un studiu de caz pentru viitoarele politici de moderare globală.</p><p>Rămâne de văzut cum va răspunde instanța la acuzațiile aduse și dacă Meta va fi nevoită să își schimbe politicile de moderare pentru a evita sancțiunile internaționale. Utilizatorii care doresc să înțeleagă mai bine mecanismele din spatele acestor blocaje și cum pot fi afectate conturile politice în viitor pot consulta analiza noastră detaliată pe cioc.online.</p>",
+    "body_en": "<h2>Escalating tensions at Meta's India offices</h2><p>The situation in India is reaching a boiling point for Meta, as protests from the opposition party have led to direct police intervention. Reports confirm that police in the state of Haryana deployed water cannons to disperse demonstrators gathered outside Meta’s offices, highlighting the severe friction between social media platforms and local political factions.</p><p>The protests are being spearheaded by the youth wing of the Congress party, which alleges that Meta is bowing to pressure from Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP). The core of the grievance is the alleged censorship of opposition political accounts, which the party claims is a calculated effort to stifle dissent and suppress free speech in the country.</p><h2>Censorship claims and the legal battle</h2><p>The conflict intensified last week when protesters breached Meta’s offices in Delhi, demanding the reinstatement of several party leaders' accounts. While some accounts were restored, representatives claim that thousands of others remain restricted. The party argues that India’s recently implemented rules regarding the removal of unlawful content have been weaponized to suppress lawful political expression.</p><p>Meta has remained largely silent, failing to respond to requests for comment regarding the ongoing protests or the escalating police response. Meanwhile, the Congress party has escalated the matter to the courts, filing a lawsuit against both Meta and the Indian government, challenging the legality of the current content moderation practices.</p><h2>Global implications for social media moderation</h2><p>This incident serves as a critical case study for social media moderation on a global scale. As platforms face increasing scrutiny over how they handle political content, the events in India raise significant questions about algorithmic transparency and the influence of national governments on private tech companies. With the European Union’s Digital Services Act (DSA) setting new standards for platform accountability, the pressure on Meta to prove its neutrality is higher than ever.</p><p>Whether this legal challenge will force a shift in Meta’s moderation policies remains to be seen. The outcome of this lawsuit could set a precedent for how tech giants navigate political pressure in democratic nations. For a deeper dive into the technical aspects of these content restrictions and the broader implications for digital rights, visit our full analysis on cioc.online.</p>",
+    "highlights_ro": [
+      "Poliția din Haryana a folosit tunuri cu apă împotriva membrilor partidului de opoziție care protestau la birourile Meta.",
+      "Partidul Congresului acuză Meta că blochează conturile liderilor politici la cererea guvernului condus de BJP.",
+      "Conflictul a escaladat într-un proces juridic care vizează direct politicile de moderare a conținutului Meta."
+    ],
+    "highlights_en": [
+      "Haryana police used water cannons against opposition party protesters outside Meta's local offices.",
+      "The Congress party accuses Meta of restricting political accounts under pressure from the ruling BJP government.",
+      "A lawsuit has been filed against Meta, claiming content removal rules are being used to suppress political speech."
+    ],
+    "story_type": "general_tech",
+    "published_at": "2026-11-28T16:04:47+00:00",
+    "source_names": [
+      "The Verge"
+    ],
+    "images": [
+      "assets/images/2026-11-28-meta-india-protests-censorship-row_1.jpg",
+      "assets/images/2026-11-28-meta-india-protests-censorship-row_2.jpg"
+    ]
+  },
+  {
     "slug": "2026-11-28-apple-black-friday-deals-analysis",
     "slug_ro": "oferte-apple-black-friday-sua",
     "url": "https://www.macrumors.com/2026/11/28/best-apple-black-friday-leftover-deals/",
