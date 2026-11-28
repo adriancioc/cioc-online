@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cioc.online/en/posts/2026-11-28-black-friday-deals-still-happening/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T13:57:03+00:00</news:publication_date>
+      <news:title>Black Friday Deals: What is Still Available This Weekend</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://cioc.online/posts/2026-11-28-black-friday-deals-still-happening/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DC — Daniel Cioc</news:name>
+        <news:language>ro</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T13:57:03+00:00</news:publication_date>
+      <news:title>Reduceri Black Friday: Ce mai poți cumpăra în acest weekend</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cioc.online/en/posts/2026-11-28-2026-kindle-paperwhite-review/</loc>
     <news:news>
       <news:publication>
@@ -813,72 +835,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T16:00:00+00:00</news:publication_date>
       <news:title>GTA VI: De ce succesul colosal este un refuz al erei AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T14:00:32+00:00</news:publication_date>
-      <news:title>Kodak SlideTag: E-Ink Display Item Tracker</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-kodak-slidetag-e-ink-tracker/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T14:00:32+00:00</news:publication_date>
-      <news:title>Kodak SlideTag: Trackerul cu ecran E-Ink pentru poze</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-why-apple-store-is-down/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T13:50:09+00:00</news:publication_date>
-      <news:title>Why is the Apple Store Down? No New Products</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-why-apple-store-is-down/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T13:50:09+00:00</news:publication_date>
-      <news:title>De ce este picat Apple Store? Nu sunt produse noi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/en/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T13:08:39+00:00</news:publication_date>
-      <news:title>Apple Developing Giant 20-inch Foldable iPad for $5,000</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cioc.online/posts/2026-11-26-apple-giant-foldable-ipad-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DC — Daniel Cioc</news:name>
-        <news:language>ro</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T13:08:39+00:00</news:publication_date>
-      <news:title>Apple lucrează la un iPad pliabil de 20 inch: preț de 5.000 dolari</news:title>
     </news:news>
   </url>
 </urlset>
