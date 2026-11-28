@@ -8534,5 +8534,43 @@
       "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_4.jpg",
       "assets/images/2026-10-26-new-ipad-mini-oled-a20-pro_5.jpg"
     ]
+  },
+  {
+    "slug": "2026-10-06-samsung-smartthings-now-update-local-control",
+    "slug_ro": "samsung-lansare-update-smartthings-now-control",
+    "url": "https://news.samsung.com/global/samsung-introduces-smartthings-now-in-new-platform-update-that-brings-more-intuitive-user-experiences",
+    "category": "APLICAȚII",
+    "virality_score": 8,
+    "focus_keyword_ro": "Samsung SmartThings Now",
+    "focus_keyword_en": "Samsung SmartThings update",
+    "title_ro": "Samsung lansează un update major pentru SmartThings: control local",
+    "title_en": "Samsung updates SmartThings: SmartThings Now & local control",
+    "summary": "Samsung rolls out a major SmartThings update featuring SmartThings Now contextual cards, 30% faster offline local control, and Matter 1.6 support.",
+    "summary_ro": "Samsung a anunțat actualizarea SmartThings Now: interfață One UI nouă, execuție locală cu 30% mai rapidă și suport extins pentru standardul Matter 1.6.",
+    "summary_en": "Samsung rolls out a major SmartThings update featuring SmartThings Now contextual cards, 30% faster offline local control, and Matter 1.6 support.",
+    "body_ro": "<h2>Samsung transformă modul în care îți controlezi casa inteligentă</h2><p>Samsung Electronics a prezentat oficial o actualizare masivă pentru platforma sa de casă conectată, SmartThings, care numără în prezent peste 470 de milioane de utilizatori înregistrați la nivel global. Noul update pune accentul pe două direcții majore de dezvoltare: o interfață redesenată bazată pe sugestii contextuale și o schimbare tehnică fundamentală prin introducerea controlului local direct între telefon și hub, eliminând latența cauzată de serverele din cloud.</p><h2>SmartThings Now: automatizări bazate pe context și rutină</h2><p>Cea mai vizibilă modificare vizuală este integrarea secțiunii <strong>SmartThings Now</strong> la partea superioară a tab-ului Home. Spre deosebire de fostele liste statice de dispozitive, această funcționalitate analizează obiceiurile din ultima săptămână și afișează carduri dinamice cu acțiuni rapide exact în momentul în care ai nevoie de ele.</p><p>De exemplu, dacă te afli în apropierea casei, aplicația îți va sugereze să pornești aerul condiționat sau purificatorul de aer înainte de a intra pe ușă. Ulterior, te va ghida să transformi această acțiune într-o rutină automată. În plus, integrarea cu sistemul <strong>SmartThings Family Care</strong> permite monitorizarea membrilor în vârstă ai familiei, trimitând alerte imediate aparținătorilor dacă nu este detectată nicio activitate pe parcursul unei perioade lungi de timp.</p><h2>Viteză sporită și funcționare chiar și fără conexiune la internet</h2><p>Cea mai importantă îmbunătățire tehnică solicitată de utilizatori este trecerea la <strong>controlul local</strong>. Până în prezent, majoritatea comenzilor trimise către dispozitivele smart călătoreau prin serverele din cloud înainte de a ajunge la becuri, prize sau senzori. Cu noua versiune, atunci când telefonul mobil și hub-ul SmartThings se află pe aceeași rețea Wi-Fi, comunicarea se realizează direct pe rețeaua locală.</p><p>Această modificare arhitecturală oferă o reducere a timpului de răspuns cu aproximativ <strong>30%</strong> și garantează că scenariile din casă continui să funcționeze chiar dacă furnizorul tău de internet întâmpină o avarie temporară. Aplicația comută automat între modul local și cel cloud în funcție de locația ta fizică, iar noua pagină de diagnosticare ajută la reconectarea rapidă a echipamentelor offline.</p><h2>Design modernizat conform One UI și suport Matter 1.6</h2><p>Pe partea de design vizual, aplicația primește o bară plutitoare în partea de jos a ecranului (Floating Bar), gândită special pentru utilizarea facilă cu o singură mână pe smartphone-urile cu ecran mare, urmând filosofia de design One UI. Cardurile de servicii au devenit mai compacte, permițând afișarea mai multor date numerice și statusuri direct pe ecranul principal.</p><p>Actualizarea extinde și compatibilitatea cu ecosistemul global prin integrarea standardului <strong>Matter 1.6</strong> furnizat de Connectivity Standards Alliance (CSA). Acest lucru aduce un plus de stabilitate în controlul grupurilor de dispozitive și adaugă suport nativ pentru patru noi categorii de echipamente smart. Update-ul se distribuie treptat prin magazinele de aplicații pe toate piețele din Europa și România.</p>",
+    "body_en": "<h2>Samsung redesigns smart home experience with SmartThings Now</h2><p>Samsung Electronics has announced a major platform update for SmartThings, its smart home ecosystem currently powering over 470 million registered users worldwide. The update brings a redesigned Home tab interface led by SmartThings Now, alongside significant backend architecture improvements that prioritize local network control over cloud dependency.</p><h2>SmartThings Now: Contextual automation cards</h2><p>The highlighted addition to the updated interface is <strong>SmartThings Now</strong>, positioned at the top of the Home tab. Moving away from static device listings, SmartThings Now automatically aggregates contextually relevant controls based on user habits, location data, and active time of day.</p><p>For instance, as a user approaches their home address, the app presents direct cards to turn on climate control or air purification equipment. If accepted, SmartThings Now prompts the user to automate the process as a recurring routine. The platform also enhances <strong>SmartThings Family Care</strong> functionality, alerting caregivers if an elderly family member's registered devices detect no activity over a set timeframe.</p><h2>30% faster response times with local execution</h2><p>The most substantial technical improvement focuses on <strong>local network execution</strong>. Previously, smart home commands frequently relied on round-trip cloud processing. With the new update, whenever the user's mobile device and SmartThings Hub share the same local Wi-Fi network, commands route directly between devices.</p><p>This peer-to-peer approach cuts command execution latency by roughly <strong>30%</strong> while ensuring connected sensors, lights, and switches remain operational even during external internet service outages. The system dynamically switches between cloud and local control depending on whether the user is connected to the home network or accessing devices remotely.</p><h2>Refreshed One UI design and Matter 1.6 compliance</h2><p>From an ergonomics perspective, the update incorporates a bottom Floating Bar optimized for single-handed navigation on large-screen smartphones, aligning with Samsung's latest One UI visual guidelines. Service cards have been compressed to surface more actionable telemetry and numerical status metrics without requiring extra swipes.</p><p>Finally, Samsung has integrated the latest <strong>Matter 1.6</strong> connectivity standard from the Connectivity Standards Alliance (CSA). This implementation enhances overall network stability, refines group device responsiveness, and introduces native compatibility for four new device categories. The software update is rolling out globally across major application stores.</p>",
+    "highlights_ro": [
+      "Samsung actualizează SmartThings pentru 470 de milioane de utilizatori, adăugând widget-ul inteligent SmartThings Now.",
+      "Update-ul este gratuit global (inclusiv în România și UE) prin Galaxy Store și Google Play Store.",
+      "Tranziția către controlul local prin Wi-Fi rezolvă dependența de cloud și grăbește execuția comenzilor inteligente."
+    ],
+    "highlights_en": [
+      "Samsung updates SmartThings for 470 million users with the new SmartThings Now contextual interface.",
+      "Rollout is free globally across Galaxy Store and Google Play Store.",
+      "Local Wi-Fi control improves device response times by 30% and keeps smart automation working offline."
+    ],
+    "story_type": "official_launch",
+    "published_at": "2026-10-06T08:00:00+00:00",
+    "source_names": [
+      "Samsung Newsroom"
+    ],
+    "images": [
+      "assets/images/2026-10-06-samsung-smartthings-now-update-local-control_1.jpg",
+      "assets/images/2026-10-06-samsung-smartthings-now-update-local-control_2.jpg",
+      "assets/images/2026-10-06-samsung-smartthings-now-update-local-control_3.jpg",
+      "assets/images/2026-10-06-samsung-smartthings-now-update-local-control_4.jpg",
+      "assets/images/2026-10-06-samsung-smartthings-now-update-local-control_5.jpg"
+    ]
   }
 ]
